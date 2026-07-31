@@ -1,0 +1,73 @@
+name: Update Android TV Guru EPG
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Update Android TV Guru Playlist"]
+    types:
+      - completed
+  schedule:
+    # Fallback in case the workflow_run trigger above doesn't fire (e.g. the
+    # playlist workflow itself failed) - runs ~40 minutes after it.
+    - cron: "57 9 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-epg:
+    runs-on: ubuntu-latest
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Refresh U.S. station data (Wikidata)
+        run: python3 scripts/update_station_data.py
+
+      - name: Match channels against legal EPG sources
+        run: python3 scripts/build_epg_source.py
+
+      - name: Clone iptv-org/epg grabber
+        run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git .epg-tool
+
+      - name: Install grabber dependencies
+        working-directory: .epg-tool
+        run: npm ci --no-audit --no-fund
+
+      - name: Grab programme data for matched channels
+        working-directory: .epg-tool
+        run: |
+          npx tsx scripts/commands/epg/grab.ts \
+            --channels=../epg/grabber-input.channels.xml \
+            --days=2 \
+            --timeout=30000 \
+            --delay=150 \
+            --maxConnections=6 \
+            --output=../epg/raw-guide.xml
+
+      - name: Merge into AndroidTVGuru.xml(.gz)
+        run: python3 scripts/merge_epg.py epg/raw-guide.xml --output .
+
+      - name: Commit updated EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AndroidTVGuru.xml AndroidTVGuru.xml.gz epg/grabber-input.channels.xml \
+                  reports/epg-matches.csv reports/epg-unmatched.csv reports/epg-conflicts.csv \
+                  reports/epg-coverage.csv data/us_tv_stations.json
+          git diff --cached --quiet || git commit -m "Update Android TV Guru EPG"
+          git push

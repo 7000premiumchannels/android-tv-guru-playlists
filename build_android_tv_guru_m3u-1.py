@@ -23,7 +23,7 @@ from urllib.parse import urlparse
 API = "https://iptv-org.github.io/api"
 OUT = Path("AndroidTVGuru.m3u")
 PLAYLISTS_DIR = Path("playlists")
-EPG_HEADER = '#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"\n'
+EPG_HEADER = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"\n'
 
 NETWORK_PATTERNS = [
     ("ABC", re.compile(r"\bABC\b|American Broadcasting", re.I)),
