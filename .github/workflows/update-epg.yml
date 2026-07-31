@@ -2,6 +2,13 @@ name: Update Android TV Guru EPG
 
 on:
   workflow_dispatch:
+  push:
+    # TEMPORARY, for this PR's CI verification only — workflow_dispatch can't
+    # target a workflow file that only exists on a feature branch (GitHub
+    # only indexes workflow_dispatch-able workflows from the default
+    # branch). Remove this trigger before merge.
+    branches:
+      - integration/playlist-v2-with-epg
   workflow_run:
     workflows: ["Update Android TV Guru Playlist"]
     types:
