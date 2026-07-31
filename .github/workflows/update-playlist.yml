@@ -21,15 +21,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build playlist
+      - name: Build playlists
         run: |
           python build_android_tv_guru_m3u-1.py
-          mv Android_TV_Guru_Legal_Public_TV.m3u AndroidTVGuru.m3u
 
-      - name: Commit updated playlist
+      - name: Commit updated playlists
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add AndroidTVGuru.m3u
-          git diff --cached --quiet || git commit -m "Update Android TV Guru playlist"
+          git add AndroidTVGuru.m3u playlists/
+          git diff --cached --quiet || git commit -m "Update Android TV Guru playlists"
           git push
