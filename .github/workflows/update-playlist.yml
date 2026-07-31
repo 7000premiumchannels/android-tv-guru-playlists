@@ -1,0 +1,35 @@
+name: Update Android TV Guru Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build playlist
+        run: |
+          python build_android_tv_guru_m3u-1.py
+          mv Android_TV_Guru_Legal_Public_TV.m3u AndroidTVGuru.m3u
+
+      - name: Commit updated playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AndroidTVGuru.m3u
+          git diff --cached --quiet || git commit -m "Update Android TV Guru playlist"
+          git push
