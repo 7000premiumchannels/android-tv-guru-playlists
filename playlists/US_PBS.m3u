@@ -5,54 +5,12 @@ https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 #EXTINF:-1 tvg-id="KMOSTV61.us" tvg-name="KMOS-TV 6.1" tvg-logo="" group-title="US Local - PBS",KMOS-TV 6.1
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="KQED92.us" tvg-name="KQED 9.2" tvg-logo="" group-title="US Local - PBS",KQED 9.2
+#EXTINF:-1 tvg-id="KQED92.us" tvg-name="KQED — San Francisco, CA" tvg-logo="" group-title="US Local - PBS",KQED — San Francisco, CA
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:-1 tvg-id="KUONTV121.us" tvg-name="KUON-TV 12.1" tvg-logo="" group-title="US Local - PBS",KUON-TV 12.1
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
 #EXTINF:-1 tvg-id="KVIE62.us" tvg-name="KVIE 6.2" tvg-logo="" group-title="US Local - PBS",KVIE 6.2
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
-#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="" group-title="US Local - PBS",PBS
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="" group-title="US Local - PBS",PBS
-https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="" group-title="US Local - PBS",PBS Antiques Roadshow
-https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="" group-title="US Local - PBS",PBS Antiques Roadshow
-https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
-#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="" group-title="US Local - PBS",PBS Antiques Roadshow
-https://pb-ft51qiiwihqtb.akamaized.net/PBS_Antiques_Roadshow.m3u8
-#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="" group-title="US Local - PBS",PBS Antiques Roadshow
-https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" group-title="US Local - PBS",PBS Kids
-http://206.212.244.63/669/index.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" group-title="US Local - PBS",PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="PBSKids247.us" tvg-name="PBS Kids 24/7" tvg-logo="" group-title="US Local - PBS",PBS Kids 24/7
-http://206.212.244.63/672/index.m3u8
-#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="" group-title="US Local - PBS",PBS Kids Alaska
-https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids Eastern/Central" tvg-logo="" group-title="US Local - PBS",PBS Kids Eastern/Central
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-name="PBS Kids Hawaii" tvg-logo="" group-title="US Local - PBS",PBS Kids Hawaii
-https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-name="PBS Kids Mountain" tvg-logo="" group-title="US Local - PBS",PBS Kids Mountain
-https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-name="PBS Kids Pacific" tvg-logo="" group-title="US Local - PBS",PBS Kids Pacific
-https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 tvg-id="PBSNature.us" tvg-name="PBS Nature" tvg-logo="" group-title="US Local - PBS",PBS Nature
-https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSNature.us" tvg-name="PBS Nature" tvg-logo="" group-title="US Local - PBS",PBS Nature
-https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
-#EXTINF:-1 tvg-id="PBSNature.us" tvg-name="PBS Nature" tvg-logo="" group-title="US Local - PBS",PBS Nature
-https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
-#EXTINF:-1 tvg-id="PBSNature.us" tvg-name="PBS Nature" tvg-logo="" group-title="US Local - PBS",PBS Nature
-https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSRetro.us" tvg-name="PBS Retro" tvg-logo="" group-title="US Local - PBS",PBS Retro
-https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSRetro.us" tvg-name="PBS Retro" tvg-logo="" group-title="US Local - PBS",PBS Retro
-https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/ac2206ef-c654-4325-8725-85d995901b62/live.m3u8
-#EXTINF:-1 tvg-id="PBSTravel.us" tvg-name="PBS Travel" tvg-logo="" group-title="US Local - PBS",PBS Travel
-https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 #EXTINF:-1 tvg-id="WEDQ34.us" tvg-name="WEDQ 3.4" tvg-logo="" group-title="US Local - PBS",WEDQ 3.4
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="WJXT71.us" tvg-name="WJXT 7.1" tvg-logo="" group-title="US Local - PBS",WJXT 7.1

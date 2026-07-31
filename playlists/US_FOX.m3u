@@ -1,75 +1,13 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-logo="" group-title="US Local - FOX",Big Ten Network
-http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-logo="" group-title="US Local - FOX",Big Ten Network
-http://206.212.244.63/2489/index.m3u8
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-logo="" group-title="US Local - FOX",Big Ten Network
-https://gpuserver3.tier1streams.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="" group-title="US Local - FOX",Fox
-http://stream.cammonitorplus.net/1752/index.m3u8
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="" group-title="US Local - FOX",Fox
-http://stream.cammonitorplus.net/1799/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="" group-title="US Local - FOX",Fox Business Network
-http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="" group-title="US Local - FOX",Fox Business Network
-http://206.212.244.63/66/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="" group-title="US Local - FOX",Fox Business Network
-https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-logo="" group-title="US Local - FOX",Fox Deportes
-https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-logo="" group-title="US Local - FOX",Fox Deportes
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-logo="" group-title="US Local - FOX",Fox Deportes
-http://40.160.24.58/FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-logo="" group-title="US Local - FOX",Fox Deportes
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US Local - FOX",Fox News Channel
-http://45.190.28.50/FOX_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US Local - FOX",Fox News Channel
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US Local - FOX",Fox News Channel
-http://206.212.244.63/67/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US Local - FOX",Fox News Channel
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US Local - FOX",Fox News Channel
-https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsInternational.us" tvg-name="Fox News International" tvg-logo="" group-title="US Local - FOX",Fox News International
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-name="Fox News Radio" tvg-logo="" group-title="US Local - FOX",Fox News Radio
-https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="Fox Soccer Plus" tvg-logo="" group-title="US Local - FOX",Fox Soccer Plus
-https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" tvg-logo="" group-title="US Local - FOX",Fox Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" tvg-logo="" group-title="US Local - FOX",Fox Soul
-https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
-#EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" tvg-logo="" group-title="US Local - FOX",Fox Soul
-https://foxsoul-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="" group-title="US Local - FOX",Fox Sports 1
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="" group-title="US Local - FOX",Fox Sports 1
-https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="" group-title="US Local - FOX",Fox Sports 2
-https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="" group-title="US Local - FOX",Fox Weather
-http://206.212.244.63/68/index.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="" group-title="US Local - FOX",Fox Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="" group-title="US Local - FOX",Fox Weather
-https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="" group-title="US Local - FOX",Fox Weather
-https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="" group-title="US Local - FOX",Fox Weather
-https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8
 #EXTINF:-1 tvg-id="KADNTV151.us" tvg-name="KADN-TV 15.1" tvg-logo="" group-title="US Local - FOX",KADN-TV 15.1
 http://206.212.244.63/65/index.m3u8
 #EXTINF:-1 tvg-id="KBSI231.us" tvg-name="KBSI 23.1" tvg-logo="" group-title="US Local - FOX",KBSI 23.1
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-id="KCPQ131.us" tvg-name="KCPQ 13.1" tvg-logo="" group-title="US Local - FOX",KCPQ 13.1
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
-#EXTINF:-1 tvg-id="KDFW41.us" tvg-name="KDFW 4.1" tvg-logo="" group-title="US Local - FOX",KDFW 4.1
+#EXTINF:-1 tvg-id="KDFW41.us" tvg-name="KDFW — Dallas-Fort Worth metroplex, TX" tvg-logo="" group-title="US Local - FOX",KDFW — Dallas-Fort Worth metroplex, TX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KDVR311.us" tvg-name="KDVR 31.1" tvg-logo="" group-title="US Local - FOX",KDVR 31.1
+#EXTINF:-1 tvg-id="KDVR311.us" tvg-name="KDVR — Denver, CO" tvg-logo="" group-title="US Local - FOX",KDVR — Denver, CO
 http://stream.cammonitorplus.net/1768/index.m3u8
 #EXTINF:-1 tvg-id="KMPHTV261.us" tvg-name="KMPH-TV 26.1" tvg-logo="" group-title="US Local - FOX",KMPH-TV 26.1
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
@@ -93,17 +31,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangelesktt
 https://n15sb.host5245.com/63/index.m3u8
 #EXTINF:-1 tvg-id="KTTV111.us" tvg-name="KTTV 11.1" tvg-logo="" group-title="US Local - FOX",KTTV 11.1
 https://aegis-cloudfront-1.tubi.video/317a6700-b890-4066-a2e7-dea5c15fd915/index.m3u8
-#EXTINF:-1 tvg-id="KTVU41.us" tvg-name="KTVU 4.1" tvg-logo="" group-title="US Local - FOX",KTVU 4.1
-https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="US Local - FOX",LiveNOW from FOX
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="US Local - FOX",LiveNOW from FOX
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="US Local - FOX",LiveNOW from FOX
-https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="US Local - FOX",LiveNOW from FOX
-https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
-#EXTINF:-1 tvg-id="WBFF451.us" tvg-name="WBFF 45.1" tvg-logo="" group-title="US Local - FOX",WBFF 45.1
+#EXTINF:-1 tvg-id="WBFF451.us" tvg-name="WBFF — Baltimore, MD" tvg-logo="" group-title="US Local - FOX",WBFF — Baltimore, MD
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WFLD501.us" tvg-name="WFLD 50.1" tvg-logo="" group-title="US Local - FOX",WFLD 50.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
@@ -123,11 +51,11 @@ https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WJBK21.us" tvg-name="WJBK 2.1" tvg-logo="" group-title="US Local - FOX",WJBK 2.1
 https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8
-#EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW 5.1" tvg-logo="" group-title="US Local - FOX",WNYW 5.1
+#EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW — New York City, NY" tvg-logo="" group-title="US Local - FOX",WNYW — New York City, NY
 http://206.212.244.63/64/index.m3u8
-#EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW 5.1" tvg-logo="" group-title="US Local - FOX",WNYW 5.1
+#EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW — New York City, NY" tvg-logo="" group-title="US Local - FOX",WNYW — New York City, NY
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW 5.1" tvg-logo="" group-title="US Local - FOX",WNYW 5.1
+#EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW — New York City, NY" tvg-logo="" group-title="US Local - FOX",WNYW — New York City, NY
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 #EXTINF:-1 tvg-id="WTTG51.us" tvg-name="WTTG 5.1" tvg-logo="" group-title="US Local - FOX",WTTG 5.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8

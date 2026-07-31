@@ -1,0 +1,13 @@
+[
+  {"channel": "WABCTV71.us", "url": "https://example.com/wabc.m3u8"},
+  {"channel": "KABCTV71.us", "url": "https://example.com/kabc.m3u8"},
+  {"channel": "WDIVTV41.us", "url": "https://example.com/wdiv.m3u8"},
+  {"channel": "ABCNewsLive.us", "url": "https://example.com/abcnewslive.m3u8"},
+  {"channel": "WCBSTV21.us", "url": "https://example.com/wcbs.m3u8"},
+  {"channel": "WCBSTV21.us", "url": "https://example.com/wcbs.m3u8"},
+  {"channel": "NSFWChannel.us", "url": "https://example.com/nsfw.m3u8"},
+  {"channel": "KidsChan.mx", "url": "https://example.com/kids.m3u8"},
+  {"channel": "SomeCA.ca", "url": "ftp://example.com/bad.m3u8"},
+  {"channel": "TestKE.ke", "url": "https://example.com/ke.m3u8"},
+  {"channel": null, "url": "https://example.com/orphan.m3u8"}
+]

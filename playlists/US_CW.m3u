@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
-#EXTINF:-1 tvg-id="CW.us" tvg-name="CW" tvg-logo="" group-title="US Local - CW",CW
-https://gpuserver3.tier1streams.com/CW/index.m3u8
 #EXTINF:-1 tvg-id="KATU321.us" tvg-name="KATU 32.1" tvg-logo="" group-title="US Local - CW",KATU 32.1
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KCRATV581.us" tvg-name="KCRA-TV 58.1" tvg-logo="" group-title="US Local - CW",KCRA-TV 58.1
@@ -9,6 +7,8 @@ https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playl
 https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KTNVTV331.us" tvg-name="KTNV-TV 33.1" tvg-logo="" group-title="US Local - CW",KTNV-TV 33.1
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-id="KTVU41.us" tvg-name="KTVU 4.1" tvg-logo="" group-title="US Local - CW",KTVU 4.1
+https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
 #EXTINF:-1 tvg-id="WLUKTV141.us" tvg-name="WLUK-TV 14.1" tvg-logo="" group-title="US Local - CW",WLUK-TV 14.1
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WMPT541.us" tvg-name="WMPT 54.1" tvg-logo="" group-title="US Local - CW",WMPT 54.1

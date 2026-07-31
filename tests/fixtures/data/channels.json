@@ -1,0 +1,83 @@
+[
+  {
+    "id": "WABCTV71.us",
+    "name": "WABC-TV 7.1",
+    "network": "ABC",
+    "owners": ["The Walt Disney Company"],
+    "country": "US",
+    "categories": ["general"],
+    "is_nsfw": false
+  },
+  {
+    "id": "KABCTV71.us",
+    "name": "KABC-TV 7.1",
+    "network": "ABC",
+    "owners": ["The Walt Disney Company"],
+    "country": "US",
+    "categories": ["general"],
+    "is_nsfw": false
+  },
+  {
+    "id": "WDIVTV41.us",
+    "name": "WDIV-TV 4.1",
+    "network": "NBC",
+    "owners": ["Graham Media Group"],
+    "country": "US",
+    "categories": ["general"],
+    "is_nsfw": false
+  },
+  {
+    "id": "ABCNewsLive.us",
+    "name": "ABC News Live",
+    "network": "ABC",
+    "owners": ["The Walt Disney Company"],
+    "country": "US",
+    "categories": ["news"],
+    "is_nsfw": false
+  },
+  {
+    "id": "WCBSTV21.us",
+    "name": "WCBS-TV 2.1",
+    "network": "CBS",
+    "owners": ["Paramount"],
+    "country": "US",
+    "categories": ["general"],
+    "is_nsfw": false
+  },
+  {
+    "id": "NSFWChannel.us",
+    "name": "NSFW Channel",
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "categories": [],
+    "is_nsfw": true
+  },
+  {
+    "id": "KidsChan.mx",
+    "name": "Kids Mexico",
+    "network": null,
+    "owners": [],
+    "country": "MX",
+    "categories": ["kids"],
+    "is_nsfw": false
+  },
+  {
+    "id": "SomeCA.ca",
+    "name": "Some Canada Channel",
+    "network": null,
+    "owners": [],
+    "country": "CA",
+    "categories": [],
+    "is_nsfw": false
+  },
+  {
+    "id": "TestKE.ke",
+    "name": "Test Kenya Channel",
+    "network": null,
+    "owners": [],
+    "country": "KE",
+    "categories": [],
+    "is_nsfw": false
+  }
+]
