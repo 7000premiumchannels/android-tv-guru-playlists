@@ -20,6 +20,17 @@ def load_fixture_entries():
     return build_entries(channels, streams, stations)
 
 
+def test_epg_header_is_production_url():
+    import android_tv_guru.playlists as playlists_module
+
+    assert playlists_module.EPG_HEADER == (
+        '#EXTM3U x-tvg-url='
+        '"https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"\n'
+    )
+    # The retired IPTV-org guide URL must never reappear in the header.
+    assert "iptv-org.github.io" not in playlists_module.EPG_HEADER
+
+
 def test_nsfw_channel_excluded():
     entries = load_fixture_entries()
     assert all(e.channel_id != "NSFWChannel.us" for e in entries)
@@ -107,7 +118,7 @@ def test_master_and_category_outputs(tmp_path, monkeypatch):
 
     master_text = (tmp_path / "AndroidTVGuru.m3u").read_text()
     assert master_text.startswith(
-        '#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"\n'
+        playlists_module.EPG_HEADER
     )
     # group ordering: ABC locals must appear before CBS locals, which must
     # appear before Spanish/African & Caribbean entries in the file.
@@ -151,7 +162,7 @@ def test_state_playlist_filtering(tmp_path, monkeypatch):
     # A state with no confidently matched stations still gets a (empty) file.
     ca_text = (states_dir / "California.m3u").read_text()
     assert ca_text == (
-        '#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"\n'
+        playlists_module.EPG_HEADER
     )
 
     all_locals_text = (states_dir.parent / "US_Locals_All.m3u").read_text()

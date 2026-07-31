@@ -52,43 +52,103 @@ Coverage is partial by design: our station directory is built from Wikidata
 `docs/DATA_SOURCES.md` for why, and what would need to change to get full
 coverage.
 
-## EPG limitations
+## EPG (program guide)
 
-The `x-tvg-url` header in every playlist points at:
+The `x-tvg-url` in every playlist points at:
 
 ```
-https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml
+https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz
 ```
 
-**As of 2026-07-31, this URL returns HTTP 404.** IPTV-org disabled the
-GitHub Actions job that built and published pre-made guide XML files; see
-`docs/DATA_SOURCES.md` and `docs/EPG_MATCHING.md` for the full investigation
-and why we didn't replace it with an unofficial/low-coverage mirror or a
-self-hosted feed this phase. Practically: players that fetch this URL for
-program-guide data will get nothing back until IPTV-org restores hosting (or
-a future phase ships a real replacement); channel playback itself is
-unaffected.
+### Why this exists
 
-We do report, per local station, whether a legal public guide source is
-*known* to exist for it (without switching your guide feed) — see
-`reports/epg-*.csv` after a build, and `docs/EPG_MATCHING.md`.
+The previous guide URL
+(`https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml`) started
+returning HTTP 404 — IPTV-org discontinued centrally hosting pre-built guide
+files. That URL is now retired; nothing in this repo's production path
+references it anymore (see `docs/DATA_SOURCES.md` for the historical
+record). We build and host our own guide instead, in this repository, from
+legal public sources.
 
-## Player compatibility caveats
+### Sources used
+
+- **tvguide.com** — grabbed via [iptv-org/epg](https://github.com/iptv-org/epg)
+  (public-domain/Unlicense open-source tool, pinned to a tested commit — see
+  `docs/EPG_MATCHING.md`). Covers national/cable networks. The same source
+  our playlist's guide URL already referenced before it went dead.
+- **i.mjh.nz** (Roku, Pluto TV, PBS, Plex, Samsung TV Plus, MeTV) — a
+  third-party public GitHub project run by an independent developer
+  (`matthuisman`) that mirrors data derived from these free, ad-supported
+  streaming platforms' apps. Roku Channel in particular rebroadcasts real
+  U.S. local TV affiliates with real EPG data, which is the only path to
+  local-station guide coverage we found that doesn't involve scraping a
+  commercial listings aggregator. **This is not an official source from
+  Roku/Pluto/PBS/Plex/Samsung**, and its redistribution terms are not
+  formally documented — see `docs/DATA_SOURCES.md` for the full, honest
+  evaluation (owner, license status, what "official" would and wouldn't
+  mean here, and the sources we rejected and why: direct scraping of
+  commercial listings sites, paid Schedules Direct/Gracenote data, informal
+  community mirrors).
+
+Subscription-only i.mjh.nz providers (Foxtel, Kayo, Sky, DStv, Binge, etc.)
+are intentionally excluded.
+
+### Coverage
+
+See `reports/epg-coverage.csv` for the exact current numbers, and
+`reports/epg-unmatched.csv` for the complete list of channels still without
+a guide. Every match is either an exact channel-id match against a source's
+own channel list, or (for i.mjh.nz entries with no id filled in) an exact
+call-sign match — never a guess, and never inferred from a shared network
+alone. See `docs/EPG_MATCHING.md` for the full matching rules.
+
+### How AndroidTVGuru.xml.gz is generated
+
+```
+android_tv_guru/stations.py (Wikidata importer) -> data/us_tv_stations.json (used only for conflict checks)
+android_tv_guru/epg.py (source matching)         -> epg/grabber-input.channels.xml + reports/epg-*.csv
+iptv-org/epg `grab` command (pinned commit)       -> raw per-source XMLTV
+android_tv_guru/epg.py (merge)                    -> AndroidTVGuru.xml + AndroidTVGuru.xml.gz
+```
+
+`scripts/update_station_data.py`, `scripts/build_epg_source.py`, and
+`scripts/merge_epg.py` are thin command-line wrappers around the
+`android_tv_guru` package (see `docs/ARCHITECTURE.md`). Automated by
+`.github/workflows/update-epg.yml`, which runs after the playlist workflow
+so the channel universe it matches against is current.
+
+### Regenerating it yourself
+
+```sh
+python3 scripts/update_station_data.py
+python3 scripts/build_epg_source.py
+git clone --filter=blob:none https://github.com/iptv-org/epg.git .epg-tool
+cd .epg-tool && git checkout <pinned commit — see docs/EPG_MATCHING.md> && npm ci
+npx tsx scripts/commands/epg/grab.ts --channels=../epg/grabber-input.channels.xml --days=2 --output=../epg/raw-guide.xml
+cd ..
+python3 scripts/merge_epg.py epg/raw-guide.xml --output .
+```
+
+### Player compatibility caveats
 
 - `group-title` values are used for on-screen categorization; not all IPTV
   players group channels visually the same way.
 - Some IPTV-org streams are geo-restricted or occasionally offline — this
-  project does not currently probe stream health (Phase 1 explicitly
-  excludes live stream-health probing), so a listed channel may still fail
-  to play in your region/player.
+  project does not currently probe stream health, so a listed channel may
+  still fail to play in your region/player.
 - State playlist filenames with a space (e.g. `New York.m3u`) need
   URL-encoding (`%20`) when referenced directly as a URL in some players.
+- `AndroidTVGuru.xml.gz` currently covers a minority of published channels
+  (national/cable networks plus a limited set of local affiliates carried on
+  Roku Channel). Channels without a guide entry will still play — they just
+  won't show program information in players that rely on the EPG.
 
 ## Legal/public limitation
 
-Only publicly listed IPTV-org channel/stream data is used. We do not add
-subscription-only, private, credentialed, DRM-bypassed, or pirated streams,
-and NSFW channels (`is_nsfw`) are always excluded.
+Only publicly listed, legally accessible data is used for both the playlist
+and the guide: no subscription-only, private, credentialed, DRM-bypassed, or
+pirated streams or guide data, and NSFW channels (`is_nsfw`) are always
+excluded.
 
 ## Development
 
