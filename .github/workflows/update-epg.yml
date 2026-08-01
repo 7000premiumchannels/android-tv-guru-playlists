@@ -2,6 +2,12 @@ name: Update Android TV Guru EPG
 
 on:
   workflow_dispatch:
+  push:
+    # TEMPORARY, for post-merge production verification only — see the
+    # matching note in update-playlist.yml. Remove once this run confirms
+    # the rebase-before-push fix.
+    branches:
+      - main
   workflow_run:
     workflows: ["Update Android TV Guru Playlist"]
     types:
