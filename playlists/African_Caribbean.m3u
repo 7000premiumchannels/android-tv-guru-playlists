@@ -111,8 +111,12 @@ https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ArlaadiTV.so" tvg-name="Arlaadi TV" tvg-logo="" group-title="African & Caribbean",Arlaadi TV
 https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-logo="" group-title="African & Caribbean",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="ArubaTV.aw" tvg-name="Aruba.TV" tvg-logo="" group-title="African & Caribbean",Aruba.TV
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 tvg-id="ArubaTVPlus.aw" tvg-name="ArubaTV +" tvg-logo="" group-title="African & Caribbean",ArubaTV +
+https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.gn" tvg-name="ATV" tvg-logo="" group-title="African & Caribbean",ATV
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 #EXTINF:-1 tvg-id="AviationTV.ke" tvg-name="Aviation TV" tvg-logo="" group-title="African & Caribbean",Aviation TV
@@ -403,6 +407,8 @@ https://cdn.haititivi.com/website/haitinews/index.m3u8
 https://haititivi.com/website/haitinews/index.m3u8
 #EXTINF:-1 tvg-id="HC2TV.bj" tvg-name="HC2 TV" tvg-logo="" group-title="African & Caribbean",HC2 TV
 https://stream.hc2tv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="HeartRadioAruba.aw" tvg-name="Heart Radio Aruba" tvg-logo="" group-title="African & Caribbean",Heart Radio Aruba
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="HeavenBoundTV.ke" tvg-name="Heaven Bound TV" tvg-logo="" group-title="African & Caribbean",Heaven Bound TV
 https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
 #EXTINF:-1 tvg-id="HirshabelleTV.so" tvg-name="Hirshabelle TV" tvg-logo="" group-title="African & Caribbean",Hirshabelle TV
@@ -811,6 +817,8 @@ http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SaabTV.so" tvg-name="Saab TV" tvg-logo="" group-title="African & Caribbean",Saab TV
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="SaabTV.so" tvg-name="Saab TV" tvg-logo="" group-title="African & Caribbean",Saab TV
+https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
 #EXTINF:-1 tvg-id="SABC1.za" tvg-name="SABC 1" tvg-logo="" group-title="African & Caribbean",SABC 1
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC2.za" tvg-name="SABC 2" tvg-logo="" group-title="African & Caribbean",SABC 2
