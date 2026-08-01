@@ -76,4 +76,12 @@ jobs:
                   reports/epg-matches.csv reports/epg-unmatched.csv reports/epg-conflicts.csv \
                   reports/epg-coverage.csv data/us_tv_stations.json
           git diff --cached --quiet || git commit -m "Update Android TV Guru EPG"
+          # This job runs long (real grab + merge can take 40+ minutes), so
+          # main may have moved since checkout (e.g. a manual push, or the
+          # playlist workflow's own commit). Rebase onto the latest main
+          # before pushing rather than failing on a stale, non-fast-forward
+          # push — the two workflows never touch the same files (see
+          # docs/ARCHITECTURE.md), so this rebase is conflict-free by
+          # construction.
+          git pull --rebase origin main
           git push
