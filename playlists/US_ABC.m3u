@@ -1,38 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="" group-title="US Local - ABC",ABC
-http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="" group-title="US Local - ABC",ABC
-https://gpuserver3.tier1streams.com/ABC/index.m3u8
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="" group-title="US Local - ABC",ABC
-http://stream.cammonitorplus.net/1797/index.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="" group-title="US Local - ABC",ABC News Live
-http://206.212.244.63/2/index.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="" group-title="US Local - ABC",ABC News Live
-https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="" group-title="US Local - ABC",ABC News Live
-https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="" group-title="US Local - ABC",ABC News Live
-https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-name="ABC News Live 1" tvg-logo="" group-title="US Local - ABC",ABC News Live 1
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive10.us" tvg-name="ABC News Live 10" tvg-logo="" group-title="US Local - ABC",ABC News Live 10
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive2.us" tvg-name="ABC News Live 2" tvg-logo="" group-title="US Local - ABC",ABC News Live 2
-https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive3.us" tvg-name="ABC News Live 3" tvg-logo="" group-title="US Local - ABC",ABC News Live 3
-https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive4.us" tvg-name="ABC News Live 4" tvg-logo="" group-title="US Local - ABC",ABC News Live 4
-https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive5.us" tvg-name="ABC News Live 5" tvg-logo="" group-title="US Local - ABC",ABC News Live 5
-https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive6.us" tvg-name="ABC News Live 6" tvg-logo="" group-title="US Local - ABC",ABC News Live 6
-https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive7.us" tvg-name="ABC News Live 7" tvg-logo="" group-title="US Local - ABC",ABC News Live 7
-https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive8.us" tvg-name="ABC News Live 8" tvg-logo="" group-title="US Local - ABC",ABC News Live 8
-https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive9.us" tvg-name="ABC News Live 9" tvg-logo="" group-title="US Local - ABC",ABC News Live 9
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"
 #EXTINF:-1 tvg-id="KAAL61.us" tvg-name="KAAL 6.1" tvg-logo="" group-title="US Local - ABC",KAAL 6.1
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KATC31.us" tvg-name="KATC 3.1" tvg-logo="" group-title="US Local - ABC",KATC 3.1
@@ -47,7 +13,7 @@ https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playl
 https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
 #EXTINF:-1 tvg-id="KITV41.us" tvg-name="KITV 4.1" tvg-logo="" group-title="US Local - ABC",KITV 4.1
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
-#EXTINF:-1 tvg-id="KMGHTV71.us" tvg-name="KMGH-TV 7.1" tvg-logo="" group-title="US Local - ABC",KMGH-TV 7.1
+#EXTINF:-1 tvg-id="KMGHTV71.us" tvg-name="KMGH-TV — Denver, CO" tvg-logo="" group-title="US Local - ABC",KMGH-TV — Denver, CO
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 tvg-id="KOATTV71.us" tvg-name="KOAT-TV 7.1" tvg-logo="" group-title="US Local - ABC",KOAT-TV 7.1
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
@@ -59,10 +25,6 @@ https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KXXV251.us" tvg-name="KXXV 25.1" tvg-logo="" group-title="US Local - ABC",KXXV 25.1
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
-#EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish" tvg-logo="" group-title="US Local - ABC",Localish
-https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
-#EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish" tvg-logo="" group-title="US Local - ABC",Localish
-https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
 #EXTINF:-1 tvg-id="WBBJTV71.us" tvg-name="WBBJ-TV 7.1" tvg-logo="" group-title="US Local - ABC",WBBJ-TV 7.1
 https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
 #EXTINF:-1 tvg-id="WBRZTV21.us" tvg-name="WBRZ-TV 2.1" tvg-logo="" group-title="US Local - ABC",WBRZ-TV 2.1
@@ -77,7 +39,7 @@ https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playl
 https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WLOS131.us" tvg-name="WLOS 13.1" tvg-logo="" group-title="US Local - ABC",WLOS 13.1
 https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WMARTV21.us" tvg-name="WMAR-TV 2.1" tvg-logo="" group-title="US Local - ABC",WMAR-TV 2.1
+#EXTINF:-1 tvg-id="WMARTV21.us" tvg-name="WMAR-TV — Baltimore, MD" tvg-logo="" group-title="US Local - ABC",WMAR-TV — Baltimore, MD
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
 #EXTINF:-1 tvg-id="WMURTV91.us" tvg-name="WMUR-TV 9.1" tvg-logo="" group-title="US Local - ABC",WMUR-TV 9.1
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8

@@ -1,0 +1,4 @@
+{
+  "_comment": "Manually verified channel-id -> EPG-id overrides. Empty by default per Phase 1 scope. Only add an entry here after a human has confirmed the mapping is correct (never auto-generated). Format: {\"overrides\": [{\"channel_id\": \"WABCTV71.us\", \"epg_id\": \"...\", \"verified_by\": \"...\", \"verified_date\": \"YYYY-MM-DD\", \"note\": \"...\"}]}",
+  "overrides": []
+}
