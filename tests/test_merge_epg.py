@@ -124,15 +124,49 @@ def test_cli_refuses_empty_merge(tmp_path, monkeypatch, capsys):
     assert not (tmp_path / "AndroidTVGuru.xml").exists()
 
 
+def test_cli_refuses_guide_with_channels_but_no_programmes(tmp_path, monkeypatch, capsys):
+    # Simulate a previously-published guide with real programme data...
+    previous = [("ABC.us", "ABC"), ("CBS.us", "CBS")]
+    prev_tv = _build_tv(previous)
+    prev_channel = prev_tv.find("channel")
+    import xml.etree.ElementTree as ET_
+
+    programme = ET_.SubElement(
+        prev_tv, "programme",
+        {"start": "20260101000000 +0000", "stop": "20260101003000 +0000", "channel": prev_channel.get("id")},
+    )
+    ET_.SubElement(programme, "title").text = "Show A"
+    epg_module.write_guide_outputs(prev_tv, tmp_path)
+
+    # ...then a new grab that got the channel list but zero programme data
+    # for any of them (e.g. every programme fetch failed/timed out).
+    channels_only_input = tmp_path / "channels_only.xml"
+    write_guide(channels_only_input, previous, [])
+
+    monkeypatch.setattr("sys.argv", ["merge_epg.py", str(channels_only_input), "--output", str(tmp_path)])
+    with pytest.raises(SystemExit) as exc:
+        merge_epg.main()
+    assert exc.value.code == 1
+    assert "0 programmes" in capsys.readouterr().err
+
+    # The previously-good file (with real programme data) must survive untouched.
+    assert len(ET.parse(tmp_path / "AndroidTVGuru.xml").getroot().findall("programme")) == 1
+
+
 def test_cli_refuses_degraded_guide_against_previous(tmp_path, monkeypatch, capsys):
     # Simulate a previously-published guide with 10 channels...
     previous = [(f"CH{i}.us", f"Channel {i}") for i in range(10)]
     prev_tv = _build_tv(previous)
     epg_module.write_guide_outputs(prev_tv, tmp_path)
 
-    # ...then a new grab that only found 2 of them (severely degraded, but not empty).
+    # ...then a new grab that only found 2 of them (severely degraded, but not
+    # empty, and with real programme data so this test isolates the
+    # degraded-channel-count check from the separate zero-programme check).
     degraded_input = tmp_path / "degraded.xml"
-    write_guide(degraded_input, previous[:2], [])
+    write_guide(
+        degraded_input, previous[:2],
+        [("CH0.us", "20260101000000 +0000", "20260101003000 +0000", "Show A")],
+    )
 
     monkeypatch.setattr("sys.argv", ["merge_epg.py", str(degraded_input), "--output", str(tmp_path)])
     with pytest.raises(SystemExit) as exc:

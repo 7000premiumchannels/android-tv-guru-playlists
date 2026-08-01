@@ -71,6 +71,14 @@ def main():
         print("ERROR: merge produced 0 channels; refusing to write output.", file=sys.stderr)
         sys.exit(1)
 
+    if stats["programme_count"] == 0:
+        # A guide can have channel entries but no actual programme data at
+        # all (e.g. the grabber listed channels but every programme fetch
+        # failed/timed out) — that's not "empty" by the channel-count check
+        # above, but it's just as useless as one and must be refused too.
+        print("ERROR: merge produced 0 programmes; refusing to write output.", file=sys.stderr)
+        sys.exit(1)
+
     previous_count = _previous_channel_count("AndroidTVGuru", output_dir)
     if previous_count > 0 and stats["channel_count"] < previous_count * MIN_CHANNEL_RETENTION:
         # Refuse a severely degraded guide too (e.g. most grab jobs failed) —
