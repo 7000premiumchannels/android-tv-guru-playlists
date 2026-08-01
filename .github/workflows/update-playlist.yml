@@ -2,12 +2,6 @@ name: Update Android TV Guru Playlist
 
 on:
   workflow_dispatch:
-  push:
-    # TEMPORARY, for post-merge production verification only — the CI token
-    # available here has contents:write but not actions:write, so it can't
-    # call the workflow-dispatch API. Remove this trigger once verified.
-    branches:
-      - main
   schedule:
     - cron: "17 9 * * *"
 
