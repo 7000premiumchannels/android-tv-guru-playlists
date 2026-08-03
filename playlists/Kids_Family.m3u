@@ -223,6 +223,8 @@ http://190.14.10.19:16000/play/a06z/index.m3u8
 https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
 http://206.212.244.63/3146/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelEMEA.uk" tvg-name="Disney Channel EMEA" tvg-logo="" group-title="Kids & Family",Disney Channel EMEA
+http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="Disney International HD" tvg-logo="" group-title="Kids & Family",Disney International HD
 http://149.71.34.166:8002/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." tvg-logo="" group-title="Kids & Family",Disney Jr.
@@ -373,6 +375,8 @@ http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" tvg-logo="" group-title="Kids & Family",Golden Eagle Cartoon
 http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="GreenGoldTV.np" tvg-name="Green Gold TV" tvg-logo="" group-title="Kids & Family",Green Gold TV
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd" tvg-name="Green TV" tvg-logo="" group-title="Kids & Family",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="" group-title="Kids & Family",Gulli
@@ -1105,6 +1109,8 @@ https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 #EXTINF:-1 tvg-id="TransformersTV.us" tvg-name="Transformers TV" tvg-logo="" group-title="Kids & Family",Transformers TV
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk" tvg-logo="" group-title="Kids & Family",TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-name="TRT Diyanet Cocuk" tvg-logo="" group-title="Kids & Family",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TurmadaMonica.us" tvg-name="Turma da Monica" tvg-logo="" group-title="Kids & Family",Turma da Monica
