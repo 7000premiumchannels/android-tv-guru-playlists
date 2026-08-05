@@ -12,8 +12,6 @@ https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" tvg-logo="" group-title="Sports & Highlights",ACC Digital Network
 https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="" group-title="Sports & Highlights",ACC Network
-http://206.212.244.63/2486/index.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="" group-title="Sports & Highlights",ACC Network
 https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="" group-title="Sports & Highlights",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -45,8 +43,8 @@ https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-name="Alkass Two" tvg-logo="" group-title="Sports & Highlights",Alkass Two
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="Altitude Sports" tvg-logo="" group-title="Sports & Highlights",Altitude Sports
-http://206.212.244.63/6153/index.m3u8
+#EXTINF:-1 tvg-id="Arena.id" tvg-name="Arena" tvg-logo="" group-title="Sports & Highlights",Arena
+https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8
 #EXTINF:-1 tvg-id="ArenaFight.rs" tvg-name="Arena Fight" tvg-logo="" group-title="Sports & Highlights",Arena Fight
 https://nl1.nghk.ai/ArenaFight/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.ba" tvg-name="Arena Sport 1" tvg-logo="" group-title="Sports & Highlights",Arena Sport 1
@@ -221,6 +219,8 @@ https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn" tvg-name="CCTV-16" tvg-logo="" group-title="Sports & Highlights",CCTV-16
 http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+" tvg-logo="" group-title="Sports & Highlights",CCTV-5+
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-id="CCTVBilliards.cn" tvg-name="CCTV-Billiards" tvg-logo="" group-title="Sports & Highlights",CCTV-Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVGolfTennis.cn" tvg-name="CCTV-Golf & Tennis" tvg-logo="" group-title="Sports & Highlights",CCTV-Golf & Tennis
@@ -331,12 +331,8 @@ http://46.32.176.50/extremesport/index.m3u8
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie" tvg-name="F1 Channel" tvg-logo="" group-title="Sports & Highlights",F1 Channel
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
-#EXTINF:-1 tvg-id="FanDuelRacing.us" tvg-name="FanDuel Racing" tvg-logo="" group-title="Sports & Highlights",FanDuel Racing
-http://206.212.244.63/6139/index.m3u8
 #EXTINF:-1 tvg-id="FanDuelTV.us" tvg-name="FanDuel TV" tvg-logo="" group-title="Sports & Highlights",FanDuel TV
 http://40.160.24.55/TVG/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelTV.us" tvg-name="FanDuel TV" tvg-logo="" group-title="Sports & Highlights",FanDuel TV
-http://206.212.244.63/6138/index.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" tvg-logo="" group-title="Sports & Highlights",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" tvg-logo="" group-title="Sports & Highlights",FB TV
@@ -426,7 +422,7 @@ https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports & Highlights",Fox Sports 2
 https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports & Highlights",Fox Sports 2
-http://iptvstream.rf.gd/FOXSPORTS2.m3u8
+https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503" tvg-logo="" group-title="Sports & Highlights",Fox Sports 503
 https://messi.damitv.st/papi/ts/fox-sports-503/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="" group-title="Sports & Highlights",Fox Sports 505
@@ -455,8 +451,6 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8?ads.vf=rPs_7NoEsnu
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-name="FUEL TV" tvg-logo="" group-title="Sports & Highlights",FUEL TV
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FUELTV.pt" tvg-name="FUEL TV" tvg-logo="" group-title="Sports & Highlights",FUEL TV
-http://206.212.244.63/71/index.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-name="FUEL TV" tvg-logo="" group-title="Sports & Highlights",FUEL TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/playlist.m3u8?ads.vf=gbdyvfXODOK
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-name="FUEL TV" tvg-logo="" group-title="Sports & Highlights",FUEL TV
@@ -577,8 +571,6 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 https://live.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" tvg-logo="" group-title="Sports & Highlights",M4 Sport
 http://88.212.15.19/live/m4_hun/index.m3u8
-#EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" tvg-logo="" group-title="Sports & Highlights",M4 Sport
-https://budapest-cache-1.antik.sk/stream/m4_sport_hun/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-name="MadeinBO TV" tvg-logo="" group-title="Sports & Highlights",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MaincastCybersport.ua" tvg-name="Maincast Cybersport" tvg-logo="" group-title="Sports & Highlights",Maincast Cybersport
@@ -699,8 +691,6 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="Sports & Highlights",NBC Sports Bay Area
 https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="" group-title="Sports & Highlights",NBC Sports Chicago
-http://206.212.244.63/6141/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us" tvg-name="NBC Sports NOW" tvg-logo="" group-title="Sports & Highlights",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="NBCSportsNOW.us" tvg-name="NBC Sports NOW" tvg-logo="" group-title="Sports & Highlights",NBC Sports NOW
@@ -725,8 +715,6 @@ https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="" group-title="Sports & Highlights",NFL Network
 http://40.160.24.53/NFL_Network/index.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="" group-title="Sports & Highlights",NFL Network
-http://206.212.244.63/196/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="" group-title="Sports & Highlights",NFL Network
 http://45.189.62.33:8002/play/a0kk/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="" group-title="Sports & Highlights",NFL Network
@@ -839,8 +827,6 @@ https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.se" tvg-name="Pluto TV Sport" tvg-logo="" group-title="Sports & Highlights",Pluto TV Sport
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
-#EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" tvg-logo="" group-title="Sports & Highlights",PokerGo
-http://206.212.244.63/4249/index.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" tvg-logo="" group-title="Sports & Highlights",PokerGo
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" tvg-logo="" group-title="Sports & Highlights",PokerGo
@@ -1241,8 +1227,6 @@ http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="" group-title="Sports & Highlights",Tennis Channel
 http://40.160.24.55/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="" group-title="Sports & Highlights",Tennis Channel
-http://206.212.244.63/6149/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="" group-title="Sports & Highlights",Tennis Channel
 https://rezofoot.tv/Tennis/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="" group-title="Sports & Highlights",Tennis Channel

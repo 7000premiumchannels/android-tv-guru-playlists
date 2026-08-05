@@ -1977,8 +1977,6 @@ https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoienaEus.es" tvg-name="Goiena Eus" tvg-logo="" group-title="Spanish",Goiena Eus
 https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
-#EXTINF:-1 tvg-id="GolClassics.es" tvg-name="Gol Classics" tvg-logo="" group-title="Spanish",Gol Classics
-https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="" group-title="Spanish",Golden
 http://177.234.249.135:8888/Golden/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="" group-title="Spanish",Golden
@@ -2521,6 +2519,8 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://eu1.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="MarkaTV.do" tvg-name="Marka TV" tvg-logo="" group-title="Spanish",Marka TV
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MarlaVision.do" tvg-name="Marla Vision" tvg-logo="" group-title="Spanish",Marla Vision
+https://soportedvb.click:3877/live/merlavisionlive.m3u8
 #EXTINF:-1 tvg-id="MarsellaTV.co" tvg-name="Marsella TV" tvg-logo="" group-title="Spanish",Marsella TV
 https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-name="Mas FM" tvg-logo="" group-title="Spanish",Mas FM
@@ -4205,8 +4205,6 @@ http://45.5.119.43:4000/play/a05t/index.m3u8
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" tvg-logo="" group-title="Spanish",Tigo Sports
 https://live.enhdtv.com:8081/8160/index.m3u8
-#EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="Tigo Sports" tvg-logo="" group-title="Spanish",Tigo Sports
-https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 #EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-name="Tigo Sports+" tvg-logo="" group-title="Spanish",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="TigueritoTV.do" tvg-name="Tiguerito TV" tvg-logo="" group-title="Spanish",Tiguerito TV
@@ -4607,6 +4605,8 @@ http://217.26.190.76:8888/play/a0m6/index.m3u8
 https://iptv2.intersurtv.cl/TVN/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="" group-title="Spanish",TVN
 http://15.204.246.24:8080/TVNHD/index.m3u8
+#EXTINF:-1 tvg-id="TVN.do" tvg-name="TVN" tvg-logo="" group-title="Spanish",TVN
+https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.pa" tvg-name="TVN" tvg-logo="" group-title="Spanish",TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVN14.cr" tvg-name="TVN 14" tvg-logo="" group-title="Spanish",TVN 14
@@ -4797,6 +4797,8 @@ http://187.102.210.46/USMP/index.m3u8
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="UTV.cl" tvg-name="UTV" tvg-logo="" group-title="Spanish",UTV
 https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF:-1 tvg-id="UVATV.do" tvg-name="UVA TV" tvg-logo="" group-title="Spanish",UVA TV
+https://www.uvatvhd.com/hls.php?file=live.m3u8
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-name="V Classic TV" tvg-logo="" group-title="Spanish",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="VahosTV.co" tvg-name="Vahos TV" tvg-logo="" group-title="Spanish",Vahos TV

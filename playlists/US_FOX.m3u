@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"
-#EXTINF:-1 tvg-id="KADNTV151.us" tvg-name="KADN-TV 15.1" tvg-logo="" group-title="US Local - FOX",KADN-TV 15.1
-http://206.212.244.63/65/index.m3u8
 #EXTINF:-1 tvg-id="KBSI231.us" tvg-name="KBSI 23.1" tvg-logo="" group-title="US Local - FOX",KBSI 23.1
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-id="KCPQ131.us" tvg-name="KCPQ 13.1" tvg-logo="" group-title="US Local - FOX",KCPQ 13.1
@@ -23,8 +21,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist
 https://aegis-cloudfront-1.tubi.video/6bb80abf-8f73-46f3-a520-bb810d93f1d0/index.m3u8
 #EXTINF:-1 tvg-id="KTBC71.us" tvg-name="KTBC 7.1" tvg-logo="" group-title="US Local - FOX",KTBC 7.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KTTV111.us" tvg-name="KTTV 11.1" tvg-logo="" group-title="US Local - FOX",KTTV 11.1
-http://206.212.244.63/63/index.m3u8
 #EXTINF:-1 tvg-id="KTTV111.us" tvg-name="KTTV 11.1" tvg-logo="" group-title="US Local - FOX",KTTV 11.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KTTV111.us" tvg-name="KTTV 11.1" tvg-logo="" group-title="US Local - FOX",KTTV 11.1
@@ -51,8 +47,6 @@ https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WJBK21.us" tvg-name="WJBK 2.1" tvg-logo="" group-title="US Local - FOX",WJBK 2.1
 https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8
-#EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW — New York City, NY" tvg-logo="" group-title="US Local - FOX",WNYW — New York City, NY
-http://206.212.244.63/64/index.m3u8
 #EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW — New York City, NY" tvg-logo="" group-title="US Local - FOX",WNYW — New York City, NY
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYW51.us" tvg-name="WNYW — New York City, NY" tvg-logo="" group-title="US Local - FOX",WNYW — New York City, NY

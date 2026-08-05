@@ -106,8 +106,6 @@ https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="" group-title="Music",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="" group-title="Music",AXS TV
-http://206.212.244.63/12/index.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="" group-title="Music",AXS TV
 https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
 #EXTINF:-1 tvg-id="B4UHitz.in" tvg-name="B4U Hitz" tvg-logo="" group-title="Music",B4U Hitz
 http://115.42.65.142:9981/stream/channelid/1099703605
@@ -215,8 +213,6 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="" group-title="Music",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="" group-title="Music",CMT
-http://206.212.244.63/39/index.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="" group-title="Music",CMT
 https://gpuserver3.tier1streams.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMTEqualPlay.us" tvg-name="CMT Equal Play" tvg-logo="" group-title="Music",CMT Equal Play
@@ -586,8 +582,6 @@ https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
-http://206.212.244.63/117/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
 http://40.160.24.53/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
@@ -599,8 +593,6 @@ https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 http://40.160.24.53/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" tvg-logo="" group-title="Music",MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" tvg-logo="" group-title="Music",MTV Live
-http://206.212.244.63/118/index.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="" group-title="Music",MTV Spankin' New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="" group-title="Music",MTV Spankin' New
@@ -689,6 +681,8 @@ https://simahls.wns.live/hls/stream.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-name="NEW K-POP" tvg-logo="" group-title="Music",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHBollyRaga.np" tvg-name="NH BollyRaga" tvg-logo="" group-title="Music",NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio" tvg-logo="" group-title="Music",Nidae AlIslam Radio
 https://aloula-redirect.vercel.app/14/playlist.m3u8
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio" tvg-logo="" group-title="Music",Nidae AlIslam Radio
@@ -1441,8 +1435,6 @@ https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
 http://40.160.24.55/VH1/index.m3u8
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
-http://206.212.244.63/169/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
 http://40.160.24.55/VH1_WEST/index.m3u8
 #EXTINF:-1 tvg-id="VideoRola.it" tvg-name="Video Rola" tvg-logo="" group-title="Music",Video Rola
