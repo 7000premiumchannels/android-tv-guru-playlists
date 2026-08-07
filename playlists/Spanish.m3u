@@ -3397,6 +3397,8 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="" group-title="Spanish",RCN Novelas
 http://170.238.200.199:80/rcn-novelas/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="" group-title="Spanish",RCN Novelas
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCVTV.hn" tvg-name="RCV TV" tvg-logo="" group-title="Spanish",RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDN.do" tvg-name="RDN" tvg-logo="" group-title="Spanish",RDN
@@ -3946,9 +3948,7 @@ https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCentro.pe" tvg-name="TeleCentro" tvg-logo="" group-title="Spanish",TeleCentro
 https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" tvg-logo="" group-title="Spanish",Telecentro
-https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
-#EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" tvg-logo="" group-title="Spanish",Telecentro
-https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 #EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-name="TeleCibaoHD" tvg-logo="" group-title="Spanish",TeleCibaoHD
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-name="Telecinco" tvg-logo="" group-title="Spanish",Telecinco

@@ -150,8 +150,6 @@ http://170.83.16.50:80/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" tvg-logo="" group-title="Sports & Highlights",Band Sports
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-logo="" group-title="Sports & Highlights",beIN Sports USA
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-logo="" group-title="Sports & Highlights",beIN Sports USA
 http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-logo="" group-title="Sports & Highlights",beIN Sports USA
 https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
@@ -417,18 +415,8 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports & Highlights",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports & Highlights",Fox Sports 1
-https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports & Highlights",Fox Sports 2
-https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports & Highlights",Fox Sports 2
 https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503" tvg-logo="" group-title="Sports & Highlights",Fox Sports 503
-https://messi.damitv.st/papi/ts/fox-sports-503/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="" group-title="Sports & Highlights",Fox Sports 505
-https://messi.damitv.st/papi/ts/fox-sports-505/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="" group-title="Sports & Highlights",Fox Sports 506
-https://messi.damitv.st/papi/ts/fox-sports-506/playlist.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports" tvg-logo="" group-title="Sports & Highlights",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports" tvg-logo="" group-title="Sports & Highlights",FTF Sports
@@ -1141,6 +1129,8 @@ http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi" tvg-logo="" group-title="Sports & Highlights",Star Sports 2 Hindi
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="" group-title="Sports & Highlights",Star Sports Khel
+http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="Sports & Highlights",Star Sports Select 1
 http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" tvg-logo="" group-title="Sports & Highlights",Star Sports Select 2
