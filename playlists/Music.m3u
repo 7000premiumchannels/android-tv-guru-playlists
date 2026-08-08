@@ -420,8 +420,6 @@ http://119.156.228.231:9983/stream/channelid/1893273325?ticket=B3DB50D5930411D59
 #EXTINF:-1 tvg-id="JazzTV.mk" tvg-name="Jazz TV" tvg-logo="" group-title="Music",Jazz TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-id="JeddahRadio.sa" tvg-name="Jeddah Radio" tvg-logo="" group-title="Music",Jeddah Radio
-https://aloula-redirect.vercel.app/15/playlist.m3u8
-#EXTINF:-1 tvg-id="JeddahRadio.sa" tvg-name="Jeddah Radio" tvg-logo="" group-title="Music",Jeddah Radio
 https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
 #EXTINF:-1 tvg-id="JoeFM.be" tvg-name="Joe FM" tvg-logo="" group-title="Music",Joe FM
 https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
@@ -681,8 +679,6 @@ https://simahls.wns.live/hls/stream.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-name="NEW K-POP" tvg-logo="" group-title="Music",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio" tvg-logo="" group-title="Music",Nidae AlIslam Radio
-https://aloula-redirect.vercel.app/14/playlist.m3u8
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio" tvg-logo="" group-title="Music",Nidae AlIslam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" tvg-logo="" group-title="Music",Noroc TV
@@ -1445,8 +1441,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 https://river-6-601.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/it_KlgcrpetPAAs-Pfyogw/1785516951/f712ae5ff3db23ec09b3674133d44daa/720p_stream.m3u8
 #EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV" tvg-logo="" group-title="Music",Volksmusik TV
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="VOX Music TV" tvg-logo="" group-title="Music",VOX Music TV
-http://starcius-cinema.com/11581/index.m3u8
 #EXTINF:-1 tvg-id="WAVETV.bz" tvg-name="WAVE TV" tvg-logo="" group-title="Music",WAVE TV
 https://streamer2.nexgen.bz/08-WAVE/index.m3u8
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-name="WVCU-LP" tvg-logo="" group-title="Music",WVCU-LP
