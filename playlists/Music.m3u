@@ -105,8 +105,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="" group-title="Music",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="" group-title="Music",AXS TV
-https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
 #EXTINF:-1 tvg-id="B4UHitz.in" tvg-name="B4U Hitz" tvg-logo="" group-title="Music",B4U Hitz
 http://115.42.65.142:9981/stream/channelid/1099703605
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="" group-title="Music",B4U Music
@@ -213,8 +211,6 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="" group-title="Music",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="" group-title="Music",CMT
-https://gpuserver3.tier1streams.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMTEqualPlay.us" tvg-name="CMT Equal Play" tvg-logo="" group-title="Music",CMT Equal Play
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-name="Company TV" tvg-logo="" group-title="Music",Company TV
@@ -451,6 +447,10 @@ https://stream.cmctv.hr:49998/kit/live.m3u8
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Klara.be" tvg-name="Klara" tvg-logo="" group-title="Music",Klara
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd
+#EXTINF:-1 tvg-id="Klara.be" tvg-name="Klara" tvg-logo="" group-title="Music",Klara
+https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Klara.be" tvg-name="Klara" tvg-logo="" group-title="Music",Klara
+https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd
 #EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" tvg-logo="" group-title="Music",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KoolTV.ph" tvg-name="Kool TV" tvg-logo="" group-title="Music",Kool TV
@@ -561,6 +561,10 @@ https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" tvg-logo="" group-title="Music",MNM
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
+#EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" tvg-logo="" group-title="Music",MNM
+https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
+#EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" tvg-logo="" group-title="Music",MNM
+https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd
 #EXTINF:-1 tvg-id="MohammedAbdo.sa" tvg-name="Mohammed Abdo" tvg-logo="" group-title="Music",Mohammed Abdo
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
 #EXTINF:-1 tvg-id="MouvTV.fr" tvg-name="Mouv' TV" tvg-logo="" group-title="Music",Mouv' TV
@@ -1153,6 +1157,10 @@ https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 #EXTINF:-1 tvg-id="StuBru.be" tvg-name="StuBru" tvg-logo="" group-title="Music",StuBru
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd
+#EXTINF:-1 tvg-id="StuBru.be" tvg-name="StuBru" tvg-logo="" group-title="Music",StuBru
+https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
+#EXTINF:-1 tvg-id="StuBru.be" tvg-name="StuBru" tvg-logo="" group-title="Music",StuBru
+https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" tvg-logo="" group-title="Music",Super TV
 https://live.supertv.ro/live/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" tvg-logo="" group-title="Music",Super TV

@@ -67,10 +67,6 @@ https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 #EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action 24" tvg-logo="" group-title="Movies & Classic TV",Action 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="ActionMax" tvg-logo="" group-title="Movies & Classic TV",ActionMax
-http://40.160.24.52/ACTIONMAX/index.m3u8
-#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="ActionMax" tvg-logo="" group-title="Movies & Classic TV",ActionMax
-https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" tvg-logo="" group-title="Movies & Classic TV",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" tvg-logo="" group-title="Movies & Classic TV",Adrenalina Pura TV
@@ -237,8 +233,6 @@ http://170.83.49.66:8083/AXNHD/index.m3u8
 http://znty.dyndns.org:5010/hls/axn.m3u8
 #EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" tvg-logo="" group-title="Movies & Classic TV",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
-#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" tvg-logo="" group-title="Movies & Classic TV",AXN Asia
-https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" tvg-logo="" group-title="Movies & Classic TV",AXN Asia
 https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="" group-title="Movies & Classic TV",AXN Black
@@ -447,8 +441,6 @@ http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge!" tvg-logo="" group-title="Movies & Classic TV",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge!" tvg-logo="" group-title="Movies & Classic TV",Charge!
-https://gpuserver3.tier1streams.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="CHCAction.cn" tvg-name="CHC Action" tvg-logo="" group-title="Movies & Classic TV",CHC Action
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="Cheers.us" tvg-name="Cheers" tvg-logo="" group-title="Movies & Classic TV",Cheers
@@ -2811,6 +2803,8 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://40.160.24.55/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="" group-title="Movies & Classic TV",SYFY
 https://gpuserver5.tier1streams.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="" group-title="Movies & Classic TV",SYFY
+http://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-id="TPlusE.ca" tvg-name="T+E" tvg-logo="" group-title="Movies & Classic TV",T+E
 http://185.246.209.113/T+E/index.m3u8
 #EXTINF:-1 tvg-id="T2Movies.ir" tvg-name="T2 Movies" tvg-logo="" group-title="Movies & Classic TV",T2 Movies
