@@ -235,6 +235,8 @@ https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 http://187.102.210.46/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="" group-title="Spanish",America Television
 http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="" group-title="Spanish",America Television
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="" group-title="Spanish",America TV
 http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="" group-title="Spanish",America TV
@@ -1467,6 +1469,8 @@ https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.pe" tvg-name="DeltaTV" tvg-logo="" group-title="Spanish",DeltaTV
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+#EXTINF:-1 tvg-id="DeportesporMovistarPlusPlus.es" tvg-name="Deportes por Movistar Plus+" tvg-logo="" group-title="Spanish",Deportes por Movistar Plus+
+https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" tvg-logo="" group-title="Spanish",Deportes TVC
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" tvg-logo="" group-title="Spanish",Deportes TVC
@@ -2242,6 +2246,8 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="" group-title="Spanish",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="" group-title="Spanish",La 1
+https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="" group-title="Spanish",La 1
 http://185.47.212.25:8080/tdp_HD/index.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" tvg-logo="" group-title="Spanish",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
@@ -2407,6 +2413,8 @@ https://lencatelevision.com/hls/stream.m3u8
 https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LiderTV.pe" tvg-name="Lider TV" tvg-logo="" group-title="Spanish",Lider TV
 https://chankillo.agenciastreaming.com/lidertv/index.m3u8
+#EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" tvg-logo="" group-title="Spanish",Liga de Campeones por Movistar Plus+
+https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8
 #EXTINF:-1 tvg-id="LilaTVPencahue.cl" tvg-name="Lila TV Pencahue" tvg-logo="" group-title="Spanish",Lila TV Pencahue
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 #EXTINF:-1 tvg-id="LIMTV.py" tvg-name="LIM TV" tvg-logo="" group-title="Spanish",LIM TV
@@ -4193,6 +4201,8 @@ http://45.5.119.43:4000/play/a05t/index.m3u8
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" tvg-logo="" group-title="Spanish",Tigo Sports
 https://live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" tvg-logo="" group-title="Spanish",Tigo Sports
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
 #EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-name="Tigo Sports+" tvg-logo="" group-title="Spanish",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="TigueritoTV.do" tvg-name="Tiguerito TV" tvg-logo="" group-title="Spanish",Tiguerito TV

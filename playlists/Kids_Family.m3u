@@ -96,7 +96,7 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk" tvg-name="BBC Three/CBBC" tvg-logo="" group-title="Kids & Family",BBC Three/CBBC
 http://193.46.58.239:8080/CBBCHD/index.m3u8
 #EXTINF:-1 tvg-id="BeJoykids.it" tvg-name="BeJoy.kids" tvg-logo="" group-title="Kids & Family",BeJoy.kids
-https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1 tvg-id="BilimIlim.kg" tvg-name="Bilim Ilim" tvg-logo="" group-title="Kids & Family",Bilim Ilim
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-name="Biznet Kids" tvg-logo="" group-title="Kids & Family",Biznet Kids
@@ -609,6 +609,8 @@ http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
+http://176.61.157.250/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.il" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
@@ -667,6 +669,8 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-name="NickOnline" tvg-logo="" group-title="Kids & Family",NickOnline
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br" tvg-name="NickOnline Bob Esponja" tvg-logo="" group-title="Kids & Family",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" tvg-logo="" group-title="Kids & Family",Nicktoons
 http://88.212.15.19/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.hu" tvg-name="Nicktoons" tvg-logo="" group-title="Kids & Family",Nicktoons

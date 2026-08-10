@@ -383,8 +383,6 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" tvg-logo="" group-title="US News & Weather",Army TV
 http://195.54.52.40/test/index.m3u8
-#EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="ARY News" tvg-logo="" group-title="US News & Weather",ARY News
-http://115.42.65.142:9981/stream/channelid/322092446
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="" group-title="US News & Weather",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="" group-title="US News & Weather",AS TV
@@ -491,8 +489,6 @@ https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_u
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="US News & Weather",BBC News
 http://84.17.50.102/bbcnews/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="US News & Weather",BBC News
-https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="US News & Weather",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="US News & Weather",BBC News
@@ -1163,8 +1159,6 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US News & Weather",Fox News Channel
 https://tvsen6.aynaott.com/foxnews/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsInternational.us" tvg-name="Fox News International" tvg-logo="" group-title="US News & Weather",Fox News International
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-name="Fox News Radio" tvg-logo="" group-title="US News & Weather",Fox News Radio
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="" group-title="US News & Weather",Fox Weather
@@ -1297,10 +1291,6 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="" group-title="US News & Weather",GB News
 https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Geo News" tvg-logo="" group-title="US News & Weather",Geo News
-http://116.90.120.151:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="GeoTez.pk" tvg-name="Geo Tez" tvg-logo="" group-title="US News & Weather",Geo Tez
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GiornaleRadioTV.it" tvg-name="Giornale Radio TV" tvg-logo="" group-title="US News & Weather",Giornale Radio TV
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="GIT.ua" tvg-name="GIT" tvg-logo="" group-title="US News & Weather",GIT
@@ -1391,8 +1381,6 @@ https://cdn-2.pishow.tv/live/1463/master.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:-1 tvg-id="HTV9.vn" tvg-name="HTV9" tvg-logo="" group-title="US News & Weather",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="HumNews.pk" tvg-name="Hum News" tvg-logo="" group-title="US News & Weather",Hum News
-http://116.90.120.151:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="HumNews.pk" tvg-name="Hum News" tvg-logo="" group-title="US News & Weather",Hum News
 http://103.86.135.164:9981/stream/channelid/2024790699?ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C&profile=pass
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-name="Huma Betang TV" tvg-logo="" group-title="US News & Weather",Huma Betang TV

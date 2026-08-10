@@ -487,6 +487,8 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 https://channels.ad-ug.com/live/ch03/index.m3u8
 #EXTINF:-1 tvg-id="KSTVUganda.ug" tvg-name="KSTV Uganda" tvg-logo="" group-title="African & Caribbean",KSTV Uganda
 https://live.esteem.africa/kstv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="KSTVUganda.ug" tvg-name="KSTV Uganda" tvg-logo="" group-title="African & Caribbean",KSTV Uganda
+https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="LaVoixduRoutierTV.bj" tvg-name="La Voix du Routier TV" tvg-logo="" group-title="African & Caribbean",La Voix du Routier TV
 https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LaX.pr" tvg-name="La-X" tvg-logo="" group-title="African & Caribbean",La-X
@@ -809,6 +811,8 @@ http://51.254.199.122:8080/RTVS1/index.m3u8
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="RwandaTV.rw" tvg-name="Rwanda TV" tvg-logo="" group-title="African & Caribbean",Rwanda TV
 https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RwenzoriTV.ug" tvg-name="Rwenzori TV" tvg-logo="" group-title="African & Caribbean",Rwenzori TV
+https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8
 #EXTINF:-1 tvg-id="SaabTV.so" tvg-name="Saab TV" tvg-logo="" group-title="African & Caribbean",Saab TV
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
 #EXTINF:-1 tvg-id="SaabTV.so" tvg-name="Saab TV" tvg-logo="" group-title="African & Caribbean",Saab TV
@@ -919,6 +923,8 @@ https://cs2.push2stream.com/TELESAHELTV-DVR/playlist.m3u8
 http://69.64.57.208/telesahel/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" tvg-logo="" group-title="African & Caribbean",Tele Tchad
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" tvg-logo="" group-title="African & Caribbean",Tele Tchad
+http://176.65.153.84:7013/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="TeleVariete.ht" tvg-name="Tele Variete" tvg-logo="" group-title="African & Caribbean",Tele Variete
 https://acwstream.com/hb/chaine30/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-name="Tele Zoukla" tvg-logo="" group-title="African & Caribbean",Tele Zoukla

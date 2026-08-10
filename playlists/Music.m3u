@@ -69,6 +69,8 @@ http://31.148.48.15/A1/index.m3u8
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa" tvg-name="Abdulmajeed Abdullah" tvg-logo="" group-title="Music",Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-name="Adria Music Television" tvg-logo="" group-title="Music",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="AFNTV.ir" tvg-name="AFN TV" tvg-logo="" group-title="Music",AFN TV
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-name="Afrobeat TV Entertainment" tvg-logo="" group-title="Music",Afrobeat TV Entertainment
@@ -141,6 +143,8 @@ https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 #EXTINF:-1 tvg-id="BIZMusic.uz" tvg-name="BIZ Music" tvg-logo="" group-title="Music",BIZ Music
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BoomTV.ro" tvg-name="Boom TV" tvg-logo="" group-title="Music",Boom TV
+https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="BOXTV.bg" tvg-name="BOX TV" tvg-logo="" group-title="Music",BOX TV
 http://213.91.179.28:8000/play/a0an
 #EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-name="BPX TV Radio" tvg-logo="" group-title="Music",BPX TV Radio
@@ -322,9 +326,9 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-id="FolkTV.mk" tvg-name="Folk TV" tvg-logo="" group-title="Music",Folk TV
 https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 #EXTINF:-1 tvg-id="FolxMusicTelevision.de" tvg-name="Folx Music Television" tvg-logo="" group-title="Music",Folx Music Television
-https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+https://folxapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="FolxSlovenija.si" tvg-name="Folx Slovenija" tvg-logo="" group-title="Music",Folx Slovenija
-https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="FomixTV.nl" tvg-name="FomixTV" tvg-logo="" group-title="Music",FomixTV
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-id="FTV.uz" tvg-name="FTV" tvg-logo="" group-title="Music",FTV
@@ -776,9 +780,9 @@ https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-id="ONFM.pt" tvg-name="ON FM" tvg-logo="" group-title="Music",ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAdria.de" tvg-name="One Adria" tvg-logo="" group-title="Music",One Adria
-https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="OneMusicTelevision.de" tvg-name="One Music Television" tvg-logo="" group-title="Music",One Music Television
-https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+https://oneapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="OneTV.lb" tvg-name="One TV" tvg-logo="" group-title="Music",One TV
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="OneFM.lb" tvg-name="OneFM" tvg-logo="" group-title="Music",OneFM
@@ -1520,4 +1524,4 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="" group-title="Music",Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-name="Zwei Music Television" tvg-logo="" group-title="Music",Zwei Music Television
-https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+https://zweiapp.b-cdn.net/1080p/index.m3u8
