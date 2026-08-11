@@ -311,6 +311,8 @@ https://sb.err.ee/live/etv2.m3u8
 http://tvsen5.aynascope.net/familyjr/index.m3u8
 #EXTINF:-1 tvg-id="FETV.us" tvg-name="FETV" tvg-logo="" group-title="Kids & Family",FETV
 https://gpuserver3.tier1streams.com/FETV/index.m3u8
+#EXTINF:-1 tvg-id="FETV.us" tvg-name="FETV" tvg-logo="" group-title="Kids & Family",FETV
+http://40.160.24.56/FETV_SD/index.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" tvg-logo="" group-title="Kids & Family",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="" group-title="Kids & Family",France 4
@@ -327,6 +329,8 @@ https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8
 http://40.160.24.52/FREEFORM/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="" group-title="Kids & Family",Freeform
 https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="" group-title="Kids & Family",Freeform
+http://40.160.24.56/FREEFORM_SD/index.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="" group-title="Kids & Family",Garfield and Friends
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="" group-title="Kids & Family",Garfield and Friends
@@ -901,6 +905,8 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://stream.mcquack.net/118/index.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" tvg-logo="" group-title="Kids & Family",Solnce
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" tvg-logo="" group-title="Kids & Family",Sony Yay!
+https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-name="Spacetoon Arabic" tvg-logo="" group-title="Kids & Family",Spacetoon Arabic
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-name="SpongeBob Schwammkopf" tvg-logo="" group-title="Kids & Family",SpongeBob Schwammkopf
@@ -945,6 +951,8 @@ http://31.148.48.15/STS_Love/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-name="Super Simple Songs" tvg-logo="" group-title="Kids & Family",Super Simple Songs
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="" group-title="Kids & Family",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperiCarly.us" tvg-name="Super! iCarly" tvg-logo="" group-title="Kids & Family",Super! iCarly
 https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
 #EXTINF:-1 tvg-id="SuperPop.us" tvg-name="Super! Pop" tvg-logo="" group-title="Kids & Family",Super! Pop

@@ -1444,9 +1444,9 @@ http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US News & Weather",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US News & Weather",Fox News Channel
-https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US News & Weather",Fox News Channel
 https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="" group-title="US News & Weather",Fox News Channel
+http://40.160.24.56/FOX_NEWS_SD/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-name="Fox News Radio" tvg-logo="" group-title="US News & Weather",Fox News Radio
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="" group-title="US News & Weather",Fox Weather
@@ -2273,8 +2273,6 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
 https://cdn-7.pishow.tv/live/455/master.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
-https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" tvg-logo="" group-title="US News & Weather",NK TV 24x7
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" tvg-logo="" group-title="US News & Weather",NK TV Bangla
@@ -3353,6 +3351,8 @@ https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 #EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action 24" tvg-logo="" group-title="Movies & Classic TV",Action 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="ActionMax" tvg-logo="" group-title="Movies & Classic TV",ActionMax
+http://40.160.24.56/ACTIONMAX_SD/index.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" tvg-logo="" group-title="Movies & Classic TV",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" tvg-logo="" group-title="Movies & Classic TV",Adrenalina Pura TV
@@ -4271,6 +4271,8 @@ https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="FrightFlix.us" tvg-name="FrightFlix" tvg-logo="" group-title="Movies & Classic TV",FrightFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="" group-title="Movies & Classic TV",FX Movie Channel
+http://40.160.24.56/FXM_SD/index.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.tr" tvg-name="GEM Bollywood" tvg-logo="" group-title="Movies & Classic TV",GEM Bollywood
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMClassic.tr" tvg-name="GEM Classic" tvg-logo="" group-title="Movies & Classic TV",GEM Classic
@@ -4899,6 +4901,8 @@ https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 tvg-id="MoreMax.us" tvg-name="MoreMax" tvg-logo="" group-title="Movies & Classic TV",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="MoreMax" tvg-logo="" group-title="Movies & Classic TV",MoreMax
+http://40.160.24.56/MOREMAX_SD/index.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" tvg-logo="" group-title="Movies & Classic TV",Mosfilm Gold Collection
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" tvg-logo="" group-title="Movies & Classic TV",Mosfilm Gold Collection
@@ -6451,6 +6455,8 @@ https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="Zee Bollywood" tvg-logo="" group-title="Movies & Classic TV",Zee Bollywood
 http://149.71.34.166:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="Zee Bollywood" tvg-logo="" group-title="Movies & Classic TV",Zee Bollywood
+https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-logo="" group-title="Movies & Classic TV",Zee Cafe
 http://103.72.101.252:8080/live/1319.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-logo="" group-title="Movies & Classic TV",Zee Cafe
@@ -6789,6 +6795,8 @@ https://sb.err.ee/live/etv2.m3u8
 http://tvsen5.aynascope.net/familyjr/index.m3u8
 #EXTINF:-1 tvg-id="FETV.us" tvg-name="FETV" tvg-logo="" group-title="Kids & Family",FETV
 https://gpuserver3.tier1streams.com/FETV/index.m3u8
+#EXTINF:-1 tvg-id="FETV.us" tvg-name="FETV" tvg-logo="" group-title="Kids & Family",FETV
+http://40.160.24.56/FETV_SD/index.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" tvg-logo="" group-title="Kids & Family",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="" group-title="Kids & Family",France 4
@@ -6805,6 +6813,8 @@ https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8
 http://40.160.24.52/FREEFORM/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="" group-title="Kids & Family",Freeform
 https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="" group-title="Kids & Family",Freeform
+http://40.160.24.56/FREEFORM_SD/index.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="" group-title="Kids & Family",Garfield and Friends
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="" group-title="Kids & Family",Garfield and Friends
@@ -7379,6 +7389,8 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://stream.mcquack.net/118/index.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" tvg-logo="" group-title="Kids & Family",Solnce
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" tvg-logo="" group-title="Kids & Family",Sony Yay!
+https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-name="Spacetoon Arabic" tvg-logo="" group-title="Kids & Family",Spacetoon Arabic
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-name="SpongeBob Schwammkopf" tvg-logo="" group-title="Kids & Family",SpongeBob Schwammkopf
@@ -7423,6 +7435,8 @@ http://31.148.48.15/STS_Love/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-name="Super Simple Songs" tvg-logo="" group-title="Kids & Family",Super Simple Songs
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="" group-title="Kids & Family",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperiCarly.us" tvg-name="Super! iCarly" tvg-logo="" group-title="Kids & Family",Super! iCarly
 https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
 #EXTINF:-1 tvg-id="SuperPop.us" tvg-name="Super! Pop" tvg-logo="" group-title="Kids & Family",Super! Pop
@@ -7635,6 +7649,8 @@ https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" tvg-logo="" group-title="Sports & Highlights",ACC Digital Network
 https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="" group-title="Sports & Highlights",ACC Network
+http://40.160.24.56/ACC_NETWORK_SD/index.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="" group-title="Sports & Highlights",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="" group-title="Sports & Highlights",ACI Sport TV
@@ -7683,8 +7699,6 @@ https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
 https://nl1.nghk.ai/AS10HRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport10.rs" tvg-name="Arena Sport 10" tvg-logo="" group-title="Sports & Highlights",Arena Sport 10
 https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1x2.rs" tvg-name="Arena Sport 1x2" tvg-logo="" group-title="Sports & Highlights",Arena Sport 1x2
-https://webtvstream.bhtelecom.ba/arena_1x2.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.ba" tvg-name="Arena Sport 2" tvg-logo="" group-title="Sports & Highlights",Arena Sport 2
 https://nl1.nghk.ai/ArenaSport2BH/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="Arena Sport 2" tvg-logo="" group-title="Sports & Highlights",Arena Sport 2
@@ -7859,10 +7873,6 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://143.14.134.107/167/index.m3u8
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" tvg-logo="" group-title="Sports & Highlights",Combate
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-name="Cosmote Sport 1" tvg-logo="" group-title="Sports & Highlights",Cosmote Sport 1
-https://7nyaler.streamhostingcdn.top/stream/26/index.m3u8
-#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-name="Cosmote Sport 4" tvg-logo="" group-title="Sports & Highlights",Cosmote Sport 4
-https://7nyaler.streamhostingcdn.top/stream/72/index.m3u8
 #EXTINF:-1 tvg-id="CricketGold.au" tvg-name="Cricket Gold" tvg-logo="" group-title="Sports & Highlights",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 #EXTINF:-1 tvg-id="CricketGold.au" tvg-name="Cricket Gold" tvg-logo="" group-title="Sports & Highlights",Cricket Gold
@@ -8933,6 +8943,8 @@ http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8
 http://91.146.94.234:10001/play/a07f
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="" group-title="Sports & Highlights",TVP Sport
 https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="" group-title="Sports & Highlights",TVP Sport
+https://tvpi.travny.workers.dev/tvpsport.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="" group-title="Sports & Highlights",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-logo="" group-title="Sports & Highlights",TVRI Sport
@@ -9169,6 +9181,8 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="" group-title="Music",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="" group-title="Music",AXS TV
+http://40.160.24.56/AXS_TV_SD/index.m3u8
 #EXTINF:-1 tvg-id="B4UHitz.in" tvg-name="B4U Hitz" tvg-logo="" group-title="Music",B4U Hitz
 http://115.42.65.142:9981/stream/channelid/1099703605
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="" group-title="Music",B4U Music
@@ -9277,6 +9291,8 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="" group-title="Music",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="" group-title="Music",CMT
+http://40.160.24.56/CMT_SD/index.m3u8
 #EXTINF:-1 tvg-id="CMTEqualPlay.us" tvg-name="CMT Equal Play" tvg-logo="" group-title="Music",CMT Equal Play
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-name="Company TV" tvg-logo="" group-title="Music",Company TV
@@ -9345,6 +9361,8 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV" tvg-logo="" group-title="Music",Eska TV
 http://91.246.72.88:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV" tvg-logo="" group-title="Music",Eska TV
+https://lowa8026-cmyk.github.io/PL/eskatv.php.m3u8
 #EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="" group-title="Music",ETV Music
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-name="Euro Indie Music Chart TV" tvg-logo="" group-title="Music",Euro Indie Music Chart TV
@@ -9445,6 +9463,8 @@ https://streamer2.nexgen.bz/13-HITZ/index.m3u8
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="HypeVisualRadio.nl" tvg-name="Hype Visual Radio" tvg-logo="" group-title="Music",Hype Visual Radio
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" tvg-logo="" group-title="Music",Impact TV
+https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" tvg-logo="" group-title="Music",Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="Impact TV Manele" tvg-logo="" group-title="Music",Impact TV Manele
@@ -9943,6 +9963,8 @@ https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTiVu.it" tvg-name="Radio Capital TiVu" tvg-logo="" group-title="Music",Radio Capital TiVu
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioChisinau.md" tvg-name="Radio Chisinau" tvg-logo="" group-title="Music",Radio Chisinau
+https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1 tvg-id="RadioContact.be" tvg-name="Radio Contact" tvg-logo="" group-title="Music",Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-name="RADIO DISCOunt TV" tvg-logo="" group-title="Music",RADIO DISCOunt TV
@@ -16780,8 +16802,6 @@ https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="" group-title="Spanish",Willax TV
 http://187.102.210.46/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="" group-title="Spanish",Willax TV
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="" group-title="Spanish",Willax TV
 http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="" group-title="Spanish",Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
@@ -18048,6 +18068,8 @@ http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="" group-title="Other US Public Channels",ABC
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="" group-title="Other US Public Channels",ABC
+http://40.160.24.56/ABC_SD/index.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="" group-title="Other US Public Channels",ABC
 http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-name="Absolute Reality by WE TV" tvg-logo="" group-title="Other US Public Channels",Absolute Reality by WE TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
@@ -18159,6 +18181,8 @@ https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-name="AsianCrush" tvg-logo="" group-title="Other US Public Channels",AsianCrush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Aspire.us" tvg-name="Aspire" tvg-logo="" group-title="Other US Public Channels",Aspire
+http://40.160.24.56/ASPIRE_SD/index.m3u8
 #EXTINF:-1 tvg-id="ATL26.us" tvg-name="ATL 26" tvg-logo="" group-title="Other US Public Channels",ATL 26
 https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
 #EXTINF:-1 tvg-id="AtlantaChannel.us" tvg-name="Atlanta Channel" tvg-logo="" group-title="Other US Public Channels",Atlanta Channel
@@ -18209,6 +18233,8 @@ https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
 https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="" group-title="Other US Public Channels",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="" group-title="Other US Public Channels",BBC America
+http://40.160.24.56/BBC_AMERICA_SD/index.m3u8
 #EXTINF:-1 tvg-id="BBCFood.us" tvg-name="BBC Food" tvg-logo="" group-title="Other US Public Channels",BBC Food
 https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-name="BBC Home & Garden" tvg-logo="" group-title="Other US Public Channels",BBC Home & Garden
@@ -18241,12 +18267,22 @@ http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls
 https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
 #EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us" tvg-name="Best of The Drew Barrymore Show" tvg-logo="" group-title="Other US Public Channels",Best of The Drew Barrymore Show
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="" group-title="Other US Public Channels",BET
+http://40.160.24.56/BET_EAST_SD/index.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="" group-title="Other US Public Channels",BET
+http://40.160.24.56/BET_WEST_SD/index.m3u8
 #EXTINF:-1 tvg-id="BETClassicsPlutoTV.us" tvg-name="BET Classics Pluto TV" tvg-logo="" group-title="Other US Public Channels",BET Classics Pluto TV
 https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her" tvg-logo="" group-title="Other US Public Channels",BET Her
+http://40.160.24.56/BET_HER_SD/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="" group-title="Other US Public Channels",BET Jams
+http://40.160.24.56/BET_JAMS_SD/index.m3u8
 #EXTINF:-1 tvg-id="BETPlutoTV.us" tvg-name="BET Pluto TV" tvg-logo="" group-title="Other US Public Channels",BET Pluto TV
 https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 #EXTINF:-1 tvg-id="BETPlutoTV.us" tvg-name="BET Pluto TV" tvg-logo="" group-title="Other US Public Channels",BET Pluto TV
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us" tvg-name="BET Soul" tvg-logo="" group-title="Other US Public Channels",BET Soul
+http://40.160.24.56/BET_SOUL_SD/index.m3u8
 #EXTINF:-1 tvg-id="BETThrowbacks.us" tvg-name="BET Throwbacks" tvg-logo="" group-title="Other US Public Channels",BET Throwbacks
 https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
 #EXTINF:-1 tvg-id="BetterHealthTV.us" tvg-name="Better Health TV" tvg-logo="" group-title="Other US Public Channels",Better Health TV
@@ -18336,6 +18372,8 @@ http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="" group-title="Other US Public Channels",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="" group-title="Other US Public Channels",Bloomberg TV
+http://40.160.24.56/BLOOMBERG_SD/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="" group-title="Other US Public Channels",Bloomberg TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=XfUcpFmGLda
 #EXTINF:-1 tvg-id="BMCHDTV.us" tvg-name="BMC-HD TV" tvg-logo="" group-title="Other US Public Channels",BMC-HD TV
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -18347,6 +18385,8 @@ https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
 http://40.160.24.58/BOUNCE_TV/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.us" tvg-name="Bounce" tvg-logo="" group-title="Other US Public Channels",Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.us" tvg-name="Bounce" tvg-logo="" group-title="Other US Public Channels",Bounce
+http://40.160.24.56/BOUNCE_SD/index.m3u8
 #EXTINF:-1 tvg-id="BounceXL.us" tvg-name="Bounce XL" tvg-logo="" group-title="Other US Public Channels",Bounce XL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="BounceXL.us" tvg-name="Bounce XL" tvg-logo="" group-title="Other US Public Channels",Bounce XL
@@ -18359,6 +18399,8 @@ https://aegis-cloudfront-1.tubi.video/22eea4e9-00a6-427c-92dd-57e78cc160dc/playl
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="" group-title="Other US Public Channels",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="" group-title="Other US Public Channels",Bravo
+http://40.160.24.56/BRAVO_SD/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="" group-title="Other US Public Channels",Bravo
 http://40.160.24.52/BRAVO_WEST/index.m3u8
 #EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us" tvg-name="Brevard Government Access TV" tvg-logo="" group-title="Other US Public Channels",Brevard Government Access TV
@@ -18521,14 +18563,20 @@ https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CMTV.us" tvg-name="CMTV" tvg-logo="" group-title="Other US Public Channels",CMTV
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="" group-title="Other US Public Channels",CNBC
+http://40.160.24.56/CNBC_SD/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World" tvg-logo="" group-title="Other US Public Channels",CNBC World
 https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World" tvg-logo="" group-title="Other US Public Channels",CNBC World
+http://40.160.24.56/CNBC_WORLD_SD/index.m3u8
 #EXTINF:-1 tvg-id="CollierTV.us" tvg-name="Collier TV" tvg-logo="" group-title="Other US Public Channels",Collier TV
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="" group-title="Other US Public Channels",Comedy Central
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="" group-title="Other US Public Channels",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="" group-title="Other US Public Channels",Comedy Central
+http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-name="Comedy Central Animation" tvg-logo="" group-title="Other US Public Channels",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-name="Comedy Central en Espanol" tvg-logo="" group-title="Other US Public Channels",Comedy Central en Espanol
@@ -18601,6 +18649,8 @@ https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playl
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV" tvg-logo="" group-title="Other US Public Channels",Cozi TV
 https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV" tvg-logo="" group-title="Other US Public Channels",Cozi TV
+http://40.160.24.56/COZI_TV_SD/index.m3u8
 #EXTINF:-1 tvg-id="Create.us" tvg-name="Create" tvg-logo="" group-title="Other US Public Channels",Create
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel15.us" tvg-name="CreaTV Channel 15" tvg-logo="" group-title="Other US Public Channels",CreaTV Channel 15
@@ -18657,6 +18707,8 @@ https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CW.us" tvg-name="CW" tvg-logo="" group-title="Other US Public Channels",CW
 https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="CW.us" tvg-name="CW" tvg-logo="" group-title="Other US Public Channels",CW
+http://40.160.24.56/CW_SD/index.m3u8
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-name="Cypress Channel 36" tvg-logo="" group-title="Other US Public Channels",Cypress Channel 36
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="Dabl.us" tvg-name="Dabl" tvg-logo="" group-title="Other US Public Channels",Dabl
@@ -18758,11 +18810,11 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2226
 #EXTINF:-1 tvg-id="E.us" tvg-name="E!" tvg-logo="" group-title="Other US Public Channels",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="E.us" tvg-name="E!" tvg-logo="" group-title="Other US Public Channels",E!
-https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8
+http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8
 #EXTINF:-1 tvg-id="E.us" tvg-name="E!" tvg-logo="" group-title="Other US Public Channels",E!
 http://185.102.171.218/Entertainment/index.m3u8
 #EXTINF:-1 tvg-id="E.us" tvg-name="E!" tvg-logo="" group-title="Other US Public Channels",E!
-https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8
+http://40.160.24.56/E_ENTERTAINMENT_WEST_SD/index.m3u8
 #EXTINF:-1 tvg-id="EKeepingUp.us" tvg-name="E! Keeping Up" tvg-logo="" group-title="Other US Public Channels",E! Keeping Up
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="EBS.us" tvg-name="EBS" tvg-logo="" group-title="Other US Public Channels",EBS
@@ -18898,11 +18950,15 @@ http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="" group-title="Other US Public Channels",Fox
 https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="" group-title="Other US Public Channels",Fox
+http://40.160.24.56/FOX_SD/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="" group-title="Other US Public Channels",Fox
 http://stream.cammonitorplus.net/1799/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="" group-title="Other US Public Channels",Fox Business Network
 http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="" group-title="Other US Public Channels",Fox Business Network
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="" group-title="Other US Public Channels",Fox Business Network
+http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" tvg-logo="" group-title="Other US Public Channels",Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" tvg-logo="" group-title="Other US Public Channels",Fox Soul
@@ -18923,6 +18979,8 @@ https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="" group-title="Other US Public Channels",Fuse
 https://gpuserver3.tier1streams.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="" group-title="Other US Public Channels",Fuse
+http://40.160.24.56/FUSE_SD/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="" group-title="Other US Public Channels",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="" group-title="Other US Public Channels",FX
@@ -18931,6 +18989,8 @@ http://tvsen7.aynascope.net/fx/index.m3u8
 https://gpuserver3.tier1streams.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="" group-title="Other US Public Channels",FX
 http://40.160.24.52/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="" group-title="Other US Public Channels",FX
+http://40.160.24.56/FX_SD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="" group-title="Other US Public Channels",FX Latin America
 http://45.162.193.35/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="" group-title="Other US Public Channels",FX Latin America
@@ -18947,6 +19007,8 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 https://gpuserver3.tier1streams.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="" group-title="Other US Public Channels",FXX
 http://40.160.24.52/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="" group-title="Other US Public Channels",FXX
+http://40.160.24.56/FXX_SD/index.m3u8
 #EXTINF:-1 tvg-id="G10TV.us" tvg-name="G10TV" tvg-logo="" group-title="Other US Public Channels",G10TV
 https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" tvg-logo="" group-title="Other US Public Channels",Gagsnetwork
@@ -19391,8 +19453,6 @@ https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
 http://40.160.24.53/METV/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV" tvg-logo="" group-title="Other US Public Channels",MeTV
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-#EXTINF:-1 tvg-id="MeTVPlus.us" tvg-name="MeTV+" tvg-logo="" group-title="Other US Public Channels",MeTV+
-http://40.160.24.53/METV_Plus/index.m3u8
 #EXTINF:-1 tvg-id="MidnightPulp.us" tvg-name="Midnight Pulp" tvg-logo="" group-title="Other US Public Channels",Midnight Pulp
 https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MidnightPulp.us" tvg-name="Midnight Pulp" tvg-logo="" group-title="Other US Public Channels",Midnight Pulp
@@ -23797,8 +23857,6 @@ https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8
 #EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV" tvg-logo="" group-title="Other International - FR",RFM TV
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
-#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV" tvg-logo="" group-title="Other International - FR",RFM TV
-https://s.viks.tv/204/index.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr" tvg-name="RMC Life" tvg-logo="" group-title="Other International - FR",RMC Life
 http://145.239.5.177/333/index.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story" tvg-logo="" group-title="Other International - FR",RMC Story
@@ -23829,8 +23887,12 @@ http://145.239.5.177/315/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="" group-title="Other International - FR",TMC
 http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-id="TVAlsace.fr" tvg-name="TV Alsace" tvg-logo="" group-title="Other International - FR",TV Alsace
+http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="TV Breizh" tvg-logo="" group-title="Other International - FR",TV Breizh
 http://145.239.5.177/318/index.m3u8
+#EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-name="TV Mulhouse" tvg-logo="" group-title="Other International - FR",TV Mulhouse
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-id="TV3V.fr" tvg-name="TV3V" tvg-logo="" group-title="Other International - FR",TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr" tvg-name="TV5Monde Africa" tvg-logo="" group-title="Other International - FR",TV5Monde Africa
@@ -24131,8 +24193,12 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-logo="" group-title="Other International - HR",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic" tvg-logo="" group-title="Other International - HR",National Geographic
+http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="" group-title="Other International - HR",Nova TV
 https://str.gledamsport.com/proxy.php?c=nova&path=mono.m3u8&type=playlist
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="" group-title="Other International - HR",Nova TV
+http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr" tvg-name="Radio Televizija Banovina" tvg-logo="" group-title="Other International - HR",Radio Televizija Banovina
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" tvg-logo="" group-title="Other International - HR",SBTV
@@ -25206,7 +25272,7 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="MKSix.in" tvg-name="MK Six" tvg-logo="" group-title="Other International - IN",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" tvg-logo="" group-title="Other International - IN",MTV
-https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" tvg-logo="" group-title="Other International - IN",MTV
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" tvg-logo="" group-title="Other International - IN",National Geographic
@@ -26139,8 +26205,6 @@ http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTVOristano.it" tvg-name="Super TV Oristano" tvg-logo="" group-title="Other International - IT",Super TV Oristano
 http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="" group-title="Other International - IT",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="T9.it" tvg-name="T9" tvg-logo="" group-title="Other International - IT",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
 #EXTINF:-1 tvg-id="TaurianovaTV.it" tvg-name="Taurianova TV" tvg-logo="" group-title="Other International - IT",Taurianova TV
@@ -26293,8 +26357,6 @@ http://45.63.116.205/hls4/stream1.m3u8
 http://45.63.116.205/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo" tvg-name="Rotana Tarab Jordan City View" tvg-logo="" group-title="Other International - JO",Rotana Tarab Jordan City View
 http://45.63.116.205/hls3/stream1.m3u8
-#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax" tvg-logo="" group-title="Other International - JP",Animax
-https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="GSTV.jp" tvg-name="GSTV" tvg-logo="" group-title="Other International - JP",GSTV
 https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
 #EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-name="JOAX-DTV" tvg-logo="" group-title="Other International - JP",JOAX-DTV
@@ -27751,6 +27813,8 @@ http://91.146.94.234:10001/play/a06z
 http://193.24.244.60:1001/udp/239.254.4.122:6060
 #EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" tvg-logo="" group-title="Other International - PL",Puls 2
 https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8
+#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" tvg-logo="" group-title="Other International - PL",Puls 2
+https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radiowa Czworka" tvg-logo="" group-title="Other International - PL",Radiowa Czworka
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RedCarpetTVInternational.pl" tvg-name="Red Carpet TV International" tvg-logo="" group-title="Other International - PL",Red Carpet TV International
@@ -27773,6 +27837,8 @@ https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u
 https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-name="Telewizja Luban" tvg-logo="" group-title="Other International - PL",Telewizja Luban
 http://stream.herissons.cloud/hls/tvluban.m3u8
+#EXTINF:-1 tvg-id="TelewizjaNarew.pl" tvg-name="Telewizja Narew" tvg-logo="" group-title="Other International - PL",Telewizja Narew
+https://lowa8026-cmyk.github.io/PL/TVNAREW.php.m3u8
 #EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" tvg-logo="" group-title="Other International - PL",Telewizja Regionalna Zary
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
 #EXTINF:-1 tvg-id="TelewizjaRelax.pl" tvg-name="Telewizja Relax" tvg-logo="" group-title="Other International - PL",Telewizja Relax
@@ -27803,6 +27869,8 @@ https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
 http://193.24.244.60:1001/udp/239.254.4.121:6060
 #EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" tvg-logo="" group-title="Other International - PL",TV Puls
 https://vs2120.vcdn.biz/6c6efc7232fd4d41767bcf4432d64e46_megogo/live/hls/b/700_2490_4000/u_sid/0/o/199953841/rsid/92e35ec5-e017-49e3-a917-4bb5a4bfc914/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/62.112.222.137*asn/u_srvc/81255/u_did/web_sJuDrXmW94S8elpG4blsFdv4WzmPUnfC/type.live/chunklist-sid713429206258929104-b4000000.m3u8
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" tvg-logo="" group-title="Other International - PL",TV Puls
+https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin" tvg-logo="" group-title="Other International - PL",TV Regionalna Lubin
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
 #EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="" group-title="Other International - PL",TV Republika
@@ -27815,12 +27883,16 @@ https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/tr
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3 Warszawa" tvg-logo="" group-title="Other International - PL",TVP 3 Warszawa
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7284/index.m3u8
+#EXTINF:-1 tvg-id="TVPDokument.pl" tvg-name="TVP Dokument" tvg-logo="" group-title="Other International - PL",TVP Dokument
+https://tvpi.travny.workers.dev/tvpdokument.m3u8
 #EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia" tvg-logo="" group-title="Other International - PL",TVP Historia
 https://tvp3.cache.orange.pl/tvp/live/JQmETX58eM7X32i5AVKZRQ/1783368986/video/live/live171/nginx/TKH/156/master.m3u8
 #EXTINF:-1 tvg-id="TVPHistoria2.pl" tvg-name="TVP Historia 2" tvg-logo="" group-title="Other International - PL",TVP Historia 2
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvphistoria2.m3u
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="" group-title="Other International - PL",TVP Info
 https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="" group-title="Other International - PL",TVP Info
+https://tvpi.travny.workers.dev/tvpinfo.m3u8
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="" group-title="Other International - PL",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia" tvg-logo="" group-title="Other International - PL",TVP Polonia
@@ -27837,10 +27909,16 @@ https://raw.githubusercontent.com/travino/tvpi/main/streams/tvp1.m3u
 https://redir.cache.orange.pl/dai4/org1/vb/104/tvp1hd/manifest.mpd
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" tvg-logo="" group-title="Other International - PL",TVP1
 https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" tvg-logo="" group-title="Other International - PL",TVP1
+https://tvpi.travny.workers.dev/tvp1.m3u8
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" tvg-logo="" group-title="Other International - PL",TVP1
+https://lowa8026-cmyk.github.io/PL/TVP1.php.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" tvg-logo="" group-title="Other International - PL",TVP2
 https://tvpi.travny.workers.dev/tvp2.m3u
 #EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" tvg-logo="" group-title="Other International - PL",TVP2
 http://91.146.94.234:10001/play/a09f
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" tvg-logo="" group-title="Other International - PL",TVP2
+https://tvpi.travny.workers.dev/tvp2.m3u8
 #EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" tvg-logo="" group-title="Other International - PL",TVS
 https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8
 #EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" tvg-logo="" group-title="Other International - PL",TVT
@@ -27863,6 +27941,8 @@ https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-id="WPTV.pl" tvg-name="WP TV" tvg-logo="" group-title="Other International - PL",WP TV
 https://vs2142.vcdn.biz/f5c4d9b74c12f9db99c064d94631c59d_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/4673ad1b-2a38-46b9-82a9-7cbafbc54569/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/5.63.189.60*asn/u_srvc/81255/u_did/web_CMWYc1jg2seAIWTzywW0wnkKBUjPO3gG/type.live/chunklist-sid8153936265259287922-b4000000.m3u8
+#EXTINF:-1 tvg-id="WPTV.pl" tvg-name="WP TV" tvg-logo="" group-title="Other International - PL",WP TV
+https://lowa8026-cmyk.github.io/PL/WPHD.php.m3u8
 #EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom TV" tvg-logo="" group-title="Other International - PL",Zoom TV
 https://vs2129.vcdn.biz/2ad89fee23a33429ffc7fcf19b83bcce_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/670614f3-9200-4c9a-9559-2455038eabaf/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid8507882861226857319-b4000000.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-name="Ajyal TV" tvg-logo="" group-title="Other International - PS",Ajyal TV
@@ -28009,6 +28089,8 @@ https://stream1.kanald.ro/iphone/knd-live.m3u8
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro" tvg-name="Kanal D2" tvg-logo="" group-title="Other International - RO",Kanal D2
 https://aes.m3u8simplu.workers.dev/kanald2/index.m3u8
+#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" tvg-logo="" group-title="Other International - RO",Kapital TV
+https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-name="Light Channel" tvg-logo="" group-title="Other International - RO",Light Channel
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="" group-title="Other International - RO",MediCOOL TV
