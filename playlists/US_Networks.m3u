@@ -45,8 +45,6 @@ https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playl
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
 #EXTINF:-1 tvg-id="WPDETV151.us" tvg-name="WPDE-TV 15.1" tvg-logo="" group-title="US Local - ABC",WPDE-TV 15.1
 https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WRTV61.us" tvg-name="WRTV 6.1" tvg-logo="" group-title="US Local - ABC",WRTV 6.1
-https://aegis-cloudfront-1.tubi.video/bc9ff1c7-4dc1-4e36-9ef0-25b28c595ada/playlist.m3u8
 #EXTINF:-1 tvg-id="WSBDT1.us" tvg-name="WSB-DT1" tvg-logo="" group-title="US Local - ABC",WSB-DT1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WSOCTV91.us" tvg-name="WSOC-TV 9.1" tvg-logo="" group-title="US Local - ABC",WSOC-TV 9.1
@@ -104,9 +102,9 @@ https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playl
 #EXTINF:-1 tvg-id="WWMT31.us" tvg-name="WWMT 3.1" tvg-logo="" group-title="US Local - CBS",WWMT 3.1
 https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KNTV111.us" tvg-name="KNTV 11.1" tvg-logo="" group-title="US Local - NBC",KNTV 11.1
-https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
-#EXTINF:-1 tvg-id="KNTV111.us" tvg-name="KNTV 11.1" tvg-logo="" group-title="US Local - NBC",KNTV 11.1
 http://50.229.129.155/0.ts
+#EXTINF:-1 tvg-id="KNTV111.us" tvg-name="KNTV 11.1" tvg-logo="" group-title="US Local - NBC",KNTV 11.1
+https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
 #EXTINF:-1 tvg-id="KOBDT1.us" tvg-name="KOB-DT1" tvg-logo="" group-title="US Local - NBC",KOB-DT1
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRISTV61.us" tvg-name="KRIS-TV 6.1" tvg-logo="" group-title="US Local - NBC",KRIS-TV 6.1
@@ -175,8 +173,6 @@ https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 #EXTINF:-1 tvg-id="KDFW41.us" tvg-name="KDFW — Dallas-Fort Worth metroplex, TX" tvg-logo="" group-title="US Local - FOX",KDFW — Dallas-Fort Worth metroplex, TX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KDVR311.us" tvg-name="KDVR — Denver, CO" tvg-logo="" group-title="US Local - FOX",KDVR — Denver, CO
-http://stream.cammonitorplus.net/1768/index.m3u8
 #EXTINF:-1 tvg-id="KMPHTV261.us" tvg-name="KMPH-TV 26.1" tvg-logo="" group-title="US Local - FOX",KMPH-TV 26.1
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KMSPDT1.us" tvg-name="KMSP-DT1" tvg-logo="" group-title="US Local - FOX",KMSP-DT1
@@ -192,9 +188,9 @@ https://aegis-cloudfront-1.tubi.video/6bb80abf-8f73-46f3-a520-bb810d93f1d0/index
 #EXTINF:-1 tvg-id="KTBC71.us" tvg-name="KTBC 7.1" tvg-logo="" group-title="US Local - FOX",KTBC 7.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KTTV111.us" tvg-name="KTTV 11.1" tvg-logo="" group-title="US Local - FOX",KTTV 11.1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KTTV111.us" tvg-name="KTTV 11.1" tvg-logo="" group-title="US Local - FOX",KTTV 11.1
 https://n15sb.host5245.com/63/index.m3u8
+#EXTINF:-1 tvg-id="KTTV111.us" tvg-name="KTTV 11.1" tvg-logo="" group-title="US Local - FOX",KTTV 11.1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KTTV111.us" tvg-name="KTTV 11.1" tvg-logo="" group-title="US Local - FOX",KTTV 11.1
 https://aegis-cloudfront-1.tubi.video/317a6700-b890-4066-a2e7-dea5c15fd915/index.m3u8
 #EXTINF:-1 tvg-id="WBFF451.us" tvg-name="WBFF — Baltimore, MD" tvg-logo="" group-title="US Local - FOX",WBFF — Baltimore, MD

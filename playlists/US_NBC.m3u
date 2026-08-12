@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"
 #EXTINF:-1 tvg-id="KNTV111.us" tvg-name="KNTV 11.1" tvg-logo="" group-title="US Local - NBC",KNTV 11.1
-https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
-#EXTINF:-1 tvg-id="KNTV111.us" tvg-name="KNTV 11.1" tvg-logo="" group-title="US Local - NBC",KNTV 11.1
 http://50.229.129.155/0.ts
+#EXTINF:-1 tvg-id="KNTV111.us" tvg-name="KNTV 11.1" tvg-logo="" group-title="US Local - NBC",KNTV 11.1
+https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
 #EXTINF:-1 tvg-id="KOBDT1.us" tvg-name="KOB-DT1" tvg-logo="" group-title="US Local - NBC",KOB-DT1
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRISTV61.us" tvg-name="KRIS-TV 6.1" tvg-logo="" group-title="US Local - NBC",KRIS-TV 6.1
