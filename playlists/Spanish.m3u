@@ -36,9 +36,9 @@ https://cdn.fastocloud.com/leonel.m3u8
 #EXTINF:-1 tvg-id="15TV.mx" tvg-name="15TV" tvg-logo="" group-title="Spanish",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="" group-title="Spanish",24 Horas
-http://185.47.212.25:8080/24h_HD/index.m3u8
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="" group-title="Spanish",24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" tvg-logo="" group-title="Spanish",24 Horas Canarias
+http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" tvg-logo="" group-title="Spanish",24 Horas Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" tvg-logo="" group-title="Spanish",24 Horas Catalunya
@@ -1247,8 +1247,6 @@ https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" tvg-logo="" group-title="Spanish",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
-#EXTINF:-1 tvg-id="CordobaTV.es" tvg-name="Cordoba TV" tvg-logo="" group-title="Spanish",Cordoba TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="CorreaRadiovision.ar" tvg-name="Correa Radiovision" tvg-logo="" group-title="Spanish",Correa Radiovision
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 #EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-name="Corrientes TV" tvg-logo="" group-title="Spanish",Corrientes TV
@@ -1442,7 +1440,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 #EXTINF:-1 tvg-id="Docu.cl" tvg-name="Docu." tvg-logo="" group-title="Spanish",Docu.
 http://45.162.193.35/DOCU/index.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-name="Dreiko TV" tvg-logo="" group-title="Spanish",Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="DTV.pe" tvg-name="DTV" tvg-logo="" group-title="Spanish",DTV
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="DuendeTv.ec" tvg-name="Duende Tv" tvg-logo="" group-title="Spanish",Duende Tv
@@ -4156,8 +4154,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" tvg-logo="" group-title="Spanish",TVE Internacional Europe
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" tvg-logo="" group-title="Spanish",TVE Internacional Europe
-https://siarlive.psce.pw/channel5
-#EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" tvg-logo="" group-title="Spanish",TVE Internacional Europe
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" tvg-logo="" group-title="Spanish",TVE Star
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
@@ -4349,6 +4345,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-name="Univision Latin America" tvg-logo="" group-title="Spanish",Univision Latin America
 http://177.234.249.135:8888/Univision/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-name="Univision Latin America" tvg-logo="" group-title="Spanish",Univision Latin America
+https://streamer.metronethn.com/Univision/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-name="Univision Latin America" tvg-logo="" group-title="Spanish",Univision Latin America
 http://15.204.246.24:8080/UnivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-name="Univision Latin America" tvg-logo="" group-title="Spanish",Univision Latin America

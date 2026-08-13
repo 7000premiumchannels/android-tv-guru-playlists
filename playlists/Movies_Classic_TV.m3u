@@ -231,6 +231,8 @@ http://znty.dyndns.org:5010/hls/axn.m3u8
 http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" tvg-logo="" group-title="Movies & Classic TV",AXN Asia
 https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" tvg-logo="" group-title="Movies & Classic TV",AXN Asia
+http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="" group-title="Movies & Classic TV",AXN Black
 http://85.14.32.26:8800/udp/239.100.10.17:5000
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="" group-title="Movies & Classic TV",AXN Black
@@ -2971,6 +2973,8 @@ http://stream.mcquack.net/202/index.m3u8
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-id="VillageCinemas.gr" tvg-name="Village Cinemas" tvg-logo="" group-title="Movies & Classic TV",Village Cinemas
 http://185.102.171.218/Village/index.m3u8
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="Viva Cinema" tvg-logo="" group-title="Movies & Classic TV",Viva Cinema
+https://streams.comclark.com/pknsd/viva/playlist.m3u8
 #EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-name="Walker Texas Ranger" tvg-logo="" group-title="Movies & Classic TV",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-name="Walker Texas Ranger" tvg-logo="" group-title="Movies & Classic TV",Walker Texas Ranger
