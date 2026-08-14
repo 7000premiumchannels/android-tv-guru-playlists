@@ -19,13 +19,24 @@ import re
 
 from .callsigns import extract_callsign
 
+# Trailing lookahead is (?=\d|\b) rather than a plain \b: some markets brand
+# their local affiliate with a digit suffix directly against the network
+# name in IPTV-org's "network" field (e.g. "CW6", "PBS39 Extra"), and a
+# digit is itself a word character, so a plain \bNETWORK\b never matches -
+# confirmed this silently misclassified real stations (WSTM-DT2/WSTQ-LP1,
+# network "CW6"; WYBE-DT1, network "PBS39 Extra") into "Other US Public
+# Channels" instead of their real local network group. The leading \b is
+# unchanged, so this still correctly rejects a network value where the
+# letters are merely a substring of an unrelated word (e.g. "CNBC" is a
+# distinct cable network, not a local NBC affiliate, and still doesn't
+# match \bNBC).
 NETWORK_PATTERNS = [
-    ("ABC", re.compile(r"\bABC\b|American Broadcasting", re.I)),
-    ("CBS", re.compile(r"\bCBS\b", re.I)),
-    ("NBC", re.compile(r"\bNBC\b", re.I)),
-    ("FOX", re.compile(r"\bFOX\b", re.I)),
-    ("CW", re.compile(r"\bCW\b|The CW", re.I)),
-    ("PBS", re.compile(r"\bPBS\b|Public Broadcasting", re.I)),
+    ("ABC", re.compile(r"\bABC(?=\d|\b)|American Broadcasting", re.I)),
+    ("CBS", re.compile(r"\bCBS(?=\d|\b)", re.I)),
+    ("NBC", re.compile(r"\bNBC(?=\d|\b)", re.I)),
+    ("FOX", re.compile(r"\bFOX(?=\d|\b)", re.I)),
+    ("CW", re.compile(r"\bCW(?=\d|\b)|The CW", re.I)),
+    ("PBS", re.compile(r"\bPBS(?=\d|\b)|Public Broadcasting", re.I)),
     ("Telemundo", re.compile(r"\bTelemundo\b", re.I)),
     ("Univision", re.compile(r"\bUnivision\b", re.I)),
 ]

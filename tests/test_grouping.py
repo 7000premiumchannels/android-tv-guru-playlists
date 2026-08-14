@@ -86,3 +86,27 @@ def test_sort_key_orders_local_groups_before_other_international():
 def test_sort_key_matches_declared_group_order():
     keys = [sort_key(g) for g in GROUP_ORDER]
     assert keys == sorted(keys)
+
+
+def test_network_field_with_digit_suffix_still_classifies_local():
+    # Some markets brand their local affiliate with a digit directly against
+    # the network name in IPTV-org's "network" field (e.g. "CW6", "PBS39
+    # Extra"). A digit is a word character, so a plain \bNETWORK\b regex
+    # never matches this - real bug, confirmed against real IPTV-org data
+    # for WSTM-DT2/WSTQ-LP1 (network "CW6") and WYBE-DT1 (network "PBS39
+    # Extra"), all silently dropped into "Other US Public Channels" instead
+    # of their real local group.
+    cw6 = us_channel(id="WSTMDT2.us", name="WSTM-DT2", network="CW6")
+    assert determine_group(cw6) == "US Local - CW"
+
+    pbs39 = us_channel(id="WYBEDT1.us", name="WYBE-DT1", network="PBS39 Extra")
+    assert determine_group(pbs39) == "US Local - PBS"
+
+
+def test_network_field_substring_of_unrelated_word_not_misclassified():
+    # "CNBC" contains the letters "NBC" but is a distinct cable network, not
+    # a local NBC affiliate - must not match even with the digit-suffix
+    # lookahead added above (the leading \b is unchanged: there's no word
+    # boundary between "C" and "N" in "CNBC").
+    channel = us_channel(id="KVMDDT17.us", name="KVMD-DT17", network="VNBC")
+    assert determine_group(channel) != "US Local - NBC"
