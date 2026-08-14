@@ -11,9 +11,11 @@ android_tv_guru/
   stations.py    StationDirectory: loads data/us_tv_stations.json, call sign
                  -> city/state. Missing entries are normal (partial
                  coverage); callers fall back to the original channel name
-                 rather than guess. Also owns the Wikidata importer
-                 (fetch_station_records_from_wikidata / build_station_directory)
-                 — see docs/DATA_SOURCES.md for the source decision.
+                 rather than guess. Also owns the station importers
+                 (fetch_station_records_from_rabbitears, the primary
+                 source; fetch_station_records_from_wikidata, a
+                 supplementary fallback; build_station_directory merges
+                 both) — see docs/DATA_SOURCES.md for the source decision.
   grouping.py    group-title classification: local network (requires a call
                  sign), IPTV-org category, Spanish/African & Caribbean
                  heuristics, "Other International - <cc>" fallback.
@@ -70,7 +72,7 @@ Playlist generation and EPG generation are deliberately separate:
         playlists/states/<State>.m3u
 
 .github/workflows/update-epg.yml   (triggered after the above completes)
-  scripts/update_station_data.py -> data/us_tv_stations.json (Wikidata refresh)
+  scripts/update_station_data.py -> data/us_tv_stations.json (RabbitEars + Wikidata refresh)
   scripts/build_epg_source.py    -> android_tv_guru.epg.build_and_write()
       fetches tvguide.com + i.mjh.nz channel lists, matches against the
       channel ids published in AndroidTVGuru.m3u

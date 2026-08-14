@@ -47,10 +47,11 @@ CALLSIGN — City, ST
 e.g. `WDIV-TV — Detroit, MI`. When it isn't, the original IPTV-org channel
 name is used unchanged (e.g. `KABC-TV 7.1`) — never a guessed city/state.
 
-Coverage is partial by design: our station directory is built from Wikidata
-(CC0-licensed, queried in bulk), not the full FCC license database — see
-`docs/DATA_SOURCES.md` for why, and what would need to change to get full
-coverage.
+Coverage is partial by design: our station directory is built primarily from
+RabbitEars.info's per-state station listings (~6,970 call signs), with
+Wikidata (CC0-licensed, queried in bulk) filling any remaining gap, not the
+full FCC license database — see `docs/DATA_SOURCES.md` for why, and what
+would need to change to get full coverage.
 
 ## EPG (program guide)
 
@@ -105,7 +106,7 @@ alone. See `docs/EPG_MATCHING.md` for the full matching rules.
 ### How AndroidTVGuru.xml.gz is generated
 
 ```
-android_tv_guru/stations.py (Wikidata importer) -> data/us_tv_stations.json (used only for conflict checks)
+android_tv_guru/stations.py (RabbitEars + Wikidata importer) -> data/us_tv_stations.json (used only for conflict checks)
 android_tv_guru/epg.py (source matching)         -> epg/grabber-input.channels.xml + reports/epg-*.csv
 iptv-org/epg `grab` command (pinned commit)       -> raw per-source XMLTV
 android_tv_guru/epg.py (merge)                    -> AndroidTVGuru.xml + AndroidTVGuru.xml.gz

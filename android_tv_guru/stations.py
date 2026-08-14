@@ -8,7 +8,9 @@ error; callers should fall back to the original channel name.
 
 import datetime
 import json
+import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -19,14 +21,61 @@ from .callsigns import extract_callsign
 
 DEFAULT_PATH = Path(__file__).resolve().parent.parent / "data" / "us_tv_stations.json"
 
-# SOURCE DECISION (see docs/DATA_SOURCES.md for full detail): the FCC's LMS
-# Public Database Files (https://enterpriseefiling.fcc.gov/dataentry/public/tv/lmsDatabase.html)
-# would be the preferred, authoritative source, but return HTTP 403 (Akamai
-# bot protection) to automated requests, and the catalog.data.gov listing for
-# the same dataset is a JS-rendered page with no static download link — both
-# unusable without browser automation, which is out of scope for a data
-# importer. We use Wikidata instead: public, free, CC0-licensed, queried in
-# bulk (one query per location property), not scraped per-station.
+# SOURCE DECISION (see docs/DATA_SOURCES.md for full detail): the FCC's own
+# LMS Public Database Files and every fcc.gov path tried (including the bare
+# robots.txt) return HTTP 403 from an Akamai bot-protection layer that blocks
+# this environment's network at the domain level, regardless of User-Agent or
+# specific endpoint — confirmed by re-testing with a realistic browser UA
+# against several fcc.gov/enterpriseefiling.fcc.gov/transition.fcc.gov paths
+# in 2026-08-14. RabbitEars.info (see fetch_station_records_from_rabbitears
+# below) republishes the same FCC city-of-license data with far denser
+# coverage than Wikidata and is used as the primary source; Wikidata fills
+# any remaining gaps.
+_RABBITEARS_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+)
+
+# All 50 states + DC + inhabited U.S. territories that can hold an FCC TV
+# license. RabbitEars' per-state search groups stations by Nielsen market,
+# which can span state lines (e.g. a Rhode-Island-market search also returns
+# stations licensed to nearby Massachusetts/Connecticut cities) and
+# occasionally spills into adjacent Canadian/Mexican jurisdictions in
+# border markets — both handled downstream by keeping each row's own
+# reported state and discarding non-U.S. state codes.
+_RABBITEARS_STATES = [
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA",
+    "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
+    "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT",
+    "VA", "WA", "DC", "WV", "WI", "WY", "PR", "GU", "VI", "AS", "MP",
+]
+
+# Not in US_STATE_NAMES (which drives state-playlist generation and is
+# intentionally limited to the 50 states + DC), but still legitimate FCC
+# licensing jurisdictions - kept here just to validate a row's reported
+# state without expanding US_STATE_NAMES' unrelated display-name role.
+_RABBITEARS_TERRITORIES = {"PR", "GU", "VI", "AS", "MP"}
+
+# RabbitEars' station tables are old-style, loosely-closed HTML (not valid
+# XML) at a scale (multi-megabyte per state) where a full DOM parse is slow
+# enough to matter; a targeted regex over the one row shape we need is both
+# far faster and, verified against a BeautifulSoup parse of a sample state,
+# produces identical results. It intentionally requires the call-sign link,
+# its closing </td>, and the immediately-following city/state <td>s to be
+# contiguous — this is what a genuine station row looks like, and it is what
+# excludes the channel-sharing "tenant" sub-rows that don't have this exact
+# shape (verified: those rows are silently and correctly skipped, not
+# mis-parsed).
+_RABBITEARS_ROW_RE = re.compile(
+    r'<a\s+href="[^"]*request=station_search&callsign=(?P<facility_id>\d+)[^"]*"[^>]*>'
+    r'(?:<nobr>)?(?P<call>[A-Z0-9]+(?:-[A-Z0-9]+)?)(?:</nobr>)?</a></td>\s*'
+    r'<td><nobr>(?P<city>[^<]+)</nobr></td>\s*'
+    r'<td>(?P<state>[A-Z]{2})</td>'
+)
+
+# SPARQL Wikidata endpoint used as a supplementary source (see
+# fetch_station_records_from_wikidata below): public, free, CC0-licensed,
+# queried in bulk (one query per location property), not scraped
+# per-station. Kept as a fallback for any call sign RabbitEars doesn't cover.
 _SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
 _WIKIDATA_USER_AGENT = (
     "AndroidTVGuruPlaylistBuilder/2.0 (https://github.com/7000premiumchannels/android-tv-guru-playlists)"
@@ -108,6 +157,72 @@ def _service_type_for(call_sign) -> str:
     return "full_power"
 
 
+def _fetch_rabbitears_state_page(state: str) -> str:
+    url = f"https://www.rabbitears.info/search.php?request=state_search&state={state}"
+    req = urllib.request.Request(url, headers={"User-Agent": _RABBITEARS_USER_AGENT})
+    with urllib.request.urlopen(req, timeout=60) as response:
+        return response.read().decode("utf-8", errors="replace")
+
+
+def fetch_station_records_from_rabbitears(log=print, delay: float = 5.0) -> List[dict]:
+    """Fetch U.S. TV station call sign -> city/state from RabbitEars.info's
+    per-state market listings. See the SOURCE DECISION comment above and
+    docs/DATA_SOURCES.md for why this replaces the FCC's own (unreachable)
+    bulk database as the primary source.
+
+    `delay` is a fixed pause between requests, honoring RabbitEars'
+    robots.txt Crawl-delay directive (5 seconds at the time this was
+    written) for automated agents. Returns a list of station record dicts
+    matching the data/us_tv_stations.json schema, deduplicated by
+    normalized call sign (first state search to report a given station
+    wins; the same station can legitimately appear under several
+    state searches when its market spans state lines).
+    """
+    records: Dict[str, dict] = {}
+    today = datetime.date.today().isoformat()
+
+    for i, state in enumerate(_RABBITEARS_STATES):
+        log(f"Fetching RabbitEars station list for {state} ({i + 1}/{len(_RABBITEARS_STATES)})...")
+        try:
+            html = _fetch_rabbitears_state_page(state)
+        except urllib.error.URLError as exc:
+            log(f"  {state} fetch failed: {exc}")
+            if i < len(_RABBITEARS_STATES) - 1:
+                time.sleep(delay)
+            continue
+
+        for match in _RABBITEARS_ROW_RE.finditer(html):
+            row_state = match.group("state")
+            if row_state not in US_STATE_NAMES and row_state not in _RABBITEARS_TERRITORIES:
+                continue  # non-U.S. market spillover (Canadian province, Mexican state)
+
+            call_sign = extract_callsign(match.group("call"))
+            if call_sign is None:
+                continue  # never guess at a call sign our syntax rules don't recognize
+
+            key = call_sign.normalized_call_sign
+            if key in records:
+                continue
+
+            records[key] = {
+                "call_sign": call_sign.normalized_call_sign,
+                "normalized_call_sign": call_sign.normalized_call_sign,
+                "city": match.group("city").strip().title(),
+                "state": row_state,
+                "facility_id": match.group("facility_id"),
+                "service_type": _service_type_for(call_sign),
+                "status": "active",
+                "source": "rabbitears",
+                "last_updated": today,
+            }
+
+        if i < len(_RABBITEARS_STATES) - 1:
+            time.sleep(delay)
+
+    log(f"RabbitEars: {len(records)} unique stations resolved.")
+    return sorted(records.values(), key=lambda r: r["call_sign"])
+
+
 def _run_sparql(query: str) -> dict:
     url = f"{_SPARQL_ENDPOINT}?query={urllib.parse.quote(query)}"
     req = urllib.request.Request(
@@ -174,10 +289,25 @@ def fetch_station_records_from_wikidata(log=print) -> List[dict]:
 
 
 def build_station_directory(path: Path = DEFAULT_PATH, log=print) -> int:
-    """Fetch station records from Wikidata and write them to `path`.
+    """Fetch station records and write them to `path`. RabbitEars is the
+    primary source (far denser coverage - see fetch_station_records_from_
+    rabbitears); Wikidata fills in any call sign RabbitEars didn't resolve.
     Returns the number of records written.
     """
-    records = fetch_station_records_from_wikidata(log=log)
+    merged: Dict[str, dict] = {}
+
+    for record in fetch_station_records_from_wikidata(log=log):
+        merged[record["normalized_call_sign"]] = record
+
+    rabbitears_count = 0
+    for record in fetch_station_records_from_rabbitears(log=log):
+        merged[record["normalized_call_sign"]] = record  # RabbitEars wins on overlap
+        rabbitears_count += 1
+
+    log(f"\nMerged directory: {len(merged)} stations ({rabbitears_count} from RabbitEars, "
+        f"{len(merged) - rabbitears_count} Wikidata-only).")
+
+    records = sorted(merged.values(), key=lambda r: r["call_sign"])
     path.parent.mkdir(exist_ok=True)
     path.write_text(json.dumps(records, indent=2) + "\n", encoding="utf-8")
     return len(records)
