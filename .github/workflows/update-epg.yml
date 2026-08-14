@@ -2,6 +2,12 @@ name: Update Android TV Guru EPG
 
 on:
   workflow_dispatch:
+  push:
+    # TEMPORARY, to verify the --no-checkout clone fix in production. This
+    # environment's token has contents:write but not actions:write, so
+    # workflow_dispatch isn't callable via API. Remove once verified.
+    branches:
+      - main
   workflow_run:
     workflows: ["Update Android TV Guru Playlist"]
     types:
