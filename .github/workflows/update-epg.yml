@@ -47,7 +47,20 @@ jobs:
 
       - name: Clone iptv-org/epg grabber
         run: |
-          git clone --filter=blob:none https://github.com/iptv-org/epg.git .epg-tool
+          # --no-checkout: a plain `clone --filter=blob:none` checks out the
+          # default branch (master) first, which upstream has since moved far
+          # ahead of our pinned commit. That default-branch checkout corrupts
+          # the index's CRLF-normalization bookkeeping for files under this
+          # repo's `eol=crlf` .gitattributes rules (verified: working-tree
+          # bytes are identical to the git blob, byte for byte, yet `git
+          # status` reports hundreds of files as locally modified) — a known
+          # interaction between partial clones and EOL-normalized
+          # .gitattributes. That false "local changes" then blocks the
+          # checkout below with "Please commit your changes or stash them
+          # before you switch branches. Aborting". Skipping the initial
+          # checkout avoids ever materializing that broken state; the first
+          # real checkout goes straight to our pinned commit.
+          git clone --filter=blob:none --no-checkout https://github.com/iptv-org/epg.git .epg-tool
           git -C .epg-tool checkout 1344395e9edb2967782dcda55b66fbc757db5caa
 
       - name: Install grabber dependencies
