@@ -267,6 +267,8 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_ch
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-id="WLTVDT231.us" tvg-name="WLTV-DT — Miami, FL" tvg-logo="" group-title="US Local - Univision",WLTV-DT — Miami, FL
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 tvg-id="WLTVDT231.us" tvg-name="WLTV-DT — Miami, FL" tvg-logo="" group-title="US Local - Univision",WLTV-DT — Miami, FL
+http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="WGBODT661.us" tvg-name="WGBO-DT — Joliet, IL" tvg-logo="" group-title="US Local - Univision",WGBO-DT — Joliet, IL
 https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null
 #EXTINF:-1 tvg-id="WFUTDT681.us" tvg-name="WFUT-DT — Newark, NJ" tvg-logo="" group-title="US Local - Univision",WFUT-DT — Newark, NJ
