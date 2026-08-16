@@ -249,16 +249,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21" tvg-logo="" group-title="Spanish",Antena 21
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21" tvg-logo="" group-title="Spanish",Antena 21
-https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-logo="" group-title="Spanish",Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-logo="" group-title="Spanish",Antena 3 Internacional
 http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" tvg-logo="" group-title="Spanish",Antena 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" tvg-logo="" group-title="Spanish",Antena 7
-https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-name="Antena Seis TV" tvg-logo="" group-title="Spanish",Antena Seis TV
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 tvg-id="AntenaSUR.pe" tvg-name="Antena SUR" tvg-logo="" group-title="Spanish",Antena SUR
@@ -865,8 +861,6 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 http://190.61.90.17:40000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-id="CanalClaro.cl" tvg-name="Canal Claro" tvg-logo="" group-title="Spanish",Canal Claro
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 tvg-id="CanalClave.cu" tvg-name="Canal Clave" tvg-logo="" group-title="Spanish",Canal Clave
-https://tv.picta.cu/clave/clave_0.m3u8
 #EXTINF:-1 tvg-id="CanalCoinTV.es" tvg-name="Canal Coin TV" tvg-logo="" group-title="Spanish",Canal Coin TV
 https://canalcoin.garjim.es/hls/directo.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso" tvg-logo="" group-title="Spanish",Canal Congreso
@@ -893,14 +887,8 @@ http://131.221.41.94/hls/canal2.m3u8
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="" group-title="Spanish",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalEducativo.cu" tvg-name="Canal Educativo" tvg-logo="" group-title="Spanish",Canal Educativo
-https://tv.picta.cu/educativo/educativo_0.m3u8
-#EXTINF:-1 tvg-id="CanalEducativo2.cu" tvg-name="Canal Educativo 2" tvg-logo="" group-title="Spanish",Canal Educativo 2
-https://tv.picta.cu/educativo2/educativo2_0.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-logo="" group-title="Spanish",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="CanalHabana.cu" tvg-name="Canal Habana" tvg-logo="" group-title="Spanish",Canal Habana
-https://tv.picta.cu/infantil/infantil_0.m3u8
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal I" tvg-logo="" group-title="Spanish",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="CanalIglesiaLuzyVerdad.gt" tvg-name="Canal Iglesia Luz y Verdad" tvg-logo="" group-title="Spanish",Canal Iglesia Luz y Verdad
@@ -1295,12 +1283,6 @@ https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-id="CTV35.cl" tvg-name="CTV35" tvg-logo="" group-title="Spanish",CTV35
 https://vdochile.com:3697/live/ctv35live.m3u8
-#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" tvg-logo="" group-title="Spanish",Cubavision
-https://tv.picta.cu/cubavision/cubavision_0.m3u8
-#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" tvg-logo="" group-title="Spanish",Cubavision
-https://tvhd.picta.cu/cubavisionhd/cubavisionhd_master.m3u8
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-name="Cubavision Internacional" tvg-logo="" group-title="Spanish",Cubavision Internacional
-https://tv.picta.cu/cvi/cvi_0.m3u8
 #EXTINF:-1 tvg-id="CugatTV.es" tvg-name="Cugat TV" tvg-logo="" group-title="Spanish",Cugat TV
 https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" tvg-logo="" group-title="Spanish",Cultura 24
@@ -2268,7 +2250,7 @@ https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" tvg-logo="" group-title="Spanish",Manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="ManielTV.do" tvg-name="Maniel TV" tvg-logo="" group-title="Spanish",Maniel TV
-https://stream.inliveserver.com:19360/8010/8010.m3u8
+https://mp.panelchs.com/hls/8024/8024.m3u8
 #EXTINF:-1 tvg-id="MaquiTV.cl" tvg-name="Maqui TV" tvg-logo="" group-title="Spanish",Maqui TV
 https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MarayTV.cl" tvg-name="Maray TV" tvg-logo="" group-title="Spanish",Maray TV
@@ -2412,7 +2394,7 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-id="MiTV.py" tvg-name="MiTV" tvg-logo="" group-title="Spanish",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MocaVisionCanal48.do" tvg-name="Moca Vision Canal 48" tvg-logo="" group-title="Spanish",Moca Vision Canal 48
-https://stream.castr.com/5da89a909db964293ad13301/live_2da463407fcc11f19ca8e70e403e6b54/index.fmp4.m3u8
+https://stream.castr.com/5da89a909db964293ad13301/live_aa3888e0926511f1af7f414b985a2475/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="MolahitsTV.es" tvg-name="Molahits TV" tvg-logo="" group-title="Spanish",Molahits TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="Momento24.co" tvg-name="Momento24" tvg-logo="" group-title="Spanish",Momento24
@@ -2457,8 +2439,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-id="MultimediosSaltillo.mx" tvg-name="Multimedios Saltillo" tvg-logo="" group-title="Spanish",Multimedios Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 tvg-id="Multivision.cu" tvg-name="Multivision" tvg-logo="" group-title="Spanish",Multivision
-https://tv.picta.cu/multivision/multivision_1.m3u8
 #EXTINF:-1 tvg-id="MultivisionCanal3.gt" tvg-name="Multivision Canal 3" tvg-logo="" group-title="Spanish",Multivision Canal 3
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 tvg-id="MultivisionSports.gt" tvg-name="Multivision Sports" tvg-logo="" group-title="Spanish",Multivision Sports
@@ -3517,8 +3497,6 @@ https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u
 https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleProyectoTV.do" tvg-name="Tele Proyecto TV" tvg-logo="" group-title="Spanish",Tele Proyecto TV
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleRebelde.cu" tvg-name="Tele Rebelde" tvg-logo="" group-title="Spanish",Tele Rebelde
-https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 #EXTINF:-1 tvg-id="TeleSafor.es" tvg-name="Tele Safor" tvg-logo="" group-title="Spanish",Tele Safor
 https://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-id="TeleSaltillo.mx" tvg-name="Tele Saltillo" tvg-logo="" group-title="Spanish",Tele Saltillo
@@ -3750,9 +3728,9 @@ http://181.78.8.199:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="Telever.do" tvg-name="Telever" tvg-logo="" group-title="Spanish",Telever
 https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1 tvg-id="TeleviaductoCanal14.do" tvg-name="Televiaducto Canal 14" tvg-logo="" group-title="Spanish",Televiaducto Canal 14
-https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_b78ea1b07fcc11f1a8c6adcd20e04bb9/index.fmp4.m3u8
+https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_62c23ce08a8b11f1a955e58b585fd65f/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TeleviaductoCanal3.do" tvg-name="Televiaducto Canal 3" tvg-logo="" group-title="Spanish",Televiaducto Canal 3
-https://stream.castr.com/5da89a909db964293ad13301/live_d8372fa07fcb11f18271bf033930834b/index.fmp4.m3u8
+https://stream.castr.com/5da89a909db964293ad13301/live_fcf05c9091cd11f1af7f414b985a2475/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Televida.cl" tvg-name="Televida" tvg-logo="" group-title="Spanish",Televida
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Televida.do" tvg-name="Televida" tvg-logo="" group-title="Spanish",Televida
@@ -3763,6 +3741,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 #EXTINF:-1 tvg-id="TelevisionCanaria.es" tvg-name="Television Canaria" tvg-logo="" group-title="Spanish",Television Canaria
 https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es" tvg-name="Television Canaria" tvg-logo="" group-title="Spanish",Television Canaria
+https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionComayaguaCanal40.hn" tvg-name="Television Comayagua Canal 40" tvg-logo="" group-title="Spanish",Television Comayagua Canal 40
 https://mediacp.us:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionConsciente.es" tvg-name="Television Consciente" tvg-logo="" group-title="Spanish",Television Consciente
@@ -3842,7 +3822,7 @@ http://190.61.101.11:7050/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="TNE.cl" tvg-name="TNE" tvg-logo="" group-title="Spanish",TNE
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 tvg-id="TNECanal58.do" tvg-name="TNE Canal 58" tvg-logo="" group-title="Spanish",TNE Canal 58
-https://stream.castr.com/5da89a909db964293ad13301/live_8361cf307fcb11f18638734c8e2b001b/index.fmp4.m3u8
+https://stream.castr.com/5da89a909db964293ad13301/live_85f2053091cd11f1a5e59d9ec0f6bd3a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TNORadio.ve" tvg-name="TNO Radio" tvg-logo="" group-title="Spanish",TNO Radio
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" tvg-logo="" group-title="Spanish",Todo Novelas
@@ -4137,6 +4117,8 @@ https://streamer.metronethn.com/TVE/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" tvg-logo="" group-title="Spanish",TVE Internacional Asia-Oceania
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" tvg-logo="" group-title="Spanish",TVE Internacional Asia-Oceania
+https://streams.comclark.com/pknsd/tve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" tvg-logo="" group-title="Spanish",TVE Internacional Europe
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" tvg-logo="" group-title="Spanish",TVE Internacional Europe

@@ -356,6 +356,8 @@ https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
+https://streams.comclark.com/pknsd/ewtn/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
@@ -493,6 +495,8 @@ https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8
 https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 #EXTINF:-1 tvg-id="HopeChannelNorthAmerica.us" tvg-name="Hope Channel North America" tvg-logo="" group-title="Religious",Hope Channel North America
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph" tvg-name="Hope Channel Philippines" tvg-logo="" group-title="Religious",Hope Channel Philippines
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru" tvg-name="Hope Channel Russia" tvg-logo="" group-title="Religious",Hope Channel Russia
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru" tvg-name="Hope Channel Russia" tvg-logo="" group-title="Religious",Hope Channel Russia
@@ -1051,6 +1055,8 @@ https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.is
 http://212.5.144.156:8080/tbn/index.m3u8
 #EXTINF:-1 tvg-id="TBN.us" tvg-name="TBN" tvg-logo="" group-title="Religious",TBN
 https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNAsia.us" tvg-name="TBN Asia" tvg-logo="" group-title="Religious",TBN Asia
+https://streams.comclark.com/pknsd/tbn/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-name="TBN Baltia" tvg-logo="" group-title="Religious",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-id="TBNInspire.us" tvg-name="TBN Inspire" tvg-logo="" group-title="Religious",TBN Inspire

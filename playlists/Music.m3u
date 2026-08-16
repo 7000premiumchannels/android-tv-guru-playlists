@@ -498,11 +498,7 @@ https://rtmp.streams.ovh:8081/mtv/index.m3u8
 #EXTINF:-1 tvg-id="MetaleitorTV.us" tvg-name="Metaleitor TV" tvg-logo="" group-title="Music",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="" group-title="Music",Mezzo
-https://live-3.otcnet.ru/Mezzo/index.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="" group-title="Music",Mezzo
-http://tmptv.sunduk.tv/CH97/index.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="" group-title="Music",Mezzo
-https://aes.m3u8simplu.workers.dev/mezzo/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=mezzo
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" tvg-logo="" group-title="Music",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" tvg-logo="" group-title="Music",Mezzo Live
@@ -617,6 +613,8 @@ http://stream.mcquack.net/153/index.m3u8
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzzOne.kz" tvg-name="MuzzOne" tvg-logo="" group-title="Music",MuzzOne
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 tvg-id="Myx.ph" tvg-name="Myx" tvg-logo="" group-title="Music",Myx
+https://streams.comclark.com/pknsd/myx/playlist.m3u8
 #EXTINF:-1 tvg-id="NASHEMusic.ua" tvg-name="NASHE Music" tvg-logo="" group-title="Music",NASHE Music
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.fi" tvg-name="Navahang TV" tvg-logo="" group-title="Music",Navahang TV

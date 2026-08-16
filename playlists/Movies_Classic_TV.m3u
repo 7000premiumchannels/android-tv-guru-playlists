@@ -14,8 +14,6 @@ https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/N
 #EXTINF:-1 tvg-id="00sReplay.us" tvg-name="00s Replay" tvg-logo="" group-title="Movies & Classic TV",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-logo="" group-title="Movies & Classic TV",24 Hour Free Movies
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-logo="" group-title="Movies & Classic TV",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-id="2900Happiness.se" tvg-name="2900 Happiness" tvg-logo="" group-title="Movies & Classic TV",2900 Happiness
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
@@ -381,6 +379,8 @@ https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
 https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8
 #EXTINF:-1 tvg-id="BondiRescue.se" tvg-name="Bondi Rescue" tvg-logo="" group-title="Movies & Classic TV",Bondi Rescue
 https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
+#EXTINF:-1 tvg-id="BoxMovie1.vn" tvg-name="Box Movie 1" tvg-logo="" group-title="Movies & Classic TV",Box Movie 1
+https://usatv.dpdns.org/usatv/fpt_box_movie_1/index.m3u8
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-name="Bravo Farsi TV" tvg-logo="" group-title="Movies & Classic TV",Bravo Farsi TV
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" tvg-logo="" group-title="Movies & Classic TV",BRIDGE Classic
@@ -433,6 +433,8 @@ http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CelebrityNameGame.us" tvg-name="Celebrity Name Game" tvg-logo="" group-title="Movies & Classic TV",Celebrity Name Game
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-logo="" group-title="Movies & Classic TV",Celestial Classic Movies
+https://streams.comclark.com/pknsd/celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-logo="" group-title="Movies & Classic TV",Celestial Movies
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 #EXTINF:-1 tvg-id="ChaosCity.us" tvg-name="Chaos City" tvg-logo="" group-title="Movies & Classic TV",Chaos City
@@ -543,6 +545,8 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="" group-title="Movies & Classic TV",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-name="Cinema One" tvg-logo="" group-title="Movies & Classic TV",Cinema One
+https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaratonMoldova.md" tvg-name="Cinemaraton Moldova" tvg-logo="" group-title="Movies & Classic TV",Cinemaraton Moldova
 https://aes.m3u8simplu.workers.dev/cinemaratonmoldova/index.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" tvg-logo="" group-title="Movies & Classic TV",CinemaWorld
@@ -962,6 +966,8 @@ https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovela
 #EXTINF:-1 tvg-id="FrightFlix.us" tvg-name="FrightFlix" tvg-logo="" group-title="Movies & Classic TV",FrightFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="" group-title="Movies & Classic TV",FX Movie Channel
+https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="" group-title="Movies & Classic TV",FX Movie Channel
 http://40.160.24.56/FXM_SD/index.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.tr" tvg-name="GEM Bollywood" tvg-logo="" group-title="Movies & Classic TV",GEM Bollywood
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
@@ -1143,6 +1149,8 @@ https://jmp2.uk/plu-6081738748d3200007afb24b.m3u8
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" tvg-logo="" group-title="Movies & Classic TV",Hit
 http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 tvg-id="HITSNOW.sg" tvg-name="HITS NOW" tvg-logo="" group-title="Movies & Classic TV",HITS NOW
+https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8
 #EXTINF:-1 tvg-id="HogansHeroes.us" tvg-name="Hogan's Heroes" tvg-logo="" group-title="Movies & Classic TV",Hogan's Heroes
 https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 #EXTINF:-1 tvg-id="Hollywood.ru" tvg-name="Hollywood" tvg-logo="" group-title="Movies & Classic TV",Hollywood
@@ -2567,6 +2575,8 @@ https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" tvg-logo="" group-title="Movies & Classic TV",Star Channel
 http://213.91.179.28:8000/play/a0c9
+#EXTINF:-1 tvg-id="StarChannel.jp" tvg-name="Star Channel" tvg-logo="" group-title="Movies & Classic TV",Star Channel
+https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannel.si" tvg-name="Star Channel" tvg-logo="" group-title="Movies & Classic TV",Star Channel
 http://92.36.202.5:10001/play/a01s
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" tvg-logo="" group-title="Movies & Classic TV",Star Channel Latin America
@@ -2695,6 +2705,10 @@ http://185.246.209.113/T+E/index.m3u8
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="Tamasha.ir" tvg-name="Tamasha" tvg-logo="" group-title="Movies & Classic TV",Tamasha
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TAPActionFlix.ph" tvg-name="TAP Action Flix" tvg-logo="" group-title="Movies & Classic TV",TAP Action Flix
+https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
+#EXTINF:-1 tvg-id="TAPMovies.ph" tvg-name="TAP Movies" tvg-logo="" group-title="Movies & Classic TV",TAP Movies
+https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-name="Telemundo Telenovelas Clasicas" tvg-logo="" group-title="Movies & Classic TV",Telemundo Telenovelas Clasicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-id="ThalaaTV.in" tvg-name="Thalaa TV" tvg-logo="" group-title="Movies & Classic TV",Thalaa TV
@@ -2811,6 +2825,8 @@ https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="" group-title="Movies & Classic TV",Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="" group-title="Movies & Classic TV",Thrill
+https://streams.comclark.com/pknsd/thrill/playlist.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" tvg-logo="" group-title="Movies & Classic TV",Timeless TV
 https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-name="Tiny House Nation" tvg-logo="" group-title="Movies & Classic TV",Tiny House Nation
@@ -2829,8 +2845,6 @@ http://45.162.64.114/TNT_NOVELAS/index.m3u8
 http://168.197.104.22/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" tvg-logo="" group-title="Movies & Classic TV",TNT Novelas
 http://177.52.24.163/TNT-NOVELAS-HD/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" tvg-logo="" group-title="Movies & Classic TV",TNT Novelas
-http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" tvg-logo="" group-title="Movies & Classic TV",TNT Novelas
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TollyTV.in" tvg-name="Tolly TV" tvg-logo="" group-title="Movies & Classic TV",Tolly TV

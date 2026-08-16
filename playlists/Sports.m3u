@@ -257,6 +257,8 @@ https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-45
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua" tvg-name="Dynamo Kyiv TV" tvg-logo="" group-title="Sports & Highlights",Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-name="EDGEsport" tvg-logo="" group-title="Sports & Highlights",EDGEsport
+https://streams.comclark.com/pknsd/edgesports/playlist.m3u8
 #EXTINF:-1 tvg-id="Equalympic.ua" tvg-name="Equalympic" tvg-logo="" group-title="Sports & Highlights",Equalympic
 http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="" group-title="Sports & Highlights",Equidia
@@ -276,15 +278,15 @@ http://181.78.197.59:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="" group-title="Sports & Highlights",ESPN 4
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="" group-title="Sports & Highlights",ESPN Deportes
-http://40.160.24.58/ESPN_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="" group-title="Sports & Highlights",ESPN Deportes
 https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="" group-title="Sports & Highlights",ESPN Deportes
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="ESPN8: The Ocho" tvg-logo="" group-title="Sports & Highlights",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="" group-title="Sports & Highlights",ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="" group-title="Sports & Highlights",ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="" group-title="Sports & Highlights",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-name="Extreme Sports Channel" tvg-logo="" group-title="Sports & Highlights",Extreme Sports Channel
 http://46.32.176.50/extremesport/index.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie" tvg-name="F1 Channel" tvg-logo="" group-title="Sports & Highlights",F1 Channel
@@ -723,8 +725,12 @@ https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="" group-title="Sports & Highlights",Polsat Sport Premium 2
 https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac
+#EXTINF:-1 tvg-id="PremierFootball.ph" tvg-name="Premier Football" tvg-logo="" group-title="Sports & Highlights",Premier Football
+https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-name="Premier Sports" tvg-logo="" group-title="Sports & Highlights",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports.ph" tvg-name="Premier Sports" tvg-logo="" group-title="Sports & Highlights",Premier Sports
+https://streams.comclark.com/pknhd/premier_sports/playlist.m3u8
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-name="Premier Sports 1" tvg-logo="" group-title="Sports & Highlights",Premier Sports 1
 https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-name="Premier Sports 1" tvg-logo="" group-title="Sports & Highlights",Premier Sports 1
@@ -827,8 +833,12 @@ https://corestream.siteyaptim.live/s-sport2/index.m3u8
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport" tvg-logo="" group-title="Sports & Highlights",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-name="Setanta Sports 1" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 1
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 1 Eurasia
 http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-name="Setanta Sports 2" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 2
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-name="Setanta Sports 2 Eurasia" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 2 Eurasia
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="" group-title="Sports & Highlights",Setanta Sports+ Ukraine
@@ -1047,6 +1057,8 @@ https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT" tvg-logo="" group-title="Sports & Highlights",talkSPORT
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8
+#EXTINF:-1 tvg-id="TAPEdge.ph" tvg-name="TAP Edge" tvg-logo="" group-title="Sports & Highlights",TAP Edge
+https://streams.comclark.com/pknsd/tapedge/playlist.m3u8
 #EXTINF:-1 tvg-id="TDMSports.mo" tvg-name="TDM Sports" tvg-logo="" group-title="Sports & Highlights",TDM Sports
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports Pakistan" tvg-logo="" group-title="Sports & Highlights",Ten Sports Pakistan
