@@ -129,8 +129,6 @@ https://stream.alabbassia.com/live/alabbassia/index.m3u8
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-logo="" group-title="Religious",Alfa Omega TV
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
-#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-logo="" group-title="Religious",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us" tvg-name="Aliento Vision" tvg-logo="" group-title="Religious",Aliento Vision
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="AlistiqamaTV.om" tvg-name="Alistiqama TV" tvg-logo="" group-title="Religious",Alistiqama TV
@@ -549,6 +547,10 @@ https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="IMPDTVWorldwide.br" tvg-name="IMPD TV Worldwide" tvg-logo="" group-title="Religious",IMPD TV Worldwide
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="INCRadio.ph" tvg-name="INC Radio" tvg-logo="" group-title="Religious",INC Radio
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="" group-title="Religious",INC TV
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="" group-title="Religious",INC TV
 https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraTV.uk" tvg-name="Iqra TV" tvg-logo="" group-title="Religious",Iqra TV

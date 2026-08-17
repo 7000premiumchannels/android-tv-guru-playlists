@@ -11,8 +11,6 @@ https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" tvg-logo="" group-title="Sports & Highlights",ACC Digital Network
 https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="" group-title="Sports & Highlights",ACC Network
-http://40.160.24.56/ACC_NETWORK_SD/index.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="" group-title="Sports & Highlights",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="" group-title="Sports & Highlights",ACI Sport TV
@@ -491,6 +489,8 @@ https://live.mnet.mk/hls/mnet-sport.m3u8
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" tvg-logo="" group-title="Sports & Highlights",M4 Sport
 https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" tvg-logo="" group-title="Sports & Highlights",M4 Sport
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-name="MadeinBO TV" tvg-logo="" group-title="Sports & Highlights",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MaincastCybersport.ua" tvg-name="Maincast Cybersport" tvg-logo="" group-title="Sports & Highlights",Maincast Cybersport
@@ -833,6 +833,8 @@ https://corestream.siteyaptim.live/s-sport2/index.m3u8
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport" tvg-logo="" group-title="Sports & Highlights",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 tvg-id="SetantaSports.uk" tvg-name="Setanta Sports" tvg-logo="" group-title="Sports & Highlights",Setanta Sports
+http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-name="Setanta Sports 1" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 1 Eurasia
@@ -841,6 +843,8 @@ http://stream.mcquack.net/234/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-name="Setanta Sports 2 Eurasia" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 2 Eurasia
 http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports3.ge" tvg-name="Setanta Sports 3" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 3
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="" group-title="Sports & Highlights",Setanta Sports+ Ukraine
 http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 tvg-id="ShandongTVSportsChannel.cn" tvg-name="Shandong TV Sports Channel" tvg-logo="" group-title="Sports & Highlights",Shandong TV Sports Channel

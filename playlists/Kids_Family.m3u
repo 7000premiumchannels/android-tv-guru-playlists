@@ -201,6 +201,8 @@ http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.tr" tvg-name="Disney Jr." tvg-logo="" group-title="Kids & Family",Disney Jr.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.cz" tvg-name="Disney Junior" tvg-logo="" group-title="Kids & Family",Disney Junior
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" tvg-logo="" group-title="Kids & Family",Disney Junior
 http://149.71.34.166:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="" group-title="Kids & Family",Disney Junior
@@ -267,8 +269,6 @@ https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
 https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" tvg-logo="" group-title="Kids & Family",ETV 2
 https://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 tvg-id="FETV.us" tvg-name="FETV" tvg-logo="" group-title="Kids & Family",FETV
-http://40.160.24.56/FETV_SD/index.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" tvg-logo="" group-title="Kids & Family",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="" group-title="Kids & Family",France 4
@@ -281,8 +281,6 @@ http://176.65.146.100:8047/play/a074/index.m3u8
 https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="" group-title="Kids & Family",Freeform
 http://40.160.24.52/FREEFORM/index.m3u8
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="" group-title="Kids & Family",Freeform
-http://40.160.24.56/FREEFORM_SD/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="" group-title="Kids & Family",Freeform
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="" group-title="Kids & Family",Garfield and Friends
@@ -365,6 +363,8 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn" tvg-name="Jiangxi Children's Channel" tvg-logo="" group-title="Kids & Family",Jiangxi Children's Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+#EXTINF:-1 tvg-id="JimJam.hu" tvg-name="JimJam" tvg-logo="" group-title="Kids & Family",JimJam
+http://88.212.15.19/live/jim_jam_hun/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" tvg-logo="" group-title="Kids & Family",JimJam Europe
 http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" tvg-logo="" group-title="Kids & Family",JimJam Europe
@@ -377,6 +377,8 @@ http://stream.mcquack.net/144/index.m3u8
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="" group-title="Kids & Family",Kartoon Channel!
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="" group-title="Kids & Family",Kartoon Channel!
+https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="" group-title="Kids & Family",Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="" group-title="Kids & Family",Kartoon Channel!
@@ -509,6 +511,8 @@ https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 http://103.72.101.252:8080/live/1226.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in" tvg-name="Nick HD+" tvg-logo="" group-title="Kids & Family",Nick HD+
 http://116.90.120.157:8000/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.cz" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
+http://88.212.15.19/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.hu" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
 http://88.212.15.19/live/nick_junior_hun/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
@@ -516,13 +520,11 @@ http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
 https://stream8.cinerama.uz/1501/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
-http://40.160.24.55/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
 http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
-https://gpuserver5.tier1streams.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
 https://sra72yz.s.gy/NICK_JR_US.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
+http://tvsen7.aynascope.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr. Asia" tvg-logo="" group-title="Kids & Family",Nick Jr. Asia
 https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr. Asia" tvg-logo="" group-title="Kids & Family",Nick Jr. Asia
@@ -562,11 +564,7 @@ http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
-http://40.160.24.55/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 http://198.58.104.90:8989/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
-https://gpuserver5.tier1streams.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" tvg-logo="" group-title="Kids & Family",Nickelodeon Asia
@@ -620,11 +618,11 @@ http://193.24.244.60:1001/udp/239.254.5.227:6060
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="" group-title="Kids & Family",Nicktoons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="" group-title="Kids & Family",Nicktoons
-http://40.160.24.55/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="" group-title="Kids & Family",Nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="" group-title="Kids & Family",Nicktoons
 https://sra72yz.s.gy/NICKTOONS_US.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="" group-title="Kids & Family",Nicktoons
+http://tvsen7.aynascope.net/nicktoons/index.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br" tvg-name="NickToons Brasil" tvg-logo="" group-title="Kids & Family",NickToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-name="Nicktoons CIS" tvg-logo="" group-title="Kids & Family",Nicktoons CIS
@@ -905,10 +903,6 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
-#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
-http://40.160.24.55/TEEN_NICK/index.m3u8
-#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
-https://gpuserver5.tier1streams.com/TEEN_NICK/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
 http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="" group-title="Kids & Family",Teletubbies
