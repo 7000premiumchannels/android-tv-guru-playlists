@@ -491,6 +491,8 @@ https://streaming.thestream.cyou/live/7003.m3u8
 http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" tvg-logo="" group-title="US News & Weather",Belarus-24
 http://31.148.48.15/Belarus_24/index.m3u8
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" tvg-logo="" group-title="US News & Weather",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="" group-title="US News & Weather",BeritaSatu
 https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="" group-title="US News & Weather",BeritaSatu
@@ -1223,6 +1225,8 @@ https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
 http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT" tvg-logo="" group-title="US News & Weather",GNT
 http://170.82.202.31/GNT/index.m3u8
+#EXTINF:-1 tvg-id="GoldenNationNetwork.ph" tvg-name="Golden Nation Network" tvg-logo="" group-title="US News & Weather",Golden Nation Network
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-name="Good News Today" tvg-logo="" group-title="US News & Weather",Good News Today
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-name="Good News Today" tvg-logo="" group-title="US News & Weather",Good News Today
@@ -1809,8 +1813,6 @@ https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist
 https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation" tvg-logo="" group-title="US News & Weather",NewsNation
 http://40.160.24.58/NEWSNATION/index.m3u8
-#EXTINF:-1 tvg-id="NewsNet.us" tvg-name="NewsNet" tvg-logo="" group-title="US News & Weather",NewsNet
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsTimeBangla.in" tvg-name="NewsTime Bangla" tvg-logo="" group-title="US News & Weather",NewsTime Bangla
 https://cdn-2.pishow.tv/live/1494/master.m3u8
 #EXTINF:-1 tvg-id="NewsWorld.hk" tvg-name="NewsWorld" tvg-logo="" group-title="US News & Weather",NewsWorld
