@@ -1,1 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"
+#EXTINF:-1 tvg-id="WBRZTV21.us" tvg-name="WBRZ-TV — Baton Rouge, LA" tvg-logo="" group-title="US Local - ABC - Louisiana",WBRZ-TV — Baton Rouge, LA
+https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="KATC31.us" tvg-name="KATC — Lafayette, LA" tvg-logo="" group-title="US Local - ABC - Louisiana",KATC — Lafayette, LA
+http://stream.cammonitorplus.net/1753/index.m3u8
