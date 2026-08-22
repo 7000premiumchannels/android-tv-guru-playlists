@@ -21,12 +21,16 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" group-title="Spanish",13C
 http://45.4.1.201:8000/play/a132/index.m3u8
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" group-title="Spanish",13C
+http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-name="13E" tvg-logo="" group-title="Spanish",13E
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="13P.cl" tvg-name="13P" tvg-logo="" group-title="Spanish",13P
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-id="13Rec.cl" tvg-name="13Rec" tvg-logo="" group-title="Spanish",13Rec
 http://45.4.1.201:8000/play/a11i/index.m3u8
+#EXTINF:-1 tvg-id="13Rec.cl" tvg-name="13Rec" tvg-logo="" group-title="Spanish",13Rec
+http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-name="13T" tvg-logo="" group-title="Spanish",13T
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="151BPB.cl" tvg-name="15.1 BPB" tvg-logo="" group-title="Spanish",15.1 BPB
@@ -35,6 +39,8 @@ https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 https://cdn.fastocloud.com/leonel.m3u8
 #EXTINF:-1 tvg-id="15TV.mx" tvg-name="15TV" tvg-logo="" group-title="Spanish",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="" group-title="Spanish",24 Horas
+http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="" group-title="Spanish",24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" tvg-logo="" group-title="Spanish",24 Horas Canarias
@@ -203,6 +209,8 @@ https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlis
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec" tvg-name="America Estereo Tulcan" tvg-logo="" group-title="Spanish",America Estereo Tulcan
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" tvg-logo="" group-title="Spanish",America Paraguay
+http://45.170.130.224:8000/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="" group-title="Spanish",America Television
 http://45.171.108.253:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="" group-title="Spanish",America Television
@@ -367,6 +375,8 @@ http://15.204.246.24:8080/AyniTVHD/index.m3u8
 https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AysenTV.cl" tvg-name="Aysen TV" tvg-logo="" group-title="Spanish",Aysen TV
 https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="Az Cinema" tvg-logo="" group-title="Spanish",Az Cinema
+https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 #EXTINF:-1 tvg-id="AZATVHD.hn" tvg-name="AZA TV HD" tvg-logo="" group-title="Spanish",AZA TV HD
 https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar" tvg-name="Azahares Radiovisual Multimedia" tvg-logo="" group-title="Spanish",Azahares Radiovisual Multimedia
@@ -431,6 +441,8 @@ https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BioBioTV.cl" tvg-name="Bio Bio TV" tvg-logo="" group-title="Spanish",Bio Bio TV
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BioBioTV.cl" tvg-name="Bio Bio TV" tvg-logo="" group-title="Spanish",Bio Bio TV
+http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
 #EXTINF:-1 tvg-id="BiosferaTV.es" tvg-name="Biosfera TV" tvg-logo="" group-title="Spanish",Biosfera TV
 https://tvdatta.com:3021/live/biosferatvlive.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx" tvg-name="bitMe" tvg-logo="" group-title="Spanish",bitMe
@@ -583,6 +595,8 @@ http://45.162.193.35/CANAL13_HD/index.m3u8
 https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="" group-title="Spanish",Canal 13
 https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="" group-title="Spanish",Canal 13
+http://cdn1tlinkgo.tlink.cl/canal13hd/mono.m3u8
 #EXTINF:-1 tvg-id="Canal13Bajio.mx" tvg-name="Canal 13 Bajio" tvg-logo="" group-title="Spanish",Canal 13 Bajio
 https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Canal13Campeche.mx" tvg-name="Canal 13 Campeche" tvg-logo="" group-title="Spanish",Canal 13 Campeche
@@ -845,6 +859,8 @@ https://stream.haislin.com/14tv/index.m3u8
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="CanalChilote.cl" tvg-name="Canal Chilote" tvg-logo="" group-title="Spanish",Canal Chilote
 https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
+#EXTINF:-1 tvg-id="CanalCHVNoticias.cl" tvg-name="Canal CHV Noticias" tvg-logo="" group-title="Spanish",Canal CHV Noticias
+http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
 #EXTINF:-1 tvg-id="CanalCineDios.co" tvg-name="Canal Cine Dios" tvg-logo="" group-title="Spanish",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 tvg-id="CanalClaro.cl" tvg-name="Canal Claro" tvg-logo="" group-title="Spanish",Canal Claro
@@ -1063,6 +1079,8 @@ http://187.245.231.226:8000/play/a0ss/index.m3u8
 https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="CDNN23.ni" tvg-name="CDNN 23" tvg-logo="" group-title="Spanish",CDNN 23
 https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="CDO.cl" tvg-name="CDO" tvg-logo="" group-title="Spanish",CDO
+http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
 #EXTINF:-1 tvg-id="CDTV.cl" tvg-name="CDTV" tvg-logo="" group-title="Spanish",CDTV
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-name="CEACOM TV" tvg-logo="" group-title="Spanish",CEACOM TV
@@ -1087,6 +1105,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-logo="" group-title="Spanish",ChileVision
 http://15.204.246.24:8080/CHVHD/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-logo="" group-title="Spanish",ChileVision
+http://cdn1tlinkgo.tlink.cl/chvhd/mono.m3u8
 #EXTINF:-1 tvg-id="ChiloeRed25.cl" tvg-name="Chiloe Red 25" tvg-logo="" group-title="Spanish",Chiloe Red 25
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="ChinaChannel.cl" tvg-name="China Channel" tvg-logo="" group-title="Spanish",China Channel
@@ -1139,6 +1159,8 @@ http://185.47.212.25:8080/Clan_HD/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" tvg-logo="" group-title="Spanish",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" tvg-logo="" group-title="Spanish",Clan
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" tvg-logo="" group-title="Spanish",Clan Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="" group-title="Spanish",Claro Sports
@@ -1374,6 +1396,8 @@ http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Spanish",Disney Channel Latin America
 https://streamer.metronethn.com/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Spanish",Disney Channel Latin America
+http://cdn1tlinkgo.tlink.cl/disneychannelhd/mono.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Spanish",Disney Channel Latin America
 http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Spanish",Disney Channel Latin America
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
@@ -1393,6 +1417,8 @@ http://190.93.224.42/DISNEY-JR/index.m3u8
 http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
+https://cdn1tlinkgo.tlink.cl/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
@@ -1497,6 +1523,10 @@ http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 http://177.234.249.178:8888/EL-GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" group-title="Spanish",El Gourmet
 http://190.93.224.42/EL-GOURMET/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" group-title="Spanish",El Gourmet
+https://cdn1tlinkgo.tlink.cl/elgourmethd/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" group-title="Spanish",El Gourmet
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" tvg-logo="" group-title="Spanish",El Mueble
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" tvg-logo="" group-title="Spanish",El Mundo del Campo
@@ -1615,10 +1645,16 @@ https://cdn1.etbon.eus/etb1on/index.mpd
 https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-id="ETB2On.es" tvg-name="ETB2 On" tvg-logo="" group-title="Spanish",ETB2 On
 https://cdn1.etbon.eus/etb2on/index.mpd
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="ETC TV" tvg-logo="" group-title="Spanish",ETC TV
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
 #EXTINF:-1 tvg-id="etv.es" tvg-name="etv" tvg-logo="" group-title="Spanish",etv
 https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Eureka.co" tvg-name="Eureka" tvg-logo="" group-title="Spanish",Eureka
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" tvg-logo="" group-title="Spanish",Europa Europa
+https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" tvg-logo="" group-title="Spanish",Europa Europa
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1 tvg-id="Evavision.cl" tvg-name="Evavision" tvg-logo="" group-title="Spanish",Evavision
 https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 #EXTINF:-1 tvg-id="EvolucionTV.pe" tvg-name="Evolucion TV" tvg-logo="" group-title="Spanish",Evolucion TV
@@ -2003,6 +2039,8 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 http://187.102.210.46/KARIBENA/index.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena" tvg-logo="" group-title="Spanish",Karibena
 http://201.77.61.226:8000/play/a0qd/index.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena" tvg-logo="" group-title="Spanish",Karibena
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="KCHTV.ec" tvg-name="KCHTV" tvg-logo="" group-title="Spanish",KCHTV
 http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="KerussoTV.hn" tvg-name="Kerusso TV" tvg-logo="" group-title="Spanish",Kerusso TV
@@ -2091,6 +2129,8 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="" group-title="Spanish",La Red
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="" group-title="Spanish",La Red
+http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
 #EXTINF:-1 tvg-id="LaReinaTV.do" tvg-name="La Reina TV" tvg-logo="" group-title="Spanish",La Reina TV
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRutaTV.do" tvg-name="La Ruta TV" tvg-logo="" group-title="Spanish",La Ruta TV
@@ -2319,10 +2359,16 @@ http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_p
 https://iptv.bitred.cl/mega/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="" group-title="Spanish",Mega
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="" group-title="Spanish",Mega
+http://cdn1tlinkgo.tlink.cl/megahd/mono.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="" group-title="Spanish",Mega 2
 http://15.204.246.24:8080/Mega2HD/index.m3u8
+#EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="" group-title="Spanish",Mega 2
+http://cdn1tlinkgo.tlink.cl/mega2/mono.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do" tvg-name="Mega Cine TV" tvg-logo="" group-title="Spanish",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MegaFiccion.cl" tvg-name="Mega Ficcion" tvg-logo="" group-title="Spanish",Mega Ficcion
+http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-name="Mega TV" tvg-logo="" group-title="Spanish",Mega TV
 https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-name="Mega TV Jaen" tvg-logo="" group-title="Spanish",Mega TV Jaen
@@ -2331,6 +2377,10 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaBox.ni" tvg-name="MegaBox" tvg-logo="" group-title="Spanish",MegaBox
 https://hdbox.chunklistv.com/live?stream=megabox
+#EXTINF:-1 tvg-id="MeganoticiasAhora.cl" tvg-name="Meganoticias Ahora" tvg-logo="" group-title="Spanish",Meganoticias Ahora
+http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8
+#EXTINF:-1 tvg-id="Megatiempo.cl" tvg-name="Megatiempo" tvg-logo="" group-title="Spanish",Megatiempo
+http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
 #EXTINF:-1 tvg-id="Megavision.bo" tvg-name="Megavision" tvg-logo="" group-title="Spanish",Megavision
 https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-name="Megavision Canal 19" tvg-logo="" group-title="Spanish",Megavision Canal 19
@@ -2551,6 +2601,8 @@ https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/2
 http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24" tvg-logo="" group-title="Spanish",NTN24
 http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="NTV.cl" tvg-name="NTV" tvg-logo="" group-title="Spanish",NTV
+http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
 #EXTINF:-1 tvg-id="Nublevision.cl" tvg-name="Nublevision" tvg-logo="" group-title="Spanish",Nublevision
 https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
 #EXTINF:-1 tvg-id="NuestraImagenTV.gt" tvg-name="Nuestra Imagen TV" tvg-logo="" group-title="Spanish",Nuestra Imagen TV
@@ -2565,6 +2617,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempoTV.cl" tvg-name="Nuevo Tiempo TV" tvg-logo="" group-title="Spanish",Nuevo Tiempo TV
 https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempoTV.cl" tvg-name="Nuevo Tiempo TV" tvg-logo="" group-title="Spanish",Nuevo Tiempo TV
+http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8
 #EXTINF:-1 tvg-id="NukaTV.ec" tvg-name="Nuka TV" tvg-logo="" group-title="Spanish",Nuka TV
 https://cloudvideo.servers10.com:8081/8118/index.m3u8
 #EXTINF:-1 tvg-id="NZKTelevision.pe" tvg-name="NZK Television" tvg-logo="" group-title="Spanish",NZK Television
@@ -2667,6 +2721,8 @@ https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-name="Pantalla Clasica EC" tvg-logo="" group-title="Spanish",Pantalla Clasica EC
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" tvg-logo="" group-title="Spanish",Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-name="Parlamento de Andalucia" tvg-logo="" group-title="Spanish",Parlamento de Andalucia
 http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
 #EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-name="Parlamento de Navarra" tvg-logo="" group-title="Spanish",Parlamento de Navarra
@@ -3182,7 +3238,7 @@ http://190.93.224.42/RPP/index.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="" group-title="Spanish",RPP TV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="" group-title="Spanish",RPP TV
-https://cdn-ssai.smartbit.co/rpp/index.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-name="RSelvaTV" tvg-logo="" group-title="Spanish",RSelvaTV
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-name="RSelvaTV" tvg-logo="" group-title="Spanish",RSelvaTV
@@ -3415,8 +3471,12 @@ https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SURTV.cl" tvg-name="SUR TV" tvg-logo="" group-title="Spanish",SUR TV
 https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8
+#EXTINF:-1 tvg-id="SURTV.cl" tvg-name="SUR TV" tvg-logo="" group-title="Spanish",SUR TV
+http://cdn1tlinkgo.tlink.cl/surtv/mono.m3u8
 #EXTINF:-1 tvg-id="SurTV.do" tvg-name="Sur TV" tvg-logo="" group-title="Spanish",Sur TV
 https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
+#EXTINF:-1 tvg-id="SURTVItapua.py" tvg-name="SUR TV Itapua" tvg-logo="" group-title="Spanish",SUR TV Itapua
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
 #EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-logo="" group-title="Spanish",Suram TV
 https://us.streaminghd.cl/suramtv/index.m3u8
 #EXTINF:-1 tvg-id="SurenaTV.cl" tvg-name="Surena TV" tvg-logo="" group-title="Spanish",Surena TV
@@ -3719,6 +3779,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="Teletrak TV" tvg-logo="" group-title="Spanish",Teletrak TV
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="Teletrak TV" tvg-logo="" group-title="Spanish",Teletrak TV
+https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
 #EXTINF:-1 tvg-id="Teletur.do" tvg-name="Teletur" tvg-logo="" group-title="Spanish",Teletur
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion" tvg-logo="" group-title="Spanish",Teleunion
@@ -3799,6 +3861,8 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
 #EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-name="Tigo Sports+" tvg-logo="" group-title="Spanish",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-name="Tigo Sports+" tvg-logo="" group-title="Spanish",Tigo Sports+
+https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
 #EXTINF:-1 tvg-id="TigueritoTV.do" tvg-name="Tiguerito TV" tvg-logo="" group-title="Spanish",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="TitoTV.es" tvg-name="Tito TV" tvg-logo="" group-title="Spanish",Tito TV
@@ -3859,6 +3923,8 @@ https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece" tvg-logo="" group-title="Spanish",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="" group-title="Spanish",Trece
+http://45.170.130.224:8000/play/a050/index.m3u8?hls
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-name="Tribuna TV" tvg-logo="" group-title="Spanish",Tribuna TV
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
 #EXTINF:-1 tvg-id="Trivision36.cr" tvg-name="Trivision 36" tvg-logo="" group-title="Spanish",Trivision 36
@@ -3923,6 +3989,8 @@ https://liveingesta318.cdnmedia.tv/berguedatvlive/smil:migracion.smil/playlist.m
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBUAP.mx" tvg-name="TV BUAP" tvg-logo="" group-title="Spanish",TV BUAP
 https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" tvg-logo="" group-title="Spanish",TV Camara
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVCanal72.ar" tvg-name="TV Canal 72" tvg-logo="" group-title="Spanish",TV Canal 72
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" tvg-logo="" group-title="Spanish",TV Canal Sur
@@ -4059,6 +4127,8 @@ https://video.ejeserver.com/live/tvrivera.m3u8
 https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado" tvg-logo="" group-title="Spanish",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado" tvg-logo="" group-title="Spanish",TV Senado
+http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8
 #EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-name="TV Solidaria" tvg-logo="" group-title="Spanish",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-name="TV Sur Canal 14" tvg-logo="" group-title="Spanish",TV Sur Canal 14
@@ -4081,6 +4151,8 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV+" tvg-logo="" group-title="Spanish",TV+
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV+" tvg-logo="" group-title="Spanish",TV+
+http://cdn1tlinkgo.tlink.cl/tvmashd/mono.m3u8
 #EXTINF:-1 tvg-id="TVPlusChincha.pe" tvg-name="TV+ Chincha" tvg-logo="" group-title="Spanish",TV+ Chincha
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.es" tvg-name="TV3" tvg-logo="" group-title="Spanish",TV3
@@ -4115,12 +4187,12 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-name="TVE Internacional America" tvg-logo="" group-title="Spanish",TVE Internacional America
 https://streamer.metronethn.com/TVE/index.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-name="TVE Internacional America" tvg-logo="" group-title="Spanish",TVE Internacional America
+https://cdn1tlinkgo.tlink.cl/tve/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" tvg-logo="" group-title="Spanish",TVE Internacional Asia-Oceania
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" tvg-logo="" group-title="Spanish",TVE Internacional Asia-Oceania
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" tvg-logo="" group-title="Spanish",TVE Internacional Asia-Oceania
-https://streams.comclark.com/pknsd/tve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" tvg-logo="" group-title="Spanish",TVE Internacional Europe
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" tvg-logo="" group-title="Spanish",TVE Internacional Europe
@@ -4161,6 +4233,10 @@ http://45.162.193.35/TVN/index.m3u8
 http://138.121.15.230:9002/TVN/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="" group-title="Spanish",TVN
 https://iptv2.intersurtv.cl/TVN/index.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="" group-title="Spanish",TVN
+http://cdn1tlinkgo.tlink.cl/tvnhd/mono.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="" group-title="Spanish",TVN
+https://iptv.bitred.cl/tvn/index.m3u8
 #EXTINF:-1 tvg-id="TVN.do" tvg-name="TVN" tvg-logo="" group-title="Spanish",TVN
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.pa" tvg-name="TVN" tvg-logo="" group-title="Spanish",TVN
@@ -4171,6 +4247,8 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 https://edge.essastream.com/vozzmedia/index.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN3" tvg-logo="" group-title="Spanish",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN3" tvg-logo="" group-title="Spanish",TVN3
+http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
 #EXTINF:-1 tvg-id="TVO.do" tvg-name="TVO" tvg-logo="" group-title="Spanish",TVO
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" tvg-logo="" group-title="Spanish",TVO Canal 23
@@ -4197,6 +4275,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.cl" tvg-name="TVR" tvg-logo="" group-title="Spanish",TVR
 https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.cl" tvg-name="TVR" tvg-logo="" group-title="Spanish",TVR
+http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8
 #EXTINF:-1 tvg-id="TVR.es" tvg-name="TVR" tvg-logo="" group-title="Spanish",TVR
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVReus.es" tvg-name="TVReus" tvg-logo="" group-title="Spanish",TVReus
@@ -4209,6 +4289,8 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="TVU.cl" tvg-name="TVU" tvg-logo="" group-title="Spanish",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVU.cl" tvg-name="TVU" tvg-logo="" group-title="Spanish",TVU
+http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8
 #EXTINF:-1 tvg-id="TVUSucre.bo" tvg-name="TVU Sucre" tvg-logo="" group-title="Spanish",TVU Sucre
 https://edge.enhdtv.com/8214/index.m3u8
 #EXTINF:-1 tvg-id="TVUNO.pe" tvg-name="TVUNO" tvg-logo="" group-title="Spanish",TVUNO
@@ -4239,6 +4321,8 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 http://45.162.193.35/UCVTV/index.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="UCV TV" tvg-logo="" group-title="Spanish",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="UCV TV" tvg-logo="" group-title="Spanish",UCV TV
+http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
 #EXTINF:-1 tvg-id="UDGTV.mx" tvg-name="UDG TV" tvg-logo="" group-title="Spanish",UDG TV
 https://liveos.bytecazt.com/udgtv/streams/cfprivq23akg00a7ke2g_d306m7q9io6g00fsq3cg_.m3u8
 #EXTINF:-1 tvg-id="UEBITVOnline.ec" tvg-name="UEBI TV Online" tvg-logo="" group-title="Spanish",UEBI TV Online
@@ -4273,6 +4357,8 @@ https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-id="UnicaTV.gt" tvg-name="Unica TV" tvg-logo="" group-title="Spanish",Unica TV
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="" group-title="Spanish",Unicanal
+http://45.170.130.224:8000/play/a04y/index.m3u8?hls
 #EXTINF:-1 tvg-id="UnicentroTV.pe" tvg-name="Unicentro TV" tvg-logo="" group-title="Spanish",Unicentro TV
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" tvg-name="Unife TV" tvg-logo="" group-title="Spanish",Unife TV
@@ -4375,6 +4461,8 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 http://45.162.193.35/VIAX/index.m3u8
 #EXTINF:-1 tvg-id="ViaX.cl" tvg-name="Via X" tvg-logo="" group-title="Spanish",Via X
 http://45.170.130.224:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="ViaX.cl" tvg-name="Via X" tvg-logo="" group-title="Spanish",Via X
+http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
 #EXTINF:-1 tvg-id="VidaNuevaTV.cl" tvg-name="Vida Nueva TV" tvg-logo="" group-title="Spanish",Vida Nueva TV
 https://mc.servidor.stream:19360/8240/8240.m3u8
 #EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-name="Video Tour Channel" tvg-logo="" group-title="Spanish",Video Tour Channel
