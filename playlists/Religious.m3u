@@ -395,6 +395,10 @@ https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
 https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ExodusTV.si" tvg-name="Exodus TV" tvg-logo="" group-title="Religious",Exodus TV
 https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="FaithTV.us" tvg-name="Faith TV" tvg-logo="" group-title="Religious",Faith TV
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FaithUK.uk" tvg-name="Faith UK" tvg-logo="" group-title="Religious",Faith UK
+https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithWorldTV.uk" tvg-name="Faith World TV" tvg-logo="" group-title="Religious",Faith World TV
 https://faithworldtv.abs.tv/1826926230/index.m3u8
 #EXTINF:-1 tvg-id="FajarTV.id" tvg-name="Fajar TV" tvg-logo="" group-title="Religious",Fajar TV

@@ -1,1 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"
+#EXTINF:-1 tvg-id="WWMT31.us" tvg-name="WWMT — Kalamazoo, MI" tvg-logo="" group-title="US Local - CBS - Michigan",WWMT — Kalamazoo, MI
+https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="WJBK21.us" tvg-name="WJBK — Detroit, MI" tvg-logo="" group-title="US Local - FOX - Michigan",WJBK — Detroit, MI
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WJBK21.us" tvg-name="WJBK — Detroit, MI" tvg-logo="" group-title="US Local - FOX - Michigan",WJBK — Detroit, MI
+https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8

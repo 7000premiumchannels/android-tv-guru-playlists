@@ -291,6 +291,8 @@ https://kali.vdopanel.com:3788/hybrid/play.m3u8
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 #EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-name="Exploits TV" tvg-logo="" group-title="African & Caribbean",Exploits TV
 https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
+#EXTINF:-1 tvg-id="FaithAfrica.za" tvg-name="Faith Africa" tvg-logo="" group-title="African & Caribbean",Faith Africa
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithTV.za" tvg-name="Faith TV" tvg-logo="" group-title="African & Caribbean",Faith TV
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm" tvg-name="Fame95 FM" tvg-logo="" group-title="African & Caribbean",Fame95 FM
