@@ -293,8 +293,6 @@ https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
 #EXTINF:-1 tvg-id="FaithAfrica.za" tvg-name="Faith Africa" tvg-logo="" group-title="African & Caribbean",Faith Africa
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FaithTV.za" tvg-name="Faith TV" tvg-logo="" group-title="African & Caribbean",Faith TV
-https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm" tvg-name="Fame95 FM" tvg-logo="" group-title="African & Caribbean",Fame95 FM
 https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
 #EXTINF:-1 tvg-id="FamiliaVisionHD.pr" tvg-name="Familia Vision HD" tvg-logo="" group-title="African & Caribbean",Familia Vision HD
@@ -955,14 +953,6 @@ https://streamwipr.pr/hls/stream/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WKAQTV22.pr" tvg-name="WKAQ-TV 2.2" tvg-logo="" group-title="African & Caribbean",WKAQ-TV 2.2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WRUADT1.pr" tvg-name="WRUA-DT1" tvg-logo="" group-title="African & Caribbean",WRUA-DT1
-https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
-#EXTINF:-1 tvg-id="WRUADT1.pr" tvg-name="WRUA-DT1" tvg-logo="" group-title="African & Caribbean",WRUA-DT1
-https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
-#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-name="WWXY-DT1" tvg-logo="" group-title="African & Caribbean",WWXY-DT1
-https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 tvg-id="WWXYDT3.pr" tvg-name="WWXY-DT3" tvg-logo="" group-title="African & Caribbean",WWXY-DT3
-https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 #EXTINF:-1 tvg-id="WXWZLD231.pr" tvg-name="WXWZ-LD 23.1" tvg-logo="" group-title="African & Caribbean",WXWZ-LD 23.1
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" tvg-logo="" group-title="African & Caribbean",X 102.7 FM
