@@ -159,6 +159,10 @@ http://138.255.2.6:8084/AGROMAIS/index.m3u8
 http://168.197.104.22/AGROMAIS/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" tvg-logo="" group-title="US News & Weather",AgroMais
 http://170.83.16.50/AGRO_MAIS/index.m3u8
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" tvg-logo="" group-title="US News & Weather",Aik News
+https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" tvg-logo="" group-title="US News & Weather",Aik News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-logo="" group-title="US News & Weather",AKD Calcutta News
 https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-logo="" group-title="US News & Weather",AKD Calcutta News
@@ -367,6 +371,8 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" tvg-logo="" group-title="US News & Weather",Army TV
 http://195.54.52.40/test/index.m3u8
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="ARY News" tvg-logo="" group-title="US News & Weather",ARY News
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="" group-title="US News & Weather",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="" group-title="US News & Weather",AS TV
@@ -588,7 +594,7 @@ https://flv.intechmedia.net/live/ch112.m3u8
 #EXTINF:-1 tvg-id="BNChannel.id" tvg-name="BN Channel" tvg-logo="" group-title="US News & Weather",BN Channel
 http://175.158.57.130:8888/stream/channelid/1402218159
 #EXTINF:-1 tvg-id="BNChannel.id" tvg-name="BN Channel" tvg-logo="" group-title="US News & Weather",BN Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8
+http://ikitv.sqn.at:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="BR8TV.br" tvg-name="BR8 TV" tvg-logo="" group-title="US News & Weather",BR8 TV
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BrianTV.la" tvg-name="Brian TV" tvg-logo="" group-title="US News & Weather",Brian TV
@@ -719,6 +725,8 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="" group-title="US News & Weather",CGTN
 https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="" group-title="US News & Weather",CGTN
+https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="" group-title="US News & Weather",CGTN
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="" group-title="US News & Weather",CGTN
@@ -1071,6 +1079,8 @@ https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Portuguese" tvg-logo="" group-title="US News & Weather",Euronews Portuguese
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews Romania" tvg-logo="" group-title="US News & Weather",Euronews Romania
+https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="" group-title="US News & Weather",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="" group-title="US News & Weather",Euronews Russian
@@ -2669,6 +2679,8 @@ https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheYoungTurks.us" tvg-name="The Young Turks" tvg-logo="" group-title="US News & Weather",The Young Turks
 https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tickerNews.au" tvg-name="ticker News" tvg-logo="" group-title="US News & Weather",ticker News
+https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br" tvg-name="Times Brasil" tvg-logo="" group-title="US News & Weather",Times Brasil
 http://45.190.28.50/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br" tvg-name="Times Brasil" tvg-logo="" group-title="US News & Weather",Times Brasil

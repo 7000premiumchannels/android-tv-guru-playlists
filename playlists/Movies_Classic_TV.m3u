@@ -109,6 +109,8 @@ http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 http://88.212.15.19/live/amc_hun/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" tvg-logo="" group-title="Movies & Classic TV",AMC Europe
 https://dokagents.site/live/amc/mono.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" tvg-logo="" group-title="Movies & Classic TV",AMC Europe
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="" group-title="Movies & Classic TV",AMC Latin America
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="" group-title="Movies & Classic TV",AMC Latin America
@@ -899,6 +901,10 @@ https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="Film Cafe" tvg-logo="" group-title="Movies & Classic TV",Film Cafe
 http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="Film Cafe" tvg-logo="" group-title="Movies & Classic TV",Film Cafe
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" tvg-logo="" group-title="Movies & Classic TV",Film Now
+https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" tvg-logo="" group-title="Movies & Classic TV",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.hu" tvg-name="Film+" tvg-logo="" group-title="Movies & Classic TV",Film+
@@ -1689,6 +1695,8 @@ https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" tvg-logo="" group-title="Movies & Classic TV",Muzhskoe kino
 http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 tvg-id="MWDMovies.mm" tvg-name="MWD Movies" tvg-logo="" group-title="Movies & Classic TV",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-name="My Cinema" tvg-logo="" group-title="Movies & Classic TV",My Cinema
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe" tvg-logo="" group-title="Movies & Classic TV",My Cinema Europe
@@ -2897,8 +2905,6 @@ https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1000.bg" tvg-name="TV1000" tvg-logo="" group-title="Movies & Classic TV",TV1000
 http://85.14.32.26:8800/udp/239.100.10.100:5000
-#EXTINF:-1 tvg-id="TV1000.si" tvg-name="TV1000" tvg-logo="" group-title="Movies & Classic TV",TV1000
-http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru" tvg-name="TV1000 Russian Kino Global" tvg-logo="" group-title="Movies & Classic TV",TV1000 Russian Kino Global
 http://213.91.179.28:8000/play/a0bx
 #EXTINF:-1 tvg-id="TVCARiBCinema.sx" tvg-name="TVCARiB Cinema" tvg-logo="" group-title="Movies & Classic TV",TVCARiB Cinema
@@ -2983,6 +2989,8 @@ https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatFilm.hu" tvg-name="Viasat Film" tvg-logo="" group-title="Movies & Classic TV",Viasat Film
 http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino
+http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="" group-title="Movies & Classic TV",viju TV1000

@@ -49,6 +49,8 @@ http://185.47.212.25:8080/24h_HD/index.m3u8
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" tvg-logo="" group-title="Spanish",24 Horas Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-logo="" group-title="Spanish",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="28kanala.es" tvg-name="28 kanala" tvg-logo="" group-title="Spanish",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-id="36TVHuacho.pe" tvg-name="36 TV Huacho" tvg-logo="" group-title="Spanish",36 TV Huacho
@@ -3407,6 +3409,8 @@ https://stream.solmediaeg.com/soltv/soltv.m3u8
 https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:-1 tvg-id="SolTV.sv" tvg-name="SolTV" tvg-logo="" group-title="Spanish",SolTV
 http://rtmp.info:1935/soltv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-name="Somos Entre Rios" tvg-logo="" group-title="Spanish",Somos Entre Rios
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 tvg-id="SomosTV.ve" tvg-name="Somos TV" tvg-logo="" group-title="Spanish",Somos TV
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonoOndaTV.ec" tvg-name="Sono Onda TV" tvg-logo="" group-title="Spanish",Sono Onda TV
@@ -3847,6 +3851,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 https://v2.tustreaming.cl/tevex/index.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl" tvg-name="Tevex" tvg-logo="" group-title="Spanish",Tevex
 https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="TheCabbinFM.ar" tvg-name="The Cabbin FM" tvg-logo="" group-title="Spanish",The Cabbin FM
+https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-name="Thema Television" tvg-logo="" group-title="Spanish",Thema Television
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-name="Thema Television" tvg-logo="" group-title="Spanish",Thema Television
