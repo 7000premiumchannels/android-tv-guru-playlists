@@ -12,6 +12,8 @@ https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" tvg-logo="" group-title="Sports & Highlights",ACC Digital Network
 https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="" group-title="Sports & Highlights",ACC Network
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="" group-title="Sports & Highlights",ACC Network
 http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="" group-title="Sports & Highlights",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -499,6 +501,10 @@ https://stream-live.lrt.lt/plius/master.m3u8
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="" group-title="Sports & Highlights",M Sports
 https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="" group-title="Sports & Highlights",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="" group-title="Sports & Highlights",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport" tvg-logo="" group-title="Sports & Highlights",M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport" tvg-logo="" group-title="Sports & Highlights",M-Net Sport

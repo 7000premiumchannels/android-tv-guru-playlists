@@ -575,6 +575,8 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F198.58.104.90%3A8989%2Fnickelodeon%2Findex.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" tvg-logo="" group-title="Kids & Family",Nickelodeon Asia
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-name="Nickelodeon CIS" tvg-logo="" group-title="Kids & Family",Nickelodeon CIS

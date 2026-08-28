@@ -1733,8 +1733,6 @@ https://mc.servidor.stream:19360/8274/8274.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 tvg-id="FortalezaTVCueto.bo" tvg-name="Fortaleza TV Cueto" tvg-logo="" group-title="Spanish",Fortaleza TV Cueto
 https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="" group-title="Spanish",Fox Sports
-https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
 #EXTINF:-1 tvg-id="FranchsTV.gt" tvg-name="Franchs TV" tvg-logo="" group-title="Spanish",Franchs TV
 https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
 #EXTINF:-1 tvg-id="FRATATV.do" tvg-name="FRATA TV" tvg-logo="" group-title="Spanish",FRATA TV
@@ -2725,6 +2723,8 @@ https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-name="Pantalla Clasica EC" tvg-logo="" group-title="Spanish",Pantalla Clasica EC
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="Paraguay TV" tvg-logo="" group-title="Spanish",Paraguay TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" tvg-logo="" group-title="Spanish",Paravision
 http://45.170.130.224:8000/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-name="Parlamento de Andalucia" tvg-logo="" group-title="Spanish",Parlamento de Andalucia
@@ -3558,9 +3558,7 @@ https://teleola.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TelePoderTV.do" tvg-name="Tele Poder TV" tvg-logo="" group-title="Spanish",Tele Poder TV
 https://cdn.telepoder.online:3229/dash/stream.m3u8
 #EXTINF:-1 tvg-id="TelePosadas.ar" tvg-name="Tele Posadas" tvg-logo="" group-title="Spanish",Tele Posadas
-https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
-#EXTINF:-1 tvg-id="TelePosadas.ar" tvg-name="Tele Posadas" tvg-logo="" group-title="Spanish",Tele Posadas
-https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleProyectoTV.do" tvg-name="Tele Proyecto TV" tvg-logo="" group-title="Spanish",Tele Proyecto TV
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSafor.es" tvg-name="Tele Safor" tvg-logo="" group-title="Spanish",Tele Safor
