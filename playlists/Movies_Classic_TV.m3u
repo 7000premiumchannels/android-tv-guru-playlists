@@ -546,6 +546,8 @@ http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="cinebox.bg" tvg-name="cine.box" tvg-logo="" group-title="Movies & Classic TV",cine.box
 http://212.70.131.37:8000/play/a08b
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="" group-title="Movies & Classic TV",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="" group-title="Movies & Classic TV",Cine34
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="" group-title="Movies & Classic TV",Cinecanal
 http://138.121.15.230:9002/CINECANAL/index.m3u8
@@ -571,6 +573,14 @@ https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" tvg-logo="" group-title="Movies & Classic TV",CinemaWorld
 https://cdn.qd.je/163189/cinemaworld
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="" group-title="Movies & Classic TV",Cinemax
+http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="" group-title="Movies & Classic TV",Cinemax
+https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" tvg-logo="" group-title="Movies & Classic TV",Cinemax 2
+http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" tvg-logo="" group-title="Movies & Classic TV",Cinemax 2
+https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg" tvg-name="CineStar 1 Bulgaria" tvg-logo="" group-title="Movies & Classic TV",CineStar 1 Bulgaria
 http://213.91.179.28:8000/play/a05h
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" tvg-logo="" group-title="Movies & Classic TV",Cinevault 80s
@@ -811,6 +821,8 @@ http://stream.mcquack.net/412/index.m3u8
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DramaChannel.th" tvg-name="Drama Channel" tvg-logo="" group-title="Movies & Classic TV",Drama Channel
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-logo="" group-title="Movies & Classic TV",Drama Sangat
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
 #EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" tvg-logo="" group-title="Movies & Classic TV",Duck Dynasty
 https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" tvg-logo="" group-title="Movies & Classic TV",Duck Dynasty
@@ -861,6 +873,8 @@ https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
 #EXTINF:-1 tvg-id="EnterFilm.ua" tvg-name="Enter-Film" tvg-logo="" group-title="Movies & Classic TV",Enter-Film
 http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Epic Bhojpuri
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Epic Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="EpicDrama.uk" tvg-name="Epic Drama" tvg-logo="" group-title="Movies & Classic TV",Epic Drama
@@ -3009,6 +3023,8 @@ https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" tvg-logo="" group-title="Movies & Classic TV",Viasat Epic Drama
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" tvg-logo="" group-title="Movies & Classic TV",Viasat Epic Drama
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
 #EXTINF:-1 tvg-id="ViasatFilm.hu" tvg-name="Viasat Film" tvg-logo="" group-title="Movies & Classic TV",Viasat Film
 http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino
