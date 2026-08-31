@@ -1,16 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"
-#EXTINF:-1 tvg-id="Andflix.in" tvg-name="&flix" tvg-logo="" group-title="Movies & Classic TV",&flix
-http://103.72.101.252:8080/live/1322.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" tvg-logo="" group-title="Movies & Classic TV",&pictures
-http://103.72.101.252:8080/live/185.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" tvg-logo="" group-title="Movies & Classic TV",&pictures
 https://tvsen3.aynaott.com/jzT482XQ/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" tvg-logo="" group-title="Movies & Classic TV",&TV
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" tvg-logo="" group-title="Movies & Classic TV",&TV
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-name="&xplor HD" tvg-logo="" group-title="Movies & Classic TV",&xplor HD
-http://149.71.34.166:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="PlusSBTNovelas.br" tvg-name="+SBT Novelas" tvg-logo="" group-title="Movies & Classic TV",+SBT Novelas
 https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
 #EXTINF:-1 tvg-id="00sReplay.us" tvg-name="00s Replay" tvg-logo="" group-title="Movies & Classic TV",00s Replay
@@ -169,10 +163,6 @@ https://jmp2.uk/plu-6964b77dff4f2148e520fa9b.m3u8
 https://jmp2.uk/plu-6964b7e007ea70192df28d43.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="" group-title="Movies & Classic TV",Anger Management Channel
 https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
-#EXTINF:-1 tvg-id="AnmolCinema.in" tvg-name="Anmol Cinema" tvg-logo="" group-title="Movies & Classic TV",Anmol Cinema
-http://103.175.73.12:8080/live/271/271_0.m3u8
-#EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-name="Anmol Cinema 2" tvg-logo="" group-title="Movies & Classic TV",Anmol Cinema 2
-http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us" tvg-name="Anthony Bourdain: Parts Unknown" tvg-logo="" group-title="Movies & Classic TV",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" tvg-logo="" group-title="Movies & Classic TV",Antiques Roadshow UK
@@ -283,8 +273,6 @@ https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
-http://103.213.31.109:90/B4UKadak/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
 http://103.175.73.12:8080/live/44/44_0.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
@@ -1086,8 +1074,6 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in" tvg-name="Goldmines 2" tvg-logo="" group-title="Movies & Classic TV",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="" group-title="Movies & Classic TV",Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="" group-title="Movies & Classic TV",Goldmines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="" group-title="Movies & Classic TV",Goldmines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
@@ -1473,6 +1459,8 @@ http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-logo="" group-title="Movies & Classic TV",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-name="La Rosa de Guadalupe" tvg-logo="" group-title="Movies & Classic TV",La Rosa de Guadalupe
+https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
 #EXTINF:-1 tvg-id="Lemiracledelamour.us" tvg-name="Le miracle de l'amour" tvg-logo="" group-title="Movies & Classic TV",Le miracle de l'amour
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
 #EXTINF:-1 tvg-id="LesorelleMcLeod.us" tvg-name="Le sorelle McLeod" tvg-logo="" group-title="Movies & Classic TV",Le sorelle McLeod
@@ -2675,18 +2663,8 @@ http://213.91.179.28:8000/play/a0cs
 http://92.36.202.5:10001/play/a02o
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-name="Star Family" tvg-logo="" group-title="Movies & Classic TV",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" tvg-logo="" group-title="Movies & Classic TV",Star Gold
-http://103.253.18.58:8000/play/a00q
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" tvg-logo="" group-title="Movies & Classic TV",Star Gold 2
-http://103.253.18.58:8000/play/a00r
-#EXTINF:-1 tvg-id="StarGoldRomance.in" tvg-name="Star Gold Romance" tvg-logo="" group-title="Movies & Classic TV",Star Gold Romance
-http://103.253.18.58:8000/play/a017
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" tvg-logo="" group-title="Movies & Classic TV",Star Gold Select
-http://103.253.18.58:8000/play/a02u
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" tvg-logo="" group-title="Movies & Classic TV",Star Gold Select
 http://149.71.34.166:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldThrills.in" tvg-name="Star Gold Thrills" tvg-logo="" group-title="Movies & Classic TV",Star Gold Thrills
-http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in" tvg-name="Star Gold Thrills" tvg-logo="" group-title="Movies & Classic TV",Star Gold Thrills
 http://103.253.18.58:8000/play/a00o
 #EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" tvg-logo="" group-title="Movies & Classic TV",Star Life
@@ -2695,14 +2673,10 @@ http://213.91.179.28:8000/play/a0cr
 http://92.36.202.5:10001/play/a02n
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" tvg-logo="" group-title="Movies & Classic TV",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="" group-title="Movies & Classic TV",Star Movies
-http://149.71.34.166:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" tvg-logo="" group-title="Movies & Classic TV",Star Movies
 http://znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1 tvg-id="StarMovies.si" tvg-name="Star Movies" tvg-logo="" group-title="Movies & Classic TV",Star Movies
 http://92.36.202.5:10001/play/a01o
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="" group-title="Movies & Classic TV",Star Movies Select
-http://149.71.34.166:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk" tvg-name="Star Tamil Television" tvg-logo="" group-title="Movies & Classic TV",Star Tamil Television
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-name="Star Trek" tvg-logo="" group-title="Movies & Classic TV",Star Trek
@@ -3031,6 +3005,16 @@ http://88.212.15.19/live/viasat_film/index.m3u8
 http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino Action
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-name="Viasat Kino Comedy" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino Comedy
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
+#EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-name="Viasat Kino World" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino World
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
+#EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-name="Viasat Serial" tvg-logo="" group-title="Movies & Classic TV",Viasat Serial
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="" group-title="Movies & Classic TV",viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 action
@@ -3113,8 +3097,6 @@ https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="Zee Bollywood" tvg-logo="" group-title="Movies & Classic TV",Zee Bollywood
 https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="Zee Bollywood" tvg-logo="" group-title="Movies & Classic TV",Zee Bollywood
-http://149.71.34.166:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-logo="" group-title="Movies & Classic TV",Zee Cafe
 http://103.72.101.252:8080/live/1319.m3u8
 #EXTINF:-1 tvg-id="ZeeCineClassic.in" tvg-name="Zee Cine Classic" tvg-logo="" group-title="Movies & Classic TV",Zee Cine Classic
@@ -3133,5 +3115,3 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 http://103.72.101.252:8080/live/1691.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in" tvg-name="Zee South Flix" tvg-logo="" group-title="Movies & Classic TV",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-logo="" group-title="Movies & Classic TV",Zee Talkies
-http://103.72.101.252:8080/live/1358.m3u8
