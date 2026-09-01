@@ -110,6 +110,10 @@ channel_id,call_sign,display_name,reason
 4Music.fr,,4 Music,no EPG source lists this channel id or call sign
 4TVNews.in,,4TV News,no EPG source lists this channel id or call sign
 4UTV.tr,,4U TV,no EPG source lists this channel id or call sign
+4everCinema.ua,,4ever Cinema,no EPG source lists this channel id or call sign
+4everDrama.ua,,4ever Drama,no EPG source lists this channel id or call sign
+4everMusic.ua,,4ever Music,no EPG source lists this channel id or call sign
+4everTheater.ua,,4ever Theater,no EPG source lists this channel id or call sign
 50Canale.it,,50 Canale,no EPG source lists this channel id or call sign
 51RadioTV.it,,51 Radio TV,no EPG source lists this channel id or call sign
 555.ru,,555,no EPG source lists this channel id or call sign
@@ -738,7 +742,6 @@ Arryadia.ma,,Arryadia,no EPG source lists this channel id or call sign
 Arte1.br,,Arte 1,no EPG source lists this channel id or call sign
 ArubaTV.aw,,Aruba.TV,no EPG source lists this channel id or call sign
 ArubaTVPlus.aw,,ArubaTV +,no EPG source lists this channel id or call sign
-AruljothiTV.in,,Aruljothi TV,no EPG source lists this channel id or call sign
 ArvanTV.ir,,Arvan TV,no EPG source lists this channel id or call sign
 AryanTVNational.in,,Aryan TV National,no EPG source lists this channel id or call sign
 AryenTV.se,,Aryen TV,no EPG source lists this channel id or call sign
@@ -757,7 +760,6 @@ Asianet.in,,Asianet,no EPG source lists this channel id or call sign
 AsianetMiddleEast.in,,Asianet Middle East,no EPG source lists this channel id or call sign
 AsianetMovies.in,,Asianet Movies,no EPG source lists this channel id or call sign
 AsianetNews.in,,Asianet News,no EPG source lists this channel id or call sign
-AsianetPlus.in,,Asianet Plus,no EPG source lists this channel id or call sign
 AsianetSuvarnaNews.in,,Asianet Suvarna News,no EPG source lists this channel id or call sign
 AsilTV.ir,,Asil TV,no EPG source lists this channel id or call sign
 AsiriTV.pe,,AsiriTV,no EPG source lists this channel id or call sign
@@ -834,7 +836,6 @@ AzzurraTV.it,,Azzurra TV,no EPG source lists this channel id or call sign
 B15Fresnillo.mx,,B15 Fresnillo,no EPG source lists this channel id or call sign
 B15Zacatecas.mx,,B15 Zacatecas,no EPG source lists this channel id or call sign
 B4UBhojpuri.in,,B4U Bhojpuri,no EPG source lists this channel id or call sign
-B4UHitz.in,,B4U Hitz,no EPG source lists this channel id or call sign
 B4UKadak.in,,B4U Kadak,no EPG source lists this channel id or call sign
 B4UMovies.in,,B4U Movies,no EPG source lists this channel id or call sign
 B4UMusic.in,,B4U Music,no EPG source lists this channel id or call sign
@@ -1006,7 +1007,6 @@ BakuTV.az,,Baku.TV,no EPG source lists this channel id or call sign
 Balabol.ru,,Balabol,no EPG source lists this channel id or call sign
 Balapan.kz,,Balapan,no EPG source lists this channel id or call sign
 BalapanInternational.kz,,Balapan International,no EPG source lists this channel id or call sign
-Balastan.kg,,Balastan,no EPG source lists this channel id or call sign
 BalatonTV.hu,,Balaton TV,no EPG source lists this channel id or call sign
 BalchiTV.aw,,Balchi TV,no EPG source lists this channel id or call sign
 BalikpapanTV.id,,Balikpapan TV,no EPG source lists this channel id or call sign
@@ -1124,6 +1124,7 @@ BiznetAdventure.id,,Biznet Adventure,no EPG source lists this channel id or call
 BiznetKids.id,,Biznet Kids,no EPG source lists this channel id or call sign
 BiznetLifestyle.id,,Biznet Lifestyle,no EPG source lists this channel id or call sign
 BizzTV.tt,,Bizz TV,no EPG source lists this channel id or call sign
+Black.ua,,Black,no EPG source lists this channel id or call sign
 BlackFamilySitcoms.us,,Black Family Sitcoms,no EPG source lists this channel id or call sign
 BlackNewsChannel.us,,Black News Channel,no EPG source lists this channel id or call sign
 BlackSeaTV.ua,,Black Sea TV,no EPG source lists this channel id or call sign
@@ -1863,9 +1864,13 @@ CineFamiliar.us,,Cine Familiar,no EPG source lists this channel id or call sign
 CineHispano.us,,Cine Hispano,no EPG source lists this channel id or call sign
 CineLatino.mx,,CineLatino,no EPG source lists this channel id or call sign
 CineMexicano.us,,Cine Mexicano,no EPG source lists this channel id or call sign
+CinePlus.ua,,Cine+,no EPG source lists this channel id or call sign
 CinePlusClassic.fr,,Cine+ Classic,no EPG source lists this channel id or call sign
 CinePlusEmotion.fr,,Cine+ Emotion,no EPG source lists this channel id or call sign
 CinePlusFrisson.fr,,Cine+ Frisson,no EPG source lists this channel id or call sign
+CinePlusHit.ua,,Cine+ Hit,no EPG source lists this channel id or call sign
+CinePlusKids.ua,,Cine+ Kids,no EPG source lists this channel id or call sign
+CinePlusLegend.ua,,Cine+ Legend,no EPG source lists this channel id or call sign
 CinePremium.us,,Cine Premium,no EPG source lists this channel id or call sign
 CineSony.us,,Cine Sony,no EPG source lists this channel id or call sign
 CineStar1Bulgaria.bg,,CineStar 1 Bulgaria,no EPG source lists this channel id or call sign
@@ -1964,11 +1969,9 @@ ColorsGujarati.in,,Colors Gujarati,no EPG source lists this channel id or call s
 ColorsGujaratiCinema.in,,Colors Gujarati Cinema,no EPG source lists this channel id or call sign
 ColorsInfinity.in,,Colors Infinity,no EPG source lists this channel id or call sign
 ColorsKannada.in,,Colors Kannada,no EPG source lists this channel id or call sign
-ColorsKannadaCinema.in,,Colors Kannada Cinema,no EPG source lists this channel id or call sign
 ColorsMENA.in,,Colors MENA,no EPG source lists this channel id or call sign
 ColorsMarathi.in,,Colors Marathi,no EPG source lists this channel id or call sign
 ColorsRishteyAmericas.in,,Colors Rishtey Americas,no EPG source lists this channel id or call sign
-ColorsSuper.in,,Colors Super,no EPG source lists this channel id or call sign
 ColorsTamil.in,,Colors Tamil,no EPG source lists this channel id or call sign
 ColosalTV.cr,,Colosal TV,no EPG source lists this channel id or call sign
 ColumnaTV.ro,,Columna TV,no EPG source lists this channel id or call sign
@@ -2466,6 +2469,7 @@ ETVPlus.ee,,ETV+,no EPG source lists this channel id or call sign
 ETVPlus.in,,ETV Plus,no EPG source lists this channel id or call sign
 ETVTelangana.in,,ETV Telangana,no EPG source lists this channel id or call sign
 ETVTelugu.in,,ETV Telugu,no EPG source lists this channel id or call sign
+EUMusic.ua,,EU Music,no EPG source lists this channel id or call sign
 EUTV.br,,EUTV,no EPG source lists this channel id or call sign
 EVITV.cd,,EVI TV,no EPG source lists this channel id or call sign
 EVidya1.in,,E-Vidya 1,no EPG source lists this channel id or call sign
@@ -2733,8 +2737,10 @@ FashionBox.nl,,FashionBox,no EPG source lists this channel id or call sign
 FashionFinds.us,,Fashion Finds,no EPG source lists this channel id or call sign
 FashionLifeStyle.ru,,Fashion&LifeStyle,no EPG source lists this channel id or call sign
 FashionTV.br,,FashionTV,no EPG source lists this channel id or call sign
+FashionTV.ua,,Fashion TV,no EPG source lists this channel id or call sign
 FashionTVParisLOriginal.fr,,FashionTV Paris L'Original,no EPG source lists this channel id or call sign
 FashionTVSecrets.fr,,FashionTV Secrets,no EPG source lists this channel id or call sign
+Fast1.in,,Fast1,no EPG source lists this channel id or call sign
 FastFunBox.nl,,Fast&FunBox,no EPG source lists this channel id or call sign
 FatehTV.in,,Fateh TV,no EPG source lists this channel id or call sign
 Fauna.ua,,Fauna,no EPG source lists this channel id or call sign
@@ -2851,7 +2857,6 @@ Futura.br,,Futura,no EPG source lists this channel id or call sign
 FutureTV.lb,,Future TV,no EPG source lists this channel id or call sign
 G10TV.us,,G10TV,no EPG source lists this channel id or call sign
 GAMTVcr.cr,,GAMTV.cr,no EPG source lists this channel id or call sign
-GBNTV.us,,GBN TV,no EPG source lists this channel id or call sign
 GBSTV.ke,,GBS TV,no EPG source lists this channel id or call sign
 GCN.kr,,GCN,no EPG source lists this channel id or call sign
 GCNAmerica.us,,GCN America,no EPG source lists this channel id or call sign
@@ -3262,6 +3267,7 @@ HuascoTelevision.cl,,Huasco Television,no EPG source lists this channel id or ca
 HudaTV.eg,,Huda TV,no EPG source lists this channel id or call sign
 HuelvaTV.es,,Huelva TV,no EPG source lists this channel id or call sign
 HumNews.pk,,Hum News,no EPG source lists this channel id or call sign
+HumTV.pk,,Hum TV,no EPG source lists this channel id or call sign
 HumaBetangTV.id,,Huma Betang TV,no EPG source lists this channel id or call sign
 HunanNewsChannel.cn,,Hunan News Channel,no EPG source lists this channel id or call sign
 HunanPoliticsLawChannel.cn,,Hunan Politics & Law Channel,no EPG source lists this channel id or call sign
@@ -3419,6 +3425,7 @@ IranJewishTV.ir,,Iran Jewish TV,no EPG source lists this channel id or call sign
 IranNama.fr,,Iran Nama,no EPG source lists this channel id or call sign
 IranNationalRevolutionTV.us,,Iran National Revolution TV,no EPG source lists this channel id or call sign
 IranPress.ir,,Iran Press,no EPG source lists this channel id or call sign
+IraneFardaTV.uk,,IraneFarda TV,no EPG source lists this channel id or call sign
 IraqFuture.iq,,Iraq Future,no EPG source lists this channel id or call sign
 Iris.it,,Iris,no EPG source lists this channel id or call sign
 IsaacTV.pk,,Isaac TV,no EPG source lists this channel id or call sign
@@ -3851,6 +3858,7 @@ KomlosTV.hu,,Komlos TV,no EPG source lists this channel id or call sign
 KompasTV.id,,Kompas TV,no EPG source lists this channel id or call sign
 KomsanTV.kh,,Komsan TV,no EPG source lists this channel id or call sign
 KongressTV.ru,,Kongress TV,no EPG source lists this channel id or call sign
+KonkurentUkraine.ua,,Konkurent Ukraine,no EPG source lists this channel id or call sign
 KontraChannel.gr,,Kontra Channel,no EPG source lists this channel id or call sign
 KonyaOlayTV.tr,,Konya Olay TV,no EPG source lists this channel id or call sign
 KoogiTV.eg,,Koogi TV,no EPG source lists this channel id or call sign
@@ -4846,7 +4854,6 @@ NationalGeographic.cz,,National Geographic,no EPG source lists this channel id o
 NationalGeographic.fi,,National Geographic,no EPG source lists this channel id or call sign
 NationalGeographic.hr,,National Geographic,no EPG source lists this channel id or call sign
 NationalGeographic.hu,,National Geographic,no EPG source lists this channel id or call sign
-NationalGeographic.in,,National Geographic,no EPG source lists this channel id or call sign
 NationalGeographic.mx,,National Geographic,no EPG source lists this channel id or call sign
 NationalGeographic.nl,,National Geographic,no EPG source lists this channel id or call sign
 NationalGeographic.ro,,National Geographic,no EPG source lists this channel id or call sign
@@ -4856,7 +4863,6 @@ NationalGeographicLatinAmerica.us,,National Geographic Latin America,no EPG sour
 NationalGeographicWild.bg,,National Geographic Wild,no EPG source lists this channel id or call sign
 NationalGeographicWild.cz,,National Geographic Wild,no EPG source lists this channel id or call sign
 NationalGeographicWild.hu,,National Geographic Wild,no EPG source lists this channel id or call sign
-NationalGeographicWild.in,,National Geographic Wild,no EPG source lists this channel id or call sign
 NationalGeographicWild.ro,,National Geographic Wild,no EPG source lists this channel id or call sign
 NationalGeographicWild.ru,,National Geographic Wild,no EPG source lists this channel id or call sign
 NationalGeographicWild.tr,,National Geographic Wild,no EPG source lists this channel id or call sign
@@ -4889,6 +4895,7 @@ NesihaTV.et,,Nesiha TV,no EPG source lists this channel id or call sign
 NetalkoleTV.ht,,Netalkole TV,no EPG source lists this channel id or call sign
 NetmaxTV.gr,,Netmax TV,no EPG source lists this channel id or call sign
 Network10.in,,Network 10,no EPG source lists this channel id or call sign
+NevisTelevision.kn,,Nevis Television,no EPG source lists this channel id or call sign
 Nevskiy.ru,,Nevskiy,no EPG source lists this channel id or call sign
 NewFlix.ir,,NewFlix,no EPG source lists this channel id or call sign
 NewTV.pl,,NewTV,no EPG source lists this channel id or call sign
@@ -5001,6 +5008,7 @@ NiederbayernTVPassau.de,,Niederbayern TV Passau,no EPG source lists this channel
 Nigbati.ng,,Nigbati,no EPG source lists this channel id or call sign
 NikaTV.ru,,Nika TV,no EPG source lists this channel id or call sign
 NikiJunior.ua,,Niki Junior,no EPG source lists this channel id or call sign
+NikiKids.ua,,Niki Kids,no EPG source lists this channel id or call sign
 NimTV.gt,,Nim TV,no EPG source lists this channel id or call sign
 NinaTV.cl,,Nina TV,no EPG source lists this channel id or call sign
 NingTV.la,,Ning TV,no EPG source lists this channel id or call sign
@@ -5514,7 +5522,6 @@ PolarTV.cz,,Polar TV,no EPG source lists this channel id or call sign
 PoliceTV.th,,Police TV,no EPG source lists this channel id or call sign
 PolimerNews.in,,Polimer News,no EPG source lists this channel id or call sign
 PolimerTV.in,,Polimer TV,no EPG source lists this channel id or call sign
-Polonia1.pl,,Polonia 1,no EPG source lists this channel id or call sign
 Polsat.pl,,Polsat,no EPG source lists this channel id or call sign
 Polsat1.pl,,Polsat 1,no EPG source lists this channel id or call sign
 PolsatNews.pl,,Polsat News,no EPG source lists this channel id or call sign
@@ -6731,6 +6738,7 @@ SomosEntreRios.ar,,Somos Entre Rios,no EPG source lists this channel id or call 
 SomosTV.ve,,Somos TV,no EPG source lists this channel id or call sign
 SonLaTV.vn,,Son La TV,no EPG source lists this channel id or call sign
 Sonce.ua,,Sonce,no EPG source lists this channel id or call sign
+SoncePlus.ua,,Sonce+,no EPG source lists this channel id or call sign
 SongdewTV.in,,Songdew TV,no EPG source lists this channel id or call sign
 SonnenklarTV.de,,Sonnenklar TV,no EPG source lists this channel id or call sign
 SonoOndaTV.ec,,Sono Onda TV,no EPG source lists this channel id or call sign
@@ -6747,7 +6755,6 @@ SonyMovies.br,,Sony Movies,no EPG source lists this channel id or call sign
 SonyMoviesLatinAmerica.us,,Sony Movies Latin America,no EPG source lists this channel id or call sign
 SonyPix.in,,Sony Pix,no EPG source lists this channel id or call sign
 SonyWah.in,,Sony Wah,no EPG source lists this channel id or call sign
-SonyYay.in,,Sony Yay!,no EPG source lists this channel id or call sign
 SoonaTV.co,,Soona TV,no EPG source lists this channel id or call sign
 SooriyanTV.ca,,Sooriyan TV,no EPG source lists this channel id or call sign
 SophiaTV.de,,Sophia TV,no EPG source lists this channel id or call sign
@@ -6872,7 +6879,6 @@ StarMovies.si,,Star Movies,no EPG source lists this channel id or call sign
 StarPlus.in,,StarPlus,no EPG source lists this channel id or call sign
 StarPlusTelevizija.mk,,Star Plus Televizija,no EPG source lists this channel id or call sign
 StarPravah.in,,Star Pravah,no EPG source lists this channel id or call sign
-StarSports1.in,,Star Sports 1,no EPG source lists this channel id or call sign
 StarSports1Hindi.in,,Star Sports 1 Hindi,no EPG source lists this channel id or call sign
 StarSports2.in,,Star Sports 2,no EPG source lists this channel id or call sign
 StarSports2Hindi.in,,Star Sports 2 Hindi,no EPG source lists this channel id or call sign
@@ -6915,7 +6921,6 @@ StingrayRomanceLatino.ca,,Stingray Romance Latino,no EPG source lists this chann
 StingrayTodaysLatinPop.ca,,Stingray Today's Latin Pop,no EPG source lists this channel id or call sign
 StingrayiConcerts.ca,,Stingray iConcerts,no EPG source lists this channel id or call sign
 StocktonGovTV.us,,Stockton Gov TV,no EPG source lists this channel id or call sign
-StopklatkaTV.pl,,Stopklatka TV,no EPG source lists this channel id or call sign
 StorieCriminali.es,,Storie Criminali,no EPG source lists this channel id or call sign
 Story4.hu,,Story4,no EPG source lists this channel id or call sign
 StoryChannelTV.ma,,StoryChannel TV,no EPG source lists this channel id or call sign
@@ -7614,7 +7619,6 @@ TVRodina.bg,,TV Rodina,no EPG source lists this channel id or call sign
 TVRomana.sk,,TV Romana,no EPG source lists this channel id or call sign
 TVRuzinov.sk,,TV Ruzinov,no EPG source lists this channel id or call sign
 TVS.do,,TVS,no EPG source lists this channel id or call sign
-TVS.pl,,TVS,no EPG source lists this channel id or call sign
 TVS.ve,,TVS,no EPG source lists this channel id or call sign
 TVSAGovernmentChannel.us,,TVSA Government Channel,no EPG source lists this channel id or call sign
 TVSAPublicChannel.us,,TVSA Public Channel,no EPG source lists this channel id or call sign
@@ -7785,7 +7789,6 @@ TehzeebTV.in,,Tehzeeb TV,no EPG source lists this channel id or call sign
 Tekyemadahi.ir,,Tekyemadahi,no EPG source lists this channel id or call sign
 Telavision.hn,,Telavision,no EPG source lists this channel id or call sign
 Tele1.tr,,Tele 1,no EPG source lists this channel id or call sign
-Tele5.pl,,Tele5,no EPG source lists this channel id or call sign
 Tele7.es,,Tele 7,no EPG source lists this channel id or call sign
 Tele7ABCHD.ro,,Tele7ABC HD,no EPG source lists this channel id or call sign
 Tele7music.ro,,Tele7music,no EPG source lists this channel id or call sign
@@ -8246,6 +8249,7 @@ TyCSports.ar,,TyC Sports,no EPG source lists this channel id or call sign
 TyCSportsUSA.ar,,TyC Sports USA,no EPG source lists this channel id or call sign
 U.ru,,U,no EPG source lists this channel id or call sign
 UACJTV.mx,,UACJ-TV,no EPG source lists this channel id or call sign
+UAMusic.ua,,UA Music,no EPG source lists this channel id or call sign
 UATV.cl,,UATV,no EPG source lists this channel id or call sign
 UAlibi.uk,,U&Alibi,no EPG source lists this channel id or call sign
 UBS.mn,,UBS,no EPG source lists this channel id or call sign
@@ -8275,7 +8279,6 @@ UPEATV.bo,,UPEA TV,no EPG source lists this channel id or call sign
 USANetworkLatinAmerica.us,,USA Network Latin America,no EPG source lists this channel id or call sign
 USMPTV.pe,,USMPTV,no EPG source lists this channel id or call sign
 UStad.nl,,UStad,no EPG source lists this channel id or call sign
-UTRK.kg,,UTRK,no EPG source lists this channel id or call sign
 UTV.cl,,UTV,no EPG source lists this channel id or call sign
 UTV.cz,,UTV,no EPG source lists this channel id or call sign
 UTV.iq,,UTV,no EPG source lists this channel id or call sign
@@ -8465,6 +8468,7 @@ ViasatExplore.cz,,Viasat Explore,no EPG source lists this channel id or call sig
 ViasatExplore.ro,,Viasat Explore,no EPG source lists this channel id or call sign
 ViasatExplore.se,,Viasat Explore,no EPG source lists this channel id or call sign
 ViasatExplore.si,,Viasat Explore,no EPG source lists this channel id or call sign
+ViasatExplore.ua,,Viasat Explore,no EPG source lists this channel id or call sign
 ViasatExploreClassic.pl,,Viasat Explore Classic,no EPG source lists this channel id or call sign
 ViasatFilm.hu,,Viasat Film,no EPG source lists this channel id or call sign
 ViasatHistory.bg,,Viasat History,no EPG source lists this channel id or call sign
@@ -8473,6 +8477,7 @@ ViasatHistory.ro,,Viasat History,no EPG source lists this channel id or call sig
 ViasatHistory.se,,Viasat History,no EPG source lists this channel id or call sign
 ViasatHistory.si,,Viasat History,no EPG source lists this channel id or call sign
 ViasatHistory.tr,,Viasat History,no EPG source lists this channel id or call sign
+ViasatHistory.ua,,Viasat History,no EPG source lists this channel id or call sign
 ViasatKino.ua,,Viasat Kino,no EPG source lists this channel id or call sign
 ViasatKinoAction.ua,,Viasat Kino Action,no EPG source lists this channel id or call sign
 ViasatKinoComedy.ua,,Viasat Kino Comedy,no EPG source lists this channel id or call sign
@@ -8482,7 +8487,9 @@ ViasatNature.cz,,Viasat Nature,no EPG source lists this channel id or call sign
 ViasatNature.ro,,Viasat Nature,no EPG source lists this channel id or call sign
 ViasatNature.se,,Viasat Nature,no EPG source lists this channel id or call sign
 ViasatNature.si,,Viasat Nature,no EPG source lists this channel id or call sign
+ViasatNature.ua,,Viasat Nature,no EPG source lists this channel id or call sign
 ViasatSerial.ua,,Viasat Serial,no EPG source lists this channel id or call sign
+ViasatTrueCrime.pl,,Viasat True Crime,no EPG source lists this channel id or call sign
 VibesMedia.bz,,Vibes Media,no EPG source lists this channel id or call sign
 VidaMejorTV.us,,Vida Mejor TV,no EPG source lists this channel id or call sign
 VidaNuevaTV.cl,,Vida Nueva TV,no EPG source lists this channel id or call sign
@@ -8523,6 +8530,7 @@ VitalDrive.ru,,Vital Drive,no EPG source lists this channel id or call sign
 Vitebsk.by,,Vitebsk,no EPG source lists this channel id or call sign
 VitoTVO.ec,,VitoTVO,no EPG source lists this channel id or call sign
 VitrinaTV.ru,,Vitrina TV,no EPG source lists this channel id or call sign
+VivaLatino.ua,,¡Viva Latino!,no EPG source lists this channel id or call sign
 VivaNicaraguaCanal13.ni,,Viva Nicaragua Canal 13,no EPG source lists this channel id or call sign
 VivaTV.ni,,Viva TV,no EPG source lists this channel id or call sign
 VivaTV.pe,,VivaTV,no EPG source lists this channel id or call sign
@@ -8644,7 +8652,6 @@ WPEC121.us,,"WPEC — West Palm Beach, FL",no EPG source lists this channel id o
 WPIXHD.us,,WPIX-HD,no EPG source lists this channel id or call sign
 WPLG101.us,WPLG,WPLG 10.1,no EPG source lists this channel id or call sign
 WPSTV.us,WPS-TV,WPS-TV,no EPG source lists this channel id or call sign
-WPTV.pl,,WP TV,no EPG source lists this channel id or call sign
 WPTVTV51.us,,"WPTV-TV — West Palm Beach, FL",no EPG source lists this channel id or call sign
 WPolscePL.pl,,W Polsce PL,no EPG source lists this channel id or call sign
 WRDELD311.us,,"WRDE-LD — Salisbury, MD",no EPG source lists this channel id or call sign
@@ -8911,7 +8918,6 @@ Zoom.il,,Zoom,no EPG source lists this channel id or call sign
 Zoom.in,,Zoom,no EPG source lists this channel id or call sign
 Zoom.ua,,Zoom,no EPG source lists this channel id or call sign
 ZoomNews.us,,Zoom News,no EPG source lists this channel id or call sign
-ZoomTV.pl,,Zoom TV,no EPG source lists this channel id or call sign
 ZoomTecnologicoPlus.cl,,Zoom Tecnologico Plus,no EPG source lists this channel id or call sign
 Zoopark.ru,,Zoopark,no EPG source lists this channel id or call sign
 ZorTV.uz,,Zo'r TV,no EPG source lists this channel id or call sign
