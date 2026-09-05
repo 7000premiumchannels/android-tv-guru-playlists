@@ -563,6 +563,10 @@ http://stream.mcquack.net/169/index.m3u8
 http://flussonic.linkintel.ru/match/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" tvg-name="Match! Ultra" tvg-logo="" group-title="Sports & Highlights",Match! Ultra
 https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MatchUltra.ru" tvg-name="Match! Ultra" tvg-logo="" group-title="Sports & Highlights",Match! Ultra
+http://45.132.87.69:8080/match/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru" tvg-name="Match! Ultra" tvg-logo="" group-title="Sports & Highlights",Match! Ultra
+http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" tvg-logo="" group-title="Sports & Highlights",Max Sport 1
 http://213.91.179.28:8000/play/a0as
 #EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" tvg-logo="" group-title="Sports & Highlights",Max Sport 2

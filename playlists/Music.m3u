@@ -505,6 +505,8 @@ https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" tvg-logo="" group-title="Music",M1
 http://158.101.222.193:88/georgia_play.php?id=m1
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" tvg-logo="" group-title="Music",M1
+http://dtv.vol.net.ua/M1-HD/index.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-name="M2" tvg-logo="" group-title="Music",M2
 http://stream.mcquack.net/330/index.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it" tvg-name="m2o TV" tvg-logo="" group-title="Music",m2o TV
@@ -1471,14 +1473,6 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl" tvg-name="ZFM Zoetermeer TV" tvg-logo="" group-title="Music",ZFM Zoetermeer TV
 https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:-1 tvg-id="Zhara.ru" tvg-name="Zhara" tvg-logo="" group-title="Music",Zhara
-http://hls127.freeott.top:8080/Zhara/video.m3u8
-#EXTINF:-1 tvg-id="Zhara.ru" tvg-name="Zhara" tvg-logo="" group-title="Music",Zhara
-http://stream.mcquack.net/386/index.m3u8
-#EXTINF:-1 tvg-id="Zhara.ru" tvg-name="Zhara" tvg-logo="" group-title="Music",Zhara
-https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Zhara.ru" tvg-name="Zhara" tvg-logo="" group-title="Music",Zhara
-http://31.148.48.15/Zhara/index.m3u8
 #EXTINF:-1 tvg-id="ZICOTV.rs" tvg-name="ZICO TV" tvg-logo="" group-title="Music",ZICO TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing!" tvg-logo="" group-title="Music",Zing!
