@@ -3711,6 +3711,10 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-logo="" group-title="Spanish",Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
+#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-logo="" group-title="Spanish",Telefe Rosario
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefeTucuman.ar" tvg-name="Telefe Tucuman" tvg-logo="" group-title="Spanish",Telefe Tucuman
+https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="" group-title="Spanish",TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="" group-title="Spanish",TeleFormula
@@ -3808,8 +3812,6 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-id="TELESIGLO.do" tvg-name="TELESIGLO" tvg-logo="" group-title="Spanish",TELESIGLO
 https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-name="Telesistema 11" tvg-logo="" group-title="Spanish",Telesistema 11
-https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
-#EXTINF:-1 tvg-id="Telesistema11.do" tvg-name="Telesistema 11" tvg-logo="" group-title="Spanish",Telesistema 11
 https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
 #EXTINF:-1 tvg-id="Telesol.ar" tvg-name="Telesol" tvg-logo="" group-title="Spanish",Telesol
 https://cdn1.tvlin.net/open/telesol/playlist.m3u8
@@ -3845,6 +3847,8 @@ https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion" tvg-logo="" group-title="Spanish",Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleuniverso.do" tvg-name="Teleuniverso" tvg-logo="" group-title="Spanish",Teleuniverso
+https://hls.tvabierta.net/hls/029.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" tvg-logo="" group-title="Spanish",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="Telever.do" tvg-name="Telever" tvg-logo="" group-title="Spanish",Telever

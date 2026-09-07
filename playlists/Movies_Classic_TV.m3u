@@ -1031,8 +1031,6 @@ https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovela
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="" group-title="Movies & Classic TV",FX Movie Channel
 https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="" group-title="Movies & Classic TV",FX Movie Channel
-http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.tr" tvg-name="GEM Bollywood" tvg-logo="" group-title="Movies & Classic TV",GEM Bollywood
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMClassic.tr" tvg-name="GEM Classic" tvg-logo="" group-title="Movies & Classic TV",GEM Classic
@@ -1223,6 +1221,8 @@ https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 http://31.148.48.15/AMC/index.m3u8
 #EXTINF:-1 tvg-id="Hollywood.ru" tvg-name="Hollywood" tvg-logo="" group-title="Movies & Classic TV",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
+#EXTINF:-1 tvg-id="HollywoodUkraine.ua" tvg-name="Hollywood Ukraine" tvg-logo="" group-title="Movies & Classic TV",Hollywood Ukraine
+http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 #EXTINF:-1 tvg-id="HomeMadeNation.us" tvg-name="Home.Made.Nation" tvg-logo="" group-title="Movies & Classic TV",Home.Made.Nation
 https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
 #EXTINF:-1 tvg-id="HomeMadeNation.us" tvg-name="Home.Made.Nation" tvg-logo="" group-title="Movies & Classic TV",Home.Made.Nation
@@ -2489,6 +2489,8 @@ http://149.71.34.166:8000/play/a06f/index.m3u8
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-id="Pro100TV.ru" tvg-name="Pro100TV" tvg-logo="" group-title="Movies & Classic TV",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="Prokino.ua" tvg-name="Prokino" tvg-logo="" group-title="Movies & Classic TV",Prokino
+http://dtv.vol.net.ua/ProKino/index.m3u8
 #EXTINF:-1 tvg-id="PublicMovies.in" tvg-name="Public Movies" tvg-logo="" group-title="Movies & Classic TV",Public Movies
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" tvg-logo="" group-title="Movies & Classic TV",Punjabi Shorts
@@ -3083,6 +3085,22 @@ https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="" group-title="Movies & Classic TV",USA Network
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
+#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" tvg-name="Velvet. European Movies" tvg-logo="" group-title="Movies & Classic TV",Velvet. European Movies
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru" tvg-name="Velvet. Golden Collection" tvg-logo="" group-title="Movies & Classic TV",Velvet. Golden Collection
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru" tvg-name="Velvet. Mentovskiye Serialy" tvg-logo="" group-title="Movies & Classic TV",Velvet. Mentovskiye Serialy
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-id="VelvetScary.ru" tvg-name="Velvet. Scary" tvg-logo="" group-title="Movies & Classic TV",Velvet. Scary
+https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru" tvg-name="Velvet. Series Hits" tvg-logo="" group-title="Movies & Classic TV",Velvet. Series Hits
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru" tvg-name="Velvet. Sovetskoe Kino" tvg-logo="" group-title="Movies & Classic TV",Velvet. Sovetskoe Kino
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-id="VelvetSvaty.ru" tvg-name="Velvet. Svaty" tvg-logo="" group-title="Movies & Classic TV",Velvet. Svaty
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru" tvg-name="Velvet. World Series" tvg-logo="" group-title="Movies & Classic TV",Velvet. World Series
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-name="Viafree Movies" tvg-logo="" group-title="Movies & Classic TV",Viafree Movies
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-name="Viafree Movies" tvg-logo="" group-title="Movies & Classic TV",Viafree Movies
@@ -3099,8 +3117,12 @@ http://176.61.157.250/TV1000/index.m3u8
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino
+http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino Action
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino Action
+http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-name="Viasat Kino Comedy" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino Comedy
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
 #EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-name="Viasat Kino World" tvg-logo="" group-title="Movies & Classic TV",Viasat Kino World
