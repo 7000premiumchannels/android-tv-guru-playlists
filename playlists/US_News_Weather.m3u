@@ -15,6 +15,8 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-id="24News.in" tvg-name="24 News" tvg-logo="" group-title="US News & Weather",24 News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 tvg-id="24NewsHD.pk" tvg-name="24 News HD" tvg-logo="" group-title="US News & Weather",24 News HD
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="" group-title="US News & Weather",24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="" group-title="US News & Weather",24 TV
@@ -33,6 +35,8 @@ https://30a-tv.com/loomer.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" tvg-logo="" group-title="US News & Weather",360° News
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="365News.pk" tvg-name="365 News" tvg-logo="" group-title="US News & Weather",365 News
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
 #EXTINF:-1 tvg-id="3AW.au" tvg-name="3AW" tvg-logo="" group-title="US News & Weather",3AW
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in" tvg-name="4TV News" tvg-logo="" group-title="US News & Weather",4TV News
@@ -43,6 +47,8 @@ https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st
 https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="6PR.au" tvg-name="6PR" tvg-logo="" group-title="US News & Weather",6PR
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 tvg-id="7News.pk" tvg-name="7 News" tvg-logo="" group-title="US News & Weather",7 News
+https://sscsott.com/7news/live/index.m3u8
 #EXTINF:-1 tvg-id="92NewsHD.pk" tvg-name="92 News HD" tvg-logo="" group-title="US News & Weather",92 News HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="99TV.in" tvg-name="99TV" tvg-logo="" group-title="US News & Weather",99TV
@@ -413,6 +419,8 @@ http://5.254.89.106/8709/index.m3u8
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-id="AznewsTV.se" tvg-name="Aznews TV" tvg-logo="" group-title="US News & Weather",Aznews TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" tvg-logo="" group-title="US News & Weather",B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" tvg-logo="" group-title="US News & Weather",Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" tvg-logo="" group-title="US News & Weather",BandNews
@@ -629,6 +637,8 @@ https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-name="Canal Metropolitano de Noticias" tvg-logo="" group-title="US News & Weather",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="CapitalTV.pk" tvg-name="Capital TV" tvg-logo="" group-title="US News & Weather",Capital TV
+https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="" group-title="US News & Weather",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="" group-title="US News & Weather",CBC News Network
@@ -819,6 +829,8 @@ http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="ChPinfo.ua" tvg-name="ChP info" tvg-logo="" group-title="US News & Weather",ChP info
 http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn" tvg-name="Chuxiong News Channel" tvg-logo="" group-title="US News & Weather",Chuxiong News Channel
+http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-id="ChuzhouNewsChannel.cn" tvg-name="Chuzhou News Channel" tvg-logo="" group-title="US News & Weather",Chuzhou News Channel
 http://live.cztv.cc:85/live/xwpd.m3u8
 #EXTINF:-1 tvg-id="City41.pk" tvg-name="City 41" tvg-logo="" group-title="US News & Weather",City 41
@@ -977,6 +989,8 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 tvg-id="EkamraBharatOdia.in" tvg-name="Ekamra Bharat Odia" tvg-logo="" group-title="US News & Weather",Ekamra Bharat Odia
 https://live.ekamraott.com/bharat/bharat/index.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk" tvg-logo="" group-title="US News & Weather",Ekoturk
+https://cdn.ekoturk.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="" group-title="US News & Weather",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-name="Entertainment Tonight" tvg-logo="" group-title="US News & Weather",Entertainment Tonight
@@ -1519,6 +1533,8 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="KTNNews.pk" tvg-name="KTN News" tvg-logo="" group-title="US News & Weather",KTN News
 https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
+#EXTINF:-1 tvg-id="KTNNews.pk" tvg-name="KTN News" tvg-logo="" group-title="US News & Weather",KTN News
+https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8
 #EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV" tvg-logo="" group-title="US News & Weather",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-name="KTV 2" tvg-logo="" group-title="US News & Weather",KTV 2
@@ -1633,6 +1649,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
 #EXTINF:-1 tvg-id="MashriqTV.pk" tvg-name="Mashriq TV" tvg-logo="" group-title="US News & Weather",Mashriq TV
 http://103.250.28.74:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="MashriqTV.pk" tvg-name="Mashriq TV" tvg-logo="" group-title="US News & Weather",Mashriq TV
+https://cdn4.mjunoon.tv:8087/streamtest/108M/chunks.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" tvg-logo="" group-title="US News & Weather",Mathrubhumi News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" tvg-logo="" group-title="US News & Weather",Mathrubhumi News
