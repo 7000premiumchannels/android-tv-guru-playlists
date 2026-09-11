@@ -785,6 +785,8 @@ https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" tvg-logo="" group-title="Religious",MH One Shraddha
 https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" tvg-logo="" group-title="Religious",MH One Shraddha
+https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
 #EXTINF:-1 tvg-id="MiddleEastTV.cy" tvg-name="Middle East TV" tvg-logo="" group-title="Religious",Middle East TV
 https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
 #EXTINF:-1 tvg-id="MinisterioLaVozDeUnRemanenteTV.us" tvg-name="Ministerio La Voz De Un Remanente TV" tvg-logo="" group-title="Religious",Ministerio La Voz De Un Remanente TV
@@ -859,10 +861,6 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-logo="" group-title="Religious",Novo Tempo
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-logo="" group-title="Religious",Novo Tempo
-http://45.190.28.50/TV_NOVO_TEMPO/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-logo="" group-title="Religious",Novo Tempo
-http://138.255.2.6:8084/TVNOVOTEMPO/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-logo="" group-title="Religious",Novo Tempo
 http://168.197.104.22/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-logo="" group-title="Religious",Novo Tempo
@@ -952,19 +950,11 @@ https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="" group-title="Religious",Rede Gospel
 http://45.177.114.115/REDE_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="" group-title="Religious",Rede Gospel
-http://45.190.28.50/REDE_GOSPEL_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="" group-title="Religious",Rede Gospel
 http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" tvg-logo="" group-title="Religious",Rede Seculo 21
 http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" tvg-logo="" group-title="Religious",Rede Seculo 21
-http://138.255.2.6:8084/REDESECULO21/index.m3u8
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" tvg-logo="" group-title="Religious",Rede Seculo 21
 http://186.219.52.187/seculo21/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="" group-title="Religious",Rede Vida
-http://45.190.28.50/REDE_VIDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="" group-title="Religious",Rede Vida
-http://138.255.2.6:8084/REDEVIDA/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="" group-title="Religious",Rede Vida
 http://168.197.104.22/REDE_VIDA/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="" group-title="Religious",Rede Vida
@@ -977,10 +967,6 @@ https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" tvg-logo="" group-title="Religious",RIT TV
 http://45.177.114.115/RIT_TV/index.m3u8
-#EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" tvg-logo="" group-title="Religious",RIT TV
-http://45.190.28.50/RIT/index.m3u8
-#EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" tvg-logo="" group-title="Religious",RIT TV
-http://138.255.2.6:8084/RIT/index.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" tvg-logo="" group-title="Religious",RIT TV
 http://170.83.49.66:8083/RITHD/index.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" tvg-logo="" group-title="Religious",RIT TV
@@ -1172,8 +1158,6 @@ http://45.162.64.114/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="" group-title="Religious",TV Aparecida
 http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="" group-title="Religious",TV Aparecida
-http://138.255.2.6:8084/TVAPARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="" group-title="Religious",TV Aparecida
 http://168.197.104.22/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="" group-title="Religious",TV Aparecida
 http://170.83.16.50/TV_APARECIDA/index.m3u8
@@ -1181,8 +1165,6 @@ http://170.83.16.50/TV_APARECIDA/index.m3u8
 http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="" group-title="Religious",TV Evangelizar
 http://45.162.64.114/EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="" group-title="Religious",TV Evangelizar
-http://45.190.28.50/TV_EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="" group-title="Religious",TV Evangelizar
 http://168.197.104.22/EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="" group-title="Religious",TV Evangelizar
@@ -1215,8 +1197,6 @@ https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="" group-title="Religious",TV Pai Eterno
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="" group-title="Religious",TV Pai Eterno
-http://45.190.28.50/PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="" group-title="Religious",TV Pai Eterno
 http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="" group-title="Religious",TV Pai Eterno
