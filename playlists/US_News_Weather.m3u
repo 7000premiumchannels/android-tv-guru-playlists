@@ -2179,6 +2179,8 @@ https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/maste
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-name="Press TV French" tvg-logo="" group-title="US News & Weather",Press TV French
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" tvg-logo="" group-title="US News & Weather",Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" tvg-logo="" group-title="US News & Weather",Prime News
 https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" tvg-logo="" group-title="US News & Weather",Prime News
@@ -2691,6 +2693,8 @@ https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" tvg-name="STZ TV" tvg-logo="" group-title="US News & Weather",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" tvg-logo="" group-title="US News & Weather",Suara Surabaya Visual Radio
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SuchTV.pk" tvg-name="Such TV" tvg-logo="" group-title="US News & Weather",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="Sudarshan News" tvg-logo="" group-title="US News & Weather",Sudarshan News
@@ -3031,10 +3035,6 @@ https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:-1 tvg-id="WSOCNow.us" tvg-name="WSOC Now" tvg-logo="" group-title="US News & Weather",WSOC Now
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="YES.mv" tvg-name="YES" tvg-logo="" group-title="US News & Weather",YES
-https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
-#EXTINF:-1 tvg-id="YES.mv" tvg-name="YES" tvg-logo="" group-title="US News & Weather",YES
-https://lana.psm.mv/live/yes.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="US News & Weather",Zee 24 Ghanta
 http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="US News & Weather",Zee 24 Ghanta

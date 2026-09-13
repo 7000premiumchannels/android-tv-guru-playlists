@@ -861,6 +861,8 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-name="Canal 8 Catacaos" tvg-logo="" group-title="Spanish",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-id="Canal8MardelPlata.ar" tvg-name="Canal 8 Mar del Plata" tvg-logo="" group-title="Spanish",Canal 8 Mar del Plata
+https://canal8mdq.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-name="Canal 8 San Juan" tvg-logo="" group-title="Spanish",Canal 8 San Juan
 https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co" tvg-name="Canal 8 TV+" tvg-logo="" group-title="Spanish",Canal 8 TV+
@@ -3751,6 +3753,8 @@ http://200.91.32.158:8080/telefehdvalle/index.m3u8
 http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-logo="" group-title="Spanish",Telefe Rosario
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefeSalta.ar" tvg-name="Telefe Salta" tvg-logo="" group-title="Spanish",Telefe Salta
+https://canal11saltatv.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-id="TelefeTucuman.ar" tvg-name="Telefe Tucuman" tvg-logo="" group-title="Spanish",Telefe Tucuman
 https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="" group-title="Spanish",TeleFormula
