@@ -54,6 +54,8 @@ https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-name="90s Throwback" tvg-logo="" group-title="Movies & Classic TV",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" tvg-logo="" group-title="Movies & Classic TV",A2
+http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8
+#EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" tvg-logo="" group-title="Movies & Classic TV",A2
 http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us" tvg-name="Acapulco Shore" tvg-logo="" group-title="Movies & Classic TV",Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
@@ -124,11 +126,15 @@ https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="" group-title="Movies & Classic TV",AMC Latin America
 http://138.121.15.230:9002/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="" group-title="Movies & Classic TV",AMC Latin America
+https://iptv2.intersurtv.cl/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="" group-title="Movies & Classic TV",AMC Latin America
 http://45.171.108.253:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="" group-title="Movies & Classic TV",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="" group-title="Movies & Classic TV",Amedia Hit
 http://flussonic.linkintel.ru/amedia-hit/index.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="" group-title="Movies & Classic TV",Amedia Hit
+http://str2.iptvhd.ru:8080/Amedia_Hit_HD/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="" group-title="Movies & Classic TV",Amedia Hit
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium" tvg-logo="" group-title="Movies & Classic TV",Amedia Premium
@@ -271,6 +277,8 @@ http://193.24.244.60:1001/udp/239.254.5.6:6060
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",B4U Bhojpuri
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",B4U Bhojpuri
+https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
@@ -279,12 +287,16 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
 http://107.167.16.138/b4ukadak/index.m3u8?token=test
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
+https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="Movies & Classic TV",B4U Movies
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="Movies & Classic TV",B4U Movies
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="Movies & Classic TV",B4U Movies
 http://66.102.126.10:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="Movies & Classic TV",B4U Movies
+https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="BabAlHara.sa" tvg-name="Bab Al Hara" tvg-logo="" group-title="Movies & Classic TV",Bab Al Hara
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-id="Balabol.ru" tvg-name="Balabol" tvg-logo="" group-title="Movies & Classic TV",Balabol
@@ -353,6 +365,8 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1033/master.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" tvg-logo="" group-title="Movies & Classic TV",Bhojpuri Cinema
 https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" tvg-logo="" group-title="Movies & Classic TV",Bhojpuri Cinema
+https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
 #EXTINF:-1 tvg-id="BIZCinema.uz" tvg-name="BIZ Cinema" tvg-logo="" group-title="Movies & Classic TV",BIZ Cinema
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 tvg-id="BIZCinema.uz" tvg-name="BIZ Cinema" tvg-logo="" group-title="Movies & Classic TV",BIZ Cinema
@@ -365,8 +379,18 @@ http://stream.mcquack.net/364/index.m3u8
 https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
 #EXTINF:-1 tvg-id="BlueBloods.us" tvg-name="Blue Bloods" tvg-logo="" group-title="Movies & Classic TV",Blue Bloods
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
+#EXTINF:-1 tvg-id="Bollygold.in" tvg-name="Bollygold" tvg-logo="" group-title="Movies & Classic TV",Bollygold
+https://jmp2.uk/stvp-IN4000600Q
+#EXTINF:-1 tvg-id="Bollywood.ru" tvg-name="Bollywood" tvg-logo="" group-title="Movies & Classic TV",Bollywood
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-id="Bollywood.ru" tvg-name="Bollywood" tvg-logo="" group-title="Movies & Classic TV",Bollywood
+http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-id="Bollywood.ru" tvg-name="Bollywood" tvg-logo="" group-title="Movies & Classic TV",Bollywood
+http://str2.iptvhd.ru:8080/bollywood/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" tvg-logo="" group-title="Movies & Classic TV",Bollywood Classic
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+#EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-name="Bollywood Film" tvg-logo="" group-title="Movies & Classic TV",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="" group-title="Movies & Classic TV",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="" group-title="Movies & Classic TV",Bollywood HD
@@ -393,6 +417,8 @@ http://stream.mcquack.net/272/index.m3u8
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" tvg-logo="" group-title="Movies & Classic TV",BRIDGE Classic
 https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" tvg-logo="" group-title="Movies & Classic TV",BRIDGE Classic
+http://str2.iptvhd.ru:8080/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" tvg-logo="" group-title="Movies & Classic TV",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="BritainsNextTopModel.se" tvg-name="Britain's Next Top Model" tvg-logo="" group-title="Movies & Classic TV",Britain's Next Top Model
@@ -546,7 +572,7 @@ http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="" group-title="Movies & Classic TV",Cinecanal
 https://cdn1tlinkgo.tlink.cl/cinecanalhd/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="" group-title="Movies & Classic TV",Cinecanal
-http://45.162.193.35/CINECANAL/index.m3u8
+https://iptv2.intersurtv.cl/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" tvg-logo="" group-title="Movies & Classic TV",Cinema
 https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" tvg-logo="" group-title="Movies & Classic TV",Cinema
@@ -559,6 +585,8 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="" group-title="Movies & Classic TV",Cinema
 http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="" group-title="Movies & Classic TV",Cinema
+http://str2.iptvhd.ru:8080/cinema/index.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" tvg-logo="" group-title="Movies & Classic TV",CinemaWorld
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" tvg-logo="" group-title="Movies & Classic TV",CinemaWorld
@@ -774,11 +802,17 @@ http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="" group-title="Movies & Classic TV",Dom kino
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="" group-title="Movies & Classic TV",Dom kino
+http://str2.iptvhd.ru:8080/Dom_kino/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="" group-title="Movies & Classic TV",Dom kino
+http://88.212.15.19/live/test_dom_kino/playlist.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="" group-title="Movies & Classic TV",Dom kino
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" tvg-logo="" group-title="Movies & Classic TV",Dom kino Premium
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" tvg-logo="" group-title="Movies & Classic TV",Dom kino Premium
 https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" tvg-logo="" group-title="Movies & Classic TV",Dom kino Premium
+http://88.212.15.19/live/test_dom_kino_premium/playlist.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" tvg-logo="" group-title="Movies & Classic TV",Dom kino Premium
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="DontTellTheBride.uk" tvg-name="Don't Tell The Bride" tvg-logo="" group-title="Movies & Classic TV",Don't Tell The Bride
@@ -793,6 +827,8 @@ https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" tvg-logo="" group-title="Movies & Classic TV",Dorama
 http://stream.mcquack.net/412/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" tvg-logo="" group-title="Movies & Classic TV",Dorama
+http://str2.iptvhd.ru:8080/dorama_hd/index.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" tvg-logo="" group-title="Movies & Classic TV",Dorama
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" tvg-logo="" group-title="Movies & Classic TV",Dorama
@@ -851,6 +887,8 @@ https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
 #EXTINF:-1 tvg-id="EnterFilm.ua" tvg-name="Enter-Film" tvg-logo="" group-title="Movies & Classic TV",Enter-Film
 http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-id="EnterFilm.ua" tvg-name="Enter-Film" tvg-logo="" group-title="Movies & Classic TV",Enter-Film
+http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Epic Bhojpuri
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Epic Bhojpuri
@@ -860,11 +898,17 @@ http://82.78.243.219:45739/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" tvg-logo="" group-title="Movies & Classic TV",ETV Cinema
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" tvg-logo="" group-title="Movies & Classic TV",ETV Cinema
+https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" tvg-logo="" group-title="Movies & Classic TV",ETV Cinema
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" tvg-logo="" group-title="Movies & Classic TV",Evrokino
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" tvg-logo="" group-title="Movies & Classic TV",Evrokino
 https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" tvg-logo="" group-title="Movies & Classic TV",Evrokino
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" tvg-logo="" group-title="Movies & Classic TV",Evrokino
+http://str2.iptvhd.ru:8080/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" tvg-logo="" group-title="Movies & Classic TV",Evrokino
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.us" tvg-name="Family Ties" tvg-logo="" group-title="Movies & Classic TV",Family Ties
@@ -985,6 +1029,8 @@ https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" tvg-logo="" group-title="Movies & Classic TV",FILMBOX+ One
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" tvg-logo="" group-title="Movies & Classic TV",FILMBOX+ One
+https://iptv.prosto.tv/ch064/index.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us" tvg-name="Filmes Suspense" tvg-logo="" group-title="Movies & Classic TV",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV" tvg-logo="" group-title="Movies & Classic TV",FilmRise Classic TV
@@ -1011,6 +1057,8 @@ https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="FrightFlix.us" tvg-name="FrightFlix" tvg-logo="" group-title="Movies & Classic TV",FrightFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
+#EXTINF:-1 tvg-id="FXLife.ru" tvg-name="FX Life" tvg-logo="" group-title="Movies & Classic TV",FX Life
+http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.tr" tvg-name="GEM Bollywood" tvg-logo="" group-title="Movies & Classic TV",GEM Bollywood
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMClassic.tr" tvg-name="GEM Classic" tvg-logo="" group-title="Movies & Classic TV",GEM Classic
@@ -1066,7 +1114,11 @@ https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies & Classic TV",Goldmines
 https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies & Classic TV",Goldmines
+https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies & Classic TV",Goldmines
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in" tvg-name="Goldmines 2" tvg-logo="" group-title="Movies & Classic TV",Goldmines 2
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action" tvg-logo="" group-title="Movies & Classic TV",Goldmines Action
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="" group-title="Movies & Classic TV",Goldmines Bollywood
@@ -1083,6 +1135,8 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="" group-title="Movies & Classic TV",Goldmines Movies
 https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="" group-title="Movies & Classic TV",Goldmines Movies
+https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="" group-title="Movies & Classic TV",Goldmines Movies
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-name="Grand Cinema" tvg-logo="" group-title="Movies & Classic TV",Grand Cinema
@@ -1241,6 +1295,16 @@ https://jmp2.uk/plu-619e4a3518d6970008bebc95.m3u8
 https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8
 #EXTINF:-1 tvg-id="HorosheeKino.ru" tvg-name="Horoshee Kino" tvg-logo="" group-title="Movies & Classic TV",Horoshee Kino
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-id="HorrorChannel.it" tvg-name="Horror Channel" tvg-logo="" group-title="Movies & Classic TV",Horror Channel
+http://str2.iptvhd.ru:8080/Horror/index.m3u8
+#EXTINF:-1 tvg-id="HOTCinema1.il" tvg-name="HOT Cinema 1" tvg-logo="" group-title="Movies & Classic TV",HOT Cinema 1
+http://str2.iptvhd.ru:8080/Gold/index.m3u8
+#EXTINF:-1 tvg-id="HOTCinema2.il" tvg-name="HOT Cinema 2" tvg-logo="" group-title="Movies & Classic TV",HOT Cinema 2
+http://str2.iptvhd.ru:8080/action/index.m3u8
+#EXTINF:-1 tvg-id="HOTCinema3.il" tvg-name="HOT Cinema 3" tvg-logo="" group-title="Movies & Classic TV",HOT Cinema 3
+http://str2.iptvhd.ru:8080/fun/index.m3u8
+#EXTINF:-1 tvg-id="HOTCinema4.il" tvg-name="HOT Cinema 4" tvg-logo="" group-title="Movies & Classic TV",HOT Cinema 4
+http://str2.iptvhd.ru:8080/drama/index.m3u8
 #EXTINF:-1 tvg-id="HOTDrama.il" tvg-name="HOT Drama" tvg-logo="" group-title="Movies & Classic TV",HOT Drama
 http://stream.mcquack.net/381/index.m3u8
 #EXTINF:-1 tvg-id="HouseofLies.se" tvg-name="House of Lies" tvg-logo="" group-title="Movies & Classic TV",House of Lies
@@ -1288,6 +1352,10 @@ https://live.presstv.ir/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm Persian" tvg-logo="" group-title="Movies & Classic TV",iFilm Persian
 https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Illusion+" tvg-logo="" group-title="Movies & Classic TV",Illusion+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Illusion+" tvg-logo="" group-title="Movies & Classic TV",Illusion+
+http://str2.iptvhd.ru:8080/Illyuzion/index.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Illusion+" tvg-logo="" group-title="Movies & Classic TV",Illusion+
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-id="ImpossibleQuizShow.us" tvg-name="Impossible Quiz Show" tvg-logo="" group-title="Movies & Classic TV",Impossible Quiz Show
 https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
@@ -1305,6 +1373,8 @@ http://stream.mcquack.net/104/index.m3u8
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" tvg-logo="" group-title="Movies & Classic TV",Indiyskoye Kino
 https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" tvg-logo="" group-title="Movies & Classic TV",Indiyskoye Kino
+http://str2.iptvhd.ru:8080/Indiya_TV/index.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in" tvg-name="Indywood TV" tvg-logo="" group-title="Movies & Classic TV",Indywood TV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="InsideCrime.us" tvg-name="Inside Crime" tvg-logo="" group-title="Movies & Classic TV",Inside Crime
@@ -1412,15 +1482,21 @@ https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="" group-title="Movies & Classic TV",Kino TV
 http://flussonic.linkintel.ru/kino-tv/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="" group-title="Movies & Classic TV",Kino TV
+http://str2.iptvhd.ru:8080/Kino_TV/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="" group-title="Movies & Classic TV",Kino TV
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="" group-title="Movies & Classic TV",Kino TV
 http://31.148.48.15/Kino_TV/index.m3u8
+#EXTINF:-1 tvg-id="KinoBoevik.kz" tvg-name="KinoBoevik" tvg-logo="" group-title="Movies & Classic TV",KinoBoevik
+https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="" group-title="Movies & Classic TV",KinoHit
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="" group-title="Movies & Classic TV",KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="" group-title="Movies & Classic TV",KinoHit
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="" group-title="Movies & Classic TV",KinoHit
+http://str2.iptvhd.ru:8080/Kinohit/index.m3u8
 #EXTINF:-1 tvg-id="Kinoliving.ua" tvg-name="Kinoliving" tvg-logo="" group-title="Movies & Classic TV",Kinoliving
 http://stream.mcquack.net/445/index.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" tvg-logo="" group-title="Movies & Classic TV",Kinomix
@@ -1429,6 +1505,8 @@ http://93.170.254.17/Kinomiks/index.m3u8
 http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" tvg-logo="" group-title="Movies & Classic TV",Kinomix
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" tvg-logo="" group-title="Movies & Classic TV",Kinomix
+http://str2.iptvhd.ru:8080/Kino_plyus/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="" group-title="Movies & Classic TV",Kinopokaz
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="" group-title="Movies & Classic TV",Kinopokaz
@@ -1436,9 +1514,13 @@ http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="" group-title="Movies & Classic TV",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="" group-title="Movies & Classic TV",Kinopokaz
+http://str2.iptvhd.ru:8080/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="" group-title="Movies & Classic TV",Kinopokaz
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="" group-title="Movies & Classic TV",Kinopremyera
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="" group-title="Movies & Classic TV",Kinopremyera
+http://str2.iptvhd.ru:8080/HD_Kino/index.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="" group-title="Movies & Classic TV",Kinopremyera
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="" group-title="Movies & Classic TV",Kinopremyera
@@ -1453,6 +1535,8 @@ https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" tvg-logo="" group-title="Movies & Classic TV",Kinoseriya
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" tvg-logo="" group-title="Movies & Classic TV",Kinoseriya
+http://str2.iptvhd.ru:8080/Mnogo_TV/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" tvg-logo="" group-title="Movies & Classic TV",Kinosvidanie
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" tvg-logo="" group-title="Movies & Classic TV",Kinosvidanie
@@ -1467,6 +1551,8 @@ https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" tvg-logo="" group-title="Movies & Classic TV",Kinouzhas
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" tvg-logo="" group-title="Movies & Classic TV",Kinouzhas
+http://str2.iptvhd.ru:8080/kinoujas_tv/index.m3u8
 #EXTINF:-1 tvg-id="Kinowood.ua" tvg-name="Kinowood" tvg-logo="" group-title="Movies & Classic TV",Kinowood
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-id="Klasik.hr" tvg-name="Klasik" tvg-logo="" group-title="Movies & Classic TV",Klasik
@@ -1529,6 +1615,8 @@ http://88.212.15.19/live/mozi/index.m3u8
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Grand
 https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Grand
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Grand
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Movies
@@ -1616,11 +1704,13 @@ https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playl
 #EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" tvg-logo="" group-title="Movies & Classic TV",Midsomer Murders
 https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" tvg-logo="" group-title="Movies & Classic TV",Mir Seriala
-http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" tvg-logo="" group-title="Movies & Classic TV",Mir Seriala
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" tvg-logo="" group-title="Movies & Classic TV",Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-id="Mirovoekino.kz" tvg-name="Mirovoe kino" tvg-logo="" group-title="Movies & Classic TV",Mirovoe kino
+https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MissionImpossible.de" tvg-name="Mission Impossible" tvg-logo="" group-title="Movies & Classic TV",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.de" tvg-name="Mission Impossible" tvg-logo="" group-title="Movies & Classic TV",Mission Impossible
@@ -1741,6 +1831,10 @@ https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" tvg-logo="" group-title="Movies & Classic TV",Muzhskoe kino
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" tvg-logo="" group-title="Movies & Classic TV",Muzhskoe kino
+http://str2.iptvhd.ru:8080/Muzhskoe_kino/index.m3u8
+#EXTINF:-1 tvg-id="Muzhskoy.ru" tvg-name="Muzhskoy" tvg-logo="" group-title="Movies & Classic TV",Muzhskoy
+http://str2.iptvhd.ru:8080/Muzhskoy/index.m3u8
 #EXTINF:-1 tvg-id="MWDMovies.mm" tvg-name="MWD Movies" tvg-logo="" group-title="Movies & Classic TV",MWD Movies
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-name="My Cinema" tvg-logo="" group-title="Movies & Classic TV",My Cinema
@@ -1785,6 +1879,8 @@ https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" tvg-logo="" group-title="Movies & Classic TV",Nashe
 http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" tvg-logo="" group-title="Movies & Classic TV",Nashe
+http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8
 #EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-name="Nashe Lubimoe Kino" tvg-logo="" group-title="Movies & Classic TV",Nashe Lubimoe Kino
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-name="Nashe Lubimoe Kino Ukraine" tvg-logo="" group-title="Movies & Classic TV",Nashe Lubimoe Kino Ukraine
@@ -1797,6 +1893,8 @@ http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Nashe Novoe Kino" tvg-logo="" group-title="Movies & Classic TV",Nashe Novoe Kino
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Nashe Novoe Kino" tvg-logo="" group-title="Movies & Classic TV",Nashe Novoe Kino
+http://str2.iptvhd.ru:8080/Nashe_novoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="Nashville.us" tvg-name="Nashville" tvg-logo="" group-title="Movies & Classic TV",Nashville
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 #EXTINF:-1 tvg-id="NCIS.se" tvg-name="NCIS" tvg-logo="" group-title="Movies & Classic TV",NCIS
@@ -1821,6 +1919,10 @@ https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NewFlix.ir" tvg-name="NewFlix" tvg-logo="" group-title="Movies & Classic TV",NewFlix
 https://newfhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NHBollyFlix.in" tvg-name="NH BollyFlix" tvg-logo="" group-title="Movies & Classic TV",NH BollyFlix
+https://jmp2.uk/stvp-IN46000140Q
+#EXTINF:-1 tvg-id="NHBollyGold.in" tvg-name="NH BollyGold" tvg-logo="" group-title="Movies & Classic TV",NH BollyGold
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 #EXTINF:-1 tvg-id="NHTamilGold.in" tvg-name="NH Tamil Gold" tvg-logo="" group-title="Movies & Classic TV",NH Tamil Gold
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" tvg-logo="" group-title="Movies & Classic TV",Nolly Africa
@@ -1874,6 +1976,10 @@ http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" tvg-logo="" group-title="Movies & Classic TV",Nostalgia
 https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" tvg-logo="" group-title="Movies & Classic TV",Nostalgia
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" tvg-logo="" group-title="Movies & Classic TV",Nostalgia
+http://str2.iptvhd.ru:8080/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" tvg-logo="" group-title="Movies & Classic TV",Nostalgia
 http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-name="Novelisima" tvg-logo="" group-title="Movies & Classic TV",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
@@ -1882,9 +1988,13 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" tvg-logo="" group-title="Movies & Classic TV",NTV Series
 http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" tvg-logo="" group-title="Movies & Classic TV",NTV Series
+http://str2.iptvhd.ru:8080/ntvserial/index.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" tvg-logo="" group-title="Movies & Classic TV",NTV Series
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" tvg-logo="" group-title="Movies & Classic TV",NTV-Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" tvg-logo="" group-title="Movies & Classic TV",NTV-Hit
+http://str2.iptvhd.ru:8080/ntv_hit/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" tvg-logo="" group-title="Movies & Classic TV",NTV-Hit
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="Numb3rs.se" tvg-name="Numb3rs" tvg-logo="" group-title="Movies & Classic TV",Numb3rs
@@ -1909,6 +2019,8 @@ https://cdn.pishow.tv/ott/live/233/master.m3u8
 http://116.90.120.151:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-name="Ostrosyuzhetnoye" tvg-logo="" group-title="Movies & Classic TV",Ostrosyuzhetnoye
 http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-name="Ostrosyuzhetnoye" tvg-logo="" group-title="Movies & Classic TV",Ostrosyuzhetnoye
+http://str2.iptvhd.ru:8080/Ostrosyuzhetnoe_HD/index.m3u8
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="" group-title="Movies & Classic TV",OuterSphere
 https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="" group-title="Movies & Classic TV",OuterSphere
@@ -2477,6 +2589,8 @@ https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca14134
 http://149.71.34.166:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="Premialnoe.ru" tvg-name="Premialnoe" tvg-logo="" group-title="Movies & Classic TV",Premialnoe
 http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 tvg-id="Premialnoe.ru" tvg-name="Premialnoe" tvg-logo="" group-title="Movies & Classic TV",Premialnoe
+http://str2.iptvhd.ru:8080/Kino_premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" tvg-logo="" group-title="Movies & Classic TV",Pro Cinema
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 #EXTINF:-1 tvg-id="Pro100TV.ru" tvg-name="Pro100TV" tvg-logo="" group-title="Movies & Classic TV",Pro100TV
@@ -2513,6 +2627,10 @@ https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 http://stream.mcquack.net/191/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="" group-title="Movies & Classic TV",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="" group-title="Movies & Classic TV",Retro
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="" group-title="Movies & Classic TV",Retro
+http://str2.iptvhd.ru:8080/Retro/index.m3u8
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-name="Retro TV" tvg-logo="" group-title="Movies & Classic TV",Retro TV
 https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-name="Retro TV" tvg-logo="" group-title="Movies & Classic TV",Retro TV
@@ -2527,6 +2645,8 @@ http://stream.mcquack.net/242/index.m3u8
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="" group-title="Movies & Classic TV",Rodnoe Kino
 https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="" group-title="Movies & Classic TV",Rodnoe Kino
+http://str2.iptvhd.ru:8080/Nashe_kino/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="" group-title="Movies & Classic TV",Rodnoe Kino
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="RomedyNow.in" tvg-name="Romedy Now" tvg-logo="" group-title="Movies & Classic TV",Romedy Now
@@ -2552,19 +2672,27 @@ https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-name="Russkiy Bestseller" tvg-logo="" group-title="Movies & Classic TV",Russkiy Bestseller
 http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-name="Russkiy Bestseller" tvg-logo="" group-title="Movies & Classic TV",Russkiy Bestseller
+http://str2.iptvhd.ru:8080/Russkiy_bestseller/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-name="Russkiy Bestseller" tvg-logo="" group-title="Movies & Classic TV",Russkiy Bestseller
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-name="Russkiy Detektiv" tvg-logo="" group-title="Movies & Classic TV",Russkiy Detektiv
 http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-name="Russkiy Detektiv" tvg-logo="" group-title="Movies & Classic TV",Russkiy Detektiv
+http://str2.iptvhd.ru:8080/Russkiy_detektiv/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-name="Russkiy Detektiv" tvg-logo="" group-title="Movies & Classic TV",Russkiy Detektiv
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyIllusion.ru" tvg-name="Russkiy Illusion" tvg-logo="" group-title="Movies & Classic TV",Russkiy Illusion
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="RusskiyIllusion.ru" tvg-name="Russkiy Illusion" tvg-logo="" group-title="Movies & Classic TV",Russkiy Illusion
+http://str2.iptvhd.ru:8080/Russkiy_illyuzion/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyIllusion.ru" tvg-name="Russkiy Illusion" tvg-logo="" group-title="Movies & Classic TV",Russkiy Illusion
 http://31.148.48.15/Russkiy_illusion/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" tvg-logo="" group-title="Movies & Classic TV",Russkiy roman
 http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" tvg-logo="" group-title="Movies & Classic TV",Russkiy roman
 https://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" tvg-logo="" group-title="Movies & Classic TV",Russkiy roman
+http://str2.iptvhd.ru:8080/Russkiy_roman/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" tvg-logo="" group-title="Movies & Classic TV",Russkiy roman
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" tvg-logo="" group-title="Movies & Classic TV",Russkiy roman
@@ -2601,6 +2729,8 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Shokiruyushchee" tvg-logo="" group-title="Movies & Classic TV",Shokiruyushchee
 http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Shokiruyushchee" tvg-logo="" group-title="Movies & Classic TV",Shokiruyushchee
+http://str2.iptvhd.ru:8080/Kinopokaz_HD1/index.m3u8
 #EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" tvg-logo="" group-title="Movies & Classic TV",Shot TV
 http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" tvg-logo="" group-title="Movies & Classic TV",Shubh Cinema TV
@@ -2689,6 +2819,8 @@ https://cloudplay-sonyliv.pages.dev/wah.m3u8
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" tvg-logo="" group-title="Movies & Classic TV",Star Channel
 http://213.91.179.28:8000/play/a0c9
+#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" tvg-logo="" group-title="Movies & Classic TV",Star Channel
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
 #EXTINF:-1 tvg-id="StarChannel.si" tvg-name="Star Channel" tvg-logo="" group-title="Movies & Classic TV",Star Channel
 http://92.36.202.5:10001/play/a01s
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" tvg-logo="" group-title="Movies & Classic TV",Star Channel Latin America
@@ -2705,10 +2837,14 @@ https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" tvg-logo="" group-title="Movies & Classic TV",Star Crime
 http://213.91.179.28:8000/play/a0cs
+#EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" tvg-logo="" group-title="Movies & Classic TV",Star Crime
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
 #EXTINF:-1 tvg-id="StarCrime.si" tvg-name="Star Crime" tvg-logo="" group-title="Movies & Classic TV",Star Crime
 http://92.36.202.5:10001/play/a02o
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-name="Star Family" tvg-logo="" group-title="Movies & Classic TV",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarFamily.ru" tvg-name="Star Family" tvg-logo="" group-title="Movies & Classic TV",Star Family
+http://str2.iptvhd.ru:8080/112Ukraina/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" tvg-logo="" group-title="Movies & Classic TV",Star Gold 2
 http://66.102.126.10:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" tvg-logo="" group-title="Movies & Classic TV",Star Gold 2
@@ -2717,6 +2853,8 @@ http://107.167.16.138/stargold2/index.m3u8?token=test
 http://103.253.18.58:8000/play/a00o
 #EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" tvg-logo="" group-title="Movies & Classic TV",Star Life
 http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" tvg-logo="" group-title="Movies & Classic TV",Star Life
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
 #EXTINF:-1 tvg-id="StarLife.si" tvg-name="Star Life" tvg-logo="" group-title="Movies & Classic TV",Star Life
 http://92.36.202.5:10001/play/a02n
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" tvg-logo="" group-title="Movies & Classic TV",Star Maa Movies
@@ -2760,9 +2898,15 @@ https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.us" tvg-name="Star Trek: Voyager" tvg-logo="" group-title="Movies & Classic TV",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-name="START Air" tvg-logo="" group-title="Movies & Classic TV",START Air
+http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8
+#EXTINF:-1 tvg-id="STARTAir.ru" tvg-name="START Air" tvg-logo="" group-title="Movies & Classic TV",START Air
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-name="START Air" tvg-logo="" group-title="Movies & Classic TV",START Air
 https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="STARTAir.ru" tvg-name="START Air" tvg-logo="" group-title="Movies & Classic TV",START Air
+http://176.118.197.101/START_AIR/index.m3u8
+#EXTINF:-1 tvg-id="STARTWorld.ru" tvg-name="START World" tvg-logo="" group-title="Movies & Classic TV",START World
+http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8
 #EXTINF:-1 tvg-id="STARTWorld.ru" tvg-name="START World" tvg-logo="" group-title="Movies & Classic TV",START World
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="Starz Cinema" tvg-logo="" group-title="Movies & Classic TV",Starz Cinema
@@ -2874,6 +3018,8 @@ https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" tvg-logo="" group-title="Movies & Classic TV",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" tvg-logo="" group-title="Movies & Classic TV",The Movie Club
+https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
+#EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" tvg-logo="" group-title="Movies & Classic TV",The Movie Club
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1 tvg-id="TheNewDetectives.de" tvg-name="The New Detectives" tvg-logo="" group-title="Movies & Classic TV",The New Detectives
 https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
@@ -2979,6 +3125,8 @@ http://58.8.186.128:10003/bysid/2326
 http://178.134.1.158:8081/TVXXI/index.m3u8
 #EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" tvg-logo="" group-title="Movies & Classic TV",TV 21
 https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" tvg-logo="" group-title="Movies & Classic TV",TV 21
+http://str2.iptvhd.ru:8080/TV-XXI/index.m3u8
 #EXTINF:-1 tvg-id="TV21International.ru" tvg-name="TV 21 International" tvg-logo="" group-title="Movies & Classic TV",TV 21 International
 http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 tvg-id="TVLandDrama.us" tvg-name="TV Land Drama" tvg-logo="" group-title="Movies & Classic TV",TV Land Drama
@@ -3115,12 +3263,16 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="" group-title="Movies & Classic TV",viju TV1000
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="" group-title="Movies & Classic TV",viju TV1000
+http://str2.iptvhd.ru:8080/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 action
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 action
 https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 action
+http://str2.iptvhd.ru:8080/TV1000_Action/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 russkoe
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 russkoe
@@ -3128,13 +3280,21 @@ https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 russkoe
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 russkoe
+http://str2.iptvhd.ru:8080/TV1000russkoekino/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="" group-title="Movies & Classic TV",viju TV1000 russkoe
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="viju+ Megahit" tvg-logo="" group-title="Movies & Classic TV",viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="viju+ Megahit" tvg-logo="" group-title="Movies & Classic TV",viju+ Megahit
+http://str2.iptvhd.ru:8080/TV1000_Megahit_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="viju+ Premiere" tvg-logo="" group-title="Movies & Classic TV",viju+ Premiere
 http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="viju+ Premiere" tvg-logo="" group-title="Movies & Classic TV",viju+ Premiere
+http://str2.iptvhd.ru:8080/TV1000_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-name="viju+ Serial" tvg-logo="" group-title="Movies & Classic TV",viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-name="viju+ Serial" tvg-logo="" group-title="Movies & Classic TV",viju+ Serial
+http://str2.iptvhd.ru:8080/VIP_Serial_HD/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-name="Vinh Long TV 3" tvg-logo="" group-title="Movies & Classic TV",Vinh Long TV 3
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-name="Walker Texas Ranger" tvg-logo="" group-title="Movies & Classic TV",Walker Texas Ranger
@@ -3199,6 +3359,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="" group-title="Movies & Classic TV",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="Zee Cinemalu" tvg-logo="" group-title="Movies & Classic TV",Zee Cinemalu
+https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-logo="" group-title="Movies & Classic TV",Zee Classic
 http://103.72.101.252:8080/live/1691.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-logo="" group-title="Movies & Classic TV",Zee Classic

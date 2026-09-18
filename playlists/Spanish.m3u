@@ -19,10 +19,6 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" group-title="Spanish",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" group-title="Spanish",13C
-http://45.4.1.201:8000/play/a132/index.m3u8
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" group-title="Spanish",13C
-http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-name="13E" tvg-logo="" group-title="Spanish",13E
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="13P.cl" tvg-name="13P" tvg-logo="" group-title="Spanish",13P
@@ -91,8 +87,6 @@ https://9laloma.tv/live.m3u8
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="ARCanal.pa" tvg-name="A&R Canal" tvg-logo="" group-title="Spanish",A&R Canal
 http://51.222.9.192:3589/stream/play.m3u8
-#EXTINF:-1 tvg-id="APlus.mx" tvg-name="A+" tvg-logo="" group-title="Spanish",A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="" group-title="Spanish",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="A7TV.do" tvg-name="A7 TV" tvg-logo="" group-title="Spanish",A7 TV
@@ -1546,8 +1540,6 @@ https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" group-title="Spanish",El Gourmet
 http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" group-title="Spanish",El Gourmet
-http://190.93.224.42/EL-GOURMET/index.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" group-title="Spanish",El Gourmet
 http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" group-title="Spanish",El Gourmet
 http://138.121.15.230:9002/EL-GOURMET/index.m3u8
@@ -2589,6 +2581,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" tvg-logo="" group-title="Spanish",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-name="Neox TV" tvg-logo="" group-title="Spanish",Neox TV
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="" group-title="Spanish",NET TV
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="" group-title="Spanish",NET TV
@@ -3849,6 +3843,8 @@ http://190.61.101.11:7050/play/a07t/index.m3u8
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="Teletrak TV" tvg-logo="" group-title="Spanish",Teletrak TV
 https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="Teletrak TV" tvg-logo="" group-title="Spanish",Teletrak TV
+https://iptv2.intersurtv.cl/TELETRAK/index.m3u8
 #EXTINF:-1 tvg-id="Teletur.do" tvg-name="Teletur" tvg-logo="" group-title="Spanish",Teletur
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion" tvg-logo="" group-title="Spanish",Teleunion
