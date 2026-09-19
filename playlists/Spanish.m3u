@@ -815,6 +815,8 @@ https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
 https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal7.gt" tvg-name="Canal 7" tvg-logo="" group-title="Spanish",Canal 7
 http://181.119.177.253:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="Canal7.gt" tvg-name="Canal 7" tvg-logo="" group-title="Spanish",Canal 7
+http://200.115.120.1:8000/play/ca112/index.m3u8
 #EXTINF:-1 tvg-id="Canal7Boaco.ni" tvg-name="Canal 7 Boaco" tvg-logo="" group-title="Spanish",Canal 7 Boaco
 https://cdn.amixtv.com/c7boaco/index.m3u8
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal 7 Jujuy" tvg-logo="" group-title="Spanish",Canal 7 Jujuy
