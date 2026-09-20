@@ -23,22 +23,8 @@ https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="AlfaSport.cy" tvg-name="Alfa Sport" tvg-logo="" group-title="Sports & Highlights",Alfa Sport
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-name="Alkass Four" tvg-logo="" group-title="Sports & Highlights",Alkass Four
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-name="Alkass One" tvg-logo="" group-title="Sports & Highlights",Alkass One
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-name="Alkass SHOOF" tvg-logo="" group-title="Sports & Highlights",Alkass SHOOF
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF2.qa" tvg-name="Alkass SHOOF 2" tvg-logo="" group-title="Sports & Highlights",Alkass SHOOF 2
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSix.qa" tvg-name="Alkass Six" tvg-logo="" group-title="Sports & Highlights",Alkass Six
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-name="Alkass Three" tvg-logo="" group-title="Sports & Highlights",Alkass Three
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassThree.qa" tvg-name="Alkass Three" tvg-logo="" group-title="Sports & Highlights",Alkass Three
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-name="Alkass Two" tvg-logo="" group-title="Sports & Highlights",Alkass Two
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-name="Arena Sport 1" tvg-logo="" group-title="Sports & Highlights",Arena Sport 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-name="Arena Sport 2" tvg-logo="" group-title="Sports & Highlights",Arena Sport 2
@@ -286,8 +272,6 @@ https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
-https://iptv.prosto.tv/ch118/index.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" tvg-name="FITE 24/7" tvg-logo="" group-title="Sports & Highlights",FITE 24/7
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
@@ -399,8 +383,6 @@ http://183.207.249.12/PLTV/4/224/3221225935/index.m3u8
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-id="JordanSport.jo" tvg-name="Jordan Sport" tvg-logo="" group-title="Sports & Highlights",Jordan Sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
-#EXTINF:-1 tvg-id="JordanSport.jo" tvg-name="Jordan Sport" tvg-logo="" group-title="Sports & Highlights",Jordan Sport
-http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-id="K19.at" tvg-name="K19" tvg-logo="" group-title="Sports & Highlights",K19
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kabaddi24x7.in" tvg-name="Kabaddi 24x7" tvg-logo="" group-title="Sports & Highlights",Kabaddi 24x7
@@ -1144,7 +1126,7 @@ http://stream.mcquack.net/279/index.m3u8
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-name="UDAR" tvg-logo="" group-title="Sports & Highlights",UDAR
 http://str2.iptvhd.ru:8080/UFC_HD/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-name="Unbeaten" tvg-logo="" group-title="Sports & Highlights",Unbeaten
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-name="Unbeaten" tvg-logo="" group-title="Sports & Highlights",Unbeaten
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-name="Unbeaten" tvg-logo="" group-title="Sports & Highlights",Unbeaten
