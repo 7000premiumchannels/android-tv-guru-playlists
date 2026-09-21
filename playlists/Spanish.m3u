@@ -2623,6 +2623,8 @@ https://tv1.ninatv.cl/hls/stream.m3u8
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-id="NorteInformativoTV.cr" tvg-name="Norte Informativo TV" tvg-logo="" group-title="Spanish",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-id="NorteTV.ar" tvg-name="Norte TV" tvg-logo="" group-title="Spanish",Norte TV
+https://ntvcanal7.com.ar:81/dash/stream.mpd
 #EXTINF:-1 tvg-id="NortenaTv.ve" tvg-name="Nortena Tv" tvg-logo="" group-title="Spanish",Nortena Tv
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es" tvg-name="Nortevision" tvg-logo="" group-title="Spanish",Nortevision
