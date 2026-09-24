@@ -1,8 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"
 #EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-name="30A Golf Kingdom" tvg-logo="" group-title="Sports & Highlights",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-id="5Gold.il" tvg-name="5Gold" tvg-logo="" group-title="Sports & Highlights",5Gold
+http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
+#EXTINF:-1 tvg-id="5Live.il" tvg-name="5Live" tvg-logo="" group-title="Sports & Highlights",5Live
+http://str2.iptvhd.ru:8080/5live/index.m3u8
+#EXTINF:-1 tvg-id="5Plus.il" tvg-name="5Plus" tvg-logo="" group-title="Sports & Highlights",5Plus
+http://89.33.29.115:8080/sportplus/index.m3u8
 #EXTINF:-1 tvg-id="5Sport.il" tvg-name="5Sport" tvg-logo="" group-title="Sports & Highlights",5Sport
-http://stream.mcquack.net/41/index.m3u8
+http://str2.iptvhd.ru:8080/5sport/index.m3u8
+#EXTINF:-1 tvg-id="5Sport4K.il" tvg-name="5Sport 4K" tvg-logo="" group-title="Sports & Highlights",5Sport 4K
+http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="" group-title="Sports & Highlights",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" tvg-logo="" group-title="Sports & Highlights",ACC Digital Network
@@ -597,6 +605,8 @@ http://stream.mcquack.net/493/index.m3u8
 http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-name="Oman Sports TV" tvg-logo="" group-title="Sports & Highlights",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="One2.il" tvg-name="One 2" tvg-logo="" group-title="Sports & Highlights",One 2
+http://str2.iptvhd.ru:8080/One/index.m3u8
 #EXTINF:-1 tvg-id="OneGolf.pk" tvg-name="One Golf" tvg-logo="" group-title="Sports & Highlights",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="Overtime.us" tvg-name="Overtime" tvg-logo="" group-title="Sports & Highlights",Overtime
@@ -796,6 +806,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/ind
 #EXTINF:-1 tvg-id="SetantaSports.uk" tvg-name="Setanta Sports" tvg-logo="" group-title="Sports & Highlights",Setanta Sports
 http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-name="Setanta Sports 1" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 1
+https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-name="Setanta Sports 1" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="" group-title="Sports & Highlights",Setanta Sports 1 Eurasia
 http://stream.mcquack.net/234/index.m3u8
@@ -885,6 +897,8 @@ http://str2.iptvhd.ru:8080/sport1/index.m3u8
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.hu" tvg-name="Sport 2" tvg-logo="" group-title="Sports & Highlights",Sport 2
 http://88.212.15.19/live/sport2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" tvg-logo="" group-title="Sports & Highlights",Sport 2
+http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.ua" tvg-name="Sport 2" tvg-logo="" group-title="Sports & Highlights",Sport 2
 http://stream.mcquack.net/392/index.m3u8
 #EXTINF:-1 tvg-id="Sport3.ua" tvg-name="Sport 3" tvg-logo="" group-title="Sports & Highlights",Sport 3

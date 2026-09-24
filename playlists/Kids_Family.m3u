@@ -177,8 +177,6 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cb
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-logo="" group-title="Kids & Family",CBeebies
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia" tvg-logo="" group-title="Kids & Family",CBeebies Asia
-http://202.70.146.135:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV-14" tvg-logo="" group-title="Kids & Family",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in" tvg-name="Chithiram" tvg-logo="" group-title="Kids & Family",Chithiram
@@ -415,6 +413,8 @@ https://foxkidstv.be:3369/stream/play.m3u8
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-id="JimJam.hu" tvg-name="JimJam" tvg-logo="" group-title="Kids & Family",JimJam
 http://88.212.15.19/live/jim_jam_hun/index.m3u8
+#EXTINF:-1 tvg-id="JimJam.hu" tvg-name="JimJam" tvg-logo="" group-title="Kids & Family",JimJam
+https://xyktmobile00.s.gy/PPV897_JIMJA_SD
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" tvg-logo="" group-title="Kids & Family",JimJam Europe
 http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" tvg-logo="" group-title="Kids & Family",JimJam Europe
@@ -423,6 +423,8 @@ http://158.160.149.81:8080/269/index.m3u8
 http://stream.mcquack.net/150/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" tvg-logo="" group-title="Kids & Family",JimJam Europe
 http://str2.iptvhd.ru:8080/JimJam/index.m3u8
+#EXTINF:-1 tvg-id="Junior.il" tvg-name="Junior" tvg-logo="" group-title="Kids & Family",Junior
+http://str2.iptvhd.ru:8080/junior/index.m3u8
 #EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-name="Kapitan Fantastika" tvg-logo="" group-title="Kids & Family",Kapitan Fantastika
 http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8
 #EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-name="Kapitan Fantastika" tvg-logo="" group-title="Kids & Family",Kapitan Fantastika
@@ -485,6 +487,8 @@ https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 #EXTINF:-1 tvg-id="LTNFamily.pk" tvg-name="LTN Family" tvg-logo="" group-title="Kids & Family",LTN Family
 http://103.250.28.74:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="Luli.il" tvg-name="Luli" tvg-logo="" group-title="Kids & Family",Luli
+http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
 #EXTINF:-1 tvg-id="MNetKids.mk" tvg-name="M-Net Kids" tvg-logo="" group-title="Kids & Family",M-Net Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" tvg-logo="" group-title="Kids & Family",Mama
@@ -709,6 +713,8 @@ http://tvsen7.aynascope.net/nicktoons/index.m3u8
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-name="Nicktoons CIS" tvg-logo="" group-title="Kids & Family",Nicktoons CIS
 https://stream8.cinerama.uz/1502/playlist.m3u8
+#EXTINF:-1 tvg-id="NicktoonsScandinavia.nl" tvg-name="Nicktoons Scandinavia" tvg-logo="" group-title="Kids & Family",Nicktoons Scandinavia
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
 #EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" tvg-logo="" group-title="Kids & Family",Niki Junior
 http://158.101.222.193:88/georgia_play.php?id=nikijunior
 #EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" tvg-logo="" group-title="Kids & Family",Niki Junior
@@ -1017,6 +1023,8 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
+http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
 http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="" group-title="Kids & Family",Teletubbies
