@@ -711,6 +711,8 @@ https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" tvg-logo="" group-title="African & Caribbean",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="Sahara24.mr" tvg-name="Sahara 24" tvg-logo="" group-title="African & Caribbean",Sahara 24
+https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" tvg-logo="" group-title="African & Caribbean",Salt TV
 https://live.salttelevision.com/app/stream/abr.m3u8
 #EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" tvg-logo="" group-title="African & Caribbean",Salt TV
@@ -877,6 +879,8 @@ http://185.9.2.18/chid_347/index.m3u8
 https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.gh" tvg-name="TV3" tvg-logo="" group-title="African & Caribbean",TV3
 https://adesa.tv/live/tv3_AdesaAdb.m3u8
+#EXTINF:-1 tvg-id="TV4.dz" tvg-name="TV4" tvg-logo="" group-title="African & Caribbean",TV4
+http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="TV7.dz" tvg-name="TV7" tvg-logo="" group-title="African & Caribbean",TV7
 http://185.9.2.18/chid_352/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ng" tvg-name="TVC" tvg-logo="" group-title="African & Caribbean",TVC

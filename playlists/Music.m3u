@@ -331,6 +331,12 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" tvg-logo="" group-title="Music",Epic Music
 http://66.102.126.10:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV" tvg-logo="" group-title="Music",Eska Rock TV
+http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV" tvg-logo="" group-title="Music",Eska TV
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-name="Eska TV Extra" tvg-logo="" group-title="Music",Eska TV Extra
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" tvg-logo="" group-title="Music",ETV Beats
 https://jmp2.uk/stvp-IN4900002RV
 #EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="" group-title="Music",ETV Music
@@ -473,6 +479,8 @@ https://k100streymi.mbl.is/beint/k100/index.m3u8
 http://server.applelive.in/kalikatv/kalikatv.m3u8
 #EXTINF:-1 tvg-id="KayhanTV.af" tvg-name="Kayhan TV" tvg-logo="" group-title="Music",Kayhan TV
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka" tvg-logo="" group-title="Music",Kino Polska Muzyka
+https://racitonsen.s.gy/KINO_POLSKA_MUZYKA
 #EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-name="Kiss Kiss Napoli TV" tvg-logo="" group-title="Music",Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" tvg-logo="" group-title="Music",Kiss Kiss TV
@@ -605,6 +613,8 @@ https://livestream.jswk.online/playlisttest/live/playlist.m3u8
 http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaRomantica.us" tvg-name="Mi Musica Romantica" tvg-logo="" group-title="Music",Mi Musica Romantica
 http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaRomantica.us" tvg-name="Mi Musica Romantica" tvg-logo="" group-title="Music",Mi Musica Romantica
+http://168.228.44.241:9999/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaSalsa.us" tvg-name="Mi Musica Salsa" tvg-logo="" group-title="Music",Mi Musica Salsa
 http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" tvg-logo="" group-title="Music",MNM

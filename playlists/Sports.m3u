@@ -162,13 +162,23 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="Sports & Highlights",DD Sports
 https://cdn.pishow.tv/ott/live/13/master.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" tvg-logo="" group-title="Sports & Highlights",Digi Sport 1
+https://dokagents.site/live/digisport1/mono.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" tvg-logo="" group-title="Sports & Highlights",Digi Sport 1
 https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="" group-title="Sports & Highlights",Digi Sport 2
+https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="" group-title="Sports & Highlights",Digi Sport 2
+https://dokagents.site/live/digisport2/mono.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="" group-title="Sports & Highlights",Digi Sport 2
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="" group-title="Sports & Highlights",Digi Sport 3
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="" group-title="Sports & Highlights",Digi Sport 3
+https://dokagents.site/live/digisport3/mono.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="" group-title="Sports & Highlights",Digi Sport 4
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="" group-title="Sports & Highlights",Digi Sport 4
+https://dokagents.site/live/digisport4/mono.m3u8
 #EXTINF:-1 tvg-id="DiviSport.ua" tvg-name="DiviSport" tvg-logo="" group-title="Sports & Highlights",DiviSport
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" tvg-logo="" group-title="Sports & Highlights",Dong Nai TV 2
@@ -309,10 +319,6 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports & Highlights",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports & Highlights",Fox Sports 1
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports & Highlights",Fox Sports 1
-https://tvsen7.aynascope.net/foxsports1/index.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports" tvg-logo="" group-title="Sports & Highlights",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports" tvg-logo="" group-title="Sports & Highlights",FTF Sports
@@ -570,11 +576,7 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" tvg-logo="" group-title="Sports & Highlights",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
-https://cdn1.ayitistream.com/NBATV/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
-http://rezofoot.tv/NBATV/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
@@ -719,6 +721,8 @@ https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="Premier Sports 2" tvg-logo="" group-title="Sports & Highlights",Premier Sports 2
 https://racitonsen.s.gy/PS2PH
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" tvg-logo="" group-title="Sports & Highlights",Prima Sport 5
+https://dokagents.site/live/pr5/mono.m3u8
 #EXTINF:-1 tvg-id="Prime.sy" tvg-name="Prime" tvg-logo="" group-title="Sports & Highlights",Prime
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-logo="" group-title="Sports & Highlights",PTV Sports
