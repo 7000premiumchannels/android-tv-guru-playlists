@@ -383,6 +383,8 @@ https://hls.erfanhalgheh.live/hls/stream.m3u8
 https://stream.sstv.ge/live/sstv/playlist.m3u8
 #EXTINF:-1 tvg-id="EslahTV.af" tvg-name="Eslah TV" tvg-logo="" group-title="Religious",Eslah TV
 https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="" group-title="Religious",ESNE TV
+http://168.196.127.137:6001/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="" group-title="Religious",Evandis Gospel TV
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
@@ -401,6 +403,8 @@ https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
 http://45.167.1.138:8000/play/a01m
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
+http://187.102.208.209:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN

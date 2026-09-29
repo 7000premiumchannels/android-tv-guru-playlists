@@ -1573,6 +1573,8 @@ https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" tvg-logo="" group-title="US News & Weather",Kanak News
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+#EXTINF:-1 tvg-id="KanalZEROTV.pl" tvg-name="Kanal ZERO TV" tvg-logo="" group-title="US News & Weather",Kanal ZERO TV
+https://racitonsen.s.gy/ZERO_PL
 #EXTINF:-1 tvg-id="KapazTV.az" tvg-name="Kapaz TV" tvg-logo="" group-title="US News & Weather",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" tvg-logo="" group-title="US News & Weather",Kashish News
@@ -2086,8 +2088,6 @@ https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
 http://170.83.16.50/NHK_WORLD/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
-http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -2173,6 +2173,8 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OnlyBharat.in" tvg-name="Only Bharat" tvg-logo="" group-title="US News & Weather",Only Bharat
 https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="OplotTV.ru" tvg-name="Oplot TV" tvg-logo="" group-title="US News & Weather",Oplot TV
+http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru" tvg-name="Oplot TV" tvg-logo="" group-title="US News & Weather",Oplot TV
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="" group-title="US News & Weather",Ora News
@@ -2457,6 +2459,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 https://streaming.thestream.cyou/live/46.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="" group-title="US News & Weather",RT en Espanol
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="" group-title="US News & Weather",RT en Espanol
+http://168.196.127.137:6001/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="" group-title="US News & Weather",RT en Espanol
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="" group-title="US News & Weather",RT en Espanol
