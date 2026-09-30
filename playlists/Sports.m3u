@@ -197,6 +197,8 @@ http://15.204.146.163:8002/play/a00g/index.m3u8
 http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" tvg-logo="" group-title="Sports & Highlights",DSports 2
 http://138.121.113.175:8000/play/a0ca/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" tvg-logo="" group-title="Sports & Highlights",DSports 2
+http://187.102.208.209:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua" tvg-name="Dynamo Kyiv TV" tvg-logo="" group-title="Sports & Highlights",Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
 #EXTINF:-1 tvg-id="Equalympic.ua" tvg-name="Equalympic" tvg-logo="" group-title="Sports & Highlights",Equalympic
@@ -989,6 +991,8 @@ https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" tvg-logo="" group-title="Sports & Highlights",SportsGrid
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="" group-title="Sports & Highlights",SporTV
+http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="" group-title="Sports & Highlights",SporTV 3
 http://170.83.49.66:8083/SPORTV3HD/index.m3u8
 #EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" tvg-logo="" group-title="Sports & Highlights",Sporty TV

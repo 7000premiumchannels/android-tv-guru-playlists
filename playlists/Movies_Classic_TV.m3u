@@ -265,6 +265,8 @@ http://45.228.235.116:8000/play/a0iy/index.m3u8
 http://181.78.12.119:16123/play/ch46/index.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies" tvg-logo="" group-title="Movies & Classic TV",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-name="AXN Poland" tvg-logo="" group-title="Movies & Classic TV",AXN Poland
+https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",B4U Bhojpuri
@@ -585,6 +587,8 @@ https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" tvg-logo="" group-title="Movies & Classic TV",CinemaWorld
 https://cdn.qd.je/163189/cinemaworld
+#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-name="Cinemax Action" tvg-logo="" group-title="Movies & Classic TV",Cinemax Action
+https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
 #EXTINF:-1 tvg-id="CinemaxClassics.us" tvg-name="Cinemax Classics" tvg-logo="" group-title="Movies & Classic TV",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="Cinemax Hits" tvg-logo="" group-title="Movies & Classic TV",Cinemax Hits
@@ -1203,6 +1207,10 @@ https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
 https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
 #EXTINF:-1 tvg-id="HBODrama.us" tvg-name="HBO Drama" tvg-logo="" group-title="Movies & Classic TV",HBO Drama
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+#EXTINF:-1 tvg-id="HBODrama.us" tvg-name="HBO Drama" tvg-logo="" group-title="Movies & Classic TV",HBO Drama
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="" group-title="Movies & Classic TV",HBO Hits
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies" tvg-logo="" group-title="Movies & Classic TV",HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="Heleneetlesgarcons.us" tvg-name="Helene et les garcons" tvg-logo="" group-title="Movies & Classic TV",Helene et les garcons
@@ -1467,6 +1475,8 @@ http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 http://213.91.179.28:8000/play/a041
 #EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska" tvg-logo="" group-title="Movies & Classic TV",Kino Polska
 https://racitonsen.s.gy/KINO_POLSKA
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska" tvg-logo="" group-title="Movies & Classic TV",Kino Polska
+http://57.128.231.171:8080/238/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="" group-title="Movies & Classic TV",Kino TV
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="" group-title="Movies & Classic TV",Kino TV
@@ -3123,6 +3133,8 @@ https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision Tlnovelas" tvg-logo="" group-title="Movies & Classic TV",Univision Tlnovelas
 http://45.6.4.35/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision Tlnovelas" tvg-logo="" group-title="Movies & Classic TV",Univision Tlnovelas
+http://200.115.120.1:8000/play/ca110/index.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-name="Unsolved Mysteries" tvg-logo="" group-title="Movies & Classic TV",Unsolved Mysteries
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-name="Unsolved Mysteries" tvg-logo="" group-title="Movies & Classic TV",Unsolved Mysteries
