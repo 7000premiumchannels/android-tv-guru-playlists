@@ -555,6 +555,8 @@ https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 #EXTINF:-1 tvg-id="Nigbati.ng" tvg-name="Nigbati" tvg-logo="" group-title="African & Caribbean",Nigbati
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="Nile Drama" tvg-logo="" group-title="African & Caribbean",Nile Drama
+http://185.9.2.18/chid_352/index.m3u8
 #EXTINF:-1 tvg-id="NjataTV.ke" tvg-name="Njata TV" tvg-logo="" group-title="African & Caribbean",Njata TV
 https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 #EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-name="NogoumFMTV" tvg-logo="" group-title="African & Caribbean",NogoumFMTV
@@ -881,8 +883,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
 https://adesa.tv/live/tv3_AdesaAdb.m3u8
 #EXTINF:-1 tvg-id="TV4.dz" tvg-name="TV4" tvg-logo="" group-title="African & Caribbean",TV4
 http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0
-#EXTINF:-1 tvg-id="TV7.dz" tvg-name="TV7" tvg-logo="" group-title="African & Caribbean",TV7
-http://185.9.2.18/chid_352/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ng" tvg-name="TVC" tvg-logo="" group-title="African & Caribbean",TVC
 https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVC.ng" tvg-name="TVC" tvg-logo="" group-title="African & Caribbean",TVC
@@ -923,6 +923,8 @@ https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e08
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
 #EXTINF:-1 tvg-id="WapTV.ng" tvg-name="Wap TV" tvg-logo="" group-title="African & Caribbean",Wap TV
 https://newproxy3.vidivu.tv/waptv/index.m3u8
+#EXTINF:-1 tvg-id="WAPATV41.pr" tvg-name="WAPA-TV 4.1" tvg-logo="" group-title="African & Caribbean",WAPA-TV 4.1
+https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 #EXTINF:-1 tvg-id="WasatTV.ly" tvg-name="Wasat TV" tvg-logo="" group-title="African & Caribbean",Wasat TV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-name="Watan TV" tvg-logo="" group-title="African & Caribbean",Watan TV

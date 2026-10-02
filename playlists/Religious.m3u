@@ -239,6 +239,8 @@ https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
 #EXTINF:-1 tvg-id="AwakeningTV.in" tvg-name="Awakening TV" tvg-logo="" group-title="Religious",Awakening TV
 http://51.75.127.199:3141/awakening/index.m3u8
+#EXTINF:-1 tvg-id="AwakeningTV.in" tvg-name="Awakening TV" tvg-logo="" group-title="Religious",Awakening TV
+https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="AzanTV.ca" tvg-name="Azan TV" tvg-logo="" group-title="Religious",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-name="Bahrain Quran" tvg-logo="" group-title="Religious",Bahrain Quran
@@ -399,6 +401,8 @@ https://stream.sstv.ge/live/sstv/playlist.m3u8
 https://eslahtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="" group-title="Religious",ESNE TV
 http://168.196.127.137:6001/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="" group-title="Religious",ESNE TV
+http://190.217.66.92:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="" group-title="Religious",Evandis Gospel TV
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
@@ -817,6 +821,8 @@ https://cdn.pishow.tv/ott/live/1265/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
 #EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" tvg-logo="" group-title="Religious",Madha TV
 http://51.75.127.199:3141/madhatv/index.m3u8
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" tvg-logo="" group-title="Religious",Madha TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MadhaTV.m3u8
 #EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" tvg-logo="" group-title="Religious",Mahaa Bhakti
 https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
 #EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" tvg-logo="" group-title="Religious",Mahaa Bhakti
@@ -841,6 +847,8 @@ https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt" tvg-name="Mana Tserkov' Onlayn" tvg-logo="" group-title="Religious",Mana Tserkov' Onlayn
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MangalmayTV.in" tvg-name="Mangalmay TV" tvg-logo="" group-title="Religious",Mangalmay TV
+https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="MariaVisionItalia.it" tvg-name="Maria Vision Italia" tvg-logo="" group-title="Religious",Maria Vision Italia
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-id="MariaVisionUSA.us" tvg-name="Maria Vision USA" tvg-logo="" group-title="Religious",Maria Vision USA
@@ -1105,6 +1113,8 @@ https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/in
 https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
 #EXTINF:-1 tvg-id="SarvDharmSangam.in" tvg-name="Sarv Dharm Sangam" tvg-logo="" group-title="Religious",Sarv Dharm Sangam
 https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
+#EXTINF:-1 tvg-id="SarvDharmSangam.in" tvg-name="Sarv Dharm Sangam" tvg-logo="" group-title="Religious",Sarv Dharm Sangam
+https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
 #EXTINF:-1 tvg-id="Sat7Pars.cy" tvg-name="Sat 7 Pars" tvg-logo="" group-title="Religious",Sat 7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" tvg-logo="" group-title="Religious",Satsang TV
