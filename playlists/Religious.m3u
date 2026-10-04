@@ -403,6 +403,8 @@ https://eslahtvhls.wns.live/hls/stream.m3u8
 http://168.196.127.137:6001/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="" group-title="Religious",ESNE TV
 http://190.217.66.92:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="" group-title="Religious",ESNE TV
+http://132.255.210.69:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="" group-title="Religious",Evandis Gospel TV
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
@@ -1075,8 +1077,6 @@ http://170.84.165.204/RIT_TV/index.m3u8
 https://cdn-5.nxplay.com.br/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="RTHTV2Gospel.us" tvg-name="RTH-TV2 Gospel" tvg-logo="" group-title="Religious",RTH-TV2 Gospel
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVIslam.ch" tvg-name="RTV Islam" tvg-logo="" group-title="Religious",RTV Islam
-http://5.254.89.106/8714/index.m3u8
 #EXTINF:-1 tvg-id="RTVPendimi.ch" tvg-name="RTV Pendimi" tvg-logo="" group-title="Religious",RTV Pendimi
 https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
 #EXTINF:-1 tvg-id="RUTCTV.kr" tvg-name="RUTC TV" tvg-logo="" group-title="Religious",RUTC TV
@@ -1111,10 +1111,6 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
 #EXTINF:-1 tvg-id="SanskarWebTV.in" tvg-name="Sanskar Web TV" tvg-logo="" group-title="Religious",Sanskar Web TV
 https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
-#EXTINF:-1 tvg-id="SarvDharmSangam.in" tvg-name="Sarv Dharm Sangam" tvg-logo="" group-title="Religious",Sarv Dharm Sangam
-https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
-#EXTINF:-1 tvg-id="SarvDharmSangam.in" tvg-name="Sarv Dharm Sangam" tvg-logo="" group-title="Religious",Sarv Dharm Sangam
-https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
 #EXTINF:-1 tvg-id="Sat7Pars.cy" tvg-name="Sat 7 Pars" tvg-logo="" group-title="Religious",Sat 7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" tvg-logo="" group-title="Religious",Satsang TV

@@ -467,8 +467,6 @@ https://cdn.pishow.tv/ott/live/258/master.m3u8
 https://server.gointernet.gr/live/livestream.m3u8
 #EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Astrahan 24" tvg-logo="" group-title="US News & Weather",Astrahan 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.xk" tvg-name="ATV" tvg-logo="" group-title="US News & Weather",ATV
-http://5.254.89.106/8709/index.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in" tvg-name="Awaaz India TV" tvg-logo="" group-title="US News & Weather",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-id="AznewsTV.se" tvg-name="Aznews TV" tvg-logo="" group-title="US News & Weather",Aznews TV
@@ -1683,8 +1681,6 @@ https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
 http://51.75.127.199:3141/kkdnews/index.m3u8
 #EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="Kohavision" tvg-logo="" group-title="US News & Weather",Kohavision
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="Kohavision" tvg-logo="" group-title="US News & Weather",Kohavision
-http://5.254.89.106/8705/index.m3u8
 #EXTINF:-1 tvg-id="KohenoorNews.pk" tvg-name="Kohenoor News" tvg-logo="" group-title="US News & Weather",Kohenoor News
 http://103.250.28.74:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="KolalnasTV.ps" tvg-name="Kolalnas TV" tvg-logo="" group-title="US News & Weather",Kolalnas TV
@@ -2437,6 +2433,8 @@ https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" tvg-logo="" group-title="US News & Weather",PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
+#EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" tvg-logo="" group-title="US News & Weather",PRO TV Chisinau
+http://178.76.68.60:7441/15/mpegts
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-name="Probashi TV News" tvg-logo="" group-title="US News & Weather",Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" tvg-logo="" group-title="US News & Weather",PROTV News
@@ -2539,8 +2537,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="" group-title="US News & Weather",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="" group-title="US News & Weather",Report TV
-http://5.254.89.106/8707/index.m3u8
 #EXTINF:-1 tvg-id="Reporter.ua" tvg-name="Reporter" tvg-logo="" group-title="US News & Weather",Reporter
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" tvg-logo="" group-title="US News & Weather",Reporter TV
