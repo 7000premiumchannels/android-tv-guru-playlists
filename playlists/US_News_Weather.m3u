@@ -1569,6 +1569,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="" group-title="US News & Weather",iNews
 https://mncmedia.malingtv.workers.dev/inews.m3u8
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="" group-title="US News & Weather",iNews
+http://202.150.172.59/iNews/index.m3u8
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" tvg-logo="" group-title="US News & Weather",INews
 https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" tvg-logo="" group-title="US News & Weather",INews
@@ -1663,8 +1665,6 @@ https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" tvg-logo="" group-title="US News & Weather",Kanak News
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
-#EXTINF:-1 tvg-id="KanalZEROTV.pl" tvg-name="Kanal ZERO TV" tvg-logo="" group-title="US News & Weather",Kanal ZERO TV
-https://racitonsen.s.gy/ZERO_PL
 #EXTINF:-1 tvg-id="KannurOne.in" tvg-name="Kannur One" tvg-logo="" group-title="US News & Weather",Kannur One
 http://51.75.127.199:3141/kannurone/index.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az" tvg-name="Kapaz TV" tvg-logo="" group-title="US News & Weather",Kapaz TV

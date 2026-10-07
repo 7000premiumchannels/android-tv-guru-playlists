@@ -39,12 +39,6 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSport5Premium.rs" tvg-name="Arena Sport 5 Premium" tvg-logo="" group-title="Sports & Highlights",Arena Sport 5 Premium
 https://nl1.nghk.ai/SK2SRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk" tvg-name="Arena Sport Premium M1" tvg-logo="" group-title="Sports & Highlights",Arena Sport Premium M1
-https://racitonsen.s.gy/AM1P
-#EXTINF:-1 tvg-id="ArenaSportPremiumM2.mk" tvg-name="Arena Sport Premium M2" tvg-logo="" group-title="Sports & Highlights",Arena Sport Premium M2
-https://racitonsen.s.gy/AM2P
-#EXTINF:-1 tvg-id="ArenaSportPremiumM3.mk" tvg-name="Arena Sport Premium M3" tvg-logo="" group-title="Sports & Highlights",Arena Sport Premium M3
-https://racitonsen.s.gy/AM3P
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Astrahan.Ru Sport" tvg-logo="" group-title="Sports & Highlights",Astrahan.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="ATGLive.se" tvg-name="ATG Live" tvg-logo="" group-title="Sports & Highlights",ATG Live
@@ -97,8 +91,6 @@ https://streaming.thestream.cyou/live/7001.m3u8
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-id="BilliardTV.us" tvg-name="Billiard TV" tvg-logo="" group-title="Sports & Highlights",Billiard TV
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
-#EXTINF:-1 tvg-id="BilliardsTV.kr" tvg-name="Billiards TV" tvg-logo="" group-title="Sports & Highlights",Billiards TV
-https://xyktmobile00.s.gy/PPV942_BILLIARD
 #EXTINF:-1 tvg-id="BoksTV.ru" tvg-name="Boks TV" tvg-logo="" group-title="Sports & Highlights",Boks TV
 http://stream.mcquack.net/154/index.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru" tvg-name="Boks TV" tvg-logo="" group-title="Sports & Highlights",Boks TV
@@ -433,8 +425,6 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kabaddi24x7.in" tvg-name="Kabaddi 24x7" tvg-logo="" group-title="Sports & Highlights",Kabaddi 24x7
 http://180.188.254.253/live/KABADDI24X7.m3u8
-#EXTINF:-1 tvg-id="KBSNSports.kr" tvg-name="KBS N Sports" tvg-logo="" group-title="Sports & Highlights",KBS N Sports
-https://xyktmobile00.s.gy/PPV919_KBSNSPO_SD
 #EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL" tvg-logo="" group-title="Sports & Highlights",KHL
 http://stream.mcquack.net/166/index.m3u8
 #EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL" tvg-logo="" group-title="Sports & Highlights",KHL
@@ -735,20 +725,10 @@ https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" tvg-logo="" group-title="Sports & Highlights",Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="" group-title="Sports & Highlights",Polsat Sport Premium 1
-https://racitonsen.s.gy/PSP1_SHD
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="" group-title="Sports & Highlights",Polsat Sport Premium 2
-https://racitonsen.s.gy/PSP2_SHD
-#EXTINF:-1 tvg-id="PremierFootball.ph" tvg-name="Premier Football" tvg-logo="" group-title="Sports & Highlights",Premier Football
-https://racitonsen.s.gy/PREMIER_FOOTBALL
-#EXTINF:-1 tvg-id="PremierSports.ph" tvg-name="Premier Sports" tvg-logo="" group-title="Sports & Highlights",Premier Sports
-https://racitonsen.s.gy/PS1PH
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-name="Premier Sports" tvg-logo="" group-title="Sports & Highlights",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="Premier Sports 2" tvg-logo="" group-title="Sports & Highlights",Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="Premier Sports 2" tvg-logo="" group-title="Sports & Highlights",Premier Sports 2
-https://racitonsen.s.gy/PS2PH
 #EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" tvg-logo="" group-title="Sports & Highlights",Prima Sport 5
 https://dokagents.site/live/pr5/mono.m3u8
 #EXTINF:-1 tvg-id="Prime.sy" tvg-name="Prime" tvg-logo="" group-title="Sports & Highlights",Prime
@@ -849,8 +829,6 @@ https://corestream.siteyaptim.live/s-sport2/index.m3u8
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport" tvg-logo="" group-title="Sports & Highlights",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 tvg-id="SBSGolf.kr" tvg-name="SBS Golf" tvg-logo="" group-title="Sports & Highlights",SBS Golf
-https://xyktmobile00.s.gy/PPV922_GOLF_TV
 #EXTINF:-1 tvg-id="SetantaSports.uk" tvg-name="Setanta Sports" tvg-logo="" group-title="Sports & Highlights",Setanta Sports
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports.uk" tvg-name="Setanta Sports" tvg-logo="" group-title="Sports & Highlights",Setanta Sports
@@ -953,6 +931,8 @@ http://stream.mcquack.net/394/index.m3u8
 http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1 tvg-id="SportTV.by" tvg-name="Sport TV" tvg-logo="" group-title="Sports & Highlights",Sport TV
 http://178.124.179.122:8080/SportTV/mpegts
+#EXTINF:-1 tvg-id="SportTV.by" tvg-name="Sport TV" tvg-logo="" group-title="Sports & Highlights",Sport TV
+http://media1.skifnet.by/sporttv/index.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="" group-title="Sports & Highlights",Sport TV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV1" tvg-logo="" group-title="Sports & Highlights",Sport TV1
@@ -1183,6 +1163,8 @@ http://cdn.tvmatic.net/fight.m3u8
 https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="" group-title="Sports & Highlights",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-logo="" group-title="Sports & Highlights",TVRI Sport
+http://202.150.172.59/TVRISport/index.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-logo="" group-title="Sports & Highlights",TVRI Sport
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us" tvg-name="TVS Bowling Network" tvg-logo="" group-title="Sports & Highlights",TVS Bowling Network
