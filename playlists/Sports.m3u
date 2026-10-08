@@ -600,6 +600,8 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
 http://rezofoot.tv/NBATV/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
+http://198.58.104.90:8989/nba/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="" group-title="Sports & Highlights",NBA TV
 https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8
@@ -1159,8 +1161,6 @@ https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-name="TVMatic Fight" tvg-logo="" group-title="Sports & Highlights",TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
-#EXTINF:-1 tvg-id="TVMsportPlus.mt" tvg-name="TVMsport+" tvg-logo="" group-title="Sports & Highlights",TVMsport+
-https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="" group-title="Sports & Highlights",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-logo="" group-title="Sports & Highlights",TVRI Sport

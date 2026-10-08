@@ -1035,6 +1035,10 @@ http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" tvg-logo="" group-title="US News & Weather",Dong Nai TV 1
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" tvg-logo="" group-title="US News & Weather",Dongguan Comprehensive News Channel
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" tvg-logo="" group-title="US News & Weather",Dongguan Comprehensive News Channel
+http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" tvg-logo="" group-title="US News & Weather",Dotto TV
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-logo="" group-title="US News & Weather",Dunya News
@@ -2553,8 +2557,6 @@ https://cdn.pishow.tv/ott/live/1510/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
 #EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" tvg-logo="" group-title="US News & Weather",Reporter TV
 http://51.75.127.199:3141/reportertv/index.m3u8
-#EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" tvg-logo="" group-title="US News & Weather",Republic Bangla
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
 #EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" tvg-logo="" group-title="US News & Weather",Republic Bangla
 https://cdn.pishow.tv/ott/live/270/master.m3u8
 #EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" tvg-logo="" group-title="US News & Weather",Republic Bangla
