@@ -342,11 +342,7 @@ https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo" tvg-name="Alhaqeqa Aldawlia" tvg-logo="" group-title="US News & Weather",Alhaqeqa Aldawlia
 https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us" tvg-name="Alhurra" tvg-logo="" group-title="US News & Weather",Alhurra
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us" tvg-name="Alhurra" tvg-logo="" group-title="US News & Weather",Alhurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
-#EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-name="Alhurra Iraq" tvg-logo="" group-title="US News & Weather",Alhurra Iraq
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlikhbariaSyria.sy" tvg-name="Alikhbaria Syria" tvg-logo="" group-title="US News & Weather",Alikhbaria Syria
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-name="Almahriah TV" tvg-logo="" group-title="US News & Weather",Almahriah TV
@@ -1479,6 +1475,8 @@ https://tvsen7.aynaott.com/HindiKhabar/index.m3u8
 https://cdn.pishow.tv/ott/live/1041/master.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="Hispan TV" tvg-logo="" group-title="US News & Weather",Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="" group-title="US News & Weather",HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="HLNLive.be" tvg-name="HLN Live" tvg-logo="" group-title="US News & Weather",HLN Live
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" tvg-logo="" group-title="US News & Weather",HMTV
@@ -1585,8 +1583,6 @@ https://mumbai-edge.smartplaytv.in/INews/index.m3u8
 https://cdn.pishow.tv/ott/live/411/master.m3u8
 #EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" tvg-logo="" group-title="US News & Weather",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
-#EXTINF:-1 tvg-id="InfoWars.us" tvg-name="InfoWars" tvg-logo="" group-title="US News & Weather",InfoWars
-https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in" tvg-name="INH 24x7" tvg-logo="" group-title="US News & Weather",INH 24x7
 https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in" tvg-name="INH 24x7" tvg-logo="" group-title="US News & Weather",INH 24x7
@@ -2444,7 +2440,7 @@ https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" tvg-logo="" group-title="US News & Weather",PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
 #EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" tvg-logo="" group-title="US News & Weather",PRO TV Chisinau
-http://178.76.68.60:7441/15/mpegts
+http://178.76.68.60:7442/15/mpegts
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-name="Probashi TV News" tvg-logo="" group-title="US News & Weather",Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" tvg-logo="" group-title="US News & Weather",PROTV News
@@ -3202,7 +3198,7 @@ https://stream.ottlive.co.in/tv7bharat/index.m3u8
 #EXTINF:-1 tvg-id="TV8.md" tvg-name="TV8" tvg-logo="" group-title="US News & Weather",TV8
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
 #EXTINF:-1 tvg-id="TV8.md" tvg-name="TV8" tvg-logo="" group-title="US News & Weather",TV8
-http://178.76.68.60:7441/7/mpegts
+http://178.76.68.60:7442/7/mpegts
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="" group-title="US News & Weather",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="" group-title="US News & Weather",TV9 Bangla
