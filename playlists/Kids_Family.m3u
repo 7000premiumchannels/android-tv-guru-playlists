@@ -233,6 +233,8 @@ http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 http://38.134.250.110:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" tvg-logo="" group-title="Kids & Family",Discovery Kids Latin America
 http://38.65.175.84:8000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" tvg-logo="" group-title="Kids & Family",Discovery Kids Latin America
+http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
 http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
@@ -413,6 +415,8 @@ https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="HasbroLegends.us" tvg-name="Hasbro Legends" tvg-logo="" group-title="Kids & Family",Hasbro Legends
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-logo="" group-title="Kids & Family",HBO Family Latin America
+http://45.171.64.30:6060/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="HeyArnold.us" tvg-name="Hey Arnold!" tvg-logo="" group-title="Kids & Family",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 #EXTINF:-1 tvg-id="HodHodFarsiTV.ir" tvg-name="HodHod Farsi TV" tvg-logo="" group-title="Kids & Family",HodHod Farsi TV
@@ -675,6 +679,8 @@ http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 http://176.61.157.250/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
@@ -719,6 +725,8 @@ http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 http://15.204.246.24:8080/NickHD/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="" group-title="Kids & Family",Nickelodeon Latin America
 http://190.93.224.42/NICK/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="" group-title="Kids & Family",Nickelodeon Latin America
+https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" tvg-logo="" group-title="Kids & Family",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="" group-title="Kids & Family",Nickelodeon Teen
@@ -913,8 +921,6 @@ http://31.148.48.15/Rizhiy/index.m3u8
 https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
 #EXTINF:-1 tvg-id="SPlayEvent.us" tvg-name="S Play Event" tvg-logo="" group-title="Kids & Family",S Play Event
 https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
-#EXTINF:-1 tvg-id="STomSings.us" tvg-name="S Tom Sings" tvg-logo="" group-title="Kids & Family",S Tom Sings
-https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
 #EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-name="Sat 7 Kids" tvg-logo="" group-title="Kids & Family",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SBTKids.br" tvg-name="SBT Kids" tvg-logo="" group-title="Kids & Family",SBT Kids
@@ -1063,6 +1069,8 @@ https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
 http://89.33.29.115:8080/TeenNick/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
+http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="" group-title="Kids & Family",Teletubbies
 https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="" group-title="Kids & Family",Teletubbies
@@ -1139,6 +1147,8 @@ https://restreamer1.tnt.ba/hls/tntkids.m3u8
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" tvg-logo="" group-title="Kids & Family",Tooncast
 http://38.134.250.110:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" tvg-logo="" group-title="Kids & Family",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" tvg-logo="" group-title="Kids & Family",ToonGoggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" tvg-logo="" group-title="Kids & Family",ToonGoggles
@@ -1169,6 +1179,8 @@ https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-name="Totally Turtles" tvg-logo="" group-title="Kids & Family",Totally Turtles
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
+#EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-name="TraLaLa DSN" tvg-logo="" group-title="Kids & Family",TraLaLa DSN
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="TraLaLaTV.ro" tvg-name="TraLaLa TV" tvg-logo="" group-title="Kids & Family",TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 #EXTINF:-1 tvg-id="TransformersTV.us" tvg-name="Transformers TV" tvg-logo="" group-title="Kids & Family",Transformers TV

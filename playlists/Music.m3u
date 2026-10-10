@@ -379,6 +379,8 @@ https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Famatv.pt" tvg-name="Famatv" tvg-logo="" group-title="Music",Famatv
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" tvg-logo="" group-title="Music",Favorit TV2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-name="Finest TV" tvg-logo="" group-title="Music",Finest TV
 https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" tvg-logo="" group-title="Music",First Music Channel
@@ -453,6 +455,10 @@ https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-name="HMI PROMZ NEWS" tvg-logo="" group-title="Music",HMI PROMZ NEWS
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" tvg-logo="" group-title="Music",HTV
+http://45.171.64.30:6060/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" tvg-logo="" group-title="Music",HTV
+https://streaming.onnethn.com/HTV/playlist.m3u8
 #EXTINF:-1 tvg-id="HypeVisualRadio.nl" tvg-name="Hype Visual Radio" tvg-logo="" group-title="Music",Hype Visual Radio
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" tvg-logo="" group-title="Music",Impact TV
@@ -1111,8 +1117,6 @@ https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
 http://31.148.48.15/RU_TV/index.m3u8
 #EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-name="Russian MusicBox" tvg-logo="" group-title="Music",Russian MusicBox
 http://stream.mcquack.net/319/index.m3u8
-#EXTINF:-1 tvg-id="SKPop.us" tvg-name="S KPop!" tvg-logo="" group-title="Music",S KPop!
-https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 #EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-name="Salto Brasa Music" tvg-logo="" group-title="Music",Salto Brasa Music
 https://salto-streams.nl/hls/sotv1.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" tvg-logo="" group-title="Music",Sana Plus
@@ -1606,6 +1610,8 @@ https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV" tvg-logo="" group-title="Music",Yo! MTV
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" tvg-logo="" group-title="Music",YRF Music
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+#EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" tvg-logo="" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" tvg-logo="" group-title="Music",YRF Music
 https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
@@ -1619,6 +1625,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZorTV.uz" tvg-name="Zo'r TV" tvg-logo="" group-title="Music",Zo'r TV
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="" group-title="Music",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="" group-title="Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="" group-title="Music",Zoom

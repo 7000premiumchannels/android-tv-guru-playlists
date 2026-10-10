@@ -1243,6 +1243,8 @@ http://38.190.100.202:8000/play/a09v/index.m3u8
 http://190.61.42.218:9000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="" group-title="Spanish",Caracol TV
 http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="" group-title="Spanish",Caracol TV
+https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8
 #EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-name="Caracola TV" tvg-logo="" group-title="Spanish",Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
 #EXTINF:-1 tvg-id="CarasTV.ar" tvg-name="Caras TV" tvg-logo="" group-title="Spanish",Caras TV
@@ -1867,6 +1869,8 @@ https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="EspirituSantoYFuegoTV.gt" tvg-name="Espiritu Santo Y Fuego TV" tvg-logo="" group-title="Spanish",Espiritu Santo Y Fuego TV
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="" group-title="Spanish",ESPN Premium
+http://190.128.214.97:64333/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-logo="" group-title="Spanish",Esport3
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-logo="" group-title="Spanish",Esport3
@@ -3029,6 +3033,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 http://vps.chasquirouter.com/salida/ozono.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="" group-title="Spanish",Pakapaka
 http://190.128.214.97:64333/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="" group-title="Spanish",Pakapaka
+http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-name="Palenque TV" tvg-logo="" group-title="Spanish",Palenque TV
 http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-name="Palenque TV" tvg-logo="" group-title="Spanish",Palenque TV
@@ -4788,15 +4794,9 @@ https://edge.enhdtv.com/8214/index.m3u8
 #EXTINF:-1 tvg-id="TVUNO.pe" tvg-name="TVUNO" tvg-logo="" group-title="Spanish",TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="" group-title="Spanish",TyC Sports
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="" group-title="Spanish",TyC Sports
-http://45.181.87.106/TYCSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="" group-title="Spanish",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="" group-title="Spanish",TyC Sports
-http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="" group-title="Spanish",TyC Sports
-http://168.228.44.241:9999/play/a02e/index.m3u8
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-name="TyC Sports USA" tvg-logo="" group-title="Spanish",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="ULosLagosTV.cl" tvg-name="U Los Lagos TV" tvg-logo="" group-title="Spanish",U Los Lagos TV

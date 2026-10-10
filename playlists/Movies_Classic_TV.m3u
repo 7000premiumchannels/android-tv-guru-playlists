@@ -571,6 +571,8 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="" group-title="Movies & Classic TV",Cinecanal
 http://190.61.47.54:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="" group-title="Movies & Classic TV",Cinecanal
+https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
 #EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" tvg-logo="" group-title="Movies & Classic TV",Cinema
 https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" tvg-logo="" group-title="Movies & Classic TV",Cinema
@@ -599,6 +601,8 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax Latin America" tvg-logo="" group-title="Movies & Classic TV",Cinemax Latin America
 http://38.65.175.84:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax Latin America" tvg-logo="" group-title="Movies & Classic TV",Cinemax Latin America
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg" tvg-name="CineStar 1 Bulgaria" tvg-logo="" group-title="Movies & Classic TV",CineStar 1 Bulgaria
 http://213.91.179.28:8000/play/a05h
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" tvg-logo="" group-title="Movies & Classic TV",Cinevault 80s
@@ -1217,6 +1221,10 @@ https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
 https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" tvg-logo="" group-title="Movies & Classic TV",HauntTV
 https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="" group-title="Movies & Classic TV",HBO 2 Latin America
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="" group-title="Movies & Classic TV",HBO 2 Latin America
+http://38.65.175.84:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies" tvg-logo="" group-title="Movies & Classic TV",HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="Heleneetlesgarcons.us" tvg-name="Helene et les garcons" tvg-logo="" group-title="Movies & Classic TV",Helene et les garcons
@@ -2559,6 +2567,8 @@ https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in" tvg-name="Pocket Films" tvg-logo="" group-title="Movies & Classic TV",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film" tvg-logo="" group-title="Movies & Classic TV",Polsat Film
+http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTINF:-1 tvg-id="Premialnoe.ru" tvg-name="Premialnoe" tvg-logo="" group-title="Movies & Classic TV",Premialnoe
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-id="Premialnoe.ru" tvg-name="Premialnoe" tvg-logo="" group-title="Movies & Classic TV",Premialnoe

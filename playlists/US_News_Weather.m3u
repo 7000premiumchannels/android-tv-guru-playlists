@@ -312,8 +312,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-name="Al Najah News" tvg-logo="" group-title="US News & Weather",Al Najah News
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-logo="" group-title="US News & Weather",Al Sharqiya News
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-logo="" group-title="US News & Weather",Al Sharqiya News
 https://indexforce.com/newshighres/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-name="Al Yaum TV" tvg-logo="" group-title="US News & Weather",Al Yaum TV
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
@@ -341,8 +339,6 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo" tvg-name="Alhaqeqa Aldawlia" tvg-logo="" group-title="US News & Weather",Alhaqeqa Aldawlia
 https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us" tvg-name="Alhurra" tvg-logo="" group-title="US News & Weather",Alhurra
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
 #EXTINF:-1 tvg-id="AlikhbariaSyria.sy" tvg-name="Alikhbaria Syria" tvg-logo="" group-title="US News & Weather",Alikhbaria Syria
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-name="Almahriah TV" tvg-logo="" group-title="US News & Weather",Almahriah TV
@@ -377,6 +373,8 @@ https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-we
 http://51.75.127.199:3141/annnews/index.m3u8
 #EXTINF:-1 tvg-id="AnshunComprehensiveNewsChannel.cn" tvg-name="Anshun Comprehensive News Channel" tvg-logo="" group-title="US News & Weather",Anshun Comprehensive News Channel
 https://hplayer1.juyun.tv/camera/154379194.m3u8
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" tvg-logo="" group-title="US News & Weather",Antena 3 CNN
+https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 #EXTINF:-1 tvg-id="AntikInfoTV.sk" tvg-name="Antik Info TV" tvg-logo="" group-title="US News & Weather",Antik Info TV
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="AnwarTV2.iq" tvg-name="Anwar TV2" tvg-logo="" group-title="US News & Weather",Anwar TV2
@@ -959,6 +957,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-name="CNEWS PRIME" tvg-logo="" group-title="US News & Weather",CNEWS PRIME
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="" group-title="US News & Weather",CNN
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" tvg-logo="" group-title="US News & Weather",CNN en Espanol
+https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" tvg-logo="" group-title="US News & Weather",CNN Prima News
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="CorfuChannel.gr" tvg-name="Corfu Channel" tvg-logo="" group-title="US News & Weather",Corfu Channel
