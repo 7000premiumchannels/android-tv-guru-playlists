@@ -588,8 +588,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d
 #EXTINF:-1 tvg-id="MBCMood.sa" tvg-name="MBC Mood" tvg-logo="" group-title="Music",MBC Mood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" tvg-logo="" group-title="Music",MCM Pop
-http://193.254.245.162/MCM/index.m3u8
-#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" tvg-logo="" group-title="Music",MCM Pop
 http://188.115.15.121:8000/play/a014
 #EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="MCM Top" tvg-logo="" group-title="Music",MCM Top
 http://46.32.176.50/mcmtop/index.m3u8
@@ -901,6 +899,8 @@ https://pmchls.wns.live/hls/stream.m3u8
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music" tvg-logo="" group-title="Music",Polsat Music
 http://92.114.85.87:8001/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music" tvg-logo="" group-title="Music",Polsat Music
+http://57.128.210.196:8080/201/index.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr" tvg-name="Power Dance" tvg-logo="" group-title="Music",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerHitRadio.lt" tvg-name="Power Hit Radio" tvg-logo="" group-title="Music",Power Hit Radio
@@ -1511,8 +1511,6 @@ https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg000
 https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop" tvg-logo="" group-title="Music",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
-http://193.254.245.162/VH1/index.m3u8
 #EXTINF:-1 tvg-id="VideoMixTV.us" tvg-name="Video Mix TV" tvg-logo="" group-title="Music",Video Mix TV
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 #EXTINF:-1 tvg-id="VideoRola.it" tvg-name="Video Rola" tvg-logo="" group-title="Music",Video Rola
