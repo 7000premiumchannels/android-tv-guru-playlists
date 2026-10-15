@@ -197,6 +197,12 @@ http://187.102.208.209:8000/play/a0bq/index.m3u8
 http://stream.mcquack.net/396/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1" tvg-logo="" group-title="Sports & Highlights",Eleven Sports 1
 http://92.114.85.87:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="Eleven Sports 2" tvg-logo="" group-title="Sports & Highlights",Eleven Sports 2
+http://92.114.85.87:8002/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="Eleven Sports 3" tvg-logo="" group-title="Sports & Highlights",Eleven Sports 3
+http://92.114.85.87:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="Eleven Sports 4" tvg-logo="" group-title="Sports & Highlights",Eleven Sports 4
+http://92.114.85.87:8002/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Equalympic.ua" tvg-name="Equalympic" tvg-logo="" group-title="Sports & Highlights",Equalympic
 http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="" group-title="Sports & Highlights",Equidia
@@ -269,6 +275,8 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="" group-title="Sports & Highlights",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" tvg-logo="" group-title="Sports & Highlights",Eurosport
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports & Highlights",Eurosport 1
 http://88.212.15.17/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports & Highlights",Eurosport 1
@@ -357,6 +365,8 @@ https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-
 https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
+http://92.114.85.87:8003/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" tvg-name="FITE 24/7" tvg-logo="" group-title="Sports & Highlights",FITE 24/7

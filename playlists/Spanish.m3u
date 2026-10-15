@@ -3991,6 +3991,8 @@ https://teleola.ddns.net/hls/stream.m3u8
 https://cdn.telepoder.online:3229/dash/stream.m3u8
 #EXTINF:-1 tvg-id="TelePosadas.ar" tvg-name="Tele Posadas" tvg-logo="" group-title="Spanish",Tele Posadas
 https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
+#EXTINF:-1 tvg-id="TelePosadas.ar" tvg-name="Tele Posadas" tvg-logo="" group-title="Spanish",Tele Posadas
+https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleProyectoTV.do" tvg-name="Tele Proyecto TV" tvg-logo="" group-title="Spanish",Tele Proyecto TV
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSafor.es" tvg-name="Tele Safor" tvg-logo="" group-title="Spanish",Tele Safor
@@ -4623,6 +4625,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOasisMonay.ve" tvg-name="TV Oasis Monay" tvg-logo="" group-title="Spanish",TV Oasis Monay
 https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 tvg-id="TVOasisMonay.ve" tvg-name="TV Oasis Monay" tvg-logo="" group-title="Spanish",TV Oasis Monay
+https://live.teve.pro/live/tvoasis/index.m3u8
 #EXTINF:-1 tvg-id="TVOFF.bo" tvg-name="TV OFF" tvg-logo="" group-title="Spanish",TV OFF
 https://edge.enhdtv.com/tvoff/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="" group-title="Spanish",TV Peru
@@ -5041,6 +5045,8 @@ https://live.obslivestream.com/vivatv/index.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="VivaTV.pe" tvg-name="VivaTV" tvg-logo="" group-title="Spanish",VivaTV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVETV.ar" tvg-name="VIVE TV" tvg-logo="" group-title="Spanish",VIVE TV
+https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-id="ViveTV.co" tvg-name="Vive TV" tvg-logo="" group-title="Spanish",Vive TV
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 tvg-id="VivoTV.cl" tvg-name="Vivo TV" tvg-logo="" group-title="Spanish",Vivo TV

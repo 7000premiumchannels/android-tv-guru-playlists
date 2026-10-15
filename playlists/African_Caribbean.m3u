@@ -687,6 +687,10 @@ https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
 https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
 #EXTINF:-1 tvg-id="RTI1.ci" tvg-name="RTI 1" tvg-logo="" group-title="African & Caribbean",RTI 1
 http://69.64.57.208:8080/rti1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" tvg-logo="" group-title="African & Caribbean",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" tvg-logo="" group-title="African & Caribbean",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-id="RTNC3.cd" tvg-name="RTNC 3" tvg-logo="" group-title="African & Caribbean",RTNC 3
 http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
 #EXTINF:-1 tvg-id="RTS3.sn" tvg-name="RTS 3" tvg-logo="" group-title="African & Caribbean",RTS 3
