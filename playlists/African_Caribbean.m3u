@@ -99,6 +99,8 @@ https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 #EXTINF:-1 tvg-id="AviationTV.ke" tvg-name="Aviation TV" tvg-logo="" group-title="African & Caribbean",Aviation TV
 http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BalafonTV.cm" tvg-name="Balafon TV" tvg-logo="" group-title="African & Caribbean",Balafon TV
+https://broadcasting-channels.com:9044/hls/test.m3u8
 #EXTINF:-1 tvg-id="BalchiTV.aw" tvg-name="Balchi TV" tvg-logo="" group-title="African & Caribbean",Balchi TV
 https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8
 #EXTINF:-1 tvg-id="BarakaTelevision.cd" tvg-name="Baraka Television" tvg-logo="" group-title="African & Caribbean",Baraka Television
@@ -691,6 +693,8 @@ http://69.64.57.208:8080/rti1/playlist.m3u8
 https://tv2-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" tvg-logo="" group-title="African & Caribbean",RTNB TV
 https://tv1-stream.rtnb.bi/hls/master.m3u8
+#EXTINF:-1 tvg-id="RTNC.cd" tvg-name="RTNC" tvg-logo="" group-title="African & Caribbean",RTNC
+https://kali.vdopanel.com:3850/live/masterlive.m3u8
 #EXTINF:-1 tvg-id="RTNC3.cd" tvg-name="RTNC 3" tvg-logo="" group-title="African & Caribbean",RTNC 3
 http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
 #EXTINF:-1 tvg-id="RTS3.sn" tvg-name="RTS 3" tvg-logo="" group-title="African & Caribbean",RTS 3
