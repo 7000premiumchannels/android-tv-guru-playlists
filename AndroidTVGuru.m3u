@@ -2809,8 +2809,6 @@ https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SathiyamTV.in" tvg-name="Sathiyam TV" tvg-logo="" group-title="US News & Weather",Sathiyam TV
 https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
-#EXTINF:-1 tvg-id="SBSWorldWatch.au" tvg-name="SBS WorldWatch" tvg-logo="" group-title="US News & Weather",SBS WorldWatch
-http://44.32.200.142:5004/auto/v35
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT News" tvg-logo="" group-title="US News & Weather",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" tvg-logo="" group-title="US News & Weather",SC Currents
@@ -3435,6 +3433,8 @@ http://138.121.15.230:9002/AMC/index.m3u8
 http://45.171.108.253:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" tvg-logo="" group-title="Movies & Classic TV",AMC Series Latin America
 http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" tvg-logo="" group-title="Movies & Classic TV",AMC Series Latin America
+https://streaming.onnethn.com/AMC/playlist.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="" group-title="Movies & Classic TV",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="" group-title="Movies & Classic TV",Amedia Hit
@@ -3559,6 +3559,8 @@ http://181.78.8.199:8000/play/a0cu/index.m3u8
 http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" tvg-logo="" group-title="Movies & Classic TV",AXN Latin America
 http://45.167.1.138:8000/play/a04s
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" tvg-logo="" group-title="Movies & Classic TV",AXN Latin America
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" tvg-logo="" group-title="Movies & Classic TV",AXN Latin America
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" tvg-logo="" group-title="Movies & Classic TV",AXN Latin America
@@ -3985,8 +3987,6 @@ http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 http://103.151.60.162:2122/play/a02s/index.m3u8?hls
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" tvg-logo="" group-title="Movies & Classic TV",Colors Cineplex
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-name="Colors Cineplex Bollywood" tvg-logo="" group-title="Movies & Classic TV",Colors Cineplex Bollywood
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT
 #EXTINF:-1 tvg-id="Cops.us" tvg-name="Cops" tvg-logo="" group-title="Movies & Classic TV",Cops
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
 #EXTINF:-1 tvg-id="Cops.us" tvg-name="Cops" tvg-logo="" group-title="Movies & Classic TV",Cops
@@ -5303,6 +5303,8 @@ https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 #EXTINF:-1 tvg-id="Numeros.us" tvg-name="Numeros" tvg-logo="" group-title="Movies & Classic TV",Numeros
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
+#EXTINF:-1 tvg-id="ONCine.vn" tvg-name="ON Cine" tvg-logo="" group-title="Movies & Classic TV",ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-id="ONMovies.vn" tvg-name="ON Movies" tvg-logo="" group-title="Movies & Classic TV",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Oscar Movies Bhojpuri
@@ -5649,16 +5651,6 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
 #EXTINF:-1 tvg-id="PlutoTVOvernaturlig.se" tvg-name="Pluto TV Overnaturlig" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Overnaturlig
 https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
-https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
-https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
-https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
-https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
-https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
 https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
@@ -5677,8 +5669,6 @@ https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
 https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroCrimeDrama.us" tvg-name="Pluto TV Retro Crime Drama" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Retro Crime Drama
 https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRomance.de" tvg-name="Pluto TV Romance" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Romance
-https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomance.us" tvg-name="Pluto TV Romance" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Romance
 https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomantik.se" tvg-name="Pluto TV Romantik" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Romantik
@@ -5689,14 +5679,6 @@ https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
 https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSanctuary.us" tvg-name="Pluto TV Sanctuary" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
-https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
@@ -5719,8 +5701,6 @@ https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerieSciFi.de" tvg-name="Pluto TV Serie Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Serie Sci-Fi
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeries.de" tvg-name="Pluto TV Series" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Series
-https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeries.us" tvg-name="Pluto TV Series" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Series
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us" tvg-name="Pluto TV Series Acao" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Series Acao
@@ -5753,8 +5733,6 @@ https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us" tvg-name="Pluto TV Series Retro" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.de" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Series Sci-Fi
-https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Series Sci-Fi
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSherlock.de" tvg-name="Pluto TV Sherlock" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sherlock
@@ -5781,10 +5759,6 @@ https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us" tvg-name="Pluto TV The Twilight Zone" tvg-logo="" group-title="Movies & Classic TV",Pluto TV The Twilight Zone
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.de" tvg-name="Pluto TV Thrillers" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Thrillers
-https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.de" tvg-name="Pluto TV Thrillers" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Thrillers
-https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVThrillers.us" tvg-name="Pluto TV Thrillers" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Thrillers
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToto.de" tvg-name="Pluto TV Toto" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Toto
@@ -5793,12 +5767,6 @@ https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrendingNow.us" tvg-name="Pluto TV Trending Now" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
-https://jmp2.uk/plu-615333098185f00008715a56.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
-https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
-https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
 https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
@@ -6619,8 +6587,6 @@ http://103.151.60.162:2122/play/a024/index.m3u8?hls
 http://103.151.60.162:2122/play/a012/index.m3u8?hls
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="" group-title="Movies & Classic TV",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="Zee Cinemalu" tvg-logo="" group-title="Movies & Classic TV",Zee Cinemalu
-https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-logo="" group-title="Movies & Classic TV",Zee Classic
 http://107.167.16.138/zeeclassic/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in" tvg-name="Zee South Flix" tvg-logo="" group-title="Movies & Classic TV",Zee South Flix
@@ -6971,8 +6937,6 @@ https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="" group-title="Kids & Family",Disney XD
 http://57.128.231.171:8080/276/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="" group-title="Kids & Family",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" tvg-logo="" group-title="Kids & Family",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="" group-title="Kids & Family",Dove Channel
@@ -7323,6 +7287,8 @@ https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" tvg-logo="" group-title="Kids & Family",Nick Jr. Club
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" tvg-logo="" group-title="Kids & Family",Nick Jr. Latin America
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" tvg-logo="" group-title="Kids & Family",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" tvg-logo="" group-title="Kids & Family",Nick Jr. Pluto TV
@@ -7387,6 +7353,8 @@ http://15.204.246.24:8080/NickHD/index.m3u8
 http://190.93.224.42/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="" group-title="Kids & Family",Nickelodeon Latin America
 https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="" group-title="Kids & Family",Nickelodeon Latin America
+https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" tvg-logo="" group-title="Kids & Family",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="" group-title="Kids & Family",Nickelodeon Teen
@@ -7489,8 +7457,6 @@ https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-name="Pluto TV Kids Classics" tvg-logo="" group-title="Kids & Family",Pluto TV Kids Classics
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKidsClub.de" tvg-name="Pluto TV Kids Club" tvg-logo="" group-title="Kids & Family",Pluto TV Kids Club
-https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClub.us" tvg-name="Pluto TV Kids Club" tvg-logo="" group-title="Kids & Family",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilm.se" tvg-name="Pluto TV Klassiske tegnefilm" tvg-logo="" group-title="Kids & Family",Pluto TV Klassiske tegnefilm
@@ -8683,16 +8649,6 @@ https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandbollLive.se" tvg-name="Pluto TV Handboll Live" tvg-logo="" group-title="Sports & Highlights",Pluto TV Handboll Live
 https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de" tvg-name="Pluto TV Snooker 900" tvg-logo="" group-title="Sports & Highlights",Pluto TV Snooker 900
-https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de" tvg-name="Pluto TV Snooker 900" tvg-logo="" group-title="Sports & Highlights",Pluto TV Snooker 900
-https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de" tvg-name="Pluto TV Snooker 900" tvg-logo="" group-title="Sports & Highlights",Pluto TV Snooker 900
-https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de" tvg-name="Pluto TV Snooker 900" tvg-logo="" group-title="Sports & Highlights",Pluto TV Snooker 900
-https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de" tvg-name="Pluto TV Snooker 900" tvg-logo="" group-title="Sports & Highlights",Pluto TV Snooker 900
-https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSnooker900.se" tvg-name="Pluto TV Snooker 900" tvg-logo="" group-title="Sports & Highlights",Pluto TV Snooker 900
 https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSnooker900.se" tvg-name="Pluto TV Snooker 900" tvg-logo="" group-title="Sports & Highlights",Pluto TV Snooker 900
@@ -8897,6 +8853,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA
 http://stream.mcquack.net/394/index.m3u8
 #EXTINF:-1 tvg-id="Sport5.ua" tvg-name="Sport 5" tvg-logo="" group-title="Sports & Highlights",Sport 5
 http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" tvg-logo="" group-title="Sports & Highlights",Sport Extra
+https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 #EXTINF:-1 tvg-id="SportTV.by" tvg-name="Sport TV" tvg-logo="" group-title="Sports & Highlights",Sport TV
 http://178.124.179.122:8080/SportTV/mpegts
 #EXTINF:-1 tvg-id="SportTV.by" tvg-name="Sport TV" tvg-logo="" group-title="Sports & Highlights",Sport TV
@@ -10091,6 +10049,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-id="ONFM.pt" tvg-name="ON FM" tvg-logo="" group-title="Music",ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ONMusic.vn" tvg-name="ON Music" tvg-logo="" group-title="Music",ON Music
+https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="OneAdria.de" tvg-name="One Adria" tvg-logo="" group-title="Music",One Adria
 https://oneadriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="OneMusicTelevision.de" tvg-name="One Music Television" tvg-logo="" group-title="Music",One Music Television
@@ -10377,6 +10337,8 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-id="SlagerTV.hu" tvg-name="Slager TV" tvg-logo="" group-title="Music",Slager TV
 http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="SmartRadio.ro" tvg-name="Smart Radio" tvg-logo="" group-title="Music",Smart Radio
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in" tvg-name="Songdew TV" tvg-logo="" group-title="Music",Songdew TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-name="SONGTV Russia" tvg-logo="" group-title="Music",SONGTV Russia
@@ -10497,6 +10459,8 @@ https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro" tvg-name="Tele7music" tvg-logo="" group-title="Music",Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TequilaMusicTV.ro" tvg-name="Tequila Music TV" tvg-logo="" group-title="Music",Tequila Music TV
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 #EXTINF:-1 tvg-id="TezaurTV.md" tvg-name="Tezaur TV" tvg-logo="" group-title="Music",Tezaur TV
 https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 tvg-id="Thats70s.uk" tvg-name="That's 70s" tvg-logo="" group-title="Music",That's 70s
@@ -12241,6 +12205,18 @@ https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="" group-title="Spanish",5tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" tvg-logo="" group-title="Spanish",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-logo="" group-title="Spanish",88 Stereo
@@ -12597,6 +12573,8 @@ https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="" group-title="Spanish",Bandamax
 http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="" group-title="Spanish",Bandamax
+https://streaming.onnethn.com/Bandamax/index.m3u8
 #EXTINF:-1 tvg-id="BaniVision.do" tvg-name="Bani Vision" tvg-logo="" group-title="Spanish",Bani Vision
 https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
 #EXTINF:-1 tvg-id="BarbeTV.gt" tvg-name="Barbe TV" tvg-logo="" group-title="Spanish",Barbe TV
@@ -12761,6 +12739,8 @@ https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" tvg-logo="" group-title="Spanish",Canal 10
 https://www.canal10.com.ni/envivo
+#EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" tvg-logo="" group-title="Spanish",Canal 10
+https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-logo="" group-title="Spanish",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-logo="" group-title="Spanish",Canal 10
@@ -13201,6 +13181,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMas.uy" tvg-name="Canal Mas" tvg-logo="" group-title="Spanish",Canal Mas
 https://canalmasuruguay.com/hls/master-abr.m3u8
+#EXTINF:-1 tvg-id="CanalMas.uy" tvg-name="Canal Mas" tvg-logo="" group-title="Spanish",Canal Mas
+https://canalmasuruguay.com/hls/720p/index.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="" group-title="Spanish",Canal Mas Television
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="" group-title="Spanish",Canal Mas Television
@@ -14179,6 +14161,8 @@ https://multimedia.fortalezatv.cl/video/video.m3u8
 http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="" group-title="Spanish",Fox Sports
 http://158.172.155.130:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" tvg-logo="" group-title="Spanish",Fox Sports 2
+https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
 #EXTINF:-1 tvg-id="FranchsTV.gt" tvg-name="Franchs TV" tvg-logo="" group-title="Spanish",Franchs TV
 https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
 #EXTINF:-1 tvg-id="FRATATV.do" tvg-name="FRATA TV" tvg-logo="" group-title="Spanish",FRATA TV
@@ -17667,6 +17651,8 @@ https://atechgroupuk.site/DTV.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
 #EXTINF:-1 tvg-id="etvNewsSport.za" tvg-name="e.tv News & Sport" tvg-logo="" group-title="African & Caribbean",e.tv News & Sport
 https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+#EXTINF:-1 tvg-id="EBNTelevision.pr" tvg-name="EBN Television" tvg-logo="" group-title="African & Caribbean",EBN Television
+https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
 #EXTINF:-1 tvg-id="EBNTV.ke" tvg-name="EBN TV" tvg-logo="" group-title="African & Caribbean",EBN TV
 https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8
 #EXTINF:-1 tvg-id="EcclesiaTV.ci" tvg-name="Ecclesia TV" tvg-logo="" group-title="African & Caribbean",Ecclesia TV
@@ -19931,6 +19917,8 @@ https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" tvg-logo="" group-title="Other US Public Channels",MTV Latin America
 http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" tvg-logo="" group-title="Other US Public Channels",MTV Latin America
+https://streaming.onnethn.com/MTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV" tvg-logo="" group-title="Other US Public Channels",MTV Pluto TV
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV" tvg-logo="" group-title="Other US Public Channels",MTV Pluto TV
@@ -20727,6 +20715,8 @@ https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptiv
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="" group-title="Other US Public Channels",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us" tvg-name="TCM Latin America" tvg-logo="" group-title="Other US Public Channels",TCM Latin America
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us" tvg-name="TCM Latin America" tvg-logo="" group-title="Other US Public Channels",TCM Latin America
 http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="TCT.us" tvg-name="TCT" tvg-logo="" group-title="Other US Public Channels",TCT
@@ -21789,8 +21779,6 @@ http://170.83.16.50/FISH_TV/index.m3u8
 http://190.128.214.97:64333/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-name="Fora Tedio TV" tvg-logo="" group-title="Other International - BR",Fora Tedio TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="" group-title="Other International - BR",Futura
-http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="" group-title="Other International - BR",Futura
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="Geekdot.br" tvg-name="Geekdot" tvg-logo="" group-title="Other International - BR",Geekdot
@@ -23533,18 +23521,10 @@ https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRealLife.de" tvg-name="Pluto TV Real Life" tvg-logo="" group-title="Other International - DE",Pluto TV Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVReality.de" tvg-name="Pluto TV Reality" tvg-logo="" group-title="Other International - DE",Pluto TV Reality
-https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVReality.de" tvg-name="Pluto TV Reality" tvg-logo="" group-title="Other International - DE",Pluto TV Reality
-https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
 #EXTINF:-1 tvg-id="PlutoTVReportagen.de" tvg-name="Pluto TV Reportagen" tvg-logo="" group-title="Other International - DE",Pluto TV Reportagen
 https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScherzierisate.de" tvg-name="Pluto TV Scherzi e risate" tvg-logo="" group-title="Other International - DE",Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVScience.de" tvg-name="Pluto TV Science" tvg-logo="" group-title="Other International - DE",Pluto TV Science
-https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVScience.de" tvg-name="Pluto TV Science" tvg-logo="" group-title="Other International - DE",Pluto TV Science
-https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVShore.de" tvg-name="Pluto TV Shore" tvg-logo="" group-title="Other International - DE",Pluto TV Shore
 https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpace.de" tvg-name="Pluto TV Space" tvg-logo="" group-title="Other International - DE",Pluto TV Space
@@ -23693,6 +23673,8 @@ https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" tvg-logo="" group-title="Other International - DE",Teen Mom
 https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
+#EXTINF:-1 tvg-id="TELE5.de" tvg-name="TELE 5" tvg-logo="" group-title="Other International - DE",TELE 5
+https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 tvg-id="teltOwkanal.de" tvg-name="teltOwkanal" tvg-logo="" group-title="Other International - DE",teltOwkanal
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" tvg-logo="" group-title="Other International - DE",Terra Mater WILD
@@ -25814,8 +25796,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" tvg-logo="" group-title="Other International - IN",Zee Tamil
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" tvg-logo="" group-title="Other International - IN",Zee Telugu
-https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" tvg-logo="" group-title="Other International - IN",Zee Telugu
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="" group-title="Other International - IN",Zee TV
 http://41.205.93.154/ZEE-TV/index.m3u8
@@ -26133,6 +26113,8 @@ https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-name="Gambero Rosso Channel" tvg-logo="" group-title="Other International - IT",Gambero Rosso Channel
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-logo="" group-title="Other International - IT",Giallo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="GOTVCanale163.it" tvg-name="GO-TV Canale 163" tvg-logo="" group-title="Other International - IT",GO-TV Canale 163
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldTV.it" tvg-name="Gold TV" tvg-logo="" group-title="Other International - IT",Gold TV
@@ -26203,6 +26185,8 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 #EXTINF:-1 tvg-id="MediterraniaTV.it" tvg-name="MediterraniaTV" tvg-logo="" group-title="Other International - IT",MediterraniaTV
 https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="" group-title="Other International - IT",Nove
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="NTN.it" tvg-name="NTN" tvg-logo="" group-title="Other International - IT",NTN
 https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Odeon24.it" tvg-name="Odeon 24" tvg-logo="" group-title="Other International - IT",Odeon 24
@@ -26303,6 +26287,8 @@ https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-name="RDS Social TV" tvg-logo="" group-title="Other International - IT",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="" group-title="Other International - IT",Real Time
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="ReggioTV.it" tvg-name="ReggioTV" tvg-logo="" group-title="Other International - IT",ReggioTV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete55.it" tvg-name="Rete 55" tvg-logo="" group-title="Other International - IT",Rete 55
@@ -27923,8 +27909,12 @@ http://57.128.231.171:8080/284/index.m3u8
 http://57.128.231.171:8080/282/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia" tvg-logo="" group-title="Other International - PL",Discovery Historia
 http://57.128.231.171:8080/281/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life" tvg-logo="" group-title="Other International - PL",Discovery Life
+http://57.128.231.171:8080/280/index.m3u8
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="Other International - PL",Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+#EXTINF:-1 tvg-id="DTX.pl" tvg-name="DTX" tvg-logo="" group-title="Other International - PL",DTX
+http://57.128.231.171:8080/274/index.m3u8
 #EXTINF:-1 tvg-id="E.pl" tvg-name="E!" tvg-logo="" group-title="Other International - PL",E!
 http://57.128.231.171:8080/273/index.m3u8
 #EXTINF:-1 tvg-id="Echo24.pl" tvg-name="Echo24" tvg-logo="" group-title="Other International - PL",Echo24
@@ -27937,6 +27927,8 @@ http://57.128.231.171:8080/253/index.m3u8
 http://57.128.231.171:8080/249/index.m3u8
 #EXTINF:-1 tvg-id="Fox.pl" tvg-name="Fox" tvg-logo="" group-title="Other International - PL",Fox
 http://92.114.85.87:8015/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="Fox Comedy" tvg-logo="" group-title="Other International - PL",Fox Comedy
+http://57.128.231.171:8080/250/index.m3u8
 #EXTINF:-1 tvg-id="Grjngo.pl" tvg-name="Grjngo" tvg-logo="" group-title="Other International - PL",Grjngo
 https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocksFightingChampionship.pl" tvg-name="Hard Knocks Fighting Championship" tvg-logo="" group-title="Other International - PL",Hard Knocks Fighting Championship
@@ -32033,8 +32025,6 @@ https://dethich.pw/vtv4/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn" tvg-name="VTV5" tvg-logo="" group-title="Other International - VN",VTV5
 https://dethich.pw/vtv5/index.m3u8
-#EXTINF:-1 tvg-id="VTV5TayNguyen.vn" tvg-name="VTV5 Tay Nguyen" tvg-logo="" group-title="Other International - VN",VTV5 Tay Nguyen
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn" tvg-name="VTV7" tvg-logo="" group-title="Other International - VN",VTV7
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn" tvg-name="VTV7" tvg-logo="" group-title="Other International - VN",VTV7

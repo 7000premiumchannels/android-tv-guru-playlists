@@ -77,6 +77,18 @@ https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="" group-title="Spanish",5tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" group-title="Spanish",7TV
+https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" tvg-logo="" group-title="Spanish",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-logo="" group-title="Spanish",88 Stereo
@@ -433,6 +445,8 @@ https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="" group-title="Spanish",Bandamax
 http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="" group-title="Spanish",Bandamax
+https://streaming.onnethn.com/Bandamax/index.m3u8
 #EXTINF:-1 tvg-id="BaniVision.do" tvg-name="Bani Vision" tvg-logo="" group-title="Spanish",Bani Vision
 https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
 #EXTINF:-1 tvg-id="BarbeTV.gt" tvg-name="Barbe TV" tvg-logo="" group-title="Spanish",Barbe TV
@@ -597,6 +611,8 @@ https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" tvg-logo="" group-title="Spanish",Canal 10
 https://www.canal10.com.ni/envivo
+#EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" tvg-logo="" group-title="Spanish",Canal 10
+https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-logo="" group-title="Spanish",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-logo="" group-title="Spanish",Canal 10
@@ -1037,6 +1053,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMas.uy" tvg-name="Canal Mas" tvg-logo="" group-title="Spanish",Canal Mas
 https://canalmasuruguay.com/hls/master-abr.m3u8
+#EXTINF:-1 tvg-id="CanalMas.uy" tvg-name="Canal Mas" tvg-logo="" group-title="Spanish",Canal Mas
+https://canalmasuruguay.com/hls/720p/index.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="" group-title="Spanish",Canal Mas Television
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="" group-title="Spanish",Canal Mas Television
@@ -2015,6 +2033,8 @@ https://multimedia.fortalezatv.cl/video/video.m3u8
 http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="" group-title="Spanish",Fox Sports
 http://158.172.155.130:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" tvg-logo="" group-title="Spanish",Fox Sports 2
+https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
 #EXTINF:-1 tvg-id="FranchsTV.gt" tvg-name="Franchs TV" tvg-logo="" group-title="Spanish",Franchs TV
 https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
 #EXTINF:-1 tvg-id="FRATATV.do" tvg-name="FRATA TV" tvg-logo="" group-title="Spanish",FRATA TV

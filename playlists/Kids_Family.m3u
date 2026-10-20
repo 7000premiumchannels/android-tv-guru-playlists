@@ -343,8 +343,6 @@ https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="" group-title="Kids & Family",Disney XD
 http://57.128.231.171:8080/276/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="" group-title="Kids & Family",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" tvg-logo="" group-title="Kids & Family",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="" group-title="Kids & Family",Dove Channel
@@ -695,6 +693,8 @@ https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" tvg-logo="" group-title="Kids & Family",Nick Jr. Club
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" tvg-logo="" group-title="Kids & Family",Nick Jr. Latin America
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" tvg-logo="" group-title="Kids & Family",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" tvg-logo="" group-title="Kids & Family",Nick Jr. Pluto TV
@@ -759,6 +759,8 @@ http://15.204.246.24:8080/NickHD/index.m3u8
 http://190.93.224.42/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="" group-title="Kids & Family",Nickelodeon Latin America
 https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="" group-title="Kids & Family",Nickelodeon Latin America
+https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" tvg-logo="" group-title="Kids & Family",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="" group-title="Kids & Family",Nickelodeon Teen
@@ -861,8 +863,6 @@ https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-name="Pluto TV Kids Classics" tvg-logo="" group-title="Kids & Family",Pluto TV Kids Classics
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKidsClub.de" tvg-name="Pluto TV Kids Club" tvg-logo="" group-title="Kids & Family",Pluto TV Kids Club
-https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClub.us" tvg-name="Pluto TV Kids Club" tvg-logo="" group-title="Kids & Family",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilm.se" tvg-name="Pluto TV Klassiske tegnefilm" tvg-logo="" group-title="Kids & Family",Pluto TV Klassiske tegnefilm
