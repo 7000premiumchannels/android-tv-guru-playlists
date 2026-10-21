@@ -173,6 +173,8 @@ http://stream.mcquack.net/283/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="BoomTV.ro" tvg-name="Boom TV" tvg-logo="" group-title="Music",Boom TV
 https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-id="BotflixRadioo.us" tvg-name="Botflix Radioo" tvg-logo="" group-title="Music",Botflix Radioo
+https://hls.botflix.tv/radioo/index.m3u8
 #EXTINF:-1 tvg-id="BOXTV.bg" tvg-name="BOX TV" tvg-logo="" group-title="Music",BOX TV
 http://213.91.179.28:8000/play/a0an
 #EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-name="BPX TV Radio" tvg-logo="" group-title="Music",BPX TV Radio
@@ -209,10 +211,6 @@ https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 https://cmc-kowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="CCTV-11" tvg-logo="" group-title="Music",CCTV-11
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="CCTV-11" tvg-logo="" group-title="Music",CCTV-11
-https://xykt-fix.github.io/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV-15" tvg-logo="" group-title="Music",CCTV-15
-https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV-15" tvg-logo="" group-title="Music",CCTV-15
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="CCTVStormMusic.cn" tvg-name="CCTV-Storm Music" tvg-logo="" group-title="Music",CCTV-Storm Music

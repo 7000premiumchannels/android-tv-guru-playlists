@@ -65,6 +65,8 @@ https://cdn.pishow.tv/ott/live/1211/master.m3u8
 http://88.212.15.17/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="" group-title="US News & Weather",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN" tvg-logo="" group-title="US News & Weather",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" tvg-logo="" group-title="US News & Weather",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" tvg-logo="" group-title="US News & Weather",Aaj Ki Khabar
@@ -1531,8 +1533,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="" group-title="US News & Weather",iNews
 https://mncmedia.malingtv.workers.dev/inews.m3u8
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="" group-title="US News & Weather",iNews
-http://202.150.172.59/iNews/index.m3u8
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" tvg-logo="" group-title="US News & Weather",INews
 https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" tvg-logo="" group-title="US News & Weather",INews
@@ -2089,6 +2089,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News24.au" tvg-name="News24" tvg-logo="" group-title="US News & Weather",News24
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
+#EXTINF:-1 tvg-id="News24Weather.au" tvg-name="News24 Weather" tvg-logo="" group-title="US News & Weather",News24 Weather
+https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
 #EXTINF:-1 tvg-id="News24World.au" tvg-name="News24 World" tvg-logo="" group-title="US News & Weather",News24 World
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
 #EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" tvg-logo="" group-title="US News & Weather",News9Live
@@ -2855,8 +2857,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk" tvg-name="Sky News Weather" tvg-logo="" group-title="US News & Weather",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="SkyNewsWeatherChannel.au" tvg-name="Sky News Weather Channel" tvg-logo="" group-title="US News & Weather",Sky News Weather Channel
-https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
 #EXTINF:-1 tvg-id="SNNTV.ir" tvg-name="SNN TV" tvg-logo="" group-title="US News & Weather",SNN TV
 https://live2.snn.ir/hls/snn2_hd720/index.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru" tvg-name="Sochi24" tvg-logo="" group-title="US News & Weather",Sochi24
@@ -3003,6 +3003,8 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" tvg-logo="" group-title="US News & Weather",Tonghua TV
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" tvg-logo="" group-title="US News & Weather",Tonghua TV
+http://139.211.217.79:9004/hls/75/index.m3u8
 #EXTINF:-1 tvg-id="TopNews.th" tvg-name="Top News" tvg-logo="" group-title="US News & Weather",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" tvg-logo="" group-title="US News & Weather",Top News Marathi
