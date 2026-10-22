@@ -878,6 +878,8 @@ https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" tvg-logo="" group-title="Music",Peppers TV
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" tvg-logo="" group-title="Music",Peppers TV
+https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8
+#EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" tvg-logo="" group-title="Music",Peppers TV
 https://cdn.pishow.tv/ott/live/1383/master.m3u8
 #EXTINF:-1 tvg-id="PersianaFolk.fr" tvg-name="Persiana Folk" tvg-logo="" group-title="Music",Persiana Folk
 https://sonhls.persiana.live/hls/stream.m3u8
@@ -1391,6 +1393,8 @@ http://83.103.149.75:8085/udp/239.30.0.9:4000
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo="" group-title="Music",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Tunes6.in" tvg-name="Tunes 6" tvg-logo="" group-title="Music",Tunes 6
+https://stream.d6-pro.com/Tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-name="Turkmen Owazy" tvg-logo="" group-title="Music",Turkmen Owazy
 https://alpha.tv.online.tm/hls/ch005.m3u8
 #EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-name="Turkmen Owazy" tvg-logo="" group-title="Music",Turkmen Owazy
@@ -1521,6 +1525,8 @@ https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-id="VijayTakkar.in" tvg-name="Vijay Takkar" tvg-logo="" group-title="Music",Vijay Takkar
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-logo="" group-title="Music",VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV" tvg-logo="" group-title="Music",Volksmusik TV
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="VOX Music TV" tvg-logo="" group-title="Music",VOX Music TV
