@@ -67,6 +67,8 @@ http://88.212.15.17/live/test_trojka_25p/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN" tvg-logo="" group-title="US News & Weather",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AagaazTimes.in" tvg-name="Aagaaz Times" tvg-logo="" group-title="US News & Weather",Aagaaz Times
+https://live1.ottlive.co.in/aagaaztimes/index.m3u8
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" tvg-logo="" group-title="US News & Weather",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" tvg-logo="" group-title="US News & Weather",Aaj Ki Khabar
@@ -419,6 +421,8 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" tvg-name="Asharq Radio" tvg-logo="" group-title="US News & Weather",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 tvg-id="AshwaveegaNews24x7.in" tvg-name="Ashwaveega News 24x7" tvg-logo="" group-title="US News & Weather",Ashwaveega News 24x7
+https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in" tvg-name="Asian News" tvg-logo="" group-title="US News & Weather",Asian News
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-logo="" group-title="US News & Weather",Asianet News
@@ -810,8 +814,6 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="" group-title="US News & Weather",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="" group-title="US News & Weather",CGTN French
-http://145.239.5.177/214/index.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="" group-title="US News & Weather",CGTN French
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="" group-title="US News & Weather",CGTN French
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
@@ -936,6 +938,8 @@ http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
+https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
 http://168.228.44.241:9997/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
@@ -951,8 +955,6 @@ http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="CP24.ca" tvg-name="CP24" tvg-logo="" group-title="US News & Weather",CP24
 https://tvsen6.aynaott.com/cp24/index.m3u8
-#EXTINF:-1 tvg-id="CP24.ca" tvg-name="CP24" tvg-logo="" group-title="US News & Weather",CP24
-http://107.167.16.138/cp24/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" tvg-logo="" group-title="US News & Weather",Crimea 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" tvg-logo="" group-title="US News & Weather",Crimea 24
@@ -1692,8 +1694,6 @@ http://103.250.28.74:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn" tvg-name="Lanzhou Comprehensive News Channel" tvg-logo="" group-title="US News & Weather",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="" group-title="US News & Weather",LCI
-http://145.239.5.177/368/index.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="" group-title="US News & Weather",LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" tvg-logo="" group-title="US News & Weather",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
@@ -2312,8 +2312,6 @@ https://cdn.pishow.tv/ott/live/1245/master.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" tvg-logo="" group-title="US News & Weather",Polimer News
 https://streams.tangotv.in/POLIMERNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" tvg-logo="" group-title="US News & Weather",Polimer News
-http://107.167.16.138/polimernews/index.m3u8?token=test
-#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" tvg-logo="" group-title="US News & Weather",Polimer News
 https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" tvg-logo="" group-title="US News & Weather",Polimer News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerNews.m3u8
@@ -2321,8 +2319,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" tvg-logo="" group-title="US News & Weather",Polsat News
 https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" tvg-logo="" group-title="US News & Weather",Polsat News
-http://57.128.210.196:8080/199/index.m3u8
 #EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" tvg-logo="" group-title="US News & Weather",Polsat News 2
 https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-name="Polsat News Polityka" tvg-logo="" group-title="US News & Weather",Polsat News Polityka
@@ -3091,8 +3087,6 @@ https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV7Bharat.in" tvg-name="TV7 Bharat" tvg-logo="" group-title="US News & Weather",TV7 Bharat
 https://stream.ottlive.co.in/tv7bharat/index.m3u8
-#EXTINF:-1 tvg-id="TV8.md" tvg-name="TV8" tvg-logo="" group-title="US News & Weather",TV8
-http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="" group-title="US News & Weather",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="" group-title="US News & Weather",TV9 Bangla

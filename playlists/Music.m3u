@@ -41,6 +41,8 @@ https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="" group-title="Music",7S Music
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
+#EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" tvg-logo="" group-title="Music",7X Music
+https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" tvg-logo="" group-title="Music",8XM
 https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 #EXTINF:-1 tvg-id="981PearlFM.sx" tvg-name="98.1 Pearl FM" tvg-logo="" group-title="Music",98.1 Pearl FM
@@ -288,8 +290,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="DeluxeRap.de" tvg-name="Deluxe Rap" tvg-logo="" group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="Dhamaal.in" tvg-name="Dhamaal" tvg-logo="" group-title="Music",Dhamaal
-http://107.167.16.138/dhamaal/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Dhamaal.in" tvg-name="Dhamaal" tvg-logo="" group-title="Music",Dhamaal
 https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8
 #EXTINF:-1 tvg-id="DhoolTV.in" tvg-name="Dhool TV" tvg-logo="" group-title="Music",Dhool TV
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
@@ -485,8 +485,6 @@ https://k100streymi.mbl.is/beint/k100/index.m3u8
 http://server.applelive.in/kalikatv/kalikatv.m3u8
 #EXTINF:-1 tvg-id="KayhanTV.af" tvg-name="Kayhan TV" tvg-logo="" group-title="Music",Kayhan TV
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka" tvg-logo="" group-title="Music",Kino Polska Muzyka
-http://57.128.231.171:8080/237/index.m3u8
 #EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-name="Kiss Kiss Napoli TV" tvg-logo="" group-title="Music",Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" tvg-logo="" group-title="Music",Kiss Kiss TV
@@ -549,8 +547,6 @@ http://dtv.vol.net.ua/M1-HD/index.m3u8
 http://stream.mcquack.net/330/index.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it" tvg-name="m2o TV" tvg-logo="" group-title="Music",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" tvg-logo="" group-title="Music",M6 Music
-http://145.239.5.177/320/index.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" tvg-logo="" group-title="Music",M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 #EXTINF:-1 tvg-id="MagentaMusik360.de" tvg-name="MagentaMusik 360" tvg-logo="" group-title="Music",MagentaMusik 360
@@ -669,8 +665,6 @@ https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="Music.kg" tvg-name="Music" tvg-logo="" group-title="Music",Music
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
-#EXTINF:-1 tvg-id="MusicBox80s.cz" tvg-name="Music Box 80s" tvg-logo="" group-title="Music",Music Box 80s
-http://57.128.231.171:8080/229/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" tvg-logo="" group-title="Music",Music Box Brazil
 http://168.197.104.22/MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" tvg-logo="" group-title="Music",Music Box Brazil
@@ -869,6 +863,8 @@ https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PanikTV.gr" tvg-name="Panik TV" tvg-logo="" group-title="Music",Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pankh.in" tvg-name="Pankh" tvg-logo="" group-title="Music",Pankh
+https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" tvg-logo="" group-title="Music",Panorama FM
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 #EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" tvg-logo="" group-title="Music",Panorama FM
@@ -901,8 +897,6 @@ https://pmchls.wns.live/hls/stream.m3u8
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music" tvg-logo="" group-title="Music",Polsat Music
 http://92.114.85.87:8001/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music" tvg-logo="" group-title="Music",Polsat Music
-http://57.128.210.196:8080/201/index.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr" tvg-name="Power Dance" tvg-logo="" group-title="Music",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerHitRadio.lt" tvg-name="Power Hit Radio" tvg-logo="" group-title="Music",Power Hit Radio
@@ -933,6 +927,8 @@ https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8
 https://cdn.pishow.tv/ott/live/441/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" tvg-logo="" group-title="Music",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiMusicHD.in" tvg-name="Punjabi Music HD" tvg-logo="" group-title="Music",Punjabi Music HD
+https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="QMusic.be" tvg-name="Q-Music" tvg-logo="" group-title="Music",Q-Music
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-name="Qello Concerts by Stingray" tvg-logo="" group-title="Music",Qello Concerts by Stingray
@@ -1103,8 +1099,6 @@ https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 https://cdn.pishow.tv/ott/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="" group-title="Music",Sangeet Marathi
 https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
-#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="" group-title="Music",Sangeet Marathi
-http://107.167.16.138/sangeetmarathi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="" group-title="Music",Sangeet Marathi
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" tvg-logo="" group-title="Music",Shanson TV
@@ -1366,8 +1360,6 @@ https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
-http://145.239.5.177/210/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
@@ -1423,8 +1415,6 @@ https://stream.ottlive.co.in/utvtamil/index.m3u8
 https://mumbai-edge.smartplaytv.in/utv/index.m3u8
 #EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-name="V2BEAT TV" tvg-logo="" group-title="Music",V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="V90.pl" tvg-name="V90" tvg-logo="" group-title="Music",V90
-http://57.128.231.171:8080/228/index.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-name="Vaanavil TV" tvg-logo="" group-title="Music",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-name="Vaanavil TV" tvg-logo="" group-title="Music",Vaanavil TV
@@ -1585,8 +1575,6 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-id="ZICOTV.rs" tvg-name="ZICO TV" tvg-logo="" group-title="Music",ZICO TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
-#EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing!" tvg-logo="" group-title="Music",Zing!
-http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZorTV.uz" tvg-name="Zo'r TV" tvg-logo="" group-title="Music",Zo'r TV
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="" group-title="Music",Zoom

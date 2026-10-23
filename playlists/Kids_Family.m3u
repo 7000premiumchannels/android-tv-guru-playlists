@@ -91,8 +91,6 @@ http://138.121.15.230:9002/BABY-TV/index.m3u8
 http://181.78.12.119:16123/play/ch01/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="" group-title="Kids & Family",BabyTV
 http://38.44.109.41:8003/play/a0eh
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="" group-title="Kids & Family",BabyTV
-http://57.128.231.171:8080/310/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-name="Balapan" tvg-logo="" group-title="Kids & Family",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-name="Balapan" tvg-logo="" group-title="Kids & Family",Balapan
@@ -119,6 +117,8 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.us" tvg-name="Bob l'eponge" tvg-logo="" group-title="Kids & Family",Bob l'eponge
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="" group-title="Kids & Family",Boing
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="Bolajon.uz" tvg-name="Bolajon" tvg-logo="" group-title="Kids & Family",Bolajon
 https://stream8.cinerama.uz/1007/playlist.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="" group-title="Kids & Family",Boomerang
@@ -147,8 +147,6 @@ http://177.234.218.66:8084/play/a01x/index.m3u8
 http://179.1.196.222:9000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-name="CANAL+ 360" tvg-logo="" group-title="Kids & Family",CANAL+ 360
 http://92.114.85.87:8019/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-name="CANAL+ 360" tvg-logo="" group-title="Kids & Family",CANAL+ 360
-http://57.128.210.196:8080/300/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="" group-title="Kids & Family",Carousel
 http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="" group-title="Kids & Family",Carousel
@@ -190,8 +188,6 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" tvg-logo="" group-title="Kids & Family",Cartoon Network CEE
 http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" tvg-logo="" group-title="Kids & Family",Cartoon Network CEE
-http://57.128.231.171:8080/293/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" tvg-logo="" group-title="Kids & Family",Cartoon Network CEE
 http://92.114.85.87:8007/play/a009
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" tvg-logo="" group-title="Kids & Family",Cartoon Network CEE
 http://45.132.87.69:8080/cartoon_network/index.m3u8
@@ -218,8 +214,6 @@ http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" tvg-logo="" group-title="Kids & Family",Cartoonito CEE
 http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" tvg-logo="" group-title="Kids & Family",Cartoonito CEE
-http://57.128.231.171:8080/303/index.m3u8
-#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" tvg-logo="" group-title="Kids & Family",Cartoonito CEE
 http://92.114.85.87:8007/play/a008
 #EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-name="Cartoonito Latin America" tvg-logo="" group-title="Kids & Family",Cartoonito Latin America
 http://45.173.12.70:8000/play/a0hh
@@ -237,8 +231,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/h
 http://92.114.85.87:8017/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" tvg-logo="" group-title="Kids & Family",CBeebies
 https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8
-#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" tvg-logo="" group-title="Kids & Family",CBeebies
-http://57.128.231.171:8080/308/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-logo="" group-title="Kids & Family",CBeebies
 https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-logo="" group-title="Kids & Family",CBeebies
@@ -271,8 +263,6 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="Detskiy.ru" tvg-name="Detskiy" tvg-logo="" group-title="Kids & Family",Detskiy
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Detskiy.ru" tvg-name="Detskiy" tvg-logo="" group-title="Kids & Family",Detskiy
-http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 tvg-id="DetvoraPlus.ru" tvg-name="Detvora+" tvg-logo="" group-title="Kids & Family",Detvora+
 https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="Diema Family" tvg-logo="" group-title="Kids & Family",Diema Family
@@ -293,6 +283,8 @@ http://38.65.175.84:8000/play/a0an/index.m3u8
 http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
 http://213.91.179.28:8000/play/a059
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
+http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
 http://88.212.15.17/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
@@ -309,8 +301,6 @@ http://86.87.15.10:8004/play/a02g/index.m3u8
 https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
-http://57.128.231.171:8080/278/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="" group-title="Kids & Family",Disney Channel
@@ -329,8 +319,6 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 http://88.212.15.17/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" tvg-logo="" group-title="Kids & Family",Disney Junior
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
-#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior" tvg-logo="" group-title="Kids & Family",Disney Junior
-http://57.128.231.171:8080/277/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" tvg-logo="" group-title="Kids & Family",Disney Junior
 https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="" group-title="Kids & Family",Disney Junior
@@ -345,8 +333,6 @@ http://tvsen7.aynascope.net/disneyjr/index.m3u8
 https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="" group-title="Kids & Family",Disney XD
 http://185.227.34.179:8080/disney-xd/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="" group-title="Kids & Family",Disney XD
-http://57.128.231.171:8080/276/index.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" tvg-logo="" group-title="Kids & Family",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="" group-title="Kids & Family",Dove Channel
@@ -687,8 +673,6 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
 http://tvsen7.aynascope.net/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="" group-title="Kids & Family",Nick Jr.
-http://107.167.16.138/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="NickJrClub.de" tvg-name="Nick Jr. Club" tvg-logo="" group-title="Kids & Family",Nick Jr. Club
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" tvg-logo="" group-title="Kids & Family",Nick Jr. Club
@@ -763,6 +747,8 @@ http://190.93.224.42/NICK/index.m3u8
 https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="" group-title="Kids & Family",Nickelodeon Latin America
 https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="" group-title="Kids & Family",Nickelodeon Latin America
+http://181.78.79.131:8000/play/a0qm
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" tvg-logo="" group-title="Kids & Family",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="" group-title="Kids & Family",Nickelodeon Teen
@@ -821,6 +807,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" group-title="Kids & Family",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" group-title="Kids & Family",PBS Kids
+https://tvsen7.aynascope.net/pbskids/index.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="" group-title="Kids & Family",PBS Kids Alaska
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids Eastern/Central" tvg-logo="" group-title="Kids & Family",PBS Kids Eastern/Central
@@ -903,10 +891,10 @@ https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
 https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
 #EXTINF:-1 tvg-id="pocketwatch.us" tvg-name="pocket.watch" tvg-logo="" group-title="Kids & Family",pocket.watch
 https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="" group-title="Kids & Family",Pogo
+http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 #EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" tvg-logo="" group-title="Kids & Family",Polsat JimJam
 http://185.227.34.179:8080/jimjam/index.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" tvg-logo="" group-title="Kids & Family",Polsat JimJam
-http://57.128.210.196:8080/202/index.m3u8
 #EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" tvg-logo="" group-title="Kids & Family",Polsat JimJam
 http://92.114.85.87:8014/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="PooyaTV.ir" tvg-name="Pooya TV" tvg-logo="" group-title="Kids & Family",Pooya TV
@@ -1040,8 +1028,6 @@ http://31.148.48.15/STS/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="" group-title="Kids & Family",STS
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" tvg-logo="" group-title="Kids & Family",STS kids
-http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" tvg-logo="" group-title="Kids & Family",STS kids
 http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" tvg-logo="" group-title="Kids & Family",STS kids
 http://stream.mcquack.net/197/index.m3u8
@@ -1085,8 +1071,6 @@ https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-name="Teenage Mutant Ninja Turtles" tvg-logo="" group-title="Kids & Family",Teenage Mutant Ninja Turtles
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
-#EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick
 http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.pl" tvg-name="TeenNick" tvg-logo="" group-title="Kids & Family",TeenNick

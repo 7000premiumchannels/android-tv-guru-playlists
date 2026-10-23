@@ -160,7 +160,7 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" tvg-logo="" group-title="Spanish",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" tvg-logo="" group-title="Spanish",Aguacate TV
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+https://stream.aguacatetv.com:3949/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="AguilaTV.do" tvg-name="Aguila TV" tvg-logo="" group-title="Spanish",Aguila TV
 https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AhoraTV.do" tvg-name="Ahora TV" tvg-logo="" group-title="Spanish",Ahora TV
@@ -416,8 +416,6 @@ http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="Spanish",Azteca 7
 http://200.35.176.154:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-name="Azteca Deportes Network" tvg-logo="" group-title="Spanish",Azteca Deportes Network
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-name="Azteca Deportes Network" tvg-logo="" group-title="Spanish",Azteca Deportes Network
 http://209.14.115.253:8081/azteca-deportes/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-name="Azteca Deportes Network" tvg-logo="" group-title="Spanish",Azteca Deportes Network
 http://38.194.226.190:8000/play/a02r/index.m3u8
@@ -492,8 +490,6 @@ https://tvdatta.com:3021/live/biosferatvlive.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx" tvg-name="bitMe" tvg-logo="" group-title="Spanish",bitMe
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx" tvg-name="bitMe" tvg-logo="" group-title="Spanish",bitMe
-http://181.119.66.28:8081/BITME/index.m3u8
-#EXTINF:-1 tvg-id="bitMe.mx" tvg-name="bitMe" tvg-logo="" group-title="Spanish",bitMe
 http://200.229.147.210:9999/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="bitMeLatinAmerica.mx" tvg-name="bitMe Latin America" tvg-logo="" group-title="Spanish",bitMe Latin America
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
@@ -503,6 +499,8 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="BocaChicaTV.do" tvg-name="Boca Chica TV" tvg-logo="" group-title="Spanish",Boca Chica TV
 https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="" group-title="Spanish",Boing
+http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" tvg-logo="" group-title="Spanish",Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" tvg-logo="" group-title="Spanish",Bolivia TV
@@ -1009,8 +1007,6 @@ https://stream2.micanal2.tv/hls/canal2.m3u8
 http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="CanalDTV.do" tvg-name="Canal DTV" tvg-logo="" group-title="Spanish",Canal DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="" group-title="Spanish",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-logo="" group-title="Spanish",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal I" tvg-logo="" group-title="Spanish",Canal I
@@ -1106,8 +1102,6 @@ http://209.14.115.253:8081/RCN/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-logo="" group-title="Spanish",Canal RCN
 http://190.61.47.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-logo="" group-title="Spanish",Canal RCN
-http://190.60.55.141:9083/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-logo="" group-title="Spanish",Canal RCN
 http://181.205.130.194:4000/play/a0dl
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-logo="" group-title="Spanish",Canal RCN
 http://38.134.250.110:8000/play/a00i/index.m3u8
@@ -1199,8 +1193,6 @@ https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CaobaTVRadio.do" tvg-name="Caoba TV Radio" tvg-logo="" group-title="Spanish",Caoba TV Radio
 https://host.streamingnation.live:3940/live/caobatvlive.m3u8
-#EXTINF:-1 tvg-id="CapTerre.es" tvg-name="Cap Terre" tvg-logo="" group-title="Spanish",Cap Terre
-http://145.239.5.177/359a/index.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" tvg-logo="" group-title="Spanish",Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="CaprichoTV.ec" tvg-name="Capricho TV" tvg-logo="" group-title="Spanish",Capricho TV
@@ -1600,13 +1592,9 @@ https://v2.tustreaming.cl/dchtv/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" tvg-logo="" group-title="Spanish",De Pelicula Latin America
 http://38.19.41.46:8081/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" tvg-logo="" group-title="Spanish",De Pelicula Latin America
-http://181.119.66.28:8081/DE-PELICULA/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" tvg-logo="" group-title="Spanish",De Pelicula Latin America
 http://209.14.115.253:8081/DE-PELICULA/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" tvg-logo="" group-title="Spanish",De Pelicula Latin America
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" tvg-logo="" group-title="Spanish",De Pelicula Latin America
-http://190.60.55.141:9083/play/a0nf/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" tvg-logo="" group-title="Spanish",De Pelicula Latin America
 http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus" tvg-logo="" group-title="Spanish",De Pelicula Plus
@@ -1699,8 +1687,6 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 http://45.70.201.81:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" group-title="Spanish",Distrito Comedia
-http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" group-title="Spanish",Distrito Comedia
 http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" group-title="Spanish",Distrito Comedia
@@ -2527,8 +2513,6 @@ http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
 http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-logo="" group-title="Spanish",Las Estrellas Latin America
 http://38.44.109.41:8003/play/a0he
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-logo="" group-title="Spanish",Las Estrellas Latin America
-http://190.60.55.141:9083/play/a0np/index.m3u8
 #EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-name="LatacungaTV" tvg-logo="" group-title="Spanish",LatacungaTV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Latele.py" tvg-name="Latele" tvg-logo="" group-title="Spanish",Latele
@@ -2863,6 +2847,8 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="MultivisionCanal3.gt" tvg-name="Multivision Canal 3" tvg-logo="" group-title="Spanish",Multivision Canal 3
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivision Federal" tvg-logo="" group-title="Spanish",Multivision Federal
+https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="MultivisionSports.gt" tvg-name="Multivision Sports" tvg-logo="" group-title="Spanish",Multivision Sports
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-id="MundosLacustresTV.cl" tvg-name="Mundos Lacustres TV" tvg-logo="" group-title="Spanish",Mundos Lacustres TV
@@ -2995,8 +2981,6 @@ https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
 http://170.238.200.199/nuestra-tele/index.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional" tvg-logo="" group-title="Spanish",Nuestra Tele Internacional
 http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional" tvg-logo="" group-title="Spanish",Nuestra Tele Internacional
-http://190.60.55.141:9083/play/a0hg/index.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional" tvg-logo="" group-title="Spanish",Nuestra Tele Internacional
 http://45.173.231.22:8000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional" tvg-logo="" group-title="Spanish",Nuestra Tele Internacional
@@ -4181,8 +4165,6 @@ http://200.91.32.158:8080/telefehdvalle/index.m3u8
 http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-logo="" group-title="Spanish",Telefe Internacional
 http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-logo="" group-title="Spanish",Telefe Internacional
-http://190.60.55.141:9083/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-logo="" group-title="Spanish",Telefe Rosario
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 tvg-id="TelefeSalta.ar" tvg-name="Telefe Salta" tvg-logo="" group-title="Spanish",Telefe Salta
@@ -4205,8 +4187,6 @@ https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 http://200.115.120.1:8000/play/ca048/index.m3u8
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" tvg-logo="" group-title="Spanish",TeleHit
 http://190.61.47.54:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" tvg-logo="" group-title="Spanish",Telehit Musica
-http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" tvg-logo="" group-title="Spanish",Telehit Musica
 http://190.61.55.34:2401/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="Teleimpacto.do" tvg-name="Teleimpacto" tvg-logo="" group-title="Spanish",Teleimpacto
