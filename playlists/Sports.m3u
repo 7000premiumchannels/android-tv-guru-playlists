@@ -220,13 +220,9 @@ https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-45
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us" tvg-name="DraftKings Network" tvg-logo="" group-title="Sports & Highlights",DraftKings Network
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
 #EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" tvg-logo="" group-title="Sports & Highlights",DSports
-http://138.121.113.175:8000/play/a0cj/index.m3u8
-#EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" tvg-logo="" group-title="Sports & Highlights",DSports
 http://15.204.146.163:8002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" tvg-logo="" group-title="Sports & Highlights",DSports
 http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" tvg-logo="" group-title="Sports & Highlights",DSports 2
-http://138.121.113.175:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" tvg-logo="" group-title="Sports & Highlights",DSports 2
 http://187.102.208.209:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua" tvg-name="Dynamo Kyiv TV" tvg-logo="" group-title="Sports & Highlights",Dynamo Kyiv TV
@@ -303,6 +299,8 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" tvg-logo="" group-title="Sports & Highlights",ESPN Latin America
 http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" tvg-logo="" group-title="Sports & Highlights",ESPN Latin America
+http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" tvg-logo="" group-title="Sports & Highlights",ESPN Latin America
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="ESPN8: The Ocho" tvg-logo="" group-title="Sports & Highlights",ESPN8: The Ocho

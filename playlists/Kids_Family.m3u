@@ -91,6 +91,8 @@ http://138.121.15.230:9002/BABY-TV/index.m3u8
 http://181.78.12.119:16123/play/ch01/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="" group-title="Kids & Family",BabyTV
 http://38.44.109.41:8003/play/a0eh
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="" group-title="Kids & Family",BabyTV
+https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-name="Balapan" tvg-logo="" group-title="Kids & Family",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-name="Balapan" tvg-logo="" group-title="Kids & Family",Balapan
@@ -392,11 +394,7 @@ http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" tvg-logo="" group-title="Kids & Family",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="" group-title="Kids & Family",France 4
-http://41.205.93.154/OKOO/index.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="" group-title="Kids & Family",France 4
-https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="" group-title="Kids & Family",France 4
-http://176.65.146.100:8047/play/a074/index.m3u8
+http://149.62.177.107:9999/France_4/index.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="" group-title="Kids & Family",Garfield and Friends
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="" group-title="Kids & Family",Garfield and Friends

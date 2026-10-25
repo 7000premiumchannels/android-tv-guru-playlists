@@ -271,6 +271,8 @@ https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 #EXTINF:-1 tvg-id="ElwataniaTV.dz" tvg-name="Elwatania TV" tvg-logo="" group-title="African & Caribbean",Elwatania TV
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+#EXTINF:-1 tvg-id="ElyssaTV.tn" tvg-name="Elyssa TV" tvg-logo="" group-title="African & Caribbean",Elyssa TV
+https://tv.elyssatv.com/live/master.m3u8
 #EXTINF:-1 tvg-id="EnergiaTV.bq" tvg-name="Energia TV" tvg-logo="" group-title="African & Caribbean",Energia TV
 https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
 #EXTINF:-1 tvg-id="ERiTV1.er" tvg-name="ERi-TV 1" tvg-logo="" group-title="African & Caribbean",ERi-TV 1
@@ -969,6 +971,8 @@ https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-id="WKAQTV22.pr" tvg-name="WKAQ-TV 2.2" tvg-logo="" group-title="African & Caribbean",WKAQ-TV 2.2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8
+#EXTINF:-1 tvg-id="WKAQTV22.pr" tvg-name="WKAQ-TV 2.2" tvg-logo="" group-title="African & Caribbean",WKAQ-TV 2.2
+http://38.107.110.140:61400/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="WXWZLD231.pr" tvg-name="WXWZ-LD 23.1" tvg-logo="" group-title="African & Caribbean",WXWZ-LD 23.1
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" tvg-logo="" group-title="African & Caribbean",X 102.7 FM

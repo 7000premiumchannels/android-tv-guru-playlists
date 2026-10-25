@@ -514,8 +514,6 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="US News & Weather",BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="US News & Weather",BBC News
-https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="US News & Weather",BBC News
 http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="US News & Weather",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
@@ -1551,8 +1549,6 @@ https://cc-lyf4c0hwzg5dd.akamaized.net/v1/vglive-sk-479089/main.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaVoice.in" tvg-name="India Voice" tvg-logo="" group-title="US News & Weather",India Voice
 https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="" group-title="US News & Weather",iNews
-https://mncmedia.malingtv.workers.dev/inews.m3u8
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" tvg-logo="" group-title="US News & Weather",INews
 https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" tvg-logo="" group-title="US News & Weather",INews
@@ -1739,6 +1735,8 @@ https://mumt01.tangotv.in/O5aw8Zn3LIVETIMES/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="US News & Weather",LiveNOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="US News & Weather",LiveNOW from FOX
+https://vid.hls.protv.ro/liveibu5/liveibu5_highw/index.m3u8?1
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="US News & Weather",LiveNOW from FOX
 https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="US News & Weather",LiveNOW from FOX
