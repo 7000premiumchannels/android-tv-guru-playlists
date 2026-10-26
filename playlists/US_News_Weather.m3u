@@ -62,7 +62,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="99TV.in" tvg-name="99TV" tvg-logo="" group-title="US News & Weather",99TV
 https://cdn.pishow.tv/ott/live/1211/master.m3u8
 #EXTINF:-1 tvg-id="24.sk" tvg-name=":24" tvg-logo="" group-title="US News & Weather",:24
-http://88.212.15.17/live/test_trojka_25p/playlist.m3u8
+http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="" group-title="US News & Weather",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN" tvg-logo="" group-title="US News & Weather",A2 CNN
@@ -942,7 +942,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="" group-title="US News & Weather",CNN Indonesia
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
-http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
+http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
@@ -958,7 +958,7 @@ https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="US News & Weather",CNN Portugal
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" tvg-logo="" group-title="US News & Weather",CNN Prima News
-http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
+http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="CorfuChannel.gr" tvg-name="Corfu Channel" tvg-logo="" group-title="US News & Weather",Corfu Channel
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="CP24.ca" tvg-name="CP24" tvg-logo="" group-title="US News & Weather",CP24
@@ -968,7 +968,7 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" tvg-logo="" group-title="US News & Weather",Crimea 24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" tvg-logo="" group-title="US News & Weather",CT24
-http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8
+http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" tvg-logo="" group-title="US News & Weather",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSNews.tw" tvg-name="CTS News" tvg-logo="" group-title="US News & Weather",CTS News
@@ -1707,6 +1707,8 @@ http://103.250.28.74:8000/play/a01q/index.m3u8
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="" group-title="US News & Weather",LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="" group-title="US News & Weather",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" tvg-logo="" group-title="US News & Weather",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="Legendarnyy24.ru" tvg-name="Legendarnyy 24" tvg-logo="" group-title="US News & Weather",Legendarnyy 24
@@ -1758,7 +1760,7 @@ https://cdn.rabta.stream/M-News/index.m3u8
 #EXTINF:-1 tvg-id="MNetInfo.mk" tvg-name="M-Net Info" tvg-logo="" group-title="US News & Weather",M-Net Info
 https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" tvg-logo="" group-title="US News & Weather",M1
-http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="MaanTV.ps" tvg-name="Ma'an TV" tvg-logo="" group-title="US News & Weather",Ma'an TV
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" tvg-logo="" group-title="US News & Weather",Madhimugam TV
