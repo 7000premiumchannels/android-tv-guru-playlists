@@ -6759,6 +6759,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" tvg-logo="" group-title="Kids & Family",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.ru" tvg-name="Cartoon Classics" tvg-logo="" group-title="Kids & Family",Cartoon Classics
+http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids & Family",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids & Family",Cartoon Network
@@ -8037,6 +8039,8 @@ https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+" tvg-logo="" group-title="Sports & Highlights",CCTV-5+
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+" tvg-logo="" group-title="Sports & Highlights",CCTV-5+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTVBilliards.cn" tvg-name="CCTV-Billiards" tvg-logo="" group-title="Sports & Highlights",CCTV-Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVGolfTennis.cn" tvg-name="CCTV-Golf & Tennis" tvg-logo="" group-title="Sports & Highlights",CCTV-Golf & Tennis
@@ -31821,8 +31825,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-id="SCTV4.vn" tvg-name="SCTV4" tvg-logo="" group-title="Other International - VN",SCTV4
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-#EXTINF:-1 tvg-id="SCTV4K.vn" tvg-name="SCTV4K" tvg-logo="" group-title="Other International - VN",SCTV4K
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 tvg-id="SCTV6.vn" tvg-name="SCTV6" tvg-logo="" group-title="Other International - VN",SCTV6
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 #EXTINF:-1 tvg-id="SCTV7.vn" tvg-name="SCTV7" tvg-logo="" group-title="Other International - VN",SCTV7
