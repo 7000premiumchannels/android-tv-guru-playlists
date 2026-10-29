@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" tvg-logo="" group-title="US News & Weather",10 TV
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" tvg-logo="" group-title="US News & Weather",10 TV
+https://fta.ektv.in/live/686/master.m3u8
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" tvg-logo="" group-title="US News & Weather",10 TV
 https://cdn.pishow.tv/ott/live/391/master.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" tvg-logo="" group-title="US News & Weather",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
@@ -43,6 +45,8 @@ https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in" tvg-name="4 SiDES TV" tvg-logo="" group-title="US News & Weather",4 SiDES TV
 https://stream.ottlive.co.in/4sidestv/index.m3u8
+#EXTINF:-1 tvg-id="4TVNews.in" tvg-name="4TV News" tvg-logo="" group-title="US News & Weather",4TV News
+https://fta.ektv.in/live/647/master.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in" tvg-name="4TV News" tvg-logo="" group-title="US News & Weather",4TV News
 https://cdn.pishow.tv/ott/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" tvg-logo="" group-title="US News & Weather",6 TV Telugu
@@ -89,6 +93,8 @@ https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="" group-title="US News & Weather",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="" group-title="US News & Weather",Aaj Tak
+https://fta.ektv.in/live/87/87_0.m3u8
 #EXTINF:-1 tvg-id="AbanteTV.ph" tvg-name="Abante TV" tvg-logo="" group-title="US News & Weather",Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="AbbTakk.pk" tvg-name="Abb Takk" tvg-logo="" group-title="US News & Weather",Abb Takk
@@ -126,6 +132,8 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="" group-title="US News & Weather",ABN Andhra Jyoti
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="" group-title="US News & Weather",ABN Andhra Jyoti
+https://fta.ektv.in/live/687/master.m3u8
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="" group-title="US News & Weather",ABN Andhra Jyoti
 https://cdn.pishow.tv/ott/live/407/master.m3u8
 #EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" tvg-logo="" group-title="US News & Weather",ABN News
 http://115.42.65.142:9981/stream/channelid/966869781
@@ -133,16 +141,24 @@ http://115.42.65.142:9981/stream/channelid/966869781
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" tvg-logo="" group-title="US News & Weather",ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" tvg-logo="" group-title="US News & Weather",ABP Ananda
+https://fta.ektv.in/live/200/master.m3u8
 #EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-logo="" group-title="US News & Weather",ABP Asmita
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-logo="" group-title="US News & Weather",ABP Asmita
+https://fta.ektv.in/live/192/master.m3u8
 #EXTINF:-1 tvg-id="ABPGanga.in" tvg-name="ABP Ganga" tvg-logo="" group-title="US News & Weather",ABP Ganga
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="ABPGanga.in" tvg-name="ABP Ganga" tvg-logo="" group-title="US News & Weather",ABP Ganga
+https://fta.ektv.in/live/594/master.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" tvg-logo="" group-title="US News & Weather",ABP Majha
 https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" tvg-logo="" group-title="US News & Weather",ABP Majha
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" tvg-logo="" group-title="US News & Weather",ABP Majha
 https://cdn.pishow.tv/ott/live/471/master.m3u8
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" tvg-logo="" group-title="US News & Weather",ABP Majha
+https://fta.ektv.in/live/418/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" tvg-logo="" group-title="US News & Weather",ABP News
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" tvg-logo="" group-title="US News & Weather",ABP News
@@ -153,6 +169,10 @@ https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
 https://mumbai-edge.smartplaytv.in/ABPNews/index.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" tvg-logo="" group-title="US News & Weather",ABP News
 https://cdn.pishow.tv/ott/live/1057/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" tvg-logo="" group-title="US News & Weather",ABP News
+https://fta.ektv.in/live/595/master.m3u8
+#EXTINF:-1 tvg-id="ABPSanjha.in" tvg-name="ABP Sanjha" tvg-logo="" group-title="US News & Weather",ABP Sanjha
+https://fta.ektv.in/live/641/master.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" tvg-logo="" group-title="US News & Weather",AccuWeather NOW
 http://23.239.31.26:8989/accuweather/index.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" tvg-logo="" group-title="US News & Weather",AccuWeather NOW
@@ -266,6 +286,8 @@ https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="" group-title="US News & Weather",Al Jazeera
 http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="" group-title="US News & Weather",Al Jazeera
+https://fta.ektv.in/live/318/master.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="" group-title="US News & Weather",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="" group-title="US News & Weather",Al Jazeera
 https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
@@ -353,6 +375,8 @@ https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 #EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" tvg-logo="" group-title="US News & Weather",ANB News
 https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" tvg-logo="" group-title="US News & Weather",ANB News
+https://fta.ektv.in/live/101/101_0.m3u8
 #EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" tvg-logo="" group-title="US News & Weather",AnewZ TV
 https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnshunComprehensiveNewsChannel.cn" tvg-name="Anshun Comprehensive News Channel" tvg-logo="" group-title="US News & Weather",Anshun Comprehensive News Channel
@@ -361,6 +385,8 @@ https://hplayer1.juyun.tv/camera/154379194.m3u8
 https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" tvg-logo="" group-title="US News & Weather",Antena 3 CNN
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" tvg-logo="" group-title="US News & Weather",Antena 3 Constanta
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 #EXTINF:-1 tvg-id="AntikInfoTV.sk" tvg-name="Antik Info TV" tvg-logo="" group-title="US News & Weather",Antik Info TV
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="AnwarTV2.iq" tvg-name="Anwar TV2" tvg-logo="" group-title="US News & Weather",Anwar TV2
@@ -371,6 +397,8 @@ http://stream.apa.tv/apastream/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
 #EXTINF:-1 tvg-id="APN.in" tvg-name="APN" tvg-logo="" group-title="US News & Weather",APN
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
+#EXTINF:-1 tvg-id="APN.in" tvg-name="APN" tvg-logo="" group-title="US News & Weather",APN
+https://fta.ektv.in/live/593/master.m3u8
 #EXTINF:-1 tvg-id="ApostropheTV.ua" tvg-name="Apostrophe TV" tvg-logo="" group-title="US News & Weather",Apostrophe TV
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-id="AratuOn.br" tvg-name="Aratu On" tvg-logo="" group-title="US News & Weather",Aratu On
@@ -429,6 +457,8 @@ https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in" tvg-name="Asian News" tvg-logo="" group-title="US News & Weather",Asian News
 https://stream.ottlive.co.in/asiannews/index.m3u8
+#EXTINF:-1 tvg-id="AsianNews.in" tvg-name="Asian News" tvg-logo="" group-title="US News & Weather",Asian News
+https://fta.ektv.in/live/449/master.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-logo="" group-title="US News & Weather",Asianet News
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-logo="" group-title="US News & Weather",Asianet News
@@ -439,8 +469,12 @@ https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
 https://streams.tangotv.in/ASIANETNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-logo="" group-title="US News & Weather",Asianet News
 https://cdn.pishow.tv/ott/live/1297/master.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-logo="" group-title="US News & Weather",Asianet News
+https://fta.ektv.in/live/699/master.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" tvg-logo="" group-title="US News & Weather",Asianet Suvarna News
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" tvg-logo="" group-title="US News & Weather",Asianet Suvarna News
+https://fta.ektv.in/live/692/master.m3u8
 #EXTINF:-1 tvg-id="AsomLive24.in" tvg-name="Asom Live 24" tvg-logo="" group-title="US News & Weather",Asom Live 24
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-logo="" group-title="US News & Weather",Assam Talks
@@ -449,6 +483,8 @@ http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-logo="" group-title="US News & Weather",Assam Talks
 https://cdn.pishow.tv/ott/live/258/master.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-logo="" group-title="US News & Weather",Assam Talks
+https://fta.ektv.in/live/675/master.m3u8
 #EXTINF:-1 tvg-id="AstraTV.gr" tvg-name="Astra TV" tvg-logo="" group-title="US News & Weather",Astra TV
 https://server.gointernet.gr/live/livestream.m3u8
 #EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Astrahan 24" tvg-logo="" group-title="US News & Weather",Astrahan 24
@@ -613,6 +649,8 @@ https://stream1.livebox.co.in/VCAREhls/live.m3u8
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" tvg-logo="" group-title="US News & Weather",Bharat Express
 https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" tvg-logo="" group-title="US News & Weather",Bharat Express
+https://fta.ektv.in/live/736/master.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" tvg-logo="" group-title="US News & Weather",Bharat Samachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" tvg-logo="" group-title="US News & Weather",Bharat Samachar
@@ -621,6 +659,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
 https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" tvg-logo="" group-title="US News & Weather",Bharat Samachar
 https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
+#EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" tvg-logo="" group-title="US News & Weather",Bharat Samachar
+https://fta.ektv.in/live/97/97_0.m3u8
 #EXTINF:-1 tvg-id="BharatUpdate.in" tvg-name="Bharat Update" tvg-logo="" group-title="US News & Weather",Bharat Update
 https://cdn.pishow.tv/ott/live/339/master.m3u8
 #EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" tvg-logo="" group-title="US News & Weather",Bharat24
@@ -629,6 +669,8 @@ https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
 https://cdn.ottlive.co.in/bharat24/index.m3u8
 #EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" tvg-logo="" group-title="US News & Weather",Bharat24
 https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8
+#EXTINF:-1 tvg-id="Bharat24.in" tvg-name="Bharat24" tvg-logo="" group-title="US News & Weather",Bharat24
+https://fta.ektv.in/live/104/104_0.m3u8
 #EXTINF:-1 tvg-id="BHIChannel.in" tvg-name="BHI Channel" tvg-logo="" group-title="US News & Weather",BHI Channel
 https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" tvg-logo="" group-title="US News & Weather",BIG TV
@@ -885,6 +927,8 @@ https://cdn.pishow.tv/ott/live/1627/master.m3u8
 https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" tvg-logo="" group-title="US News & Weather",Chardikla Time TV
 https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" tvg-logo="" group-title="US News & Weather",Chardikla Time TV
+https://fta.ektv.in/live/645/master.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in" tvg-name="Chardikla Time TV North America" tvg-logo="" group-title="US News & Weather",Chardikla Time TV North America
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="" group-title="US News & Weather",Cheddar News
@@ -1004,6 +1048,8 @@ https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" tvg-logo="" group-title="US News & Weather",CVR English
 https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" tvg-logo="" group-title="US News & Weather",CVR English
+https://fta.ektv.in/live/701/master.m3u8
+#EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" tvg-logo="" group-title="US News & Weather",CVR English
 https://cdn.pishow.tv/ott/live/425/master.m3u8
 #EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR News" tvg-logo="" group-title="US News & Weather",CVR News
 https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
@@ -1016,7 +1062,11 @@ https://streams.tangotv.in/DAILYPOST/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News" tvg-logo="" group-title="US News & Weather",DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" tvg-logo="" group-title="US News & Weather",DD Mizoram
+https://fta.ektv.in/live/381/master.m3u8
+#EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" tvg-logo="" group-title="US News & Weather",DD Mizoram
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-logo="" group-title="US News & Weather",DD News
+https://fta.ektv.in/live/117/117_0.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-logo="" group-title="US News & Weather",DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-logo="" group-title="US News & Weather",DD News
@@ -1037,6 +1087,8 @@ https://ghaasiflu.online/Dijlah/index.m3u8
 http://38.19.16.151:8000/play/a0a3
 #EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" tvg-logo="" group-title="US News & Weather",DNN
 https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" tvg-logo="" group-title="US News & Weather",DNN
+https://fta.ektv.in/live/592/master.m3u8
 #EXTINF:-1 tvg-id="Don24.ru" tvg-name="Don 24" tvg-logo="" group-title="US News & Weather",Don 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="DonbassOnline.ua" tvg-name="Donbass Online" tvg-logo="" group-title="US News & Weather",Donbass Online
@@ -1083,6 +1135,8 @@ https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="" group-title="US News & Weather",DW
 https://freem3u.xyz/api/live/play.m3u8?vid=109
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="" group-title="US News & Weather",DW
+https://fta.ektv.in/live/116/116_0.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="" group-title="US News & Weather",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="" group-title="US News & Weather",DW
@@ -1261,6 +1315,8 @@ https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="FirstIndiaNews.in" tvg-name="First India News" tvg-logo="" group-title="US News & Weather",First India News
 https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="FirstIndiaNews.in" tvg-name="First India News" tvg-logo="" group-title="US News & Weather",First India News
+https://fta.ektv.in/live/596/master.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" tvg-logo="" group-title="US News & Weather",Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Formula.ge" tvg-name="Formula" tvg-logo="" group-title="US News & Weather",Formula
@@ -1427,6 +1483,8 @@ http://170.82.202.31/GNT/index.m3u8
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-name="Good News Today" tvg-logo="" group-title="US News & Weather",Good News Today
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-name="Good News Today" tvg-logo="" group-title="US News & Weather",Good News Today
+https://fta.ektv.in/live/89/89_0.m3u8
 #EXTINF:-1 tvg-id="GovoritMoskva.ru" tvg-name="Govorit Moskva" tvg-logo="" group-title="US News & Weather",Govorit Moskva
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-id="GSTV.in" tvg-name="GS TV" tvg-logo="" group-title="US News & Weather",GS TV
@@ -1449,6 +1507,10 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
 #EXTINF:-1 tvg-id="GujaratFirst.in" tvg-name="Gujarat First" tvg-logo="" group-title="US News & Weather",Gujarat First
 https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="GujaratFirst.in" tvg-name="Gujarat First" tvg-logo="" group-title="US News & Weather",Gujarat First
+https://fta.ektv.in/live/655/master.m3u8
+#EXTINF:-1 tvg-id="GulistanNews.in" tvg-name="Gulistan News" tvg-logo="" group-title="US News & Weather",Gulistan News
+https://fta.ektv.in/live/427/master.m3u8
 #EXTINF:-1 tvg-id="GuneydoguTV.tr" tvg-name="Guneydogu TV" tvg-logo="" group-title="US News & Weather",Guneydogu TV
 https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="" group-title="US News & Weather",Haber Global
@@ -1484,6 +1546,8 @@ https://stream.ottlive.co.in/hindikhabar/index.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name="Hindi Khabar" tvg-logo="" group-title="US News & Weather",Hindi Khabar
 https://tvsen7.aynaott.com/HindiKhabar/index.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name="Hindi Khabar" tvg-logo="" group-title="US News & Weather",Hindi Khabar
+https://fta.ektv.in/live/96/96_0.m3u8
+#EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name="Hindi Khabar" tvg-logo="" group-title="US News & Weather",Hindi Khabar
 https://cdn.pishow.tv/ott/live/1041/master.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="Hispan TV" tvg-logo="" group-title="US News & Weather",Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
@@ -1507,6 +1571,8 @@ https://di1slo8304ver.cloudfront.net/playlist.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" tvg-logo="" group-title="US News & Weather",Hornbill TV
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
+#EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" tvg-logo="" group-title="US News & Weather",Hornbill TV
+https://fta.ektv.in/live/710/master.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" tvg-logo="" group-title="US News & Weather",Hornbill TV
 https://cdn.pishow.tv/ott/live/1463/master.m3u8
 #EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="" group-title="US News & Weather",HRT 4
@@ -1543,12 +1609,16 @@ https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8
 #EXTINF:-1 tvg-id="IBC24.in" tvg-name="IBC 24" tvg-logo="" group-title="US News & Weather",IBC 24
 https://ott-prasar.ibc24.in/livestream.m3u8
+#EXTINF:-1 tvg-id="IBC24.in" tvg-name="IBC 24" tvg-logo="" group-title="US News & Weather",IBC 24
+https://fta.ektv.in/live/309/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-name="Ici RDI" tvg-logo="" group-title="US News & Weather",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" tvg-logo="" group-title="US News & Weather",Ind 24
 https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
 #EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" tvg-logo="" group-title="US News & Weather",Ind 24
 https://livestream.jswk.online/ind24/live/index.m3u8
+#EXTINF:-1 tvg-id="Ind24.in" tvg-name="Ind 24" tvg-logo="" group-title="US News & Weather",Ind 24
+https://fta.ektv.in/live/98/98_0.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in" tvg-name="India Ahead" tvg-logo="" group-title="US News & Weather",India Ahead
 https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in" tvg-name="India Ahead" tvg-logo="" group-title="US News & Weather",India Ahead
@@ -1561,8 +1631,22 @@ https://cdn.ottlive.co.in/indiadailylive/index.m3u8
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-name="India News" tvg-logo="" group-title="US News & Weather",India News
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="IndiaNews.in" tvg-name="India News" tvg-logo="" group-title="US News & Weather",India News
+https://fta.ektv.in/live/297/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsGujarati.in" tvg-name="India News Gujarati" tvg-logo="" group-title="US News & Weather",India News Gujarati
+https://fta.ektv.in/live/653/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsHaryana.in" tvg-name="India News Haryana" tvg-logo="" group-title="US News & Weather",India News Haryana
+https://fta.ektv.in/live/590/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in" tvg-name="India News Madhya Pradesh/Chhattisgarh" tvg-logo="" group-title="US News & Weather",India News Madhya Pradesh/Chhattisgarh
+https://fta.ektv.in/live/600/master.m3u8
 #EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in" tvg-name="India News Punjab/Himachal" tvg-logo="" group-title="US News & Weather",India News Punjab/Himachal
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in" tvg-name="India News Punjab/Himachal" tvg-logo="" group-title="US News & Weather",India News Punjab/Himachal
+https://fta.ektv.in/live/642/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsRajasthan.in" tvg-name="India News Rajasthan" tvg-logo="" group-title="US News & Weather",India News Rajasthan
+https://fta.ektv.in/live/601/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in" tvg-name="India News Uttar Pradesh" tvg-logo="" group-title="US News & Weather",India News Uttar Pradesh
+https://fta.ektv.in/live/304/master.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-logo="" group-title="US News & Weather",India Today
 https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-logo="" group-title="US News & Weather",India Today
@@ -1577,6 +1661,8 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" tvg-logo="" group-title="US News & Weather",India TV
 https://cdn.pishow.tv/ott/live/1043/master.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" tvg-logo="" group-title="US News & Weather",India TV
+https://fta.ektv.in/live/586/master.m3u8
 #EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-name="India TV Aap Ki Adalat" tvg-logo="" group-title="US News & Weather",India TV Aap Ki Adalat
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaTVSpeedNews.in" tvg-name="India TV Speed News" tvg-logo="" group-title="US News & Weather",India TV Speed News
@@ -1587,6 +1673,8 @@ https://cc-lyf4c0hwzg5dd.akamaized.net/v1/vglive-sk-479089/main.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaVoice.in" tvg-name="India Voice" tvg-logo="" group-title="US News & Weather",India Voice
 https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
+#EXTINF:-1 tvg-id="IndiaVoice.in" tvg-name="India Voice" tvg-logo="" group-title="US News & Weather",India Voice
+https://fta.ektv.in/live/94/94_0.m3u8
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" tvg-logo="" group-title="US News & Weather",INews
 https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="INews.in" tvg-name="INews" tvg-logo="" group-title="US News & Weather",INews
@@ -1603,6 +1691,8 @@ https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in" tvg-name="INH 24x7" tvg-logo="" group-title="US News & Weather",INH 24x7
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="INH24x7.in" tvg-name="INH 24x7" tvg-logo="" group-title="US News & Weather",INH 24x7
+https://fta.ektv.in/live/99/99_0.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="Iran International" tvg-logo="" group-title="US News & Weather",Iran International
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="Iran International" tvg-logo="" group-title="US News & Weather",Iran International
@@ -1635,6 +1725,8 @@ https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JantaTV.in" tvg-name="Janta TV" tvg-logo="" group-title="US News & Weather",Janta TV
 https://live.jswk.online/IK_RTPM/live/index.m3u8
+#EXTINF:-1 tvg-id="JantaTV.in" tvg-name="Janta TV" tvg-logo="" group-title="US News & Weather",Janta TV
+https://fta.ektv.in/live/106/106_0.m3u8
 #EXTINF:-1 tvg-id="JantantraTV.in" tvg-name="Jantantra TV" tvg-logo="" group-title="US News & Weather",Jantantra TV
 https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8
 #EXTINF:-1 tvg-id="JantantraTV.in" tvg-name="Jantantra TV" tvg-logo="" group-title="US News & Weather",Jantantra TV
@@ -1655,6 +1747,8 @@ https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8
 #EXTINF:-1 tvg-id="KNewsIndia.in" tvg-name="K News India" tvg-logo="" group-title="US News & Weather",K News India
 https://legitpro.co.in/knews/index.m3u8
+#EXTINF:-1 tvg-id="KNewsIndia.in" tvg-name="K News India" tvg-logo="" group-title="US News & Weather",K News India
+https://fta.ektv.in/live/100/100_0.m3u8
 #EXTINF:-1 tvg-id="Kadak.in" tvg-name="Kadak" tvg-logo="" group-title="US News & Weather",Kadak
 https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" tvg-logo="" group-title="US News & Weather",Kairali News
@@ -1673,8 +1767,12 @@ https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
 https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" tvg-logo="" group-title="US News & Weather",Kalinga TV
 https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" tvg-logo="" group-title="US News & Weather",Kalinga TV
+https://fta.ektv.in/live/386/master.m3u8
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" tvg-logo="" group-title="US News & Weather",Kanak News
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+#EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" tvg-logo="" group-title="US News & Weather",Kanak News
+https://fta.ektv.in/live/669/master.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az" tvg-name="Kapaz TV" tvg-logo="" group-title="US News & Weather",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" tvg-logo="" group-title="US News & Weather",Kashish News
@@ -1683,6 +1781,8 @@ https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" tvg-logo="" group-title="US News & Weather",Kashish News
 https://cdn.pishow.tv/ott/live/1471/master.m3u8
+#EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" tvg-logo="" group-title="US News & Weather",Kashish News
+https://fta.ektv.in/live/597/master.m3u8
 #EXTINF:-1 tvg-id="KBCNews.in" tvg-name="KBC News" tvg-logo="" group-title="US News & Weather",KBC News
 https://stream.ottlive.co.in/kbcnews/index.m3u8
 #EXTINF:-1 tvg-id="KBPTimes.in" tvg-name="KBP Times" tvg-logo="" group-title="US News & Weather",KBP Times
@@ -1691,10 +1791,14 @@ https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8
 https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
 #EXTINF:-1 tvg-id="KhabarFast.in" tvg-name="Khabar Fast" tvg-logo="" group-title="US News & Weather",Khabar Fast
 https://samitaorigin.tangotv.in/KHABARFAST/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="KhabarFast.in" tvg-name="Khabar Fast" tvg-logo="" group-title="US News & Weather",Khabar Fast
+https://fta.ektv.in/live/740/master.m3u8
 #EXTINF:-1 tvg-id="KhabrainAbhiTak.in" tvg-name="Khabrain Abhi Tak" tvg-logo="" group-title="US News & Weather",Khabrain Abhi Tak
 https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
 #EXTINF:-1 tvg-id="KhabrainAbhiTak.in" tvg-name="Khabrain Abhi Tak" tvg-logo="" group-title="US News & Weather",Khabrain Abhi Tak
 https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
+#EXTINF:-1 tvg-id="KhabrainAbhiTak.in" tvg-name="Khabrain Abhi Tak" tvg-logo="" group-title="US News & Weather",Khabrain Abhi Tak
+https://fta.ektv.in/live/308/master.m3u8
 #EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="Kohavision" tvg-logo="" group-title="US News & Weather",Kohavision
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="KohenoorNews.pk" tvg-name="Kohenoor News" tvg-logo="" group-title="US News & Weather",Kohenoor News
@@ -1812,6 +1916,8 @@ https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" tvg-logo="" group-title="US News & Weather",Madhimugam TV
 https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" tvg-logo="" group-title="US News & Weather",Madhimugam TV
+https://fta.ektv.in/live/711/master.m3u8
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" tvg-logo="" group-title="US News & Weather",Madhimugam TV
 https://cdn.pishow.tv/ott/live/1476/master.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" tvg-logo="" group-title="US News & Weather",Mahaa News
 https://cdn.pishow.tv/ott/live/401/master.m3u8
@@ -1821,6 +1927,8 @@ https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8
 https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" tvg-logo="" group-title="US News & Weather",Mahaa News
 https://yuppnimrestreammum.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" tvg-logo="" group-title="US News & Weather",Mahaa News
+https://fta.ektv.in/live/689/master.m3u8
 #EXTINF:-1 tvg-id="MahuaKhabar.in" tvg-name="Mahua Khabar" tvg-logo="" group-title="US News & Weather",Mahua Khabar
 https://cdn.ottlive.co.in/mahuakhabar/index.m3u8
 #EXTINF:-1 tvg-id="Makan33.il" tvg-name="Makan 33" tvg-logo="" group-title="US News & Weather",Makan 33
@@ -1831,6 +1939,8 @@ https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-a
 https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" tvg-logo="" group-title="US News & Weather",Malai Murasu TV
 https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" tvg-logo="" group-title="US News & Weather",Malai Murasu TV
+https://fta.ektv.in/live/690/master.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" tvg-logo="" group-title="US News & Weather",Malai Murasu TV
 https://cdn.pishow.tv/ott/live/1606/master.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" tvg-logo="" group-title="US News & Weather",Manorama News
@@ -1845,10 +1955,16 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" tvg-logo="" group-title="US News & Weather",Manorama News
 https://mmtvlive3.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign3/index.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" tvg-logo="" group-title="US News & Weather",Manorama News
+https://fta.ektv.in/live/55/55_0.m3u8
 #EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" tvg-logo="" group-title="US News & Weather",Mantavya News
 https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
 #EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" tvg-logo="" group-title="US News & Weather",Mantavya News
 https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
+#EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" tvg-logo="" group-title="US News & Weather",Mantavya News
+https://fta.ektv.in/live/656/master.m3u8
+#EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" tvg-logo="" group-title="US News & Weather",Mantavya News
+https://fta.ektv.in/live/657/master.m3u8
 #EXTINF:-1 tvg-id="MashriqTV.pk" tvg-name="Mashriq TV" tvg-logo="" group-title="US News & Weather",Mashriq TV
 http://103.250.28.74:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="MashriqTV.pk" tvg-name="Mashriq TV" tvg-logo="" group-title="US News & Weather",Mashriq TV
@@ -1883,6 +1999,8 @@ https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
 https://livestream.jswk.online/mhonenews/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" tvg-logo="" group-title="US News & Weather",Mh 1 News
 https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
+#EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" tvg-logo="" group-title="US News & Weather",Mh 1 News
+https://fta.ektv.in/live/643/master.m3u8
 #EXTINF:-1 tvg-id="MihanTV.ir" tvg-name="Mihan TV" tvg-logo="" group-title="US News & Weather",Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Millet.ru" tvg-name="Millet" tvg-logo="" group-title="US News & Weather",Millet
@@ -1957,6 +2075,8 @@ https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #EXTINF:-1 tvg-id="NationalIranianCongressTV.us" tvg-name="National Iranian Congress TV" tvg-logo="" group-title="US News & Weather",National Iranian Congress TV
 https://tv.iraniancongress.com/stream/tv.m3u8
+#EXTINF:-1 tvg-id="NaxatraNews.in" tvg-name="Naxatra News" tvg-logo="" group-title="US News & Weather",Naxatra News
+https://fta.ektv.in/live/668/master.m3u8
 #EXTINF:-1 tvg-id="NaxatraNewsHindi.in" tvg-name="Naxatra News Hindi" tvg-logo="" group-title="US News & Weather",Naxatra News Hindi
 https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="" group-title="US News & Weather",NBC News NOW
@@ -1975,6 +2095,8 @@ https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/maste
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-logo="" group-title="US News & Weather",NDTV
 https://cdn.pishow.tv/ott/live/315/master.m3u8
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-logo="" group-title="US News & Weather",NDTV
+https://fta.ektv.in/live/107/107_0.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" tvg-logo="" group-title="US News & Weather",NDTV 24x7
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" tvg-logo="" group-title="US News & Weather",NDTV 24x7
@@ -2007,6 +2129,8 @@ https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46b5543f-e66f-40c7-a687-1ce4e7ecb4f4/main.m3u8
 #EXTINF:-1 tvg-id="NENews.in" tvg-name="NE News" tvg-logo="" group-title="US News & Weather",NE News
 https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
+#EXTINF:-1 tvg-id="NENews.in" tvg-name="NE News" tvg-logo="" group-title="US News & Weather",NE News
+https://fta.ektv.in/live/681/master.m3u8
 #EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" tvg-logo="" group-title="US News & Weather",Neo News
 http://103.250.28.74:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" tvg-logo="" group-title="US News & Weather",Neo News
@@ -2017,10 +2141,14 @@ https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
 #EXTINF:-1 tvg-id="News1India.in" tvg-name="News 1 India" tvg-logo="" group-title="US News & Weather",News 1 India
 https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
+#EXTINF:-1 tvg-id="News1India.in" tvg-name="News 1 India" tvg-logo="" group-title="US News & Weather",News 1 India
+https://fta.ektv.in/live/102/102_0.m3u8
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" tvg-logo="" group-title="US News & Weather",News 1st
 https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" tvg-logo="" group-title="US News & Weather",News 1st
 https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
+#EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" tvg-logo="" group-title="US News & Weather",News 1st
+https://fta.ektv.in/live/691/master.m3u8
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" tvg-logo="" group-title="US News & Weather",News 1st
 https://cdn.pishow.tv/ott/live/268/master.m3u8
 #EXTINF:-1 tvg-id="News21BanglaTV.bd" tvg-name="News 21 Bangla TV" tvg-logo="" group-title="US News & Weather",News 21 Bangla TV
@@ -2041,8 +2169,12 @@ https://tvsen5.aynaott.com/News24/index.m3u8
 https://streams.tangotv.in/NEWS24/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" tvg-logo="" group-title="US News & Weather",News 24
 https://cdn.pishow.tv/ott/live/253/master.m3u8
+#EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" tvg-logo="" group-title="US News & Weather",News 24
+https://fta.ektv.in/live/95/95_0.m3u8
 #EXTINF:-1 tvg-id="News24MPChhattisgarh.in" tvg-name="News 24 MP & Chhattisgarh" tvg-logo="" group-title="US News & Weather",News 24 MP & Chhattisgarh
 https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8
+#EXTINF:-1 tvg-id="News24MPChhattisgarh.in" tvg-name="News 24 MP & Chhattisgarh" tvg-logo="" group-title="US News & Weather",News 24 MP & Chhattisgarh
+https://fta.ektv.in/live/303/master.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" tvg-logo="" group-title="US News & Weather",News 7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" tvg-logo="" group-title="US News & Weather",News 7 Tamil
@@ -2056,6 +2188,8 @@ https://newscapital.com/hls/main4/stream.m3u8
 #EXTINF:-1 tvg-id="NewsDaily24.in" tvg-name="News Daily 24" tvg-logo="" group-title="US News & Weather",News Daily 24
 https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8
 #EXTINF:-1 tvg-id="NewsDaily24.in" tvg-name="News Daily 24" tvg-logo="" group-title="US News & Weather",News Daily 24
+https://fta.ektv.in/live/316/master.m3u8
+#EXTINF:-1 tvg-id="NewsDaily24.in" tvg-name="News Daily 24" tvg-logo="" group-title="US News & Weather",News Daily 24
 https://cdn.pishow.tv/ott/live/10009/master.m3u8
 #EXTINF:-1 tvg-id="NewsHour.in" tvg-name="News Hour" tvg-logo="" group-title="US News & Weather",News Hour
 https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8
@@ -2063,6 +2197,8 @@ https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8
 https://cdn.pishow.tv/ott/live/273/master.m3u8
 #EXTINF:-1 tvg-id="NewsIndia24x7.in" tvg-name="News India 24x7" tvg-logo="" group-title="US News & Weather",News India 24x7
 https://samitaorigin.tangotv.in/NEWSINDIA24X7/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NewsIndia24x7.in" tvg-name="News India 24x7" tvg-logo="" group-title="US News & Weather",News India 24x7
+https://fta.ektv.in/live/453/master.m3u8
 #EXTINF:-1 tvg-id="NewsJ.in" tvg-name="News J" tvg-logo="" group-title="US News & Weather",News J
 https://cdn.pishow.tv/ott/live/1279/master.m3u8
 #EXTINF:-1 tvg-id="NewsLeader.in" tvg-name="News Leader" tvg-logo="" group-title="US News & Weather",News Leader
@@ -2095,6 +2231,8 @@ https://nn-nextg.originein.in/nntv/national/master_nnna_nextg.m3u8
 https://janya-newsnation.vgcdn.net/ptnr-yupptv/title-NewsNation/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22ee70b6-57e0-4e80-8e18-4737adf55e8a/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsNation.in" tvg-name="News Nation" tvg-logo="" group-title="US News & Weather",News Nation
 https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.in" tvg-name="News Nation" tvg-logo="" group-title="US News & Weather",News Nation
+https://fta.ektv.in/live/93/93_0.m3u8
 #EXTINF:-1 tvg-id="NewsNation81.in" tvg-name="News Nation 81" tvg-logo="" group-title="US News & Weather",News Nation 81
 https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us" tvg-name="News of the World" tvg-logo="" group-title="US News & Weather",News of the World
@@ -2113,10 +2251,16 @@ http://103.250.28.74:8000/play/a04j/index.m3u8
 https://jmp2.uk/stvp-IN4000012ML
 #EXTINF:-1 tvg-id="NewsStateMPCHG.in" tvg-name="News State MP & CHG" tvg-logo="" group-title="US News & Weather",News State MP & CHG
 https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8
+#EXTINF:-1 tvg-id="NewsStateMPCHG.in" tvg-name="News State MP & CHG" tvg-logo="" group-title="US News & Weather",News State MP & CHG
+https://fta.ektv.in/live/305/master.m3u8
 #EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" tvg-logo="" group-title="US News & Weather",News State Punjab Haryana Himachal
 https://jmp2.uk/stvp-IN300083R1
+#EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" tvg-logo="" group-title="US News & Weather",News State Punjab Haryana Himachal
+https://fta.ektv.in/live/732/master.m3u8
 #EXTINF:-1 tvg-id="NewsStateUPUK.in" tvg-name="News State UP & UK" tvg-logo="" group-title="US News & Weather",News State UP & UK
 https://jmp2.uk/stvp-IN3000846P
+#EXTINF:-1 tvg-id="NewsStateUPUK.in" tvg-name="News State UP & UK" tvg-logo="" group-title="US News & Weather",News State UP & UK
+https://fta.ektv.in/live/302/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" tvg-logo="" group-title="US News & Weather",News Tamil 24x7
 https://cdn.pishow.tv/ott/live/1433/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" tvg-logo="" group-title="US News & Weather",News Tamil 24x7
@@ -2255,10 +2399,14 @@ https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
 #EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" tvg-logo="" group-title="US News & Weather",NewsX
 https://cdn.pishow.tv/ott/live/1765/master.m3u8
+#EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" tvg-logo="" group-title="US News & Weather",NewsX
+https://fta.ektv.in/live/603/master.m3u8
 #EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" tvg-logo="" group-title="US News & Weather",NewsX World
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 #EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" tvg-logo="" group-title="US News & Weather",NewsX World
 https://cdn.pishow.tv/ott/live/1049/master.m3u8
+#EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" tvg-logo="" group-title="US News & Weather",NewsX World
+https://fta.ektv.in/live/610/master.m3u8
 #EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="" group-title="US News & Weather",Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="" group-title="US News & Weather",Newsy
@@ -2297,6 +2445,8 @@ https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NortheastLive.in" tvg-name="Northeast Live" tvg-logo="" group-title="US News & Weather",Northeast Live
 https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
+#EXTINF:-1 tvg-id="NortheastLive.in" tvg-name="Northeast Live" tvg-logo="" group-title="US News & Weather",Northeast Live
+https://fta.ektv.in/live/674/master.m3u8
 #EXTINF:-1 tvg-id="NovaNews.bg" tvg-name="Nova News" tvg-logo="" group-title="US News & Weather",Nova News
 http://213.91.179.28:8000/play/a063
 #EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-name="Novorossiya TV" tvg-logo="" group-title="US News & Weather",Novorossiya TV
@@ -2447,6 +2597,8 @@ https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" tvg-logo="" group-title="US News & Weather",Prag News
 https://hls.pragnews.com/master.m3u8
+#EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" tvg-logo="" group-title="US News & Weather",Prag News
+https://fta.ektv.in/live/336/master.m3u8
 #EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" tvg-logo="" group-title="US News & Weather",Prameya News7
 https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in" tvg-name="Pratham Khabar 24x7" tvg-logo="" group-title="US News & Weather",Pratham Khabar 24x7
@@ -2461,6 +2613,8 @@ https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" tvg-logo="" group-title="US News & Weather",Pratidin Time
 https://cdn.pishow.tv/ott/live/1437/master.m3u8
+#EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" tvg-logo="" group-title="US News & Weather",Pratidin Time
+https://fta.ektv.in/live/682/master.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="" group-title="US News & Weather",Press TV
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="" group-title="US News & Weather",Press TV
@@ -2496,6 +2650,8 @@ https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" tvg-logo="" group-title="US News & Weather",PTC News
 https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" tvg-logo="" group-title="US News & Weather",PTC News
+https://fta.ektv.in/live/182/master.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" tvg-logo="" group-title="US News & Weather",PTC News
 https://cdn.pishow.tv/ott/live/1502/master.m3u8
 #EXTINF:-1 tvg-id="PTV.ua" tvg-name="PTV" tvg-logo="" group-title="US News & Weather",PTV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
@@ -2503,12 +2659,16 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 http://103.250.28.74:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" tvg-logo="" group-title="US News & Weather",Public First
 https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" tvg-logo="" group-title="US News & Weather",Public First
+https://fta.ektv.in/live/237/master.m3u8
 #EXTINF:-1 tvg-id="PublicNews.pk" tvg-name="Public News" tvg-logo="" group-title="US News & Weather",Public News
 http://103.250.28.74:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" tvg-logo="" group-title="US News & Weather",Public TV
 https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" tvg-logo="" group-title="US News & Weather",Public TV
 https://mumt04.tangotv.in/m18aqlK4PUBLICTV/index.m3u8
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" tvg-logo="" group-title="US News & Weather",Public TV
+https://fta.ektv.in/live/241/master.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" tvg-logo="" group-title="US News & Weather",Public TV
 https://cdn.pishow.tv/ott/live/439/master.m3u8
 #EXTINF:-1 tvg-id="PudhariNews.in" tvg-name="Pudhari News" tvg-logo="" group-title="US News & Weather",Pudhari News
@@ -2595,6 +2755,8 @@ https://yuppnimresmum.akamaized.net/050522/reporter/playlist.m3u8?hdnts=st=17358
 https://cdn.pishow.tv/ott/live/270/master.m3u8
 #EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" tvg-logo="" group-title="US News & Weather",Republic Bangla
 https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" tvg-logo="" group-title="US News & Weather",Republic Bangla
+https://fta.ektv.in/live/663/master.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="" group-title="US News & Weather",Republic Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="" group-title="US News & Weather",Republic Bharat
@@ -2605,6 +2767,8 @@ https://cdn.pishow.tv/ott/live/1053/master.m3u8
 https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="" group-title="US News & Weather",Republic Bharat
 https://mumt06.tangotv.in/qYyB8fXVREPUBLICBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="" group-title="US News & Weather",Republic Bharat
+https://fta.ektv.in/live/296/master.m3u8
 #EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" tvg-logo="" group-title="US News & Weather",Republic Kannada
 https://cdn.pishow.tv/ott/live/298/master.m3u8
 #EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" tvg-logo="" group-title="US News & Weather",Republic Kannada
@@ -2623,6 +2787,8 @@ https://cdn.pishow.tv/ott/live/271/master.m3u8
 https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" tvg-logo="" group-title="US News & Weather",Republic TV
 https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" tvg-logo="" group-title="US News & Weather",Republic TV
+https://fta.ektv.in/live/115/115_0.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters TV" tvg-logo="" group-title="US News & Weather",Reuters TV
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters TV" tvg-logo="" group-title="US News & Weather",Reuters TV
@@ -2935,6 +3101,8 @@ https://amg00732-amg00732c2-stirr-us-8938.playouts.now.amagi.tv/playlist.m3u8
 https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8
 #EXTINF:-1 tvg-id="SamacharPlus24x7.in" tvg-name="Samachar Plus 24x7" tvg-logo="" group-title="US News & Weather",Samachar Plus 24x7
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
+#EXTINF:-1 tvg-id="SamacharPlus24x7.in" tvg-name="Samachar Plus 24x7" tvg-logo="" group-title="US News & Weather",Samachar Plus 24x7
+https://fta.ektv.in/live/589/master.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in" tvg-name="Samay Kolkata" tvg-logo="" group-title="US News & Weather",Samay Kolkata
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in" tvg-name="Samay Kolkata" tvg-logo="" group-title="US News & Weather",Samay Kolkata
@@ -3001,6 +3169,8 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 #EXTINF:-1 tvg-id="SterkTV.be" tvg-name="Sterk TV" tvg-logo="" group-title="US News & Weather",Sterk TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
+#EXTINF:-1 tvg-id="STVHaryanaNews.in" tvg-name="STV Haryana News" tvg-logo="" group-title="US News & Weather",STV Haryana News
+https://fta.ektv.in/live/607/master.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" tvg-name="STZ TV" tvg-logo="" group-title="US News & Weather",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" tvg-logo="" group-title="US News & Weather",Suara Surabaya Visual Radio
@@ -3025,6 +3195,8 @@ https://mumt04.tangotv.in/m18aqlK4SUVARNANEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/445/master.m3u8
 #EXTINF:-1 tvg-id="SwadeshNews.in" tvg-name="Swadesh News" tvg-logo="" group-title="US News & Weather",Swadesh News
 https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8
+#EXTINF:-1 tvg-id="SwadeshNews.in" tvg-name="Swadesh News" tvg-logo="" group-title="US News & Weather",Swadesh News
+https://fta.ektv.in/live/588/master.m3u8
 #EXTINF:-1 tvg-id="SwadeshNews.in" tvg-name="Swadesh News" tvg-logo="" group-title="US News & Weather",Swadesh News
 https://cdn.pishow.tv/ott/live/465/master.m3u8
 #EXTINF:-1 tvg-id="SwarajExpressSMBC.in" tvg-name="Swaraj Express SMBC" tvg-logo="" group-title="US News & Weather",Swaraj Express SMBC
@@ -3051,6 +3223,8 @@ https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8
 https://mumbai-edge.smartplaytv.in/TNews/index.m3u8
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" tvg-logo="" group-title="US News & Weather",T News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TNews.m3u8
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" tvg-logo="" group-title="US News & Weather",T News
+https://fta.ektv.in/live/693/master.m3u8
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" tvg-logo="" group-title="US News & Weather",T News
 https://cdn.pishow.tv/ott/live/385/master.m3u8
 #EXTINF:-1 tvg-id="TamilJanam.in" tvg-name="Tamil Janam" tvg-logo="" group-title="US News & Weather",Tamil Janam
@@ -3117,6 +3291,8 @@ https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-name="Times Now Navbharat" tvg-logo="" group-title="US News & Weather",Times Now Navbharat
 https://mumt03.tangotv.in/Dsly5z3HTIMESNOWNAVBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-name="Times Now Navbharat" tvg-logo="" group-title="US News & Weather",Times Now Navbharat
+https://fta.ektv.in/live/295/master.m3u8
 #EXTINF:-1 tvg-id="TNPNews.in" tvg-name="TNP News" tvg-logo="" group-title="US News & Weather",TNP News
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:-1 tvg-id="TODAYAllDay.us" tvg-name="TODAY All Day" tvg-logo="" group-title="US News & Weather",TODAY All Day
@@ -3223,16 +3399,22 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="" group-title="US News & Weather",TV9 Bangla
 https://mumbai-edge.smartplaytv.in/Tv9Bangla/index.m3u8
+#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="" group-title="US News & Weather",TV9 Bangla
+https://fta.ektv.in/live/201/master.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="" group-title="US News & Weather",TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="" group-title="US News & Weather",TV9 Bharatvarsh
 https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="" group-title="US News & Weather",TV9 Bharatvarsh
 https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="" group-title="US News & Weather",TV9 Bharatvarsh
+https://fta.ektv.in/live/92/92_0.m3u8
 #EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" tvg-logo="" group-title="US News & Weather",TV9 Gujarati
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" tvg-logo="" group-title="US News & Weather",TV9 Gujarati
 https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" tvg-logo="" group-title="US News & Weather",TV9 Gujarati
+https://fta.ektv.in/live/652/master.m3u8
 #EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" tvg-logo="" group-title="US News & Weather",TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" tvg-logo="" group-title="US News & Weather",TV9 Kannada
@@ -3247,6 +3429,8 @@ https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8
 https://mumbai-edge.smartplaytv.in/TV9Marathi/index.m3u8
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" tvg-logo="" group-title="US News & Weather",TV9 Marathi
 https://cdn.pishow.tv/ott/live/2/master.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" tvg-logo="" group-title="US News & Weather",TV9 Marathi
+https://fta.ektv.in/live/190/master.m3u8
 #EXTINF:-1 tvg-id="tv9Telemaremma.it" tvg-name="tv9 Telemaremma" tvg-logo="" group-title="US News & Weather",tv9 Telemaremma
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" tvg-logo="" group-title="US News & Weather",TV9 Telugu
@@ -3296,6 +3480,8 @@ https://mumbai-edge.smartplaytv.in/V6News/index.m3u8
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" tvg-logo="" group-title="US News & Weather",V6 News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" tvg-logo="" group-title="US News & Weather",V6 News
+https://fta.ektv.in/live/694/master.m3u8
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" tvg-logo="" group-title="US News & Weather",V6 News
 https://cdn.pishow.tv/ott/live/389/master.m3u8
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-name="VEJA+ TV" tvg-logo="" group-title="US News & Weather",VEJA+ TV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
@@ -3325,6 +3511,8 @@ https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 https://stream.ottlive.co.in/vistaartv/index.m3u8
 #EXTINF:-1 tvg-id="VistaarNews.in" tvg-name="Vistaar News" tvg-logo="" group-title="US News & Weather",Vistaar News
 https://vistaarnews.com/livetv-stream/test.m3u8
+#EXTINF:-1 tvg-id="VistaarNews.in" tvg-name="Vistaar News" tvg-logo="" group-title="US News & Weather",Vistaar News
+https://fta.ektv.in/live/734/master.m3u8
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-logo="" group-title="US News & Weather",VoA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATVPersian.us" tvg-name="VoA TV Persian" tvg-logo="" group-title="US News & Weather",VoA TV Persian
@@ -3415,6 +3603,8 @@ https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 tvg-id="ZeeBharat.in" tvg-name="Zee Bharat" tvg-logo="" group-title="US News & Weather",Zee Bharat
 https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBharat.in" tvg-name="Zee Bharat" tvg-logo="" group-title="US News & Weather",Zee Bharat
+https://fta.ektv.in/live/244/master.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-logo="" group-title="US News & Weather",Zee Bihar Jharkhand
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-logo="" group-title="US News & Weather",Zee Bihar Jharkhand
@@ -3433,6 +3623,8 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" tvg-logo="" group-title="US News & Weather",Zee News
 https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" tvg-logo="" group-title="US News & Weather",Zee News
+https://fta.ektv.in/live/294/master.m3u8
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="" group-title="US News & Weather",Zee Punjab Haryana Himachal
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-name="Zee Rajasthan" tvg-logo="" group-title="US News & Weather",Zee Rajasthan
@@ -3535,6 +3727,8 @@ https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" tvg-logo="" group-title="Movies & Classic TV",All Time Movies
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" tvg-logo="" group-title="Movies & Classic TV",All Time Movies
+https://fta.ektv.in/live/54/54_0.m3u8
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-name="All Weddings WE tv" tvg-logo="" group-title="Movies & Classic TV",All Weddings WE tv
 https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-name="All Weddings WE tv" tvg-logo="" group-title="Movies & Classic TV",All Weddings WE tv
@@ -3615,6 +3809,10 @@ https://jmp2.uk/plu-6964b77dff4f2148e520fa9b.m3u8
 https://jmp2.uk/plu-6964b7e007ea70192df28d43.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="" group-title="Movies & Classic TV",Anger Management Channel
 https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema.in" tvg-name="Anmol Cinema" tvg-logo="" group-title="Movies & Classic TV",Anmol Cinema
+https://fta.ektv.in/live/271/master.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-name="Anmol Cinema 2" tvg-logo="" group-title="Movies & Classic TV",Anmol Cinema 2
+https://fta.ektv.in/live/257/master.m3u8
 #EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us" tvg-name="Anthony Bourdain: Parts Unknown" tvg-logo="" group-title="Movies & Classic TV",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" tvg-logo="" group-title="Movies & Classic TV",Antiques Roadshow UK
@@ -3721,6 +3919,8 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",B4U Bhojpuri
 https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",B4U Bhojpuri
+https://fta.ektv.in/live/174/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
@@ -3729,6 +3929,8 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
 https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="" group-title="Movies & Classic TV",B4U Kadak
+https://fta.ektv.in/live/44/44_0.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="Movies & Classic TV",B4U Movies
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="Movies & Classic TV",B4U Movies
@@ -3737,6 +3939,8 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 http://66.102.126.10:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="Movies & Classic TV",B4U Movies
 https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="Movies & Classic TV",B4U Movies
+https://fta.ektv.in/live/43/43_0.m3u8
 #EXTINF:-1 tvg-id="BabAlHara.sa" tvg-name="Bab Al Hara" tvg-logo="" group-title="Movies & Classic TV",Bab Al Hara
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-id="Balabol.ru" tvg-name="Balabol" tvg-logo="" group-title="Movies & Classic TV",Balabol
@@ -3795,6 +3999,8 @@ https://cdn.pishow.tv/ott/live/1033/master.m3u8
 https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" tvg-logo="" group-title="Movies & Classic TV",Bhojpuri Cinema
 https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" tvg-logo="" group-title="Movies & Classic TV",Bhojpuri Cinema
+https://fta.ektv.in/live/646/master.m3u8
 #EXTINF:-1 tvg-id="BIZCinema.uz" tvg-name="BIZ Cinema" tvg-logo="" group-title="Movies & Classic TV",BIZ Cinema
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 tvg-id="BIZCinema.uz" tvg-name="BIZ Cinema" tvg-logo="" group-title="Movies & Classic TV",BIZ Cinema
@@ -4368,8 +4574,6 @@ http://88.212.7.14/live/film_cafe/index.m3u8
 #EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="Film Cafe" tvg-logo="" group-title="Movies & Classic TV",Film Cafe
 https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" tvg-logo="" group-title="Movies & Classic TV",Film Now
-https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" tvg-logo="" group-title="Movies & Classic TV",Film Now
 https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" tvg-logo="" group-title="Movies & Classic TV",Film+
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
@@ -4540,9 +4744,13 @@ https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies & Classic TV",Goldmines
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies & Classic TV",Goldmines
+https://fta.ektv.in/live/53/53_0.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies & Classic TV",Goldmines
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in" tvg-name="Goldmines 2" tvg-logo="" group-title="Movies & Classic TV",Goldmines 2
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in" tvg-name="Goldmines 2" tvg-logo="" group-title="Movies & Classic TV",Goldmines 2
+https://fta.ektv.in/live/46/46_0.m3u8
 #EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action" tvg-logo="" group-title="Movies & Classic TV",Goldmines Action
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="" group-title="Movies & Classic TV",Goldmines Bollywood
@@ -4553,6 +4761,8 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="" group-title="Movies & Classic TV",Goldmines Bollywood
 https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="" group-title="Movies & Classic TV",Goldmines Bollywood
+https://fta.ektv.in/live/52/52_0.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="" group-title="Movies & Classic TV",Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="" group-title="Movies & Classic TV",Goldmines Movies
@@ -4561,6 +4771,8 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="" group-title="Movies & Classic TV",Goldmines Movies
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="" group-title="Movies & Classic TV",Goldmines Movies
+https://fta.ektv.in/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="" group-title="Movies & Classic TV",Goldmines Movies
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-name="Grand Cinema" tvg-logo="" group-title="Movies & Classic TV",Grand Cinema
@@ -4639,6 +4851,8 @@ http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.cz" tvg-name="HBO 2" tvg-logo="" group-title="Movies & Classic TV",HBO 2
 http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2" tvg-logo="" group-title="Movies & Classic TV",HBO 2
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="" group-title="Movies & Classic TV",HBO 2 Latin America
 http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="" group-title="Movies & Classic TV",HBO 2 Latin America
@@ -4846,8 +5060,6 @@ https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
 #EXTINF:-1 tvg-id="JAG.us" tvg-name="JAG" tvg-logo="" group-title="Movies & Classic TV",JAG
 https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" tvg-logo="" group-title="Movies & Classic TV",Jalsha Movies
-http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" tvg-logo="" group-title="Movies & Classic TV",Jalsha Movies
 http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-id="JerseyShore.us" tvg-name="Jersey Shore" tvg-logo="" group-title="Movies & Classic TV",Jersey Shore
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
@@ -5026,6 +5238,8 @@ https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MagyarMoziTV.hu" tvg-name="Magyar Mozi TV" tvg-logo="" group-title="Movies & Classic TV",Magyar Mozi TV
 http://88.212.7.14/live/mozi/index.m3u8
 #EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-logo="" group-title="Movies & Classic TV",Maha Movie
+https://fta.ektv.in/live/48/48_0.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-logo="" group-title="Movies & Classic TV",Maha Movie
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
 #EXTINF:-1 tvg-id="MahuaPlay.in" tvg-name="Mahua Play" tvg-logo="" group-title="Movies & Classic TV",Mahua Play
 https://cdn.ottlive.co.in/mahuaplay/index.m3u8
@@ -5034,9 +5248,13 @@ https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Grand
 https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Grand
+https://fta.ektv.in/live/19/master.m3u8
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Grand
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Movies
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-logo="" group-title="Movies & Classic TV",Manoranjan Movies
+https://fta.ektv.in/live/47/47_0.m3u8
 #EXTINF:-1 tvg-id="Maraya.sa" tvg-name="Maraya" tvg-logo="" group-title="Movies & Classic TV",Maraya
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1 tvg-id="MarriedwithChildren.us" tvg-name="Married with Children" tvg-logo="" group-title="Movies & Classic TV",Married with Children
@@ -5111,6 +5329,8 @@ https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MHOneMovies.in" tvg-name="MH One Movies" tvg-logo="" group-title="Movies & Classic TV",MH One Movies
 https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+#EXTINF:-1 tvg-id="MHOneMovies.in" tvg-name="MH One Movies" tvg-logo="" group-title="Movies & Classic TV",MH One Movies
+https://fta.ektv.in/live/639/master.m3u8
 #EXTINF:-1 tvg-id="MiExtranaObsesion.us" tvg-name="Mi Extrana Obsesion" tvg-logo="" group-title="Movies & Classic TV",Mi Extrana Obsesion
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" tvg-logo="" group-title="Movies & Classic TV",Midsomer Murders
@@ -5408,6 +5628,8 @@ https://vmttv.dpdns.org/tv360/?id=175
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Oscar Movies Bhojpuri
 https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Oscar Movies Bhojpuri
+https://fta.ektv.in/live/348/master.m3u8
+#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Oscar Movies Bhojpuri
 https://cdn.pishow.tv/ott/live/233/master.m3u8
 #EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="OSN Movies Action" tvg-logo="" group-title="Movies & Classic TV",OSN Movies Action
 http://116.90.120.151:8000/play/a0ax/index.m3u8
@@ -5481,6 +5703,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/in
 https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="" group-title="Movies & Classic TV",Pitaara
 https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="" group-title="Movies & Classic TV",Pitaara
+https://fta.ektv.in/live/352/master.m3u8
 #EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us" tvg-name="Pluto Classic Movie Westerns" tvg-logo="" group-title="Movies & Classic TV",Pluto Classic Movie Westerns
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 #EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-name="Pluto TV 90's Classics" tvg-logo="" group-title="Movies & Classic TV",Pluto TV 90's Classics
@@ -5925,6 +6149,8 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSec
 http://dtv.vol.net.ua/ProKino/index.m3u8
 #EXTINF:-1 tvg-id="PublicMovies.in" tvg-name="Public Movies" tvg-logo="" group-title="Movies & Classic TV",Public Movies
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="PublicMovies.in" tvg-name="Public Movies" tvg-logo="" group-title="Movies & Classic TV",Public Movies
+https://fta.ektv.in/live/239/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" tvg-logo="" group-title="Movies & Classic TV",Punjabi Shorts
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" tvg-logo="" group-title="Movies & Classic TV",Punjabi Shorts
@@ -6045,6 +6271,8 @@ https://cdn-dvr.ntv.ru/Shef/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-name="Shemaroo Josh" tvg-logo="" group-title="Movies & Classic TV",Shemaroo Josh
 https://cdn.pishow.tv/ott/live/337/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-name="Shemaroo Josh" tvg-logo="" group-title="Movies & Classic TV",Shemaroo Josh
+https://fta.ektv.in/live/21/master.m3u8
 #EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Shokiruyushchee" tvg-logo="" group-title="Movies & Classic TV",Shokiruyushchee
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" tvg-logo="" group-title="Movies & Classic TV",Shot TV
@@ -6053,6 +6281,8 @@ http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" tvg-logo="" group-title="Movies & Classic TV",Shubh Cinema TV
 https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" tvg-logo="" group-title="Movies & Classic TV",Shubh Cinema TV
+https://fta.ektv.in/live/49/49_0.m3u8
 #EXTINF:-1 tvg-id="SilkWayCinema.kz" tvg-name="Silk Way Cinema" tvg-logo="" group-title="Movies & Classic TV",Silk Way Cinema
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 #EXTINF:-1 tvg-id="Sintetasnohayparaiso.us" tvg-name="Sin tetas no hay paraiso" tvg-logo="" group-title="Movies & Classic TV",Sin tetas no hay paraiso
@@ -6207,6 +6437,8 @@ https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" tvg-logo="" group-title="Movies & Classic TV",Studio One +
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/StudioOnePlus.m3u8
+#EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" tvg-logo="" group-title="Movies & Classic TV",Studio One +
+https://fta.ektv.in/live/213/master.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" tvg-logo="" group-title="Movies & Classic TV",Studio One +
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 tvg-id="SummerofMovies.us" tvg-name="Summer of Movies" tvg-logo="" group-title="Movies & Classic TV",Summer of Movies
@@ -6665,6 +6897,8 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 tvg-id="ZBCinema.in" tvg-name="ZB Cinema" tvg-logo="" group-title="Movies & Classic TV",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-logo="" group-title="Movies & Classic TV",Zee Action
+https://fta.ektv.in/live/270/master.m3u8
 #EXTINF:-1 tvg-id="ZeeCineClassic.in" tvg-name="Zee Cine Classic" tvg-logo="" group-title="Movies & Classic TV",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="" group-title="Movies & Classic TV",Zee Cinema
@@ -7073,8 +7307,6 @@ https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
 https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" tvg-logo="" group-title="Kids & Family",ETV 2
 https://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" tvg-logo="" group-title="Kids & Family",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" tvg-logo="" group-title="Kids & Family",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="" group-title="Kids & Family",France 4
@@ -7625,10 +7857,6 @@ https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Ryzhiy" tvg-logo="" group-title="Kids & Family",Ryzhiy
 http://31.148.48.15/Rizhiy/index.m3u8
-#EXTINF:-1 tvg-id="SCorbyTV.us" tvg-name="S Corby TV" tvg-logo="" group-title="Kids & Family",S Corby TV
-https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
-#EXTINF:-1 tvg-id="SPlayEvent.us" tvg-name="S Play Event" tvg-logo="" group-title="Kids & Family",S Play Event
-https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
 #EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-name="Sat 7 Kids" tvg-logo="" group-title="Kids & Family",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SBTKids.br" tvg-name="SBT Kids" tvg-logo="" group-title="Kids & Family",SBT Kids
@@ -7911,6 +8139,8 @@ https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 http://31.148.48.15/Detskiy/index.m3u8
 #EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" tvg-logo="" group-title="Kids & Family",Unique TV
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
+#EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" tvg-logo="" group-title="Kids & Family",Unique TV
+https://fta.ektv.in/live/688/master.m3u8
 #EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="V gostyakh u skazki" tvg-logo="" group-title="Kids & Family",V gostyakh u skazki
 http://stream.mcquack.net/93/index.m3u8
 #EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="V gostyakh u skazki" tvg-logo="" group-title="Kids & Family",V gostyakh u skazki
@@ -8136,15 +8366,17 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="Sports & Highlights",DD Sports
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="Sports & Highlights",DD Sports
+https://fta.ektv.in/live/280/master.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="Sports & Highlights",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="Sports & Highlights",DD Sports
 https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="Sports & Highlights",DD Sports
+https://fta.ektv.in/live/64/64_0.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="Sports & Highlights",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="Sports & Highlights",DD Sports
 https://cdn.pishow.tv/ott/live/13/master.m3u8
-#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="" group-title="Sports & Highlights",Digi Sport 2
-https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 #EXTINF:-1 tvg-id="DiviSport.ua" tvg-name="DiviSport" tvg-logo="" group-title="Sports & Highlights",DiviSport
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" tvg-logo="" group-title="Sports & Highlights",Dong Nai TV 2
@@ -8549,6 +8781,8 @@ http://213.91.179.28:8000/play/a0at
 http://213.91.179.28:8000/play/a0ar
 #EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" tvg-logo="" group-title="Sports & Highlights",Max Sport 4
 http://213.91.179.28:8000/play/a05n
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" tvg-name="MEGOGO Sport" tvg-logo="" group-title="Sports & Highlights",MEGOGO Sport
+http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" tvg-logo="" group-title="Sports & Highlights",Milan TV
 http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" tvg-logo="" group-title="Sports & Highlights",MLB
@@ -9273,6 +9507,8 @@ https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="" group-title="Music",7S Music
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="" group-title="Music",7S Music
+https://fta.ektv.in/live/771/master.m3u8
 #EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" tvg-logo="" group-title="Music",7X Music
 https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" tvg-logo="" group-title="Music",8XM
@@ -9285,6 +9521,8 @@ https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" tvg-logo="" group-title="Music",9X Jalwa
 https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" tvg-logo="" group-title="Music",9X Jalwa
+https://fta.ektv.in/live/161/master.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" tvg-logo="" group-title="Music",9X Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" tvg-logo="" group-title="Music",9X Jhakaas
@@ -9311,6 +9549,8 @@ https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
 http://107.167.16.138/9xtashan/index.m3u8?token=test
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" tvg-logo="" group-title="Music",9X Tashan
 https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" tvg-logo="" group-title="Music",9X Tashan
+https://fta.ektv.in/live/178/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="" group-title="Music",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="" group-title="Music",9XM
@@ -9325,6 +9565,8 @@ https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="" group-title="Music",9XM
 https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="" group-title="Music",9XM
+https://fta.ektv.in/live/155/master.m3u8
 #EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" tvg-logo="" group-title="Music",A1
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-name="Aaryaa TV" tvg-logo="" group-title="Music",Aaryaa TV
@@ -9389,6 +9631,8 @@ https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="" group-title="Music",B4U Music
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="" group-title="Music",B4U Music
+https://fta.ektv.in/live/157/master.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" tvg-logo="" group-title="Music",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" tvg-logo="" group-title="Music",Balle Balle
@@ -9399,6 +9643,8 @@ https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" tvg-logo="" group-title="Music",Balle Balle
 https://mcncdndigital.com/worldpunjabitv/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" tvg-logo="" group-title="Music",Balle Balle
+https://fta.ektv.in/live/365/master.m3u8
 #EXTINF:-1 tvg-id="BarazaTV.gr" tvg-name="Baraza TV" tvg-logo="" group-title="Music",Baraza TV
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr" tvg-name="Baraza TV Deep House" tvg-logo="" group-title="Music",Baraza TV Deep House
@@ -9543,6 +9789,8 @@ https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" tvg-logo="" group-title="Music",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" tvg-logo="" group-title="Music",Dhoom Music
+https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" tvg-logo="" group-title="Music",Dhoom Music
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music" tvg-logo="" group-title="Music",Disco Polo Music
@@ -9695,6 +9943,8 @@ http://stream.mcquack.net/147/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 #EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" tvg-logo="" group-title="Music",Insync
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
+#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" tvg-logo="" group-title="Music",Insync
+https://fta.ektv.in/live/160/master.m3u8
 #EXTINF:-1 tvg-id="INTVAustralia.au" tvg-name="INTV Australia" tvg-logo="" group-title="Music",INTV Australia
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-name="Isai Aruvi" tvg-logo="" group-title="Music",Isai Aruvi
@@ -9920,6 +10170,8 @@ https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="" group-title="Music",Music India
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="" group-title="Music",Music India
+https://fta.ektv.in/live/158/master.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="" group-title="Music",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
 #EXTINF:-1 tvg-id="MusicInformationChannel.id" tvg-name="Music Information Channel" tvg-logo="" group-title="Music",Music Information Channel
 https://mic.siar.us/mic/live/mic.m3u8
@@ -10140,6 +10392,8 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" tvg-logo="" group-title="Music",PTC Chakde
 https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" tvg-logo="" group-title="Music",PTC Chakde
+https://fta.ektv.in/live/180/master.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" tvg-logo="" group-title="Music",PTC Chakde
 https://cdn.pishow.tv/ott/live/449/master.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" tvg-logo="" group-title="Music",PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
@@ -10147,10 +10401,14 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 https://cdn.pishow.tv/ott/live/1501/master.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" tvg-logo="" group-title="Music",PTC Music
 https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" tvg-logo="" group-title="Music",PTC Music
+https://fta.ektv.in/live/181/master.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-logo="" group-title="Music",Public Music
 https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-logo="" group-title="Music",Public Music
 https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-logo="" group-title="Music",Public Music
+https://fta.ektv.in/live/240/master.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-logo="" group-title="Music",Public Music
 https://cdn.pishow.tv/ott/live/441/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-name="Punjabi Beats HD" tvg-logo="" group-title="Music",Punjabi Beats HD
@@ -10332,9 +10590,13 @@ https://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="" group-title="Music",Sangeet Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="" group-title="Music",Sangeet Bhojpuri
+https://fta.ektv.in/live/349/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="" group-title="Music",Sangeet Bhojpuri
 https://cdn.pishow.tv/ott/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="" group-title="Music",Sangeet Marathi
 https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="" group-title="Music",Sangeet Marathi
+https://fta.ektv.in/live/712/master.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="" group-title="Music",Sangeet Marathi
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" tvg-logo="" group-title="Music",Shanson TV
@@ -10483,6 +10745,8 @@ https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
 https://server.thelegitpro.in/tabbarhits/tabbarhits/index.m3u8
 #EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" tvg-logo="" group-title="Music",Tabbar Hits
 https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" tvg-logo="" group-title="Music",Tabbar Hits
+https://fta.ektv.in/live/179/master.m3u8
 #EXTINF:-1 tvg-id="Tarab.sa" tvg-name="Tarab" tvg-logo="" group-title="Music",Tarab
 https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
 #EXTINF:-1 tvg-id="TarangMusic.in" tvg-name="Tarang Music" tvg-logo="" group-title="Music",Tarang Music
@@ -10797,8 +11061,6 @@ https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name="XITE Siempre Latino" tvg-logo="" group-title="Music",XITE Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-#EXTINF:-1 tvg-id="YETMax.in" tvg-name="YET Max" tvg-logo="" group-title="Music",YET Max
-https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 #EXTINF:-1 tvg-id="YleX.fi" tvg-name="YleX" tvg-logo="" group-title="Music",YleX
 https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV" tvg-logo="" group-title="Music",Yo! MTV
@@ -10859,6 +11121,8 @@ https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
 https://cdn.pishow.tv/ott/live/252/master.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in" tvg-name="Aadinath TV" tvg-logo="" group-title="Religious",Aadinath TV
 https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="AadinathTV.in" tvg-name="Aadinath TV" tvg-logo="" group-title="Religious",Aadinath TV
+https://fta.ektv.in/live/343/master.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-name="Aaseervatham TV" tvg-logo="" group-title="Religious",Aaseervatham TV
 https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" tvg-logo="" group-title="Religious",Aastha
@@ -10871,16 +11135,22 @@ https://cdn.pishow.tv/ott/live/1454/master.m3u8
 http://103.175.73.12:8080/live/338/master.m3u8
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" tvg-logo="" group-title="Religious",Aastha
 https://mumt05.tangotv.in/87NeALx2AASTHA/index.m3u8
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" tvg-logo="" group-title="Religious",Aastha
+https://fta.ektv.in/live/338/master.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" tvg-logo="" group-title="Religious",Aastha Bhajan
 http://103.175.73.12:8080/live/339/master.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" tvg-logo="" group-title="Religious",Aastha Bhajan
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" tvg-logo="" group-title="Religious",Aastha Bhajan
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" tvg-logo="" group-title="Religious",Aastha Bhajan
+https://fta.ektv.in/live/339/master.m3u8
 #EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" tvg-logo="" group-title="Religious",Aastha Gujarati
 https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
 #EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" tvg-logo="" group-title="Religious",Aastha Gujarati
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" tvg-logo="" group-title="Religious",Aastha Gujarati
+https://fta.ektv.in/live/372/master.m3u8
 #EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" tvg-logo="" group-title="Religious",Aastha Kannada
 https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" tvg-logo="" group-title="Religious",Aastha Kannada
@@ -10895,6 +11165,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
 https://cdn.pishow.tv/ott/live/262/master.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="" group-title="Religious",Aastha Telugu
 https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
+#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="" group-title="Religious",Aastha Telugu
+https://fta.ektv.in/live/702/master.m3u8
 #EXTINF:-1 tvg-id="ABHPTV.us" tvg-name="ABHP TV" tvg-logo="" group-title="Religious",ABHP TV
 https://vietprocast.app/hls/abhp/index.m3u8
 #EXTINF:-1 tvg-id="ABNAfghanistan.us" tvg-name="ABN Afghanistan" tvg-logo="" group-title="Religious",ABN Afghanistan
@@ -11019,6 +11291,8 @@ https://mumt04.tangotv.in/m18aqlK4AMRITGURBANI/index.m3u8
 https://live.legitpro.co.in/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="AnandTV.in" tvg-name="Anand TV" tvg-logo="" group-title="Religious",Anand TV
 https://indianews-yupp.vgcdn.net/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="AnandTV.in" tvg-name="Anand TV" tvg-logo="" group-title="Religious",Anand TV
+https://fta.ektv.in/live/770/master.m3u8
 #EXTINF:-1 tvg-id="AnandWariTV.in" tvg-name="Anand Wari TV" tvg-logo="" group-title="Religious",Anand Wari TV
 https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
 #EXTINF:-1 tvg-id="AnandpurLive.in" tvg-name="Anandpur Live" tvg-logo="" group-title="Religious",Anandpur Live
@@ -11147,8 +11421,12 @@ https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" tvg-logo="" group-title="Religious",Channel Divya
 https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" tvg-logo="" group-title="Religious",Channel Divya
+https://fta.ektv.in/live/166/master.m3u8
 #EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" tvg-logo="" group-title="Religious",Channel WIN
 https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8
+#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" tvg-logo="" group-title="Religious",Channel WIN
+https://fta.ektv.in/live/648/master.m3u8
 #EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" tvg-logo="" group-title="Religious",Channel WIN
 https://cdn.pishow.tv/ott/live/229/master.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" tvg-logo="" group-title="Religious",Charity TV
@@ -11190,6 +11468,8 @@ https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" tvg-logo="" group-title="Religious",CVR OM Spiritual
 https://mumt01.tangotv.in/O5aw8Zn3CVRSPRITUALOM/index.m3u8
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" tvg-logo="" group-title="Religious",CVR OM Spiritual
+https://fta.ektv.in/live/705/master.m3u8
+#EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" tvg-logo="" group-title="Religious",CVR OM Spiritual
 https://cdn.pishow.tv/ott/live/957/master.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="" group-title="Religious",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
@@ -11211,6 +11491,8 @@ https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 http://167.249.23.102:8000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-id="DespertarTV.br" tvg-name="Despertar TV" tvg-logo="" group-title="Religious",Despertar TV
 https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 tvg-id="DGRadio.au" tvg-name="DG:Radio" tvg-logo="" group-title="Religious",DG:Radio
+https://mdn.dg.church/683c0cb036885-1/index.m3u8
 #EXTINF:-1 tvg-id="DGTV.au" tvg-name="DG:TV" tvg-logo="" group-title="Religious",DG:TV
 https://mdn.dg.church/673ac57a073a4-1/index.m3u8
 #EXTINF:-1 tvg-id="DhammaTV.id" tvg-name="Dhamma TV" tvg-logo="" group-title="Religious",Dhamma TV
@@ -11379,6 +11661,8 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodnessTV.in" tvg-name="Goodness TV" tvg-logo="" group-title="Religious",Goodness TV
 https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
+#EXTINF:-1 tvg-id="GoodnessTV.in" tvg-name="Goodness TV" tvg-logo="" group-title="Religious",Goodness TV
+https://fta.ektv.in/live/704/master.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" tvg-logo="" group-title="Religious",GoodNews TV
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" tvg-logo="" group-title="Religious",GoodNews TV
@@ -11415,6 +11699,8 @@ https://mumt05.tangotv.in/87NeALx2HAREKRSNA/index.m3u8
 https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" tvg-logo="" group-title="Religious",Hare Krsna TV
 https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" tvg-logo="" group-title="Religious",Hare Krsna TV
+https://fta.ektv.in/live/259/master.m3u8
 #EXTINF:-1 tvg-id="HarmonyGospelMusicTV.us" tvg-name="Harmony Gospel Music TV" tvg-logo="" group-title="Religious",Harmony Gospel Music TV
 https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 #EXTINF:-1 tvg-id="HarvestTV.in" tvg-name="Harvest TV" tvg-logo="" group-title="Religious",Harvest TV
@@ -11572,6 +11858,8 @@ https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" tvg-logo="" group-title="Religious",Jinvani Channel
 https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" tvg-logo="" group-title="Religious",Jinvani Channel
+https://fta.ektv.in/live/169/master.m3u8
+#EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" tvg-logo="" group-title="Religious",Jinvani Channel
 https://cdn.pishow.tv/ott/live/989/master.m3u8
 #EXTINF:-1 tvg-id="JoelOsteenNetwork.us" tvg-name="Joel Osteen Network" tvg-logo="" group-title="Religious",Joel Osteen Network
 https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
@@ -11693,6 +11981,10 @@ https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
 #EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" tvg-logo="" group-title="Religious",Mahaa Bhakti
 https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
+#EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" tvg-logo="" group-title="Religious",Mahaa Bhakti
+https://fta.ektv.in/live/707/master.m3u8
+#EXTINF:-1 tvg-id="MahdawiounTV.iq" tvg-name="MahdawiounTV" tvg-logo="" group-title="Religious",MahdawiounTV
+https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
 #EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" tvg-logo="" group-title="Religious",Mahimai TV
 https://mahimai.iptelevision.live/mahimaitv/video.m3u8
 #EXTINF:-1 tvg-id="MahotsavTV.in" tvg-name="Mahotsav TV" tvg-logo="" group-title="Religious",Mahotsav TV
@@ -11737,12 +12029,16 @@ https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
 #EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" tvg-logo="" group-title="Religious",Mercy TV
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
+#EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" tvg-logo="" group-title="Religious",Mercy TV
+https://fta.ektv.in/live/637/master.m3u8
 #EXTINF:-1 tvg-id="MGITV.id" tvg-name="MGI TV" tvg-logo="" group-title="Religious",MGI TV
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" tvg-logo="" group-title="Religious",MH One Shraddha
 https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" tvg-logo="" group-title="Religious",MH One Shraddha
 https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" tvg-logo="" group-title="Religious",MH One Shraddha
+https://fta.ektv.in/live/344/master.m3u8
 #EXTINF:-1 tvg-id="MiddleEastTV.cy" tvg-name="Middle East TV" tvg-logo="" group-title="Religious",Middle East TV
 https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
 #EXTINF:-1 tvg-id="MinisterioLaVozDeUnRemanenteTV.us" tvg-name="Ministerio La Voz De Un Remanente TV" tvg-logo="" group-title="Religious",Ministerio La Voz De Un Remanente TV
@@ -11802,6 +12098,8 @@ https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in" tvg-name="Nanaksar Live" tvg-logo="" group-title="Religious",Nanaksar Live
 https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" tvg-logo="" group-title="Religious",Nireekshana TV
+https://fta.ektv.in/live/706/master.m3u8
+#EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" tvg-logo="" group-title="Religious",Nireekshana TV
 https://cdn.pishow.tv/ott/live/965/master.m3u8
 #EXTINF:-1 tvg-id="NoorTV.uk" tvg-name="Noor TV" tvg-logo="" group-title="Religious",Noor TV
 https://sscsott.com/srt/noortvuk/index.m3u8
@@ -11853,6 +12151,8 @@ https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 #EXTINF:-1 tvg-id="ParasGold.in" tvg-name="Paras Gold" tvg-logo="" group-title="Religious",Paras Gold
 https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-id="ParasGold.in" tvg-name="Paras Gold" tvg-logo="" group-title="Religious",Paras Gold
+https://fta.ektv.in/live/167/master.m3u8
 #EXTINF:-1 tvg-id="ParolediVita.it" tvg-name="Parole di Vita" tvg-logo="" group-title="Religious",Parole di Vita
 https://stream.paroledivita.org/paroledivita.m3u8
 #EXTINF:-1 tvg-id="PayameArameshTV.us" tvg-name="Payame Aramesh TV" tvg-logo="" group-title="Religious",Payame Aramesh TV
@@ -11865,6 +12165,8 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" tvg-logo="" group-title="Religious",Peace of Mind TV
 https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8
+#EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" tvg-logo="" group-title="Religious",Peace of Mind TV
+https://fta.ektv.in/live/170/master.m3u8
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-logo="" group-title="Religious",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" tvg-logo="" group-title="Religious",Peace TV Chinese
@@ -11891,6 +12193,8 @@ https://cdn.pishow.tv/ott/live/1503/master.m3u8
 https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" tvg-logo="" group-title="Religious",PTC Simran
 https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" tvg-logo="" group-title="Religious",PTC Simran
+https://fta.ektv.in/live/183/master.m3u8
 #EXTINF:-1 tvg-id="PTLTVNetwork.us" tvg-name="PTL TV Network" tvg-logo="" group-title="Religious",PTL TV Network
 https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8
 #EXTINF:-1 tvg-id="QatarTVTheHolyQuran.qa" tvg-name="Qatar TV The Holy Quran" tvg-logo="" group-title="Religious",Qatar TV The Holy Quran
@@ -11961,6 +12265,8 @@ http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playli
 https://samitaorigin.tangotv.in/SAANGTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" tvg-logo="" group-title="Religious",Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" tvg-logo="" group-title="Religious",Sadhna
+https://fta.ektv.in/live/340/master.m3u8
 #EXTINF:-1 tvg-id="SadhnaTV.in" tvg-name="Sadhna TV" tvg-logo="" group-title="Religious",Sadhna TV
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="SafeerTV.uk" tvg-name="Safeer TV" tvg-logo="" group-title="Religious",Safeer TV
@@ -11981,6 +12287,8 @@ https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
 https://cdn.pishow.tv/ott/live/1135/master.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="" group-title="Religious",Sanskar TV
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="" group-title="Religious",Sanskar TV
+https://fta.ektv.in/live/165/master.m3u8
 #EXTINF:-1 tvg-id="SanskarUK.in" tvg-name="Sanskar UK" tvg-logo="" group-title="Religious",Sanskar UK
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 #EXTINF:-1 tvg-id="SanskarUSA.in" tvg-name="Sanskar USA" tvg-logo="" group-title="Religious",Sanskar USA
@@ -11991,6 +12299,8 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://sat7phls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" tvg-logo="" group-title="Religious",Satsang TV
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" tvg-logo="" group-title="Religious",Satsang TV
+https://fta.ektv.in/live/341/master.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-name="Satsang Web TV" tvg-logo="" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
 #EXTINF:-1 tvg-id="SBNTV.us" tvg-name="SBN TV" tvg-logo="" group-title="Religious",SBN TV
@@ -12069,6 +12379,8 @@ https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 https://cdn.pishow.tv/ott/live/278/master.m3u8
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" tvg-logo="" group-title="Religious",Subhavaartha TV
 https://mumt05.tangotv.in/87NeALx2SUBHAVAARTHATV/index.m3u8
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" tvg-logo="" group-title="Religious",Subhavaartha TV
+https://fta.ektv.in/live/301/master.m3u8
 #EXTINF:-1 tvg-id="SUMtvEnglish.us" tvg-name="SUMtv English" tvg-logo="" group-title="Religious",SUMtv English
 https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SUMtvEnglish.us" tvg-name="SUMtv English" tvg-logo="" group-title="Religious",SUMtv English
@@ -14767,6 +15079,8 @@ http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
 http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-logo="" group-title="Spanish",Las Estrellas Latin America
 http://38.44.109.41:8003/play/a0he
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-logo="" group-title="Spanish",Las Estrellas Latin America
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-name="LatacungaTV" tvg-logo="" group-title="Spanish",LatacungaTV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Latele.py" tvg-name="Latele" tvg-logo="" group-title="Spanish",Latele
@@ -15791,6 +16105,8 @@ http://181.65.191.173:8069/play/a061
 https://stream1.bitred.cl/rcn-novelas/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="" group-title="Spanish",RCN Novelas
 https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="" group-title="Spanish",RCN Novelas
+http://45.171.64.30:8800/play/a01z
 #EXTINF:-1 tvg-id="RCVTV.hn" tvg-name="RCV TV" tvg-logo="" group-title="Spanish",RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDN.do" tvg-name="RDN" tvg-logo="" group-title="Spanish",RDN
@@ -16701,6 +17017,8 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="" group-title="Spanish",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" tvg-logo="" group-title="Spanish",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="TopTV.pe" tvg-name="Top TV" tvg-logo="" group-title="Spanish",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="TopicalMoonRD.do" tvg-name="Topical Moon RD" tvg-logo="" group-title="Spanish",Topical Moon RD
@@ -17507,6 +17825,8 @@ http://138.121.15.230:9002/ZOOM/index.m3u8
 http://190.217.66.92:8000/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" tvg-logo="" group-title="Spanish",Zoom
 http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" tvg-logo="" group-title="Spanish",Zoom
+http://181.78.79.131:8000/play/a0sg
 #EXTINF:-1 tvg-id="ZoomTecnologicoPlus.cl" tvg-name="Zoom Tecnologico Plus" tvg-logo="" group-title="Spanish",Zoom Tecnologico Plus
 https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8
 #EXTINF:-1 tvg-id="ZuracaTV.bo" tvg-name="Zuraca TV" tvg-logo="" group-title="Spanish",Zuraca TV
@@ -17887,6 +18207,8 @@ https://jstre.am/live/jsl:i1onRBELcGV.m3u8
 https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
 #EXTINF:-1 tvg-id="HudaTV.eg" tvg-name="Huda TV" tvg-logo="" group-title="African & Caribbean",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="HyaTV.eg" tvg-name="Hya TV" tvg-logo="" group-title="African & Caribbean",Hya TV
+https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:-1 tvg-id="IBNTV.tz" tvg-name="IBN TV" tvg-logo="" group-title="African & Caribbean",IBN TV
 http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="IBNTVAfrica.tz" tvg-name="IBN TV Africa" tvg-logo="" group-title="African & Caribbean",IBN TV Africa
@@ -18237,6 +18559,8 @@ https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC2.za" tvg-name="SABC 2" tvg-logo="" group-title="African & Caribbean",SABC 2
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABC3.za" tvg-name="SABC 3" tvg-logo="" group-title="African & Caribbean",SABC 3
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" tvg-logo="" group-title="African & Caribbean",SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" tvg-logo="" group-title="African & Caribbean",SABC News
@@ -18449,8 +18773,6 @@ https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e08
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
 #EXTINF:-1 tvg-id="WapTV.ng" tvg-name="Wap TV" tvg-logo="" group-title="African & Caribbean",Wap TV
 https://newproxy3.vidivu.tv/waptv/index.m3u8
-#EXTINF:-1 tvg-id="WAPATV41.pr" tvg-name="WAPA-TV 4.1" tvg-logo="" group-title="African & Caribbean",WAPA-TV 4.1
-https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 #EXTINF:-1 tvg-id="WasatTV.ly" tvg-name="Wasat TV" tvg-logo="" group-title="African & Caribbean",Wasat TV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-name="Watan TV" tvg-logo="" group-title="African & Caribbean",Watan TV
@@ -19303,6 +19625,8 @@ http://38.134.250.110:8000/play/a01y/index.m3u8
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" tvg-logo="" group-title="Other US Public Channels",Discovery World
 http://168.196.127.137:6001/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" tvg-logo="" group-title="Other US Public Channels",Discovery World
+http://209.61.12.77:9000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="District of Columbia Network" tvg-logo="" group-title="Other US Public Channels",District of Columbia Network
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="DiyaTV.us" tvg-name="Diya TV" tvg-logo="" group-title="Other US Public Channels",Diya TV
@@ -19659,6 +19983,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" tvg-logo="" group-title="Other US Public Channels",HBO+ Latin America
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" tvg-logo="" group-title="Other US Public Channels",HBO+ Latin America
+http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="HBTV.us" tvg-name="HBTV" tvg-logo="" group-title="Other US Public Channels",HBTV
 https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us" tvg-name="HCTV Educational Access Channel" tvg-logo="" group-title="Other US Public Channels",HCTV Educational Access Channel
@@ -20037,6 +20363,8 @@ https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" tvg-logo="" group-title="Other US Public Channels",MTV Latin America
 https://streaming.onnethn.com/MTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" tvg-logo="" group-title="Other US Public Channels",MTV Latin America
+http://181.78.79.131:8000/play/a0nc
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV" tvg-logo="" group-title="Other US Public Channels",MTV Pluto TV
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV" tvg-logo="" group-title="Other US Public Channels",MTV Pluto TV
@@ -20159,6 +20487,8 @@ https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="" group-title="Other US Public Channels",NBC
 https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="" group-title="Other US Public Channels",NBC
+https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="" group-title="Other US Public Channels",NBC
 https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="" group-title="Other US Public Channels",NBC
@@ -20891,6 +21221,8 @@ http://168.196.127.137:6001/play/a05t/index.m3u8
 http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" tvg-logo="" group-title="Other US Public Channels",Telemundo Internacional
 http://45.173.231.22:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="TelevisionCaribe.us" tvg-name="Television Caribe" tvg-logo="" group-title="Other US Public Channels",Television Caribe
+https://televisioncaribe.com/index.m3u8
 #EXTINF:-1 tvg-id="TeleXitos.us" tvg-name="TeleXitos" tvg-logo="" group-title="Other US Public Channels",TeleXitos
 http://190.197.41.183/TELEXITOS/index.m3u8
 #EXTINF:-1 tvg-id="TemeculaTV.us" tvg-name="Temecula TV" tvg-logo="" group-title="Other US Public Channels",Temecula TV
@@ -21321,6 +21653,8 @@ http://51.210.199.58/hls/stream.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1 tvg-id="RTA.af" tvg-name="RTA" tvg-logo="" group-title="Other International - AF",RTA
 https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8
+#EXTINF:-1 tvg-id="RTAEducation.af" tvg-name="RTA Education" tvg-logo="" group-title="Other International - AF",RTA Education
+https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.af" tvg-name="Shams TV" tvg-logo="" group-title="Other International - AF",Shams TV
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="ShamshadTV.af" tvg-name="Shamshad TV" tvg-logo="" group-title="Other International - AF",Shamshad TV
@@ -21589,6 +21923,8 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="KanaalZ.be" tvg-name="Kanaal Z" tvg-logo="" group-title="Other International - BE",Kanaal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="La Une" tvg-logo="" group-title="Other International - BE",La Une
+http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 tvg-id="Matele.be" tvg-name="Matele" tvg-logo="" group-title="Other International - BE",Matele
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="Notele.be" tvg-name="Notele" tvg-logo="" group-title="Other International - BE",Notele
@@ -24999,6 +25335,8 @@ https://live.onecloudlive.in/amn/amntv/index.m3u8
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" tvg-logo="" group-title="Other International - IN",Amrita TV
 https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" tvg-logo="" group-title="Other International - IN",Amrita TV
+https://fta.ektv.in/live/698/master.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="" group-title="Other International - IN",Animal Planet
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="" group-title="Other International - IN",Animal Planet
@@ -25008,15 +25346,21 @@ https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" tvg-logo="" group-title="Other International - IN",Anjan TV
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" tvg-logo="" group-title="Other International - IN",Anjan TV
+https://fta.ektv.in/live/20/master.m3u8
+#EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" tvg-logo="" group-title="Other International - IN",Anjan TV
 https://cdn.pishow.tv/ott/live/993/master.m3u8
 #EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" tvg-logo="" group-title="Other International - IN",Anmol TV
 https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
+#EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" tvg-logo="" group-title="Other International - IN",Anmol TV
+https://fta.ektv.in/live/256/master.m3u8
 #EXTINF:-1 tvg-id="AryanTVNational.in" tvg-name="Aryan TV National" tvg-logo="" group-title="Other International - IN",Aryan TV National
 https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" tvg-logo="" group-title="Other International - IN",Asianet
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" tvg-logo="" group-title="Other International - IN",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" tvg-logo="" group-title="Other International - IN",Asianet Middle East
+https://fta.ektv.in/live/697/master.m3u8
 #EXTINF:-1 tvg-id="Astroscience.in" tvg-name="Astroscience" tvg-logo="" group-title="Other International - IN",Astroscience
 https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" tvg-logo="" group-title="Other International - IN",Ayush TV
@@ -25033,6 +25377,8 @@ https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
 https://cdn.pishow.tv/ott/live/963/master.m3u8
 #EXTINF:-1 tvg-id="Captain.in" tvg-name="Captain" tvg-logo="" group-title="Other International - IN",Captain
 https://mumbai-edge.smartplaytv.in/captain/index.m3u8
+#EXTINF:-1 tvg-id="Captain.in" tvg-name="Captain" tvg-logo="" group-title="Other International - IN",Captain
+https://fta.ektv.in/live/173/master.m3u8
 #EXTINF:-1 tvg-id="CCV.in" tvg-name="CCV" tvg-logo="" group-title="Other International - IN",CCV
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="CineJomjomat.in" tvg-name="Cine Jomjomat" tvg-logo="" group-title="Other International - IN",Cine Jomjomat
@@ -25087,6 +25433,8 @@ https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" tvg-logo="" group-title="Other International - IN",Dangal 2
 http://107.167.16.138/Dangal2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" tvg-logo="" group-title="Other International - IN",Dangal 2
+https://fta.ektv.in/live/18/master.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" tvg-logo="" group-title="Other International - IN",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" tvg-logo="" group-title="Other International - IN",Dangal TV
@@ -25097,6 +25445,8 @@ https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" tvg-logo="" group-title="Other International - IN",Dangal TV
 https://cdn.pishow.tv/ott/live/1141/master.m3u8
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" tvg-logo="" group-title="Other International - IN",Dangal TV
+https://fta.ektv.in/live/17/master.m3u8
 #EXTINF:-1 tvg-id="DarshanaTV.in" tvg-name="Darshana TV" tvg-logo="" group-title="Other International - IN",Darshana TV
 https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
 #EXTINF:-1 tvg-id="DarshanaTV.in" tvg-name="Darshana TV" tvg-logo="" group-title="Other International - IN",Darshana TV
@@ -25106,19 +25456,29 @@ https://cdn.pishow.tv/ott/live/1453/master.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-name="DD Arun Prabha" tvg-logo="" group-title="Other International - IN",DD Arun Prabha
 https://cdn.pishow.tv/ott/live/32/master.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-name="DD Arun Prabha" tvg-logo="" group-title="Other International - IN",DD Arun Prabha
+https://fta.ektv.in/live/203/master.m3u8
+#EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-name="DD Arun Prabha" tvg-logo="" group-title="Other International - IN",DD Arun Prabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" tvg-logo="" group-title="Other International - IN",DD Assam
+https://fta.ektv.in/live/672/master.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" tvg-logo="" group-title="Other International - IN",DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" tvg-logo="" group-title="Other International - IN",DD Bangla
 https://cdn.pishow.tv/ott/live/37/master.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" tvg-logo="" group-title="Other International - IN",DD Bangla
+https://fta.ektv.in/live/197/master.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" tvg-logo="" group-title="Other International - IN",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" group-title="Other International - IN",DD Bharati
+https://fta.ektv.in/live/335/master.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" group-title="Other International - IN",DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" group-title="Other International - IN",DD Bharati
 https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" tvg-logo="" group-title="Other International - IN",DD Bihar
 https://mumbai-edge.smartplaytv.in/ddbihar/index.m3u8
+#EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" tvg-logo="" group-title="Other International - IN",DD Bihar
+https://fta.ektv.in/live/172/master.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" tvg-logo="" group-title="Other International - IN",DD Bihar
 https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" tvg-logo="" group-title="Other International - IN",DD Bihar
@@ -25128,15 +25488,25 @@ https://cdn.pishow.tv/ott/live/28/master.m3u8
 #EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD Chandana" tvg-logo="" group-title="Other International - IN",DD Chandana
 https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
 #EXTINF:-1 tvg-id="DDChhattisgarh.in" tvg-name="DD Chhattisgarh" tvg-logo="" group-title="Other International - IN",DD Chhattisgarh
+https://fta.ektv.in/live/577/master.m3u8
+#EXTINF:-1 tvg-id="DDChhattisgarh.in" tvg-name="DD Chhattisgarh" tvg-logo="" group-title="Other International - IN",DD Chhattisgarh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
 #EXTINF:-1 tvg-id="DDChhattisgarh.in" tvg-name="DD Chhattisgarh" tvg-logo="" group-title="Other International - IN",DD Chhattisgarh
 https://cdn.pishow.tv/ott/live/15/master.m3u8
 #EXTINF:-1 tvg-id="DDGirnar.in" tvg-name="DD Girnar" tvg-logo="" group-title="Other International - IN",DD Girnar
+https://fta.ektv.in/live/368/master.m3u8
+#EXTINF:-1 tvg-id="DDGirnar.in" tvg-name="DD Girnar" tvg-logo="" group-title="Other International - IN",DD Girnar
 https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+#EXTINF:-1 tvg-id="DDGoa.in" tvg-name="DD Goa" tvg-logo="" group-title="Other International - IN",DD Goa
+https://fta.ektv.in/live/367/master.m3u8
 #EXTINF:-1 tvg-id="DDGoa.in" tvg-name="DD Goa" tvg-logo="" group-title="Other International - IN",DD Goa
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
 #EXTINF:-1 tvg-id="DDHaryana.in" tvg-name="DD Haryana" tvg-logo="" group-title="Other International - IN",DD Haryana
+https://fta.ektv.in/live/580/master.m3u8
+#EXTINF:-1 tvg-id="DDHaryana.in" tvg-name="DD Haryana" tvg-logo="" group-title="Other International - IN",DD Haryana
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in" tvg-name="DD Himachal Pradesh" tvg-logo="" group-title="Other International - IN",DD Himachal Pradesh
+https://fta.ektv.in/live/575/master.m3u8
 #EXTINF:-1 tvg-id="DDHimachalPradesh.in" tvg-name="DD Himachal Pradesh" tvg-logo="" group-title="Other International - IN",DD Himachal Pradesh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="" group-title="Other International - IN",DD India
@@ -25148,15 +25518,21 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="" group-title="Other International - IN",DD India
 https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="" group-title="Other International - IN",DD India
+https://fta.ektv.in/live/119/119_0.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="" group-title="Other International - IN",DD India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="" group-title="Other International - IN",DD India
 https://cdn.pishow.tv/ott/live/23/master.m3u8
 #EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" tvg-logo="" group-title="Other International - IN",DD Jharkhand
 https://cdn.pishow.tv/ott/live/1617/master.m3u8
 #EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" tvg-logo="" group-title="Other International - IN",DD Jharkhand
+https://fta.ektv.in/live/573/master.m3u8
+#EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" tvg-logo="" group-title="Other International - IN",DD Jharkhand
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" tvg-logo="" group-title="Other International - IN",DD Kashir
 https://cdn.pishow.tv/ott/live/16/master.m3u8
+#EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" tvg-logo="" group-title="Other International - IN",DD Kashir
+https://fta.ektv.in/live/248/master.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" tvg-logo="" group-title="Other International - IN",DD Kashir
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" group-title="Other International - IN",DD Kisan
@@ -25164,21 +25540,31 @@ https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" group-title="Other International - IN",DD Kisan
 https://cdn.pishow.tv/ott/live/223/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" group-title="Other International - IN",DD Kisan
+https://fta.ektv.in/live/148/148_0.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" group-title="Other International - IN",DD Kisan
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" group-title="Other International - IN",DD Kisan
 https://cdn.pishow.tv/ott/live/9/master.m3u8
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" tvg-logo="" group-title="Other International - IN",DD Madhya Pradesh
 https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" tvg-logo="" group-title="Other International - IN",DD Madhya Pradesh
+https://fta.ektv.in/live/578/master.m3u8
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" tvg-logo="" group-title="Other International - IN",DD Madhya Pradesh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" tvg-logo="" group-title="Other International - IN",DD Madhya Pradesh
 https://cdn.pishow.tv/ott/live/31/master.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" tvg-logo="" group-title="Other International - IN",DD Malayalam
+https://fta.ektv.in/live/680/master.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" tvg-logo="" group-title="Other International - IN",DD Malayalam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+#EXTINF:-1 tvg-id="DDManipur.in" tvg-name="DD Manipur" tvg-logo="" group-title="Other International - IN",DD Manipur
+https://fta.ektv.in/live/671/master.m3u8
 #EXTINF:-1 tvg-id="DDManipur.in" tvg-name="DD Manipur" tvg-logo="" group-title="Other International - IN",DD Manipur
 https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
 #EXTINF:-1 tvg-id="DDMeghalaya.in" tvg-name="DD Meghalaya" tvg-logo="" group-title="Other International - IN",DD Meghalaya
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" tvg-logo="" group-title="Other International - IN",DD Nagaland
+https://fta.ektv.in/live/670/master.m3u8
 #EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" tvg-logo="" group-title="Other International - IN",DD Nagaland
 https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="" group-title="Other International - IN",DD National
@@ -25188,13 +25574,19 @@ https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="" group-title="Other International - IN",DD National
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="" group-title="Other International - IN",DD National
+https://fta.ektv.in/live/15/master.m3u8
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="" group-title="Other International - IN",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="" group-title="Other International - IN",DD National
 https://cdn.pishow.tv/ott/live/11/master.m3u8
 #EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" tvg-logo="" group-title="Other International - IN",DD Odia
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 #EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" tvg-logo="" group-title="Other International - IN",DD Odia
+https://fta.ektv.in/live/384/master.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" tvg-logo="" group-title="Other International - IN",DD Odia
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-logo="" group-title="Other International - IN",DD Punjabi
+https://fta.ektv.in/live/177/master.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-logo="" group-title="Other International - IN",DD Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
 #EXTINF:-1 tvg-id="DDRajasthan.in" tvg-name="DD Rajasthan" tvg-logo="" group-title="Other International - IN",DD Rajasthan
@@ -25203,6 +25595,8 @@ https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8
 #EXTINF:-1 tvg-id="DDRajasthan.in" tvg-name="DD Rajasthan" tvg-logo="" group-title="Other International - IN",DD Rajasthan
 https://cdn.pishow.tv/ott/live/34/master.m3u8
+#EXTINF:-1 tvg-id="DDSahyadri.in" tvg-name="DD Sahyadri" tvg-logo="" group-title="Other International - IN",DD Sahyadri
+https://fta.ektv.in/live/187/master.m3u8
 #EXTINF:-1 tvg-id="DDSahyadri.in" tvg-name="DD Sahyadri" tvg-logo="" group-title="Other International - IN",DD Sahyadri
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
 #EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD Saptagiri" tvg-logo="" group-title="Other International - IN",DD Saptagiri
@@ -25213,6 +25607,10 @@ https://cdn.pishow.tv/ott/live/22/master.m3u8
 https://cdn.pishow.tv/ott/live/1737/master.m3u8
 #EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" tvg-logo="" group-title="Other International - IN",DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" tvg-logo="" group-title="Other International - IN",DD Tamil
+https://fta.ektv.in/live/679/master.m3u8
+#EXTINF:-1 tvg-id="DDTripura.in" tvg-name="DD Tripura" tvg-logo="" group-title="Other International - IN",DD Tripura
+https://fta.ektv.in/live/661/master.m3u8
 #EXTINF:-1 tvg-id="DDTripura.in" tvg-name="DD Tripura" tvg-logo="" group-title="Other International - IN",DD Tripura
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" tvg-logo="" group-title="Other International - IN",DD Urdu
@@ -25222,13 +25620,19 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/in
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" tvg-logo="" group-title="Other International - IN",DD Urdu
 https://cdn.pishow.tv/ott/live/8/master.m3u8
 #EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="DD Uttar Pradesh" tvg-logo="" group-title="Other International - IN",DD Uttar Pradesh
+https://fta.ektv.in/live/263/master.m3u8
+#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="DD Uttar Pradesh" tvg-logo="" group-title="Other International - IN",DD Uttar Pradesh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
 #EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="DD Uttar Pradesh" tvg-logo="" group-title="Other International - IN",DD Uttar Pradesh
 https://cdn.pishow.tv/ott/live/36/master.m3u8
 #EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" tvg-logo="" group-title="Other International - IN",DD Uttarakhand
+https://fta.ektv.in/live/576/master.m3u8
+#EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" tvg-logo="" group-title="Other International - IN",DD Uttarakhand
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
 #EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" tvg-logo="" group-title="Other International - IN",DD Uttarakhand
 https://cdn.pishow.tv/ott/live/17/master.m3u8
+#EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" tvg-logo="" group-title="Other International - IN",DD Yadagiri
+https://fta.ektv.in/live/678/master.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" tvg-logo="" group-title="Other International - IN",DD Yadagiri
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" tvg-logo="" group-title="Other International - IN",DD Yadagiri
@@ -25249,6 +25653,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" tvg-logo="" group-title="Other International - IN",E 24
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
+#EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" tvg-logo="" group-title="Other International - IN",E 24
+https://fta.ektv.in/live/159/master.m3u8
 #EXTINF:-1 tvg-id="EVidya10.in" tvg-name="E-Vidya 10" tvg-logo="" group-title="Other International - IN",E-Vidya 10
 http://103.72.101.252:8080/live/411.m3u8
 #EXTINF:-1 tvg-id="EVidya11.in" tvg-name="E-Vidya 11" tvg-logo="" group-title="Other International - IN",E-Vidya 11
@@ -25279,6 +25685,8 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 http://103.185.24.134:3001/ENTER10-BANGLA/index.m3u8
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" tvg-logo="" group-title="Other International - IN",Enterr 10 Bangla
 http://103.151.60.162:2122/play/a0fa/index.m3u8?hls
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" tvg-logo="" group-title="Other International - IN",Enterr 10 Bangla
+https://fta.ektv.in/live/658/master.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" tvg-logo="" group-title="Other International - IN",Epic Bharat
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" tvg-logo="" group-title="Other International - IN",Epic Bharat
@@ -25312,7 +25720,13 @@ https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" tvg-logo="" group-title="Other International - IN",Fakt Marathi
 https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" tvg-logo="" group-title="Other International - IN",Fakt Marathi
+https://fta.ektv.in/live/188/master.m3u8
+#EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" tvg-logo="" group-title="Other International - IN",Fakt Marathi
 https://cdn.pishow.tv/ott/live/10002/master.m3u8
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" tvg-logo="" group-title="Other International - IN",FashionTV
+https://fta.ektv.in/live/144/144_0.m3u8
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" tvg-logo="" group-title="Other International - IN",FashionTV
+https://fta.ektv.in/live/332/master.m3u8
 #EXTINF:-1 tvg-id="Fast1.in" tvg-name="Fast1" tvg-logo="" group-title="Other International - IN",Fast1
 https://cdn.pishow.tv/ott/live/10008/master.m3u8
 #EXTINF:-1 tvg-id="Fast1.in" tvg-name="Fast1" tvg-logo="" group-title="Other International - IN",Fast1
@@ -25325,6 +25739,8 @@ https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="" group-title="Other International - IN",Food Food
 https://cdn.pishow.tv/ott/live/267/master.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="" group-title="Other International - IN",Food Food
+https://fta.ektv.in/live/143/143_0.m3u8
 #EXTINF:-1 tvg-id="FriendsTV.in" tvg-name="Friends TV" tvg-logo="" group-title="Other International - IN",Friends TV
 https://server.playontv.in/friendstv/index.m3u8
 #EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" tvg-logo="" group-title="Other International - IN",Gangaur TV
@@ -25333,6 +25749,8 @@ https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
 #EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" tvg-logo="" group-title="Other International - IN",Gangaur TV
 https://cdn.pishow.tv/ott/live/1221/master.m3u8
+#EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" tvg-logo="" group-title="Other International - IN",Gangaur TV
+https://fta.ektv.in/live/22/master.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" tvg-logo="" group-title="Other International - IN",GTC Punjabi
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" tvg-logo="" group-title="Other International - IN",GTC Punjabi
@@ -25346,6 +25764,8 @@ https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" tvg-logo="" group-title="Other International - IN",GTC Punjabi
 https://neotv.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" tvg-logo="" group-title="Other International - IN",GTC Punjabi
+https://fta.ektv.in/live/772/master.m3u8
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" tvg-logo="" group-title="Other International - IN",GTC Punjabi
 https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" tvg-logo="" group-title="Other International - IN",GTC Punjabi
 https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
@@ -25355,6 +25775,8 @@ https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 https://cdn.pishow.tv/ott/live/14/master.m3u8
 #EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" tvg-logo="" group-title="Other International - IN",Hi Dost!
 https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
+#EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" tvg-logo="" group-title="Other International - IN",Hi Dost!
+https://fta.ektv.in/live/713/master.m3u8
 #EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" tvg-logo="" group-title="Other International - IN",Hi Dost!
 https://cdn.pishow.tv/ott/live/224/master.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" tvg-logo="" group-title="Other International - IN",History TV18
@@ -25371,6 +25793,8 @@ https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8
 https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
 #EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" tvg-logo="" group-title="Other International - IN",Jaihind TV
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JaihindTV.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" tvg-logo="" group-title="Other International - IN",Jaihind TV
+https://fta.ektv.in/live/700/master.m3u8
 #EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" tvg-logo="" group-title="Other International - IN",Jan TV
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 #EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" tvg-logo="" group-title="Other International - IN",Jan TV
@@ -25387,6 +25811,8 @@ https://cdn.pishow.tv/ott/live/1467/master.m3u8
 https://cdn.pishow.tv/ott/live/10006/master.m3u8
 #EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" tvg-logo="" group-title="Other International - IN",Jonack
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" tvg-logo="" group-title="Other International - IN",Jonack
+https://fta.ektv.in/live/676/master.m3u8
 #EXTINF:-1 tvg-id="KairaliArabia.in" tvg-name="Kairali Arabia" tvg-logo="" group-title="Other International - IN",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV" tvg-logo="" group-title="Other International - IN",Kairali TV
@@ -25404,6 +25830,8 @@ https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-logo="" group-title="Other International - IN",Kappa TV
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-logo="" group-title="Other International - IN",Kappa TV
+https://fta.ektv.in/live/247/master.m3u8
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-logo="" group-title="Other International - IN",Kappa TV
 https://cdn.pishow.tv/ott/live/1123/master.m3u8
 #EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" tvg-logo="" group-title="Other International - IN",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
@@ -25420,6 +25848,8 @@ https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" tvg-logo="" group-title="Other International - IN",Khushboo Bangla
 https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" tvg-logo="" group-title="Other International - IN",Khushboo Bangla
+https://fta.ektv.in/live/375/master.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" tvg-logo="" group-title="Other International - IN",Khushboo Bangla
 https://cdn.pishow.tv/ott/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="KiteVicters.in" tvg-name="Kite Victers" tvg-logo="" group-title="Other International - IN",Kite Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
@@ -25427,6 +25857,8 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" tvg-logo="" group-title="Other International - IN",Maha Punjabi
 https://cdn.pishow.tv/ott/live/1521/master.m3u8
+#EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" tvg-logo="" group-title="Other International - IN",Maha Punjabi
+https://fta.ektv.in/live/640/master.m3u8
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" tvg-logo="" group-title="Other International - IN",Mahaa Max
 https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" tvg-logo="" group-title="Other International - IN",Mahaa Max
@@ -25435,12 +25867,16 @@ https://d1msejlow1t3l4.cloudfront.net/fta/mahaamax/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" tvg-logo="" group-title="Other International - IN",Mahaa Max
 https://cdn.pishow.tv/ott/live/1147/master.m3u8
+#EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" tvg-logo="" group-title="Other International - IN",Mahaa Max
+https://fta.ektv.in/live/684/master.m3u8
 #EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" tvg-logo="" group-title="Other International - IN",Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" tvg-logo="" group-title="Other International - IN",Makkal TV
 https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8
 #EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" tvg-logo="" group-title="Other International - IN",Makkal TV
 https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" tvg-logo="" group-title="Other International - IN",Makkal TV
+https://fta.ektv.in/live/683/master.m3u8
 #EXTINF:-1 tvg-id="Mango.in" tvg-name="Mango" tvg-logo="" group-title="Other International - IN",Mango
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 tvg-id="MangoMobileTV.in" tvg-name="Mango Mobile TV" tvg-logo="" group-title="Other International - IN",Mango Mobile TV
@@ -25449,12 +25885,16 @@ https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlis
 https://cdn.pishow.tv/ott/live/1474/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanPrime.in" tvg-name="Manoranjan Prime" tvg-logo="" group-title="Other International - IN",Manoranjan Prime
 https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanPrime.in" tvg-name="Manoranjan Prime" tvg-logo="" group-title="Other International - IN",Manoranjan Prime
+https://fta.ektv.in/live/345/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" tvg-logo="" group-title="Other International - IN",Manoranjan TV
 https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" tvg-logo="" group-title="Other International - IN",Manoranjan TV
 https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" tvg-logo="" group-title="Other International - IN",Manoranjan TV
 https://mumt04.tangotv.in/m18aqlK4MANORANJANTV/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" tvg-logo="" group-title="Other International - IN",Manoranjan TV
+https://fta.ektv.in/live/23/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" tvg-logo="" group-title="Other International - IN",Manoranjan TV
 https://cdn.pishow.tv/ott/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-name="Marutam TV" tvg-logo="" group-title="Other International - IN",Marutam TV
@@ -25465,6 +25905,8 @@ http://103.175.73.12:8080/live/245/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" tvg-logo="" group-title="Other International - IN",Mazhavil Manorama
 https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" tvg-logo="" group-title="Other International - IN",Mazhavil Manorama
+https://fta.ektv.in/live/245/master.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" tvg-logo="" group-title="Other International - IN",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" tvg-logo="" group-title="Other International - IN",Mazhavil Manorama
@@ -25477,6 +25919,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 #EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" tvg-logo="" group-title="Other International - IN",MBC TV
 https://cdn.pishow.tv/ott/live/1017/master.m3u8
+#EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" tvg-logo="" group-title="Other International - IN",MBC TV
+https://fta.ektv.in/live/667/master.m3u8
 #EXTINF:-1 tvg-id="MeiAlaiTV.in" tvg-name="Mei Alai TV" tvg-logo="" group-title="Other International - IN",Mei Alai TV
 https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" tvg-logo="" group-title="Other International - IN",Metro TV
@@ -25487,10 +25931,14 @@ https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
 #EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" tvg-logo="" group-title="Other International - IN",MH One
 https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" tvg-logo="" group-title="Other International - IN",MH One
+https://fta.ektv.in/live/353/master.m3u8
 #EXTINF:-1 tvg-id="MHOneDilSe.in" tvg-name="MH One Dil Se" tvg-logo="" group-title="Other International - IN",MH One Dil Se
 https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MHOneDilSe.in" tvg-name="MH One Dil Se" tvg-logo="" group-title="Other International - IN",MH One Dil Se
 https://mumt01.tangotv.in/O5aw8Zn3MHONEDILSE/index.m3u8
+#EXTINF:-1 tvg-id="MHOneDilSe.in" tvg-name="MH One Dil Se" tvg-logo="" group-title="Other International - IN",MH One Dil Se
+https://fta.ektv.in/live/351/master.m3u8
 #EXTINF:-1 tvg-id="MKSix.in" tvg-name="MK Six" tvg-logo="" group-title="Other International - IN",MK Six
 https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 #EXTINF:-1 tvg-id="MKSix.in" tvg-name="MK Six" tvg-logo="" group-title="Other International - IN",MK Six
@@ -25521,6 +25969,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 https://cdn.pishow.tv/ott/live/1490/master.m3u8
 #EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" tvg-logo="" group-title="Other International - IN",Nepal 1
 https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
+#EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" tvg-logo="" group-title="Other International - IN",Nepal 1
+https://fta.ektv.in/live/380/master.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="" group-title="Other International - IN",Network 10
 https://network10.livebox.co.in/network10hls/live.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="" group-title="Other International - IN",Network 10
@@ -25531,12 +25981,16 @@ https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="" group-title="Other International - IN",Network 10
 https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
+#EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="" group-title="Other International - IN",Network 10
+https://fta.ektv.in/live/611/master.m3u8
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" tvg-logo="" group-title="Other International - IN",News 11
 https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" tvg-logo="" group-title="Other International - IN",News 11
 https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" tvg-logo="" group-title="Other International - IN",News 11
 https://live1.ottlive.co.in/news11/news11/index.m3u8
+#EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" tvg-logo="" group-title="Other International - IN",News 11
+https://fta.ektv.in/live/307/master.m3u8
 #EXTINF:-1 tvg-id="NewsCapitalMarket.in" tvg-name="News Capital Market" tvg-logo="" group-title="Other International - IN",News Capital Market
 https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" tvg-logo="" group-title="Other International - IN",NKR TV Kannada
@@ -25559,8 +26013,12 @@ https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
 #EXTINF:-1 tvg-id="PasandTV.in" tvg-name="Pasand TV" tvg-logo="" group-title="Other International - IN",Pasand TV
 https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
+#EXTINF:-1 tvg-id="PasandTV.in" tvg-name="Pasand TV" tvg-logo="" group-title="Other International - IN",Pasand TV
+https://fta.ektv.in/live/708/master.m3u8
 #EXTINF:-1 tvg-id="PearTV.in" tvg-name="Pear TV" tvg-logo="" group-title="Other International - IN",Pear TV
 https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+#EXTINF:-1 tvg-id="PearTV.in" tvg-name="Pear TV" tvg-logo="" group-title="Other International - IN",Pear TV
+https://fta.ektv.in/live/695/master.m3u8
 #EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" tvg-logo="" group-title="Other International - IN",Polimer TV
 https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
 #EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" tvg-logo="" group-title="Other International - IN",Polimer TV
@@ -25583,12 +26041,16 @@ https://cdn.pishow.tv/ott/live/1604/master.m3u8
 https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="" group-title="Other International - IN",PTC Punjabi
 https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="" group-title="Other International - IN",PTC Punjabi
+https://fta.ektv.in/live/175/master.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" tvg-logo="" group-title="Other International - IN",PTC Punjabi Gold
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" tvg-logo="" group-title="Other International - IN",PTC Punjabi Gold
 https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" tvg-logo="" group-title="Other International - IN",PTC Punjabi Gold
 https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" tvg-logo="" group-title="Other International - IN",PTC Punjabi Gold
+https://fta.ektv.in/live/176/master.m3u8
 #EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" tvg-logo="" group-title="Other International - IN",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" tvg-logo="" group-title="Other International - IN",Pulari TV
@@ -25604,21 +26066,29 @@ https://tvsen6.aynaott.com/3PjZZahm/index.m3u8
 #EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" tvg-logo="" group-title="Other International - IN",Q TV
 https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" tvg-logo="" group-title="Other International - IN",Q TV
+https://fta.ektv.in/live/25/master.m3u8
+#EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" tvg-logo="" group-title="Other International - IN",Q TV
 https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 #EXTINF:-1 tvg-id="RPlus.in" tvg-name="R Plus" tvg-logo="" group-title="Other International - IN",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="RPlus.in" tvg-name="R Plus" tvg-logo="" group-title="Other International - IN",R Plus
 https://mumt05.tangotv.in/87NeALx2RPLUS/index.m3u8
+#EXTINF:-1 tvg-id="RPlus.in" tvg-name="R Plus" tvg-logo="" group-title="Other International - IN",R Plus
+https://fta.ektv.in/live/662/master.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" tvg-logo="" group-title="Other International - IN",R Plus Gold
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" tvg-logo="" group-title="Other International - IN",R Plus Gold
 https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8
+#EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" tvg-logo="" group-title="Other International - IN",R Plus Gold
+https://fta.ektv.in/live/198/master.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" tvg-logo="" group-title="Other International - IN",R Plus Gold
 https://cdn.pishow.tv/ott/live/1231/master.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in" tvg-name="Raftaar Media" tvg-logo="" group-title="Other International - IN",Raftaar Media
 https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in" tvg-name="Raftaar Media" tvg-logo="" group-title="Other International - IN",Raftaar Media
 https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="RaftaarMedia.in" tvg-name="Raftaar Media" tvg-logo="" group-title="Other International - IN",Raftaar Media
+https://fta.ektv.in/live/306/master.m3u8
 #EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" tvg-logo="" group-title="Other International - IN",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
 #EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" tvg-logo="" group-title="Other International - IN",Raj TV
@@ -25631,18 +26101,24 @@ https://cdn.pishow.tv/ott/live/10017/master.m3u8
 https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Rang.in" tvg-name="Rang" tvg-logo="" group-title="Other International - IN",Rang
 https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8
+#EXTINF:-1 tvg-id="Rang.in" tvg-name="Rang" tvg-logo="" group-title="Other International - IN",Rang
+https://fta.ektv.in/live/673/master.m3u8
 #EXTINF:-1 tvg-id="Rengoni.in" tvg-name="Rengoni" tvg-logo="" group-title="Other International - IN",Rengoni
 https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rengoni.in" tvg-name="Rengoni" tvg-logo="" group-title="Other International - IN",Rengoni
 https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Rengoni.in" tvg-name="Rengoni" tvg-logo="" group-title="Other International - IN",Rengoni
 https://mumt05.tangotv.in/87NeALx2RENGONI/index.m3u8
+#EXTINF:-1 tvg-id="Rengoni.in" tvg-name="Rengoni" tvg-logo="" group-title="Other International - IN",Rengoni
+https://fta.ektv.in/live/709/master.m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in" tvg-name="Rongeen TV" tvg-logo="" group-title="Other International - IN",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in" tvg-name="Rongeen TV" tvg-logo="" group-title="Other International - IN",Rongeen TV
 https://mumt05.tangotv.in/87NeALx2RONGEENTV/index.m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in" tvg-name="Rongeen TV" tvg-logo="" group-title="Other International - IN",Rongeen TV
 https://mumbai-edge.smartplaytv.in/RongeenTV/index.m3u8
+#EXTINF:-1 tvg-id="RongeenTV.in" tvg-name="Rongeen TV" tvg-logo="" group-title="Other International - IN",Rongeen TV
+https://fta.ektv.in/live/202/master.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" tvg-logo="" group-title="Other International - IN",Rupasi Bangla
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" tvg-logo="" group-title="Other International - IN",Rupasi Bangla
@@ -25652,9 +26128,13 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" tvg-logo="" group-title="Other International - IN",Rupasi Bangla
 http://103.151.60.162:2122/play/a02n/index.m3u8?hls
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" tvg-logo="" group-title="Other International - IN",Rupasi Bangla
+https://fta.ektv.in/live/664/master.m3u8
+#EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" tvg-logo="" group-title="Other International - IN",Rupasi Bangla
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" tvg-logo="" group-title="Other International - IN",Saam TV
 https://streams.tangotv.in/SAAMTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" tvg-logo="" group-title="Other International - IN",Saam TV
+https://fta.ektv.in/live/650/master.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" tvg-logo="" group-title="Other International - IN",Saam TV
 https://cdn.pishow.tv/ott/live/437/master.m3u8
 #EXTINF:-1 tvg-id="SADATV.in" tvg-name="SADA TV" tvg-logo="" group-title="Other International - IN",SADA TV
@@ -25678,15 +26158,21 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/in
 #EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" tvg-logo="" group-title="Other International - IN",Sansad TV 1
 https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
 #EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" tvg-logo="" group-title="Other International - IN",Sansad TV 1
+https://fta.ektv.in/live/718/master.m3u8
+#EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" tvg-logo="" group-title="Other International - IN",Sansad TV 1
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" tvg-logo="" group-title="Other International - IN",Sansad TV 2
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" tvg-logo="" group-title="Other International - IN",Sansad TV 2
 https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" tvg-logo="" group-title="Other International - IN",Sansad TV 2
+https://fta.ektv.in/live/298/master.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" tvg-logo="" group-title="Other International - IN",Sansad TV 2
 https://cdn.pishow.tv/ott/live/39/master.m3u8
 #EXTINF:-1 tvg-id="SantvaniChannel.in" tvg-name="Santvani Channel" tvg-logo="" group-title="Other International - IN",Santvani Channel
 https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
+#EXTINF:-1 tvg-id="SantvaniChannel.in" tvg-name="Santvani Channel" tvg-logo="" group-title="Other International - IN",Santvani Channel
+https://fta.ektv.in/live/342/master.m3u8
 #EXTINF:-1 tvg-id="SantvaniChannel.in" tvg-name="Santvani Channel" tvg-logo="" group-title="Other International - IN",Santvani Channel
 https://cdn.pishow.tv/ott/live/475/master.m3u8
 #EXTINF:-1 tvg-id="SarvDharmSangam.in" tvg-name="Sarv Dharm Sangam" tvg-logo="" group-title="Other International - IN",Sarv Dharm Sangam
@@ -25707,6 +26193,8 @@ https://cdn.pishow.tv/ott/live/447/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlSHEMAROOMARATHIBANA/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-name="Shemaroo Marathi Bana" tvg-logo="" group-title="Other International - IN",Shemaroo Marathi Bana
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-name="Shemaroo Marathi Bana" tvg-logo="" group-title="Other International - IN",Shemaroo Marathi Bana
+https://fta.ektv.in/live/189/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" tvg-logo="" group-title="Other International - IN",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" tvg-logo="" group-title="Other International - IN",Shemaroo TV
@@ -25716,6 +26204,8 @@ https://tvsen3.aynaott.com/27jCLCUX/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" tvg-logo="" group-title="Other International - IN",Shemaroo TV
 https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" tvg-logo="" group-title="Other International - IN",Shemaroo TV
+https://fta.ektv.in/live/274/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" tvg-logo="" group-title="Other International - IN",Shemaroo TV
 https://cdn.pishow.tv/ott/live/230/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" tvg-logo="" group-title="Other International - IN",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
@@ -25723,6 +26213,8 @@ https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist
 https://streams.tangotv.in/SHEMAROOUMANG/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" tvg-logo="" group-title="Other International - IN",Shemaroo Umang
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" tvg-logo="" group-title="Other International - IN",Shemaroo Umang
+https://fta.ektv.in/live/258/master.m3u8
 #EXTINF:-1 tvg-id="ShikshaTV.in" tvg-name="Shiksha TV" tvg-logo="" group-title="Other International - IN",Shiksha TV
 http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 #EXTINF:-1 tvg-id="ShubhTV.in" tvg-name="Shubh TV" tvg-logo="" group-title="Other International - IN",Shubh TV
@@ -25799,6 +26291,8 @@ https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 https://live.we2live.in/taazatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TaazaTV.in" tvg-name="Taaza TV" tvg-logo="" group-title="Other International - IN",Taaza TV
 https://tvsen3.aynaott.com/yRMLky2j/index.m3u8
+#EXTINF:-1 tvg-id="TaazaTV.in" tvg-name="Taaza TV" tvg-logo="" group-title="Other International - IN",Taaza TV
+https://fta.ektv.in/live/591/master.m3u8
 #EXTINF:-1 tvg-id="TamilanTV.in" tvg-name="Tamilan TV" tvg-logo="" group-title="Other International - IN",Tamilan TV
 https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in" tvg-name="Tarang TV" tvg-logo="" group-title="Other International - IN",Tarang TV
@@ -25835,6 +26329,8 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 http://103.151.60.162:2122/play/a01s/index.m3u8?hls
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-logo="" group-title="Other International - IN",Travelxp
 http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1 tvg-id="TV100.in" tvg-name="TV 100" tvg-logo="" group-title="Other International - IN",TV 100
+https://fta.ektv.in/live/310/master.m3u8
 #EXTINF:-1 tvg-id="TVBRICSEnglish.in" tvg-name="TV BRICS English" tvg-logo="" group-title="Other International - IN",TV BRICS English
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="UBangla.in" tvg-name="U Bangla" tvg-logo="" group-title="Other International - IN",U Bangla
@@ -25853,12 +26349,16 @@ https://cdn.pishow.tv/ott/live/393/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 #EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" tvg-logo="" group-title="Other International - IN",Vasanth TV
 https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8
+#EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" tvg-logo="" group-title="Other International - IN",Vasanth TV
+https://fta.ektv.in/live/228/master.m3u8
 #EXTINF:-1 tvg-id="VCV.in" tvg-name="VCV" tvg-logo="" group-title="Other International - IN",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" tvg-logo="" group-title="Other International - IN",Vendhar TV
 https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
 #EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" tvg-logo="" group-title="Other International - IN",Vendhar TV
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/VendharTV.m3u8
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" tvg-logo="" group-title="Other International - IN",Vendhar TV
+https://fta.ektv.in/live/223/master.m3u8
 #EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" tvg-logo="" group-title="Other International - IN",Vendhar TV
 https://cdn.pishow.tv/ott/live/1271/master.m3u8
 #EXTINF:-1 tvg-id="Vision.in" tvg-name="Vision" tvg-logo="" group-title="Other International - IN",Vision
@@ -25873,8 +26373,6 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8
 #EXTINF:-1 tvg-id="WinTV.in" tvg-name="Win TV" tvg-logo="" group-title="Other International - IN",Win TV
 https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8
-#EXTINF:-1 tvg-id="YETTV.in" tvg-name="YET TV" tvg-logo="" group-title="Other International - IN",YET TV
-https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="" group-title="Other International - IN",Zee Bangla
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="" group-title="Other International - IN",Zee Bangla
@@ -27989,8 +28487,8 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-id="AntenaHD.pl" tvg-name="Antena HD" tvg-logo="" group-title="Other International - PL",Antena HD
 http://92.114.85.87:8010/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl" tvg-name="ATM Rozrywka REWORK" tvg-logo="" group-title="Other International - PL",ATM Rozrywka REWORK
-https://grupaatmrr.org.pl:8888/fallback/index.m3u8
+#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat TV" tvg-logo="" group-title="Other International - PL",Belsat TV
+http://78.62.9.23:55555/Belsat
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-name="Bialogardzka Telewizja Kablowa" tvg-logo="" group-title="Other International - PL",Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
 #EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="" group-title="Other International - PL",Bigtime
@@ -28025,6 +28523,8 @@ http://92.114.85.87:8015/play/a00a/index.m3u8
 https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocksFightingChampionship.pl" tvg-name="Hard Knocks Fighting Championship" tvg-logo="" group-title="Other International - PL",Hard Knocks Fighting Championship
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3" tvg-logo="" group-title="Other International - PL",HBO 3
+http://185.227.34.179:8080/hbo-3-hd/index.m3u8
 #EXTINF:-1 tvg-id="History.pl" tvg-name="History" tvg-logo="" group-title="Other International - PL",History
 http://92.114.85.87:8015/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="HomeTV.pl" tvg-name="Home TV" tvg-logo="" group-title="Other International - PL",Home TV
@@ -28347,14 +28847,14 @@ https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="" group-title="Other International - RO",Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="" group-title="Other International - RO",Antena Stars
-https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
 #EXTINF:-1 tvg-id="ArgesTV.ro" tvg-name="Arges TV" tvg-logo="" group-title="Other International - RO",Arges TV
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 #EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" tvg-logo="" group-title="Other International - RO",Asia Express NonStop
 https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" tvg-logo="" group-title="Other International - RO",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" tvg-logo="" group-title="Other International - RO",Bihor TV
+https://bihor-tv.ro/hls/bihortv.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-name="Bucovina TV" tvg-logo="" group-title="Other International - RO",Bucovina TV
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" tvg-logo="" group-title="Other International - RO",Chefi.ro
@@ -28395,12 +28895,14 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" group-title="Other International - RO",JOB TV
 https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" group-title="Other International - RO",JOB TV
+https://jobtvserver.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="" group-title="Other International - RO",Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro" tvg-name="Kanal D2" tvg-logo="" group-title="Other International - RO",Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" tvg-logo="" group-title="Other International - RO",Kapital TV
-https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-name="Light Channel" tvg-logo="" group-title="Other International - RO",Light Channel
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="" group-title="Other International - RO",MediCOOL TV
@@ -28419,6 +28921,8 @@ https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" tvg-logo="" group-title="Other International - RO",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="NCN.ro" tvg-name="NCN" tvg-logo="" group-title="Other International - RO",NCN
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-name="Nova TV Brasov" tvg-logo="" group-title="Other International - RO",Nova TV Brasov
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ProArena.ro" tvg-name="Pro Arena" tvg-logo="" group-title="Other International - RO",Pro Arena
@@ -31659,6 +32163,8 @@ https://shift03.isp.bg/MTVEurope/index.m3u8
 http://85.14.32.26:8800/udp/239.100.10.67:5000
 #EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="MTV Global" tvg-logo="" group-title="Other International - UK",MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="" group-title="Other International - UK",PBS America
+http://185.19.191.2:8090/PBS/index.m3u8
 #EXTINF:-1 tvg-id="PlanetFun.uk" tvg-name="Planet Fun" tvg-logo="" group-title="Other International - UK",Planet Fun
 http://66.102.126.10:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="Pop.uk" tvg-name="Pop" tvg-logo="" group-title="Other International - UK",Pop
@@ -31921,6 +32427,8 @@ https://dethich.pw/htv2/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="" group-title="Other International - VN",HTV4
 https://dethich.pw/htv4/index.m3u8
+#EXTINF:-1 tvg-id="HTV5.vn" tvg-name="HTV5" tvg-logo="" group-title="Other International - VN",HTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="HTV7.vn" tvg-name="HTV7" tvg-logo="" group-title="Other International - VN",HTV7
 https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-id="HTVCWomen.vn" tvg-name="HTVC Women" tvg-logo="" group-title="Other International - VN",HTVC Women
@@ -31937,6 +32445,8 @@ https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="NgheAnTV.vn" tvg-name="Nghe An TV" tvg-logo="" group-title="Other International - VN",Nghe An TV
 https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
+#EXTINF:-1 tvg-id="ONEChannel.vn" tvg-name="ON E Channel" tvg-logo="" group-title="Other International - VN",ON E Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="ONLife.vn" tvg-name="ON Life" tvg-logo="" group-title="Other International - VN",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ONO2TV.vn" tvg-name="ON O2TV" tvg-logo="" group-title="Other International - VN",ON O2TV

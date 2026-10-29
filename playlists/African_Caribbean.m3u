@@ -369,6 +369,8 @@ https://jstre.am/live/jsl:i1onRBELcGV.m3u8
 https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
 #EXTINF:-1 tvg-id="HudaTV.eg" tvg-name="Huda TV" tvg-logo="" group-title="African & Caribbean",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="HyaTV.eg" tvg-name="Hya TV" tvg-logo="" group-title="African & Caribbean",Hya TV
+https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:-1 tvg-id="IBNTV.tz" tvg-name="IBN TV" tvg-logo="" group-title="African & Caribbean",IBN TV
 http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="IBNTVAfrica.tz" tvg-name="IBN TV Africa" tvg-logo="" group-title="African & Caribbean",IBN TV Africa
@@ -719,6 +721,8 @@ https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC2.za" tvg-name="SABC 2" tvg-logo="" group-title="African & Caribbean",SABC 2
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABC3.za" tvg-name="SABC 3" tvg-logo="" group-title="African & Caribbean",SABC 3
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" tvg-logo="" group-title="African & Caribbean",SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" tvg-logo="" group-title="African & Caribbean",SABC News
@@ -931,8 +935,6 @@ https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e08
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
 #EXTINF:-1 tvg-id="WapTV.ng" tvg-name="Wap TV" tvg-logo="" group-title="African & Caribbean",Wap TV
 https://newproxy3.vidivu.tv/waptv/index.m3u8
-#EXTINF:-1 tvg-id="WAPATV41.pr" tvg-name="WAPA-TV 4.1" tvg-logo="" group-title="African & Caribbean",WAPA-TV 4.1
-https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 #EXTINF:-1 tvg-id="WasatTV.ly" tvg-name="Wasat TV" tvg-logo="" group-title="African & Caribbean",Wasat TV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-name="Watan TV" tvg-logo="" group-title="African & Caribbean",Watan TV
