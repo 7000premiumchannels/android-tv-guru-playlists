@@ -1083,8 +1083,6 @@ https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq" tvg-name="Dijlah TV" tvg-logo="" group-title="US News & Weather",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 tvg-id="DNews.us" tvg-name="DNews" tvg-logo="" group-title="US News & Weather",DNews
-http://38.19.16.151:8000/play/a0a3
 #EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" tvg-logo="" group-title="US News & Weather",DNN
 https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" tvg-logo="" group-title="US News & Weather",DNN
@@ -1149,8 +1147,6 @@ http://138.121.15.230:9002/DW/index.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-id="DY365.in" tvg-name="DY 365" tvg-logo="" group-title="US News & Weather",DY 365
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-id="DY365.in" tvg-name="DY 365" tvg-logo="" group-title="US News & Weather",DY 365
-https://cdn.pishow.tv/ott/live/1624/master.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" tvg-logo="" group-title="US News & Weather",E! Latin America
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" tvg-logo="" group-title="US News & Weather",E! Latin America
@@ -2053,6 +2049,8 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" tvg-logo="" group-title="US News & Weather",Munsif TV
 https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" tvg-logo="" group-title="US News & Weather",Munsif TV
+https://fta.ektv.in/live/598/master.m3u8
 #EXTINF:-1 tvg-id="MyUkrainaTV.ua" tvg-name="My-Ukraina TV" tvg-logo="" group-title="US News & Weather",My-Ukraina TV
 http://stream.mcquack.net/442/index.m3u8
 #EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" tvg-logo="" group-title="US News & Weather",Nabaa TV
@@ -2433,6 +2431,8 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
 https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
+https://fta.ektv.in/live/417/master.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" tvg-logo="" group-title="US News & Weather",NK TV 24x7
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" tvg-logo="" group-title="US News & Weather",NK TV 24x7
@@ -3341,6 +3341,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="" group-title="US News & Weather",TRT World
 https://cdn.pishow.tv/ott/live/266/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="" group-title="US News & Weather",TRT World
+https://fta.ektv.in/live/416/master.m3u8
 #EXTINF:-1 tvg-id="TSNTeleSondrioNews.it" tvg-name="TSN TeleSondrio News" tvg-logo="" group-title="US News & Weather",TSN TeleSondrio News
 https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
 #EXTINF:-1 tvg-id="TSNTeleSondrioNews.it" tvg-name="TSN TeleSondrio News" tvg-logo="" group-title="US News & Weather",TSN TeleSondrio News
