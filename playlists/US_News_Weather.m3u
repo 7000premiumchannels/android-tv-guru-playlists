@@ -2531,8 +2531,6 @@ http://31.131.141.195:8000/play/a006/index.m3u8
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="" group-title="US News & Weather",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="OstWest.de" tvg-name="Ost West" tvg-logo="" group-title="US News & Weather",Ost West
-http://hls127.freeott.top:8080/OstWest/video.m3u8
 #EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" tvg-logo="" group-title="US News & Weather",Ost West 24
 http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="OTV.hr" tvg-name="OTV" tvg-logo="" group-title="US News & Weather",OTV
@@ -2885,6 +2883,8 @@ http://77.232.131.211/Rossiya24/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="" group-title="US News & Weather",Russia-24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="" group-title="US News & Weather",Russia-24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="" group-title="US News & Weather",Russia-24
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="" group-title="US News & Weather",Russia-24

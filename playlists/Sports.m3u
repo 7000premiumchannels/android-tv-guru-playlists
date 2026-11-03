@@ -229,10 +229,6 @@ http://92.114.85.87:8002/play/a00h/index.m3u8
 http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="" group-title="Sports & Highlights",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1 tvg-id="ERTSports1.gr" tvg-name="ERT Sports 1" tvg-logo="" group-title="Sports & Highlights",ERT Sports 1
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:-1 tvg-id="ERTSports2.gr" tvg-name="ERT Sports 2" tvg-logo="" group-title="Sports & Highlights",ERT Sports 2
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="" group-title="Sports & Highlights",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="" group-title="Sports & Highlights",ESPN
@@ -300,11 +296,13 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" tvg-logo="" group-title="Sports & Highlights",Eurosport
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports & Highlights",Eurosport 1
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports & Highlights",Eurosport 1
 http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports & Highlights",Eurosport 1
 http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports & Highlights",Eurosport 1
-http://stream.mcquack.net/176/index.m3u8
+https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports & Highlights",Eurosport 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="" group-title="Sports & Highlights",Eurosport 1
@@ -312,9 +310,11 @@ https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="Eurosport1Polska.pl" tvg-name="Eurosport 1 Polska" tvg-logo="" group-title="Sports & Highlights",Eurosport 1 Polska
 http://57.128.210.196:8080/264/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="" group-title="Sports & Highlights",Eurosport 2
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="" group-title="Sports & Highlights",Eurosport 2
 http://88.212.7.14/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="" group-title="Sports & Highlights",Eurosport 2
-http://stream.mcquack.net/192/index.m3u8
+https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="" group-title="Sports & Highlights",Eurosport 2
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="" group-title="Sports & Highlights",Eurosport 2
@@ -797,8 +797,6 @@ https://tvsen7.aynascope.net/Sports1/index.m3u8
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" tvg-logo="" group-title="Sports & Highlights",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
-#EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" tvg-logo="" group-title="Sports & Highlights",QazSport
-https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="RACERInternational.pl" tvg-name="RACER International" tvg-logo="" group-title="Sports & Highlights",RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network" tvg-logo="" group-title="Sports & Highlights",Racer Network
@@ -965,6 +963,8 @@ http://stream.mcquack.net/393/index.m3u8
 http://stream.mcquack.net/394/index.m3u8
 #EXTINF:-1 tvg-id="Sport5.ua" tvg-name="Sport 5" tvg-logo="" group-title="Sports & Highlights",Sport 5
 http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" tvg-logo="" group-title="Sports & Highlights",Sport Total FM
+https://livesptfm.com/SPTFM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="SportTV.by" tvg-name="Sport TV" tvg-logo="" group-title="Sports & Highlights",Sport TV
 http://178.124.179.122:8080/SportTV/mpegts
 #EXTINF:-1 tvg-id="SportTV.by" tvg-name="Sport TV" tvg-logo="" group-title="Sports & Highlights",Sport TV
