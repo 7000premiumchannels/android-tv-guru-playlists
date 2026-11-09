@@ -135,10 +135,18 @@ https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport
+http://57.129.96.133:888/stream/92/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="Canal+ Sport 2" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport 2
+http://57.129.96.133:888/stream/94/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport2SK.sk" tvg-name="Canal+ Sport 2 SK" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport 2 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="Canal+ Sport 3" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport 3
+http://57.129.96.133:888/stream/93/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport3SK.sk" tvg-name="Canal+ Sport 3 SK" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport 3 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="Canal+ Sport 4" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport 4
+http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport4SK.sk" tvg-name="Canal+ Sport 4 SK" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport 4 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="CanalPlusSport5SK.sk" tvg-name="Canal+ Sport 5 SK" tvg-logo="" group-title="Sports & Highlights",Canal+ Sport 5 SK
@@ -441,6 +449,8 @@ https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
 http://92.114.85.87:8003/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
+http://205.237.104.26:8080/stream/356/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" tvg-logo="" group-title="Sports & Highlights",FightBox
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" tvg-name="FITE 24/7" tvg-logo="" group-title="Sports & Highlights",FITE 24/7
@@ -1123,8 +1133,6 @@ https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" tvg-logo="" group-title="Sports & Highlights",Strongman Champions League
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-name="Sukan RTM" tvg-logo="" group-title="Sports & Highlights",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" tvg-logo="" group-title="Sports & Highlights",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="SuspilneSport.ua" tvg-name="Suspilne. Sport" tvg-logo="" group-title="Sports & Highlights",Suspilne. Sport

@@ -191,6 +191,8 @@ http://149.100.11.252:8000/play/a056/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="" group-title="Kids & Family",Cartoon Network Asia
 http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="" group-title="Kids & Family",Cartoon Network Asia
+http://103.253.74.210:7070/stream/118/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" tvg-logo="" group-title="Kids & Family",Cartoon Network CEE
 http://213.91.179.28:8000/play/a08g
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" tvg-logo="" group-title="Kids & Family",Cartoon Network CEE
@@ -757,6 +759,8 @@ http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 http://178.76.68.60:7442/64/mpegts
 #EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids & Family",Nickelodeon
+http://93.186.201.93/stream/397/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" tvg-logo="" group-title="Kids & Family",Nickelodeon Asia
 http://103.253.74.210:7070/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-name="Nickelodeon CIS" tvg-logo="" group-title="Kids & Family",Nickelodeon CIS
@@ -805,6 +809,8 @@ https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="" group-title="Kids & Family",Nicktoons
 https://tvsen7.aynascope.net/nicktoons/index.m3u8
+#EXTINF:-1 tvg-id="NickToons90s.au" tvg-name="NickToons 90s" tvg-logo="" group-title="Kids & Family",NickToons 90s
+https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-name="Nicktoons CIS" tvg-logo="" group-title="Kids & Family",Nicktoons CIS
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" tvg-logo="" group-title="Kids & Family",Niki Junior

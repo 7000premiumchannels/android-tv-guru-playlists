@@ -1662,8 +1662,6 @@ http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Spanish",Disney Channel Latin America
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Spanish",Disney Channel Latin America
-http://45.70.201.81:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Spanish",Disney Channel Latin America
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Spanish",Disney Channel Latin America
 http://45.185.163.75:8000/play/a02j/index.m3u8
@@ -1689,8 +1687,6 @@ http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 http://190.93.224.42/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
 http://45.185.163.75:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
-http://45.70.201.81:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" group-title="Spanish",Disney Jr. Latin America
@@ -2919,6 +2915,8 @@ http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="" group-title="Spanish",NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="" group-title="Spanish",NET TV
+http://45.226.205.96:48000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-name="Nex TV Canal 21" tvg-logo="" group-title="Spanish",Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:-1 tvg-id="NexoTV.co" tvg-name="Nexo TV" tvg-logo="" group-title="Spanish",Nexo TV
@@ -4153,8 +4151,6 @@ http://45.173.231.22:8000/play/a053/index.m3u8
 http://181.224.255.210:8001/play/a0q5
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-name="Telefe Buenos Aires" tvg-logo="" group-title="Spanish",Telefe Buenos Aires
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInterior.ar" tvg-name="Telefe Interior" tvg-logo="" group-title="Spanish",Telefe Interior
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-logo="" group-title="Spanish",Telefe Internacional
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-logo="" group-title="Spanish",Telefe Internacional
@@ -4799,6 +4795,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://srt.tvdatta.com/tvenlinea/index.m3u8
 #EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" tvg-logo="" group-title="Spanish",TVes
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+#EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" tvg-logo="" group-title="Spanish",TVes
+http://45.226.205.96:48000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="TVG2.es" tvg-name="TVG2" tvg-logo="" group-title="Spanish",TVG2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGE.gq" tvg-name="TVGE" tvg-logo="" group-title="Spanish",TVGE
@@ -4841,6 +4839,8 @@ https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" tvg-logo="" group-title="Spanish",TVO Canal 23
 http://45.167.2.101:8000/play/a0qo/index.m3u8
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" tvg-logo="" group-title="Spanish",TVO Canal 23
+http://168.196.127.137:6001/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="TVOJesus.es" tvg-name="TVO Jesus" tvg-logo="" group-title="Spanish",TVO Jesus
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
 #EXTINF:-1 tvg-id="TVOSanVicente.cl" tvg-name="TVO San Vicente" tvg-logo="" group-title="Spanish",TVO San Vicente
