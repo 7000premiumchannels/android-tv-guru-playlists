@@ -23,6 +23,8 @@ https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ACTV.tg" tvg-name="AC TV" tvg-logo="" group-title="African & Caribbean",AC TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
+#EXTINF:-1 tvg-id="ACNTV.cm" tvg-name="ACN TV" tvg-logo="" group-title="African & Caribbean",ACN TV
+https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
 #EXTINF:-1 tvg-id="ACNN.ng" tvg-name="ACNN" tvg-logo="" group-title="African & Caribbean",ACNN
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ACWUGTV.ug" tvg-name="ACW UG TV" tvg-logo="" group-title="African & Caribbean",ACW UG TV
@@ -287,6 +289,8 @@ https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
 #EXTINF:-1 tvg-id="EspaceTV.gn" tvg-name="Espace TV" tvg-logo="" group-title="African & Caribbean",Espace TV
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1 tvg-id="EspoirTV.cd" tvg-name="Espoir TV" tvg-logo="" group-title="African & Caribbean",Espoir TV
+https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8
 #EXTINF:-1 tvg-id="ETV.gp" tvg-name="ETV" tvg-logo="" group-title="African & Caribbean",ETV
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 tvg-id="Evtele.cg" tvg-name="Ev-tele" tvg-logo="" group-title="African & Caribbean",Ev-tele
@@ -765,6 +769,8 @@ https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-name="Silverbird News 24" tvg-logo="" group-title="African & Caribbean",Silverbird News 24
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SmashRadioTT.tt" tvg-name="Smash Radio TT" tvg-logo="" group-title="African & Caribbean",Smash Radio TT
+https://nginx.smashradiott.com/hls/program/master.m3u8
 #EXTINF:-1 tvg-id="SNTVDaljir.so" tvg-name="SNTV Daljir" tvg-logo="" group-title="African & Caribbean",SNTV Daljir
 https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
 #EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-name="Somali National TV" tvg-logo="" group-title="African & Caribbean",Somali National TV
