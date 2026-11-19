@@ -376,9 +376,19 @@ http://92.114.85.87:8018/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-name="Eska TV Extra" tvg-logo="" group-title="Music",Eska TV Extra
 http://92.114.85.87:8016/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" tvg-logo="" group-title="Music",ETV Beats
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" tvg-logo="" group-title="Music",ETV Beats
 https://jmp2.uk/stvp-IN4900002RV
+#EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" tvg-logo="" group-title="Music",ETV Beats
+https://amg00871-amg00871c3-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00871-amg00871c3-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="" group-title="Music",ETV Music
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="" group-title="Music",ETV Music
+https://d3q3jhzdhmsx48.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="" group-title="Music",ETV Music
+https://d7exlqr5z2drf.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-5_cloud-in/index.m3u8
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="" group-title="Music",ETV Music
+https://diy3vq1irs76a.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
 #EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="" group-title="Music",ETV Music
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
 #EXTINF:-1 tvg-id="EUMusic.ua" tvg-name="EU Music" tvg-logo="" group-title="Music",EU Music
@@ -477,6 +487,8 @@ http://45.171.64.30:6060/play/a012/index.m3u8
 https://streaming.onnethn.com/HTV/playlist.m3u8
 #EXTINF:-1 tvg-id="HypeVisualRadio.nl" tvg-name="Hype Visual Radio" tvg-logo="" group-title="Music",Hype Visual Radio
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" tvg-logo="" group-title="Music",IDJTV
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 #EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" tvg-logo="" group-title="Music",Impact TV
 https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTV2.ro" tvg-name="Impact TV 2" tvg-logo="" group-title="Music",Impact TV 2
@@ -713,6 +725,8 @@ http://88.212.15.50/live/mb_hits/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz" tvg-name="Music Box Sexy" tvg-logo="" group-title="Music",Music Box Sexy
 http://88.212.15.50/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="MusicIL.il" tvg-name="Music IL" tvg-logo="" group-title="Music",Music IL
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="" group-title="Music",Music India
 https://fta.ektv.in/live/158/master.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="" group-title="Music",Music India
@@ -1001,6 +1015,8 @@ http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioChisinau.md" tvg-name="Radio Chisinau" tvg-logo="" group-title="Music",Radio Chisinau
 https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1 tvg-id="RADIOCLUBDJTV.pl" tvg-name="RADIO CLUB DJ TV" tvg-logo="" group-title="Music",RADIO CLUB DJ TV
+https://radioclubdj.pro/stream/tv.m3u8
 #EXTINF:-1 tvg-id="RadioContact.be" tvg-name="Radio Contact" tvg-logo="" group-title="Music",Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-name="RADIO DISCOunt TV" tvg-logo="" group-title="Music",RADIO DISCOunt TV
@@ -1581,6 +1597,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=91
 https://dethich.pw/thvl5/index.m3u8
 #EXTINF:-1 tvg-id="VisionBeats.in" tvg-name="Vision Beats" tvg-logo="" group-title="Music",Vision Beats
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-logo="" group-title="Music",VIVA Russia
+https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-logo="" group-title="Music",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV" tvg-logo="" group-title="Music",Volksmusik TV

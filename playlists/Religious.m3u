@@ -313,6 +313,12 @@ https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898
 https://cdn.pishow.tv/ott/live/397/master.m3u8
 #EXTINF:-1 tvg-id="BhaktiDhara.in" tvg-name="Bhakti Dhara" tvg-logo="" group-title="Religious",Bhakti Dhara
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
+#EXTINF:-1 tvg-id="BhaktiPlay.in" tvg-name="Bhakti Play" tvg-logo="" group-title="Religious",Bhakti Play
+https://cc-pisq3rszc5kpz.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pisq3rszc5kpz/OTM/OTM_BhaktiFlix-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 tvg-id="BhaktiPlay.in" tvg-name="Bhakti Play" tvg-logo="" group-title="Religious",Bhakti Play
+https://onetakemedia.vgcdn.net/vglive-sk-548610/playlist.m3u8
+#EXTINF:-1 tvg-id="BhaktiPlay.in" tvg-name="Bhakti Play" tvg-logo="" group-title="Religious",Bhakti Play
+https://qn-01273-mum-2-07-1---7247-gbsv.http.global.dns.qwilted-cds.cqloud.com/OTM/OTM_BhaktiFlix-SCTE_CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="BhaktiSagar.in" tvg-name="Bhakti Sagar" tvg-logo="" group-title="Religious",Bhakti Sagar
 https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
 #EXTINF:-1 tvg-id="BoonniyomTV.th" tvg-name="Boonniyom TV" tvg-logo="" group-title="Religious",Boonniyom TV
@@ -623,8 +629,16 @@ https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" tvg-logo="" group-title="Religious",Habib TV
 https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaMusic.in" tvg-name="Hare Krsna Music" tvg-logo="" group-title="Religious",Hare Krsna Music
+https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaPravachan.in" tvg-name="Hare Krsna Pravachan" tvg-logo="" group-title="Religious",Hare Krsna Pravachan
+https://dcn72a38509t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkpravachan/HKTV/HKPravachan/playlist.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" tvg-logo="" group-title="Religious",Hare Krsna TV
+https://de3osy3rc63bo.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" tvg-logo="" group-title="Religious",Hare Krsna TV
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" tvg-logo="" group-title="Religious",Hare Krsna TV
+https://zenga.hk.harekrsnatv.com/harekrsna/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" tvg-logo="" group-title="Religious",Hare Krsna TV
 https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" tvg-logo="" group-title="Religious",Hare Krsna TV
@@ -853,6 +867,8 @@ https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KVTNDT251.us" tvg-name="KVTN-DT 25.1" tvg-logo="" group-title="Religious",KVTN-DT 25.1
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LakshyaTV.in" tvg-name="Lakshya TV" tvg-logo="" group-title="Religious",Lakshya TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:lakshyatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lalegul TV" tvg-logo="" group-title="Religious",Lalegul TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lalegul TV" tvg-logo="" group-title="Religious",Lalegul TV
@@ -1173,6 +1189,8 @@ https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 http://45.177.114.115/REDE_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="" group-title="Religious",Rede Gospel
 http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
+#EXTINF:-1 tvg-id="RedeImpactoGospelTV.br" tvg-name="Rede Impacto Gospel TV" tvg-logo="" group-title="Religious",Rede Impacto Gospel TV
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" tvg-logo="" group-title="Religious",Rede Seculo 21
 http://186.219.52.187/seculo21/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="" group-title="Religious",Rede Vida
@@ -1307,8 +1325,12 @@ https://fta.ektv.in/live/627/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in" tvg-name="Shubhsandesh TV" tvg-logo="" group-title="Religious",Shubhsandesh TV
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="SikhRatnavali.in" tvg-name="Sikh Ratnavali" tvg-logo="" group-title="Religious",Sikh Ratnavali
+https://livetv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8
 #EXTINF:-1 tvg-id="SindhTV.in" tvg-name="Sindh TV" tvg-logo="" group-title="Religious",Sindh TV
 https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="SivanTempleTV.in" tvg-name="Sivan Temple TV" tvg-logo="" group-title="Religious",Sivan Temple TV
+https://yuppnimresmum.akamaized.net/120723/smil:sivantempletv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="SivanTV.ch" tvg-name="Sivan TV" tvg-logo="" group-title="Religious",Sivan TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-id="SohamTV.in" tvg-name="Soham TV" tvg-logo="" group-title="Religious",Soham TV
@@ -1435,6 +1457,8 @@ https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-name="TV Gideoes" tvg-logo="" group-title="Religious",TV Gideoes
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-name="TV Hram" tvg-logo="" group-title="Religious",TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="TVMana1.pt" tvg-name="TV Mana 1" tvg-logo="" group-title="Religious",TV Mana 1
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMana2.pt" tvg-name="TV Mana 2" tvg-logo="" group-title="Religious",TV Mana 2
