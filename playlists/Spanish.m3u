@@ -1049,6 +1049,8 @@ http://131.221.41.94/hls/canal2.m3u8
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-logo="" group-title="Spanish",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="CanalGuapa.py" tvg-name="Canal Guapa" tvg-logo="" group-title="Spanish",Canal Guapa
+https://guapa-live.argosworkspace.com/guapa/index.m3u8
 #EXTINF:-1 tvg-id="CanalGuiaABE.bo" tvg-name="Canal Guia ABE" tvg-logo="" group-title="Spanish",Canal Guia ABE
 http://190.181.61.93:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal I" tvg-logo="" group-title="Spanish",Canal I
@@ -1401,6 +1403,8 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-logo="" group-title="Spanish",ChileVision
 http://181.78.88.113:9800/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-logo="" group-title="Spanish",ChileVision
+https://redirector.dps.live/hls/chv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChiloeRed25.cl" tvg-name="Chiloe Red 25" tvg-logo="" group-title="Spanish",Chiloe Red 25
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="ChinaChannel.cl" tvg-name="China Channel" tvg-logo="" group-title="Spanish",China Channel
@@ -3027,6 +3031,8 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" tvg-logo="" group-title="Spanish",Nickelodeon
 http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" tvg-logo="" group-title="Spanish",Nickelodeon
+http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-name="NicoyaTV" tvg-logo="" group-title="Spanish",NicoyaTV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NimTV.gt" tvg-name="Nim TV" tvg-logo="" group-title="Spanish",Nim TV
@@ -3843,8 +3849,6 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 https://v1.tustreaming.cl/sabortv/index.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" tvg-logo="" group-title="Spanish",Salsa Gorda Television
 https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" tvg-logo="" group-title="Spanish",Salsa Gorda Television
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="SanIgnacioTV.hn" tvg-name="San Ignacio TV" tvg-logo="" group-title="Spanish",San Ignacio TV
 https://amixtv.live:3753/live/sitvlive.m3u8
 #EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-name="San Isidro TV" tvg-logo="" group-title="Spanish",San Isidro TV
@@ -5099,6 +5103,8 @@ https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 #EXTINF:-1 tvg-id="UnicentroTV.pe" tvg-name="Unicentro TV" tvg-logo="" group-title="Spanish",Unicentro TV
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.ar" tvg-name="Unife TV" tvg-logo="" group-title="Spanish",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" tvg-name="Unife TV" tvg-logo="" group-title="Spanish",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="" group-title="Spanish",Unifranz

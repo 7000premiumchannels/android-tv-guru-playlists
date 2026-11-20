@@ -1,8 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/7000premiumchannels/android-tv-guru-playlists/main/AndroidTVGuru.xml.gz"
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" tvg-logo="" group-title="Movies & Classic TV",&pictures
+http://116.90.120.149:8000/play/a132/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" tvg-logo="" group-title="Movies & Classic TV",&TV
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+http://116.90.120.149:8000/play/a133/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" tvg-logo="" group-title="Movies & Classic TV",&TV
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-name="&xplor HD" tvg-logo="" group-title="Movies & Classic TV",&xplor HD
+http://116.90.120.149:8000/play/a11o/index.m3u8
 #EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" tvg-logo="" group-title="Movies & Classic TV",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="00sReplay.us" tvg-name="00s Replay" tvg-logo="" group-title="Movies & Classic TV",00s Replay
@@ -37,6 +41,8 @@ https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="50CentAction.us" tvg-name="50 Cent Action" tvg-logo="" group-title="Movies & Classic TV",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
+#EXTINF:-1 tvg-id="50CentAction.us" tvg-name="50 Cent Action" tvg-logo="" group-title="Movies & Classic TV",50 Cent Action
+https://amg00353-amg00353c49-vizio-us-7989.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="70sCinema.us" tvg-name="70s Cinema" tvg-logo="" group-title="Movies & Classic TV",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 #EXTINF:-1 tvg-id="7thHeaven.se" tvg-name="7th Heaven" tvg-logo="" group-title="Movies & Classic TV",7th Heaven
@@ -81,6 +87,8 @@ https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 #EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-name="All Reality by WE tv" tvg-logo="" group-title="Movies & Classic TV",All Reality by WE tv
 https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-name="All Reality by WE tv" tvg-logo="" group-title="Movies & Classic TV",All Reality by WE tv
+https://amc-absolutereality-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" tvg-logo="" group-title="Movies & Classic TV",All Time Movies
 https://fta.ektv.in/live/54/54_0.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" tvg-logo="" group-title="Movies & Classic TV",All Time Movies
@@ -97,6 +105,8 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" tvg-logo="" group-title="Movies & Classic TV",Always Funny Videos
 https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" tvg-logo="" group-title="Movies & Classic TV",Always Funny Videos
+https://linear-12.frequency.stream/mt/vizio/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="" group-title="Movies & Classic TV",AMC
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" tvg-logo="" group-title="Movies & Classic TV",AMC Europe
@@ -121,6 +131,8 @@ http://45.171.64.30:6060/play/a005/index.m3u8
 https://streaming.onnethn.com/AMC/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" tvg-logo="" group-title="Movies & Classic TV",AMC Series Latin America
 http://45.5.118.231:5001/stream/41/index.m3u8
+#EXTINF:-1 tvg-id="AMCThrillers.us" tvg-name="AMC Thrillers" tvg-logo="" group-title="Movies & Classic TV",AMC Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="" group-title="Movies & Classic TV",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="" group-title="Movies & Classic TV",Amedia Hit
@@ -163,6 +175,8 @@ https://jmp2.uk/plu-6964b77dff4f2148e520fa9b.m3u8
 https://jmp2.uk/plu-6964b7e007ea70192df28d43.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="" group-title="Movies & Classic TV",Anger Management Channel
 https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="" group-title="Movies & Classic TV",Anger Management Channel
+https://amg00346-vizioinc-angermgmtvizio-vizious-ju2sh.amagi.tv/playlist/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us" tvg-name="Anthony Bourdain: Parts Unknown" tvg-logo="" group-title="Movies & Classic TV",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" tvg-logo="" group-title="Movies & Classic TV",Antiques Roadshow UK
@@ -171,6 +185,8 @@ https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" tvg-logo="" group-title="Movies & Classic TV",Antiques Roadshow UK
 https://dbbg0ax8bgo7d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" tvg-logo="" group-title="Movies & Classic TV",Antiques Roadshow UK
+https://bbc-antiquesroadshowuk-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" tvg-logo="" group-title="Movies & Classic TV",Antiques Roadshow UK
 https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" tvg-logo="" group-title="Movies & Classic TV",Are We There Yet?
@@ -183,6 +199,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" tvg-logo="" group-title="Movies & Classic TV",Are We There Yet?
 https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8
+#EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" tvg-logo="" group-title="Movies & Classic TV",Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-vizious-1b2pj.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-name="Armenia Premium" tvg-logo="" group-title="Movies & Classic TV",Armenia Premium
 http://stream.mcquack.net/123/index.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" tvg-logo="" group-title="Movies & Classic TV",ARTFLIX Movie Classics
@@ -193,6 +211,8 @@ https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us" tvg-name="At Home with Family Handyman" tvg-logo="" group-title="Movies & Classic TV",At Home with Family Handyman
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us" tvg-name="At Home with Family Handyman" tvg-logo="" group-title="Movies & Classic TV",At Home with Family Handyman
+https://4279a62a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQXRIb21ld2l0aEZhbWlseUhhbmR5bWFuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us" tvg-name="At Home with Family Handyman" tvg-logo="" group-title="Movies & Classic TV",At Home with Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AuctionHunters.se" tvg-name="Auction Hunters" tvg-logo="" group-title="Movies & Classic TV",Auction Hunters
@@ -326,11 +346,15 @@ https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-logo="" group-title="Movies & Classic TV",Baywatch
 https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-logo="" group-title="Movies & Classic TV",Baywatch
+https://amg00145-buzzr-bigballs-baywatch-vizious-ky2ls.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-logo="" group-title="Movies & Classic TV",Baywatch
 https://baywatch-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" tvg-logo="" group-title="Movies & Classic TV",BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" tvg-logo="" group-title="Movies & Classic TV",BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
+#EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" tvg-logo="" group-title="Movies & Classic TV",BBC Drama
+https://linear-938.frequency.stream/mt/vizio/938/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Becker.se" tvg-name="Becker" tvg-logo="" group-title="Movies & Classic TV",Becker
 https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
 #EXTINF:-1 tvg-id="Becker.se" tvg-name="Becker" tvg-logo="" group-title="Movies & Classic TV",Becker
@@ -391,12 +415,6 @@ http://stream.mcquack.net/73/index.m3u8
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us" tvg-name="Bonanza" tvg-logo="" group-title="Movies & Classic TV",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se" tvg-name="Bondi Rescue" tvg-logo="" group-title="Movies & Classic TV",Bondi Rescue
-https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se" tvg-name="Bondi Rescue" tvg-logo="" group-title="Movies & Classic TV",Bondi Rescue
-https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se" tvg-name="Bondi Rescue" tvg-logo="" group-title="Movies & Classic TV",Bondi Rescue
-https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-name="Bravo Farsi TV" tvg-logo="" group-title="Movies & Classic TV",Bravo Farsi TV
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" tvg-logo="" group-title="Movies & Classic TV",BRIDGE Classic
@@ -437,12 +455,6 @@ http://193.33.39.108:9016/play/a02n
 https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" tvg-logo="" group-title="Movies & Classic TV",Canal+ Action Europe
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
-#EXTINF:-1 tvg-id="CarChase.se" tvg-name="Car Chase" tvg-logo="" group-title="Movies & Classic TV",Car Chase
-https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
-#EXTINF:-1 tvg-id="CarChase.se" tvg-name="Car Chase" tvg-logo="" group-title="Movies & Classic TV",Car Chase
-https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
-#EXTINF:-1 tvg-id="CarChase.se" tvg-name="Car Chase" tvg-logo="" group-title="Movies & Classic TV",Car Chase
-https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" tvg-logo="" group-title="Movies & Classic TV",CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" tvg-logo="" group-title="Movies & Classic TV",CCTV-6
@@ -657,6 +669,8 @@ http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
 #EXTINF:-1 tvg-id="ColdCaseFiles.us" tvg-name="Cold Case Files" tvg-logo="" group-title="Movies & Classic TV",Cold Case Files
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+#EXTINF:-1 tvg-id="ColdCaseFiles.us" tvg-name="Cold Case Files" tvg-logo="" group-title="Movies & Classic TV",Cold Case Files
+https://amg00276-amg00276c3-vizio-us-4063.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="Movies & Classic TV",Colors Bangla Cinema
 http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="Movies & Classic TV",Colors Bangla Cinema
@@ -687,8 +701,6 @@ https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
 #EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="Crime District" tvg-logo="" group-title="Movies & Classic TV",Crime District
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="CSI.se" tvg-name="CSI" tvg-logo="" group-title="Movies & Classic TV",CSI
-https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 #EXTINF:-1 tvg-id="CSI.us" tvg-name="CSI" tvg-logo="" group-title="Movies & Classic TV",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 #EXTINF:-1 tvg-id="CSICrimeSceneInvestigation.de" tvg-name="CSI: Crime Scene Investigation" tvg-logo="" group-title="Movies & Classic TV",CSI: Crime Scene Investigation
@@ -715,6 +727,8 @@ https://jmp2.uk/plu-64e77016324d190008291c13.m3u8
 https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
 #EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" tvg-logo="" group-title="Movies & Classic TV",Dark Matter TV
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" tvg-logo="" group-title="Movies & Classic TV",Dark Matter TV
+https://wurltricoast.global.transmit.live/hls/67f032bce3ed1615e41629bf/playlist.m3u8
 #EXTINF:-1 tvg-id="DatingNakedUK.se" tvg-name="Dating Naked UK" tvg-logo="" group-title="Movies & Classic TV",Dating Naked UK
 https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
 #EXTINF:-1 tvg-id="DatingNakedUK.se" tvg-name="Dating Naked UK" tvg-logo="" group-title="Movies & Classic TV",Dating Naked UK
@@ -741,6 +755,8 @@ https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
 https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" tvg-logo="" group-title="Movies & Classic TV",Deal or No Deal
 https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8
+#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" tvg-logo="" group-title="Movies & Classic TV",Deal or No Deal
+https://amg00627-amg00627c21-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" tvg-logo="" group-title="Movies & Classic TV",Degrassi
 https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" tvg-logo="" group-title="Movies & Classic TV",Degrassi
@@ -749,6 +765,8 @@ https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" tvg-logo="" group-title="Movies & Classic TV",Degrassi
 https://d3537vnymvfque.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" tvg-logo="" group-title="Movies & Classic TV",Degrassi
+https://amg01927-amg01927c6-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg01927-amg01927c6-amgplt0022/playlist.m3u8
 #EXTINF:-1 tvg-id="DesignatedSurvivor.us" tvg-name="Designated Survivor" tvg-logo="" group-title="Movies & Classic TV",Designated Survivor
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Detskoekino.ru" tvg-name="Detskoe kino" tvg-logo="" group-title="Movies & Classic TV",Detskoe kino
@@ -757,18 +775,10 @@ https://autopilot.catcast.tv/content/38720/index.m3u8
 http://15.204.246.24:8080/DHEHD/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" tvg-logo="" group-title="Movies & Classic TV",DHE
 https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" tvg-logo="" group-title="Movies & Classic TV",Diagnosis Murder
-https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" tvg-logo="" group-title="Movies & Classic TV",Diagnosis Murder
-https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" tvg-logo="" group-title="Movies & Classic TV",Diagnosis Murder
-https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
 #EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema" tvg-logo="" group-title="Movies & Classic TV",Diema
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="DiffrentStrokesArnold.us" tvg-name="Diff'rent Strokes Arnold" tvg-logo="" group-title="Movies & Classic TV",Diff'rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
-#EXTINF:-1 tvg-id="DocMartin.se" tvg-name="Doc Martin" tvg-logo="" group-title="Movies & Classic TV",Doc Martin
-https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 #EXTINF:-1 tvg-id="DocMartin.us" tvg-name="Doc Martin" tvg-logo="" group-title="Movies & Classic TV",Doc Martin
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="" group-title="Movies & Classic TV",Doctor Who Classic
@@ -779,6 +789,8 @@ https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="" group-title="Movies & Classic TV",Doctor Who Classic
 https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="" group-title="Movies & Classic TV",Doctor Who Classic
+https://bbc-classicdrwho-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="" group-title="Movies & Classic TV",Doctor Who Classic
 https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-name="Dog the Bounty Hunter" tvg-logo="" group-title="Movies & Classic TV",Dog the Bounty Hunter
@@ -801,8 +813,12 @@ https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
 https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-name="Dog the Bounty Hunter" tvg-logo="" group-title="Movies & Classic TV",Dog the Bounty Hunter
 https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-name="Dog the Bounty Hunter" tvg-logo="" group-title="Movies & Classic TV",Dog the Bounty Hunter
+https://amg00276-amg00276c10-vizio-us-4062.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DogWhisperer.us" tvg-name="Dog Whisperer" tvg-logo="" group-title="Movies & Classic TV",Dog Whisperer
 https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+#EXTINF:-1 tvg-id="DogWhisperer.us" tvg-name="Dog Whisperer" tvg-logo="" group-title="Movies & Classic TV",Dog Whisperer
+https://amg01201-amg01201c30-vizio-us-4216.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="" group-title="Movies & Classic TV",Dom kino
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="" group-title="Movies & Classic TV",Dom kino
@@ -856,6 +872,8 @@ https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" tvg-logo="" group-title="Movies & Classic TV",Duck Dynasty
 https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" tvg-logo="" group-title="Movies & Classic TV",Duck Dynasty
+https://amg00276-amg00276c2-vizio-us-4044.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" tvg-logo="" group-title="Movies & Classic TV",Duck Dynasty
 https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-name="DUST" tvg-logo="" group-title="Movies & Classic TV",DUST
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
@@ -867,6 +885,8 @@ http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="" group-title="Movies & Classic TV",Ebony TV by Lionsgate
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="" group-title="Movies & Classic TV",Ebony TV by Lionsgate
+https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="" group-title="Movies & Classic TV",Ebony TV by Lionsgate
 https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSCinema.us" tvg-name="EBS Cinema" tvg-logo="" group-title="Movies & Classic TV",EBS Cinema
@@ -939,6 +959,8 @@ https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00
 https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
 #EXTINF:-1 tvg-id="FearFactor.us" tvg-name="Fear Factor" tvg-logo="" group-title="Movies & Classic TV",Fear Factor
 https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
+#EXTINF:-1 tvg-id="FearFactor.us" tvg-name="Fear Factor" tvg-logo="" group-title="Movies & Classic TV",Fear Factor
+https://amg00627-amg00627c24-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00627-banijaygroup-fearfactor-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="FeelGoodDrama.us" tvg-name="Feel Good Drama" tvg-logo="" group-title="Movies & Classic TV",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="Feniks plus Kino" tvg-logo="" group-title="Movies & Classic TV",Feniks plus Kino
@@ -1099,6 +1121,8 @@ https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
 https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GhostHunters.us" tvg-name="Ghost Hunters" tvg-logo="" group-title="Movies & Classic TV",Ghost Hunters
 https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
+#EXTINF:-1 tvg-id="GhostHunters.us" tvg-name="Ghost Hunters" tvg-logo="" group-title="Movies & Classic TV",Ghost Hunters
+https://amg00353-amg00353c18-vizio-us-2661.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="GhostTV.br" tvg-name="Ghost TV" tvg-logo="" group-title="Movies & Classic TV",Ghost TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-id="GirlfriendsFilms.us" tvg-name="Girlfriends Films" tvg-logo="" group-title="Movies & Classic TV",Girlfriends Films
@@ -1179,12 +1203,6 @@ https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" tvg-logo="" group-title="Movies & Classic TV",Hallmark Mystery
 http://41.205.93.154/HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" tvg-logo="" group-title="Movies & Classic TV",Happy Days
-https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" tvg-logo="" group-title="Movies & Classic TV",Happy Days
-https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" tvg-logo="" group-title="Movies & Classic TV",Happy Days
-https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
 #EXTINF:-1 tvg-id="HappyDays.us" tvg-name="Happy Days" tvg-logo="" group-title="Movies & Classic TV",Happy Days
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 #EXTINF:-1 tvg-id="HappyDays.us" tvg-name="Happy Days" tvg-logo="" group-title="Movies & Classic TV",Happy Days
@@ -1207,6 +1225,8 @@ https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
 https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" tvg-logo="" group-title="Movies & Classic TV",HauntTV
 https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
+#EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" tvg-logo="" group-title="Movies & Classic TV",HauntTV
+https://amg00346-vizioinc-haunttvus-vizio-vizious-gczvd.amagi.tv/playlist/amg00346-vizioinc-haunttvus-vizio-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" tvg-logo="" group-title="Movies & Classic TV",HBO
 http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="" group-title="Movies & Classic TV",HBO
@@ -1237,6 +1257,8 @@ http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" tvg-logo="" group-title="Movies & Classic TV",HBO Signature Asia
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-logo="" group-title="Movies & Classic TV",HBO Xtreme Latin America
+http://181.78.61.202:8000/play/a02a
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-logo="" group-title="Movies & Classic TV",HBO Xtreme Latin America
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-logo="" group-title="Movies & Classic TV",HBO Xtreme Latin America
@@ -1269,6 +1291,8 @@ https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00
 https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8
 #EXTINF:-1 tvg-id="Hero.fi" tvg-name="Hero" tvg-logo="" group-title="Movies & Classic TV",Hero
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="HerSphere.us" tvg-name="HerSphere" tvg-logo="" group-title="Movies & Classic TV",HerSphere
+https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us" tvg-name="Highway to Heaven" tvg-logo="" group-title="Movies & Classic TV",Highway to Heaven
 https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us" tvg-name="Highway to Heaven" tvg-logo="" group-title="Movies & Classic TV",Highway to Heaven
@@ -1291,6 +1315,8 @@ http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
 #EXTINF:-1 tvg-id="HomeMadeNation.us" tvg-name="Home.Made.Nation" tvg-logo="" group-title="Movies & Classic TV",Home.Made.Nation
 https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HomeMadeNation.us" tvg-name="Home.Made.Nation" tvg-logo="" group-title="Movies & Classic TV",Home.Made.Nation
+https://3cfa9d89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGl2ZWx5UGxhY2VfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="HomePlus.ir" tvg-name="HomePlus" tvg-logo="" group-title="Movies & Classic TV",HomePlus
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="HomesUnderHammer.us" tvg-name="Homes Under Hammer" tvg-logo="" group-title="Movies & Classic TV",Homes Under Hammer
@@ -1419,12 +1445,6 @@ https://jmp2.uk/plu-682b385876963fba9abf0f26.m3u8
 https://jmp2.uk/plu-682b3932faaa60cd7dbf87b4.m3u8
 #EXTINF:-1 tvg-id="IronChef.us" tvg-name="Iron Chef" tvg-logo="" group-title="Movies & Classic TV",Iron Chef
 https://jmp2.uk/plu-682b39defaaa60cd7dbfa5c3.m3u8
-#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" tvg-logo="" group-title="Movies & Classic TV",JAG
-https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
-#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" tvg-logo="" group-title="Movies & Classic TV",JAG
-https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
-#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" tvg-logo="" group-title="Movies & Classic TV",JAG
-https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
 #EXTINF:-1 tvg-id="JAG.us" tvg-name="JAG" tvg-logo="" group-title="Movies & Classic TV",JAG
 https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" tvg-logo="" group-title="Movies & Classic TV",Jalsha Movies
@@ -1444,13 +1464,15 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/i
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-name="Johnny Carson TV" tvg-logo="" group-title="Movies & Classic TV",Johnny Carson TV
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-name="Johnny Carson TV" tvg-logo="" group-title="Movies & Classic TV",Johnny Carson TV
-https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+https://vizioaaaa-johnnycarson-vizio-8fyqr.amagi.tv/playlist/vizioAAAA-johnnycarson-vizio/playlist.m3u8
 #EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us" tvg-name="Jornada nas Estrelas: A Nova Geracao" tvg-logo="" group-title="Movies & Classic TV",Jornada nas Estrelas: A Nova Geracao
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 #EXTINF:-1 tvg-id="JornadanasEstrelasDeepSpaceNine.us" tvg-name="Jornada nas Estrelas: Deep Space Nine" tvg-logo="" group-title="Movies & Classic TV",Jornada nas Estrelas: Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 #EXTINF:-1 tvg-id="JornadanasEstrelasVoyager.us" tvg-name="Jornada nas Estrelas: Voyager" tvg-logo="" group-title="Movies & Classic TV",Jornada nas Estrelas: Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
+#EXTINF:-1 tvg-id="JudgeFaith.us" tvg-name="Judge Faith" tvg-logo="" group-title="Movies & Classic TV",Judge Faith
+https://amg18477-mycode-amg18477c1-vizio-us-9644.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.se" tvg-name="Judge Judy" tvg-logo="" group-title="Movies & Classic TV",Judge Judy
 https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.se" tvg-name="Judge Judy" tvg-logo="" group-title="Movies & Classic TV",Judge Judy
@@ -1591,16 +1613,12 @@ https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 #EXTINF:-1 tvg-id="LoveHipHop.us" tvg-name="Love & Hip Hop" tvg-logo="" group-title="Movies & Classic TV",Love & Hip Hop
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
+#EXTINF:-1 tvg-id="LoveThyNeighbor.us" tvg-name="Love Thy Neighbor" tvg-logo="" group-title="Movies & Classic TV",Love Thy Neighbor
+https://amg00353-amg00353c48-vizio-us-8534.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LuksusfellenSverige.se" tvg-name="Luksusfellen Sverige" tvg-logo="" group-title="Movies & Classic TV",Luksusfellen Sverige
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
 #EXTINF:-1 tvg-id="MaahTV.my" tvg-name="Maah TV" tvg-logo="" group-title="Movies & Classic TV",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" tvg-logo="" group-title="Movies & Classic TV",MacGyver
-https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" tvg-logo="" group-title="Movies & Classic TV",MacGyver
-https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" tvg-logo="" group-title="Movies & Classic TV",MacGyver
-https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
 #EXTINF:-1 tvg-id="MacGyver.us" tvg-name="MacGyver" tvg-logo="" group-title="Movies & Classic TV",MacGyver
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-id="MacGyver.us" tvg-name="MacGyver" tvg-logo="" group-title="Movies & Classic TV",MacGyver
@@ -1641,12 +1659,6 @@ https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 #EXTINF:-1 tvg-id="MasterChef.us" tvg-name="MasterChef" tvg-logo="" group-title="Movies & Classic TV",MasterChef
 https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
-#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" tvg-logo="" group-title="Movies & Classic TV",Matlock
-https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
-#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" tvg-logo="" group-title="Movies & Classic TV",Matlock
-https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
-#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" tvg-logo="" group-title="Movies & Classic TV",Matlock
-https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 #EXTINF:-1 tvg-id="Matlock.us" tvg-name="Matlock" tvg-logo="" group-title="Movies & Classic TV",Matlock
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 tvg-id="Matlock.us" tvg-name="Matlock" tvg-logo="" group-title="Movies & Classic TV",Matlock
@@ -1657,6 +1669,8 @@ https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="" group-title="Movies & Classic TV",Maverick Black Cinema
 https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="" group-title="Movies & Classic TV",Maverick Black Cinema
+https://wurlmaverickentertainment.global.transmit.live/hls/699df6f877454f2624d7653d/playlist.m3u8
 #EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" tvg-logo="" group-title="Movies & Classic TV",MAX4
 http://141.94.193.53/MAX4_HD/index.m3u8
 #EXTINF:-1 tvg-id="Maxcine.us" tvg-name="Maxcine" tvg-logo="" group-title="Movies & Classic TV",Maxcine
@@ -1722,6 +1736,8 @@ https://pb-10d2295rjh7ki.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" tvg-logo="" group-title="Movies & Classic TV",Midsomer Murders
 https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playlist.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" tvg-logo="" group-title="Movies & Classic TV",Midsomer Murders
+https://all3media-midsomer-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" tvg-logo="" group-title="Movies & Classic TV",Midsomer Murders
 https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" tvg-logo="" group-title="Movies & Classic TV",Mir Seriala
 http://176.118.197.101/MirSeriala/index.m3u8
@@ -1733,12 +1749,6 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live2_mireasaunu/live2_mireasaunu.m3u8
 #EXTINF:-1 tvg-id="Mirovoekino.kz" tvg-name="Mirovoe kino" tvg-logo="" group-title="Movies & Classic TV",Mirovoe kino
 https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" tvg-logo="" group-title="Movies & Classic TV",Mission Impossible
-https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" tvg-logo="" group-title="Movies & Classic TV",Mission Impossible
-https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" tvg-logo="" group-title="Movies & Classic TV",Mission Impossible
-https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.us" tvg-name="Mission Impossible" tvg-logo="" group-title="Movies & Classic TV",Mission Impossible
 https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.us" tvg-name="Mission Impossible" tvg-logo="" group-title="Movies & Classic TV",Mission Impossible
@@ -1749,6 +1759,10 @@ https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
 #EXTINF:-1 tvg-id="MNPlus.mn" tvg-name="MN+" tvg-logo="" group-title="Movies & Classic TV",MN+
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX" tvg-logo="" group-title="Movies & Classic TV",MNX
+http://116.90.120.149:8000/play/a11m/index.m3u8
+#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX" tvg-logo="" group-title="Movies & Classic TV",MNX
+http://116.90.120.149:8000/play/a11e/index.m3u8
 #EXTINF:-1 tvg-id="MoreTrueCrime.us" tvg-name="More True Crime" tvg-logo="" group-title="Movies & Classic TV",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 #EXTINF:-1 tvg-id="MoreTVCrime.de" tvg-name="More TV Crime" tvg-logo="" group-title="Movies & Classic TV",More TV Crime
@@ -1786,7 +1800,11 @@ https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-id="MoviesAction.sa" tvg-name="Movies Action" tvg-logo="" group-title="Movies & Classic TV",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" tvg-logo="" group-title="Movies & Classic TV",Movies Now
+http://116.90.120.149:8000/play/a11f/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" tvg-logo="" group-title="Movies & Classic TV",Movies Now
 http://27.124.71.27/Movies_Now/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" tvg-logo="" group-title="Movies & Classic TV",Movies Now +
+http://116.90.120.149:8000/play/a11k/index.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-name="Movies Thriller" tvg-logo="" group-title="Movies & Classic TV",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" tvg-logo="" group-title="Movies & Classic TV",Movies!
@@ -1811,6 +1829,8 @@ https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="" group-title="Movies & Classic TV",MovieSphere
 https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="" group-title="Movies & Classic TV",MovieSphere
+https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="" group-title="Movies & Classic TV",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold" tvg-logo="" group-title="Movies & Classic TV",MovieSphere Gold
@@ -1886,6 +1906,8 @@ https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
 #EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" tvg-logo="" group-title="Movies & Classic TV",Nash Bridges
 https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8
 #EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" tvg-logo="" group-title="Movies & Classic TV",Nash Bridges
+https://amg00353-amg00353c35-vizio-us-8780.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" tvg-logo="" group-title="Movies & Classic TV",Nash Bridges
 https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru" tvg-name="Nash Kinopokaz" tvg-logo="" group-title="Movies & Classic TV",Nash Kinopokaz
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
@@ -1899,8 +1921,6 @@ http://stream.mcquack.net/362/index.m3u8
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nashville.us" tvg-name="Nashville" tvg-logo="" group-title="Movies & Classic TV",Nashville
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
-#EXTINF:-1 tvg-id="NCIS.se" tvg-name="NCIS" tvg-logo="" group-title="Movies & Classic TV",NCIS
-https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
 #EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" tvg-logo="" group-title="Movies & Classic TV",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" tvg-logo="" group-title="Movies & Classic TV",NCIS
@@ -1911,8 +1931,6 @@ https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
 https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedTonyZiva.se" tvg-name="NCIS: Det bedste med Tony & Ziva" tvg-logo="" group-title="Movies & Classic TV",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
-#EXTINF:-1 tvg-id="NCISLosAngeles.se" tvg-name="NCIS: Los Angeles" tvg-logo="" group-title="Movies & Classic TV",NCIS: Los Angeles
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="NCISLosAngeles.us" tvg-name="NCIS: Los Angeles" tvg-logo="" group-title="Movies & Classic TV",NCIS: Los Angeles
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-name="Nevskiy" tvg-logo="" group-title="Movies & Classic TV",Nevskiy
@@ -1965,6 +1983,8 @@ https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
 https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" tvg-logo="" group-title="Movies & Classic TV",Nosey
 https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" tvg-logo="" group-title="Movies & Classic TV",Nosey
+https://amg00514-amg00514c7-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NOST.us" tvg-name="NOST" tvg-logo="" group-title="Movies & Classic TV",NOST
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.bg" tvg-name="Nostalgia" tvg-logo="" group-title="Movies & Classic TV",Nostalgia
@@ -1987,12 +2007,6 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" tvg-logo="" group-title="Movies & Classic TV",NTV-Hit
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 tvg-id="Numb3rs.se" tvg-name="Numb3rs" tvg-logo="" group-title="Movies & Classic TV",Numb3rs
-https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
-#EXTINF:-1 tvg-id="Numb3rs.se" tvg-name="Numb3rs" tvg-logo="" group-title="Movies & Classic TV",Numb3rs
-https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
-#EXTINF:-1 tvg-id="Numbers.se" tvg-name="Numbers" tvg-logo="" group-title="Movies & Classic TV",Numbers
-https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
 #EXTINF:-1 tvg-id="Numbers.us" tvg-name="Numbers" tvg-logo="" group-title="Movies & Classic TV",Numbers
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 #EXTINF:-1 tvg-id="Numeros.us" tvg-name="Numeros" tvg-logo="" group-title="Movies & Classic TV",Numeros
@@ -2003,6 +2017,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="OnPatrolLive.us" tvg-name="On Patrol: Live" tvg-logo="" group-title="Movies & Classic TV",On Patrol: Live
 https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OnPatrolLive.us" tvg-name="On Patrol: Live" tvg-logo="" group-title="Movies & Classic TV",On Patrol: Live
+https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-name="ON Phim Viet" tvg-logo="" group-title="Movies & Classic TV",ON Phim Viet
 https://vmttv.dpdns.org/tv360?id=175
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" tvg-logo="" group-title="Movies & Classic TV",Oscar Movies Bhojpuri
@@ -2022,6 +2038,8 @@ https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="" group-title="Movies & Classic TV",OuterSphere
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="" group-title="Movies & Classic TV",OuterSphere
+https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="" group-title="Movies & Classic TV",OuterSphere
 https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel" tvg-logo="" group-title="Movies & Classic TV",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
@@ -2039,6 +2057,8 @@ https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3
 https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="" group-title="Movies & Classic TV",PBS Antiques Roadshow
 https://pb-ft51qiiwihqtb.akamaized.net/PBS_Antiques_Roadshow.m3u8
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="" group-title="Movies & Classic TV",PBS Antiques Roadshow
+https://amg02333-pbs-amg02333c8-vizio-us-4411.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="" group-title="Movies & Classic TV",PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us" tvg-name="PBS Nature" tvg-logo="" group-title="Movies & Classic TV",PBS Nature
@@ -2082,6 +2102,8 @@ https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="" group-title="Movies & Classic TV",Pitaara
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="" group-title="Movies & Classic TV",Pitaara
+http://116.90.120.149:8000/play/a0ky/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="" group-title="Movies & Classic TV",Pitaara
 https://fta.ektv.in/live/352/master.m3u8
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="" group-title="Movies & Classic TV",Pitaara
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
@@ -2093,12 +2115,6 @@ https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 tvg-id="PlutoTVALaMexicana.us" tvg-name="Pluto TV A La Mexicana" tvg-logo="" group-title="Movies & Classic TV",Pluto TV A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Action
-https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Action
-https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Action
-https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVActionMovies.us" tvg-name="Pluto TV Action Movies" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Action Movies
@@ -2279,20 +2295,12 @@ https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHometownDrama.us" tvg-name="Pluto TV Hometown Drama" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Hometown Drama
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Horror
-https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Horror
-https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Horror
-https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Horror
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Horror
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorrorSerien.de" tvg-name="Pluto TV Horror-Serien" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Horror-Serien
 https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHumor.se" tvg-name="Pluto TV Humor" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Humor
-https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
 #EXTINF:-1 tvg-id="PlutoTVIcons.us" tvg-name="Pluto TV Icons" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 #EXTINF:-1 tvg-id="PlutoTVInvasionAlien.de" tvg-name="Pluto TV Invasion Alien" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Invasion Alien
@@ -2361,10 +2369,6 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
 #EXTINF:-1 tvg-id="PlutoTVOvernaturlig.se" tvg-name="Pluto TV Overnaturlig" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Overnaturlig
 https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.se" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
-https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.se" tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Paranormal
-https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPolar.de" tvg-name="Pluto TV Polar" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Polar
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPolizeiserien.de" tvg-name="Pluto TV Polizeiserien" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Polizeiserien
@@ -2389,12 +2393,6 @@ https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
 https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSanctuary.us" tvg-name="Pluto TV Sanctuary" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Sci-Fi
@@ -2477,12 +2475,6 @@ https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrendingNow.us" tvg-name="Pluto TV Trending Now" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
-https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
-https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
-https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" tvg-logo="" group-title="Movies & Classic TV",Pluto TV True Crime
@@ -2497,8 +2489,6 @@ https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesternSerien.de" tvg-name="Pluto TV Western Serien" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWesterns.de" tvg-name="Pluto TV Westerns" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Westerns
-https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-name="Pluto TV Westerns" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Westerns
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-name="Pluto TV Westerns" tvg-logo="" group-title="Movies & Classic TV",Pluto TV Westerns
@@ -2539,6 +2529,8 @@ https://gtc.ottlive.co.in/punjabshort/index.m3u8
 https://punjabishorts.akamaized.net/punjabshort/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" tvg-logo="" group-title="Movies & Classic TV",Punjabi Shorts
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 tvg-id="PureFlixTV.us" tvg-name="Pure Flix TV" tvg-logo="" group-title="Movies & Classic TV",Pure Flix TV
+https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PutoTVClassicTVCrimeDrama.us" tvg-name="Puto TV Classic TV Crime Drama" tvg-logo="" group-title="Movies & Classic TV",Puto TV Classic TV Crime Drama
 https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" tvg-logo="" group-title="Movies & Classic TV",QTV-3
@@ -2553,12 +2545,6 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" tvg-logo="" group-title="Movies & Classic TV",Rakuten Viki
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" tvg-logo="" group-title="Movies & Classic TV",Rawhide
-https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" tvg-logo="" group-title="Movies & Classic TV",Rawhide
-https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" tvg-logo="" group-title="Movies & Classic TV",Rawhide
-https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 #EXTINF:-1 tvg-id="Rawhide.us" tvg-name="Rawhide" tvg-logo="" group-title="Movies & Classic TV",Rawhide
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-id="Rawhide.us" tvg-name="Rawhide" tvg-logo="" group-title="Movies & Classic TV",Rawhide
@@ -2579,6 +2565,8 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" tvg-logo="" group-title="Movies & Classic TV",RetroCrush
 https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" tvg-logo="" group-title="Movies & Classic TV",RetroCrush
+https://linear-899.frequency.stream/mt/vizio/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="" group-title="Movies & Classic TV",Rodnoe Kino
 http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="" group-title="Movies & Classic TV",Rodnoe Kino
@@ -2591,8 +2579,6 @@ https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-name="Rotana Drama" tvg-logo="" group-title="Movies & Classic TV",Rotana Drama
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSDrama.rs" tvg-name="RTS Drama" tvg-logo="" group-title="Movies & Classic TV",RTS Drama
-https://de1.dstv.cx/RTSDrama/index.m3u8
 #EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="RTSH Shqip" tvg-logo="" group-title="Movies & Classic TV",RTSH Shqip
 http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
 #EXTINF:-1 tvg-id="Runtime.us" tvg-name="Runtime" tvg-logo="" group-title="Movies & Classic TV",Runtime
@@ -2634,9 +2620,9 @@ https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-o
 #EXTINF:-1 tvg-id="ScaresbyShudder.us" tvg-name="Scares by Shudder" tvg-logo="" group-title="Movies & Classic TV",Scares by Shudder
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349
 #EXTINF:-1 tvg-id="ScaresbyShudder.us" tvg-name="Scares by Shudder" tvg-logo="" group-title="Movies & Classic TV",Scares by Shudder
-https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8
-#EXTINF:-1 tvg-id="ScaresbyShudder.us" tvg-name="Scares by Shudder" tvg-logo="" group-title="Movies & Classic TV",Scares by Shudder
 https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ScaresbyShudder.us" tvg-name="Scares by Shudder" tvg-logo="" group-title="Movies & Classic TV",Scares by Shudder
+https://amc-scaresbyshudder-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SciFi.rs" tvg-name="Sci Fi" tvg-logo="" group-title="Movies & Classic TV",Sci Fi
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 #EXTINF:-1 tvg-id="Scorpion.de" tvg-name="Scorpion" tvg-logo="" group-title="Movies & Classic TV",Scorpion
@@ -2703,14 +2689,22 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fus
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir" tvg-name="SL 2" tvg-logo="" group-title="Movies & Classic TV",SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Gorkogo.ru" tvg-name="Smotrim 100% Gorkogo" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Gorkogo
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Klassika
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Klassika
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 #EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Lyubov
+https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Lyubov
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Lyubov
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Muzhskoe
+https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Muzhskoe
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" tvg-logo="" group-title="Movies & Classic TV",Smotrim 100% Muzhskoe
@@ -2723,6 +2717,10 @@ https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-name="Sony Canal Novelas" tvg-logo="" group-title="Movies & Classic TV",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="" group-title="Movies & Classic TV",Sony Max
+http://116.90.120.149:8000/play/a123/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="" group-title="Movies & Classic TV",Sony Max
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" tvg-logo="" group-title="Movies & Classic TV",Sony Movies
 http://45.177.114.115/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" tvg-logo="" group-title="Movies & Classic TV",Sony Movies
@@ -2749,6 +2747,8 @@ https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-name="Sony One Hits Comedie" tvg-logo="" group-title="Movies & Classic TV",Sony One Hits Comedie
 https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" tvg-logo="" group-title="Movies & Classic TV",Sony Pix
+http://116.90.120.149:8000/play/a138/index.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" tvg-logo="" group-title="Movies & Classic TV",Sony Wah
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" tvg-logo="" group-title="Movies & Classic TV",Sony Wah
@@ -2803,8 +2803,6 @@ https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us" tvg-name="Star Trek: Deep Space Nine" tvg-logo="" group-title="Movies & Classic TV",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de" tvg-name="Star Trek: The Next Generation" tvg-logo="" group-title="Movies & Classic TV",Star Trek: The Next Generation
-https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us" tvg-name="Star Trek: The Next Generation" tvg-logo="" group-title="Movies & Classic TV",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de" tvg-name="Star Trek: The Original Series" tvg-logo="" group-title="Movies & Classic TV",Star Trek: The Original Series
@@ -2815,10 +2813,6 @@ https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-name="Star Trek: The Original Series" tvg-logo="" group-title="Movies & Classic TV",Star Trek: The Original Series
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" tvg-logo="" group-title="Movies & Classic TV",Star Trek: Voyager
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" tvg-logo="" group-title="Movies & Classic TV",Star Trek: Voyager
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.us" tvg-name="Star Trek: Voyager" tvg-logo="" group-title="Movies & Classic TV",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="Star Utsav Movies" tvg-logo="" group-title="Movies & Classic TV",Star Utsav Movies
@@ -2921,10 +2915,12 @@ https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross Channel" tvg-logo="" group-title="Movies & Classic TV",The Bob Ross Channel
 https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross Channel" tvg-logo="" group-title="Movies & Classic TV",The Bob Ross Channel
+https://wurlcineverse.global.transmit.live/hls/678863ef58870f59fceabf94/v1/cinedigm_entertainment_corp_thebobrosschannel_1/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" tvg-logo="" group-title="Movies & Classic TV",The Carol Burnett Show
 https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" tvg-logo="" group-title="Movies & Classic TV",The Carol Burnett Show
-https://carolburnett-vizio.amagi.tv/playlist.m3u8
+https://vizioaaaa-carol-burnett-vizio-xam92.amagi.tv/playlist/vizioAAAA-carol-burnett-vizio/playlist.m3u8
 #EXTINF:-1 tvg-id="TheChallenge.us" tvg-name="The Challenge" tvg-logo="" group-title="Movies & Classic TV",The Challenge
 https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
 #EXTINF:-1 tvg-id="TheChallenge.us" tvg-name="The Challenge" tvg-logo="" group-title="Movies & Classic TV",The Challenge
@@ -2963,14 +2959,6 @@ https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" tvg-logo="" group-title="Movies & Classic TV",The Movie Club
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-#EXTINF:-1 tvg-id="TheNewDetectives.de" tvg-name="The New Detectives" tvg-logo="" group-title="Movies & Classic TV",The New Detectives
-https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se" tvg-name="The New Detectives" tvg-logo="" group-title="Movies & Classic TV",The New Detectives
-https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se" tvg-name="The New Detectives" tvg-logo="" group-title="Movies & Classic TV",The New Detectives
-https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se" tvg-name="The New Detectives" tvg-logo="" group-title="Movies & Classic TV",The New Detectives
-https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.us" tvg-name="The New Detectives" tvg-logo="" group-title="Movies & Classic TV",The New Detectives
 https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.us" tvg-name="The New Detectives" tvg-logo="" group-title="Movies & Classic TV",The New Detectives
@@ -2990,13 +2978,9 @@ https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="" group-title="Movies & Classic TV",The Walking Dead Universe
 https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="" group-title="Movies & Classic TV",The Walking Dead Universe
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="" group-title="Movies & Classic TV",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" tvg-logo="" group-title="Movies & Classic TV",The Wild Wild West
-https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" tvg-logo="" group-title="Movies & Classic TV",The Wild Wild West
-https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" tvg-logo="" group-title="Movies & Classic TV",The Wild Wild West
-https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
 #EXTINF:-1 tvg-id="TheWildWildWest.us" tvg-name="The Wild Wild West" tvg-logo="" group-title="Movies & Classic TV",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" tvg-logo="" group-title="Movies & Classic TV",Thikrayat TV
@@ -3007,6 +2991,8 @@ https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
 https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" tvg-logo="" group-title="Movies & Classic TV",This Old House
 https://pb-qmu0m4a1cb5dj.akamaized.net/This_Old_House.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" tvg-logo="" group-title="Movies & Classic TV",This Old House
+https://amg00339-thisoldhouseven-tohvizio-vizious-7lt08.amagi.tv/playlist/amg00339-thisoldhouseven-tohvizio-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="ThreesCompany.us" tvg-name="Three's Company" tvg-logo="" group-title="Movies & Classic TV",Three's Company
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 tvg-id="ThreesCompany.us" tvg-name="Three's Company" tvg-logo="" group-title="Movies & Classic TV",Three's Company
@@ -3025,6 +3011,8 @@ https://adf47c43.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-name="Tiny House Nation" tvg-logo="" group-title="Movies & Classic TV",Tiny House Nation
 https://pb-yxy31pwnm3mp2.akamaized.net/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-name="Tiny House Nation" tvg-logo="" group-title="Movies & Classic TV",Tiny House Nation
+https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="TMF.nl" tvg-name="TMF" tvg-logo="" group-title="Movies & Classic TV",TMF
 https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" tvg-logo="" group-title="Movies & Classic TV",TNT Novelas
@@ -3277,6 +3265,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WeedsNurseJackie.us" tvg-name="Weeds & Nurse Jackie" tvg-logo="" group-title="Movies & Classic TV",Weeds & Nurse Jackie
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
+#EXTINF:-1 tvg-id="WeedsNurseJackie.us" tvg-name="Weeds & Nurse Jackie" tvg-logo="" group-title="Movies & Classic TV",Weeds & Nurse Jackie
+https://amg00353-amg00353c38-vizio-us-10595.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WesternTV.us" tvg-name="Western TV" tvg-logo="" group-title="Movies & Classic TV",Western TV
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 #EXTINF:-1 tvg-id="Westerns4U.us" tvg-name="Westerns 4U" tvg-logo="" group-title="Movies & Classic TV",Westerns 4U
