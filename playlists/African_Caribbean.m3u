@@ -241,8 +241,6 @@ https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" tvg-logo="" group-title="African & Caribbean",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
-#EXTINF:-1 tvg-id="DNJTV.pr" tvg-name="DNJ TV" tvg-logo="" group-title="African & Caribbean",DNJ TV
-https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
 #EXTINF:-1 tvg-id="DodomaTV.tz" tvg-name="Dodoma TV" tvg-logo="" group-title="African & Caribbean",Dodoma TV
 https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
 #EXTINF:-1 tvg-id="DouniaTV.ne" tvg-name="Dounia TV" tvg-logo="" group-title="African & Caribbean",Dounia TV
@@ -311,8 +309,6 @@ https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm" tvg-name="Fame95 FM" tvg-logo="" group-title="African & Caribbean",Fame95 FM
 https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
-#EXTINF:-1 tvg-id="FamiliaVisionHD.pr" tvg-name="Familia Vision HD" tvg-logo="" group-title="African & Caribbean",Familia Vision HD
-https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FarajaTelevision.ug" tvg-name="Faraja Television" tvg-logo="" group-title="African & Caribbean",Faraja Television
 https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr" tvg-name="Faro de Santidad TV" tvg-logo="" group-title="African & Caribbean",Faro de Santidad TV
@@ -335,6 +331,8 @@ https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="GBSTV.ke" tvg-name="GBS TV" tvg-logo="" group-title="African & Caribbean",GBS TV
 https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
+#EXTINF:-1 tvg-id="GloriousTimesTV.ug" tvg-name="Glorious Times TV" tvg-logo="" group-title="African & Caribbean",Glorious Times TV
+https://gttv-cdn.cybercdn.live/GTTV/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="GMSTV.sn" tvg-name="GMS TV" tvg-logo="" group-title="African & Caribbean",GMS TV
 https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="GNFTV.za" tvg-name="GNF TV" tvg-logo="" group-title="African & Caribbean",GNF TV
@@ -443,6 +441,8 @@ https://channels.ad-ug.com/live/ch03/index.m3u8
 https://live.esteem.africa/kstv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="KSTVUganda.ug" tvg-name="KSTV Uganda" tvg-logo="" group-title="African & Caribbean",KSTV Uganda
 https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="KTV.ug" tvg-name="KTV" tvg-logo="" group-title="African & Caribbean",KTV
+https://stream.kingdommediaug.com/ktv/video.m3u8
 #EXTINF:-1 tvg-id="LaX.pr" tvg-name="La-X" tvg-logo="" group-title="African & Caribbean",La-X
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-name="Laura Dave Media TV" tvg-logo="" group-title="African & Caribbean",Laura Dave Media TV
@@ -489,6 +489,8 @@ https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 #EXTINF:-1 tvg-id="MasharikiTV.ke" tvg-name="Mashariki TV" tvg-logo="" group-title="African & Caribbean",Mashariki TV
 https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
+#EXTINF:-1 tvg-id="MasterVideo.pr" tvg-name="Master Video" tvg-logo="" group-title="African & Caribbean",Master Video
+https://eco.streams.ovh:8081/mastervideotv/index.m3u8
 #EXTINF:-1 tvg-id="MastersTV.ng" tvg-name="Master's TV" tvg-logo="" group-title="African & Caribbean",Master's TV
 https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8
 #EXTINF:-1 tvg-id="Mazzika.eg" tvg-name="Mazzika" tvg-logo="" group-title="African & Caribbean",Mazzika
@@ -569,8 +571,6 @@ https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" tvg-logo="" group-title="African & Caribbean",News Central
 https://wf.newscentral.ng:8443/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NGRadioTV.pr" tvg-name="NG Radio TV" tvg-logo="" group-title="African & Caribbean",NG Radio TV
-https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="NiceTVKenya.ke" tvg-name="Nice TV Kenya" tvg-logo="" group-title="African & Caribbean",Nice TV Kenya
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 #EXTINF:-1 tvg-id="Nigbati.ng" tvg-name="Nigbati" tvg-logo="" group-title="African & Caribbean",Nigbati
@@ -597,8 +597,6 @@ https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ci" tvg-name="NTV" tvg-logo="" group-title="African & Caribbean",NTV
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-name="Nueva Vida FM" tvg-logo="" group-title="African & Caribbean",Nueva Vida FM
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="NuViewTV.za" tvg-name="NuView TV" tvg-logo="" group-title="African & Caribbean",NuView TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NWEconomie.tg" tvg-name="NW Economie" tvg-logo="" group-title="African & Caribbean",NW Economie
@@ -656,7 +654,7 @@ https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="QuestTV.ng" tvg-name="Quest TV" tvg-logo="" group-title="African & Caribbean",Quest TV
 https://media2.streambrothers.com:19360/8028/8028.m3u8
 #EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-name="Radio Isla TV" tvg-logo="" group-title="African & Caribbean",Radio Isla TV
-https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8
 #EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-name="Radio Tele 4VEH" tvg-logo="" group-title="African & Caribbean",Radio Tele 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-name="Radio Tele Amen FM" tvg-logo="" group-title="African & Caribbean",Radio Tele Amen FM
@@ -963,8 +961,8 @@ https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
 https://wazobia.live:8333/channel/wmax.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-name="Wazobia Max TV Port-Harcourt" tvg-logo="" group-title="African & Caribbean",Wazobia Max TV Port-Harcourt
 https://wazobia.live:8333/channel/wmaxph.m3u8
-#EXTINF:-1 tvg-id="WECN.pr" tvg-name="WECN" tvg-logo="" group-title="African & Caribbean",WECN
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+#EXTINF:-1 tvg-id="WCLO501.pr" tvg-name="WCLO 50.1" tvg-logo="" group-title="African & Caribbean",WCLO 50.1
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="WELU81.pr" tvg-name="WELU 8.1" tvg-logo="" group-title="African & Caribbean",WELU 8.1
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="WholeWordTV.ng" tvg-name="Whole Word TV" tvg-logo="" group-title="African & Caribbean",Whole Word TV

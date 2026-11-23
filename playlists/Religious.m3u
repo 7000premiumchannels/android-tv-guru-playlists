@@ -802,9 +802,9 @@ https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
 #EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-name="It's Supernatural! Network" tvg-logo="" group-title="Religious",It's Supernatural! Network
 https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
 #EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="" group-title="Religious",Jaya TV
-https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="" group-title="Religious",Jaya TV
 https://live.jayatv.lk/hls/stream.m3u8
+#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="" group-title="Religious",Jaya TV
+https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="JBS.us" tvg-name="JBS" tvg-logo="" group-title="Religious",JBS
 https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-name="Jewish Life Television" tvg-logo="" group-title="Religious",Jewish Life Television
@@ -1073,6 +1073,8 @@ https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in" tvg-name="Nanaksar Live" tvg-logo="" group-title="Religious",Nanaksar Live
 https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NijamTV.in" tvg-name="Nijam TV" tvg-logo="" group-title="Religious",Nijam TV
+https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" tvg-logo="" group-title="Religious",Nireekshana TV
 https://fta.ektv.in/live/706/master.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" tvg-logo="" group-title="Religious",Nireekshana TV
@@ -1475,6 +1477,8 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVHram.rs" tvg-name="TV Hram" tvg-logo="" group-title="Religious",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="TVMaanaim.br" tvg-name="TV Maanaim" tvg-logo="" group-title="Religious",TV Maanaim
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 #EXTINF:-1 tvg-id="TVMana1.pt" tvg-name="TV Mana 1" tvg-logo="" group-title="Religious",TV Mana 1
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMana2.pt" tvg-name="TV Mana 2" tvg-logo="" group-title="Religious",TV Mana 2
