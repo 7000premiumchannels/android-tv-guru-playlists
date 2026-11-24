@@ -9,8 +9,6 @@ https://cdn.pishow.tv/ott/live/391/master.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="13SiamThai.th" tvg-name="13 Siam Thai" tvg-logo="" group-title="US News & Weather",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:-1 tvg-id="22ScopeNews.in" tvg-name="22Scope News" tvg-logo="" group-title="US News & Weather",22Scope News
-https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua" tvg-name="24 Kanal" tvg-logo="" group-title="US News & Weather",24 Kanal
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="24News.in" tvg-name="24 News" tvg-logo="" group-title="US News & Weather",24 News
@@ -67,8 +65,6 @@ http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN" tvg-logo="" group-title="US News & Weather",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AagaazTimes.in" tvg-name="Aagaaz Times" tvg-logo="" group-title="US News & Weather",Aagaaz Times
-https://live1.ottlive.co.in/aagaaztimes/index.m3u8
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" tvg-logo="" group-title="US News & Weather",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajKiKhabar.in" tvg-name="Aaj Ki Khabar" tvg-logo="" group-title="US News & Weather",Aaj Ki Khabar
@@ -223,6 +219,8 @@ http://170.83.16.50/AGRO_MAIS/index.m3u8
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
 #EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" tvg-logo="" group-title="US News & Weather",Aik News
 https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
+#EXTINF:-1 tvg-id="AJNetNews.in" tvg-name="AJ Net News" tvg-logo="" group-title="US News & Weather",AJ Net News
+http://stream.logichost.in:1935/AJNET/live/chunklist_w1891201465.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-logo="" group-title="US News & Weather",AKD Calcutta News
 https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-logo="" group-title="US News & Weather",AKD Calcutta News
@@ -357,6 +355,8 @@ http://185.9.2.18/chid_146/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" tvg-logo="" group-title="US News & Weather",Alarabiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" tvg-logo="" group-title="US News & Weather",Alarabiya
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_arabiya/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News" tvg-logo="" group-title="US News & Weather",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlertTV.gr" tvg-name="Alert TV" tvg-logo="" group-title="US News & Weather",Alert TV
@@ -391,6 +391,10 @@ https://d1msejlow1t3l4.cloudfront.net/fta/anb/playlist.m3u8
 https://fta.ektv.in/live/101/101_0.m3u8
 #EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" tvg-logo="" group-title="US News & Weather",ANB News
 https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" tvg-logo="" group-title="US News & Weather",AnewZ TV
+http://svln.li/anewz.m3u8
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" tvg-logo="" group-title="US News & Weather",AnewZ TV
+https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnjaliTV.in" tvg-name="Anjali TV" tvg-logo="" group-title="US News & Weather",Anjali TV
 https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
 #EXTINF:-1 tvg-id="AnshunComprehensiveNewsChannel.cn" tvg-name="Anshun Comprehensive News Channel" tvg-logo="" group-title="US News & Weather",Anshun Comprehensive News Channel
@@ -422,9 +426,9 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" tvg-logo="" group-title="US News & Weather",ARB 24
 http://185.32.44.154/arb24/index.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" tvg-logo="" group-title="US News & Weather",ARB 24
-https://operativmm.az/tvs/arb24/stream/index.m3u8
-#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" tvg-logo="" group-title="US News & Weather",ARB 24
 https://az.tvstream.az/hls/stream5/stream.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" tvg-logo="" group-title="US News & Weather",ARB 24
+https://operativmm.az/tvs/arb24/stream/index.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in" tvg-name="Argus News" tvg-logo="" group-title="US News & Weather",Argus News
 https://d1msejlow1t3l4.cloudfront.net/fta/argusnews/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in" tvg-name="Argus News" tvg-logo="" group-title="US News & Weather",Argus News
@@ -519,8 +523,10 @@ https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" tvg-logo="" group-title="US News & Weather",B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
-#EXTINF:-1 tvg-id="BadaKhabar.in" tvg-name="Bada Khabar" tvg-logo="" group-title="US News & Weather",Bada Khabar
-https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" tvg-logo="" group-title="US News & Weather",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" tvg-logo="" group-title="US News & Weather",Baku.TV
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" tvg-logo="" group-title="US News & Weather",BandNews
 https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BandNews" tvg-logo="" group-title="US News & Weather",BandNews
@@ -1042,8 +1048,6 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
-http://116.90.120.149:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
 https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="" group-title="US News & Weather",CNN International
 http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
@@ -1268,11 +1272,7 @@ https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 tvg-id="ETV.mn" tvg-name="ETV" tvg-logo="" group-title="US News & Weather",ETV
 https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="" group-title="US News & Weather",ETV Andhra Pradesh
-https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="" group-title="US News & Weather",ETV Andhra Pradesh
 https://dydgqt7gwzwgp.cloudfront.net/v1/fbb2721f72d04c66a545fee9ca8c728c/airtFED4D.m3u8
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="" group-title="US News & Weather",ETV Andhra Pradesh
-https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="" group-title="US News & Weather",ETV Andhra Pradesh
 https://d1t0ftvgxmmgk0.cloudfront.net/cdbded927dea40ab8cda857b3d12db0e/etvBBJRQ.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="" group-title="US News & Weather",ETV Andhra Pradesh
@@ -1909,10 +1909,10 @@ https://live-kanaknews.videostech.cloud/master.m3u8
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
 #EXTINF:-1 tvg-id="KannurVision.in" tvg-name="Kannur Vision" tvg-logo="" group-title="US News & Weather",Kannur Vision
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KapazTV.az" tvg-name="Kapaz TV" tvg-logo="" group-title="US News & Weather",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="KarnatakaNewsBeat.in" tvg-name="Karnataka News Beat" tvg-logo="" group-title="US News & Weather",Karnataka News Beat
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8
-#EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" tvg-logo="" group-title="US News & Weather",Kashish News
-https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" tvg-logo="" group-title="US News & Weather",Kashish News
 https://cdn.pishow.tv/ott/live/1471/master.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in" tvg-name="Kashish News" tvg-logo="" group-title="US News & Weather",Kashish News
@@ -2241,8 +2241,6 @@ https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #EXTINF:-1 tvg-id="NationalIranianCongressTV.us" tvg-name="National Iranian Congress TV" tvg-logo="" group-title="US News & Weather",National Iranian Congress TV
 https://tv.iraniancongress.com/stream/tv.m3u8
-#EXTINF:-1 tvg-id="NaxatraNews.in" tvg-name="Naxatra News" tvg-logo="" group-title="US News & Weather",Naxatra News
-https://fta.ektv.in/live/668/master.m3u8
 #EXTINF:-1 tvg-id="NaxatraNewsHindi.in" tvg-name="Naxatra News Hindi" tvg-logo="" group-title="US News & Weather",Naxatra News Hindi
 https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="" group-title="US News & Weather",NBC News NOW
@@ -2386,8 +2384,6 @@ https://cdn.pishow.tv/ott/live/10009/master.m3u8
 #EXTINF:-1 tvg-id="NewsHour.in" tvg-name="News Hour" tvg-logo="" group-title="US News & Weather",News Hour
 https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8
 #EXTINF:-1 tvg-id="NewsIndia24x7.in" tvg-name="News India 24x7" tvg-logo="" group-title="US News & Weather",News India 24x7
-https://stream.ottlive.co.in/newsindia/index.m3u8
-#EXTINF:-1 tvg-id="NewsIndia24x7.in" tvg-name="News India 24x7" tvg-logo="" group-title="US News & Weather",News India 24x7
 https://cdn.pishow.tv/ott/live/273/master.m3u8
 #EXTINF:-1 tvg-id="NewsIndia24x7.in" tvg-name="News India 24x7" tvg-logo="" group-title="US News & Weather",News India 24x7
 https://fta.ektv.in/live/453/master.m3u8
@@ -2403,8 +2399,6 @@ https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8
 https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in" tvg-name="News Live" tvg-logo="" group-title="US News & Weather",News Live
 https://cdn.pishow.tv/ott/live/10011/master.m3u8
-#EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" tvg-logo="" group-title="US News & Weather",News Live Bangla
-https://stream.ottlive.co.in/newslivebangla/index.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" tvg-logo="" group-title="US News & Weather",News Live Bangla
 https://cdn.pishow.tv/ott/live/10003/master.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" tvg-logo="" group-title="US News & Weather",News Live Bangla
@@ -2542,8 +2536,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/ma
 #EXTINF:-1 tvg-id="News18India.in" tvg-name="News18 India" tvg-logo="" group-title="US News & Weather",News18 India
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" tvg-logo="" group-title="US News & Weather",News18 Kannada
-https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8
-#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" tvg-logo="" group-title="US News & Weather",News18 Kannada
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" tvg-logo="" group-title="US News & Weather",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
@@ -2553,8 +2545,6 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Marathi.in" tvg-name="News18 Marathi" tvg-logo="" group-title="US News & Weather",News18 Marathi
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News18 Odia" tvg-logo="" group-title="US News & Weather",News18 Odia
-https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8
 #EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News18 Odia" tvg-logo="" group-title="US News & Weather",News18 Odia
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18PunjabHaryanaHimachal.in" tvg-name="News18 Punjab/Haryana/Himachal" tvg-logo="" group-title="US News & Weather",News18 Punjab/Haryana/Himachal
@@ -2626,8 +2616,6 @@ https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsWorld.hk" tvg-name="NewsWorld" tvg-logo="" group-title="US News & Weather",NewsWorld
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" tvg-logo="" group-title="US News & Weather",NewsX
-https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
-#EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" tvg-logo="" group-title="US News & Weather",NewsX
 https://cdn.pishow.tv/ott/live/1765/master.m3u8
 #EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" tvg-logo="" group-title="US News & Weather",NewsX
 https://fta.ektv.in/live/603/master.m3u8
@@ -2665,8 +2653,6 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://fta.ektv.in/live/417/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" group-title="US News & Weather",NHK World-Japan
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
-#EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" tvg-logo="" group-title="US News & Weather",NK TV 24x7
-https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" tvg-logo="" group-title="US News & Weather",NK TV 24x7
 https://stream.ottlive.co.in/nktv/index.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" tvg-logo="" group-title="US News & Weather",NK TV 24x7
@@ -2833,8 +2819,6 @@ https://cdn.pishow.tv/ott/live/247/master.m3u8
 https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8
 #EXTINF:-1 tvg-id="PowerTV.in" tvg-name="Power TV" tvg-logo="" group-title="US News & Weather",Power TV
 https://powertvkannada.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Pradesh24Gujarati.in" tvg-name="Pradesh24 Gujarati" tvg-logo="" group-title="US News & Weather",Pradesh24 Gujarati
-https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 #EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" tvg-logo="" group-title="US News & Weather",Prag News
 https://d1msejlow1t3l4.cloudfront.net/fta/pragnews/playlist.m3u8
 #EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" tvg-logo="" group-title="US News & Weather",Prag News
@@ -2916,8 +2900,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-name="PTV News" tvg-logo="" group-title="US News & Weather",PTV News
 http://103.250.28.74:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" tvg-logo="" group-title="US News & Weather",Public First
-https://fta.ektv.in/live/237/master.m3u8
-#EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" tvg-logo="" group-title="US News & Weather",Public First
 https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PublicNews.pk" tvg-name="Public News" tvg-logo="" group-title="US News & Weather",Public News
 http://103.250.28.74:8000/play/a04g/index.m3u8
@@ -2971,8 +2953,6 @@ https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 https://cdn.pishow.tv/ott/live/279/master.m3u8
 #EXTINF:-1 tvg-id="RajNewsTelugu.in" tvg-name="Raj News Telugu" tvg-logo="" group-title="US News & Weather",Raj News Telugu
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="RajPariwar.in" tvg-name="Raj Pariwar" tvg-logo="" group-title="US News & Weather",Raj Pariwar
-https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8
 #EXTINF:-1 tvg-id="RDXGoa.in" tvg-name="RDX Goa" tvg-logo="" group-title="US News & Weather",RDX Goa
 https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-name="Real News Kerala" tvg-logo="" group-title="US News & Weather",Real News Kerala
@@ -3016,8 +2996,6 @@ https://fta.ektv.in/live/663/master.m3u8
 #EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" tvg-logo="" group-title="US News & Weather",Republic Bangla
 https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="" group-title="US News & Weather",Republic Bharat
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
-#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="" group-title="US News & Weather",Republic Bharat
 http://163.61.226.31:9981/stream/channelid/1090287783?profile=pass
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="" group-title="US News & Weather",Republic Bharat
 https://cdn.pishow.tv/ott/live/1053/master.m3u8
@@ -3037,8 +3015,6 @@ https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 https://cdn.pishow.tv/ott/live/298/master.m3u8
 #EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" tvg-logo="" group-title="US News & Weather",Republic Kannada
 https://streams.tangotv.in/REPUBLICKANNADA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" tvg-logo="" group-title="US News & Weather",Republic TV
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" tvg-logo="" group-title="US News & Weather",Republic TV
 https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" tvg-logo="" group-title="US News & Weather",Republic TV
@@ -3379,10 +3355,6 @@ https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc
 https://fta.ektv.in/live/589/master.m3u8
 #EXTINF:-1 tvg-id="SamacharPlus24x7.in" tvg-name="Samachar Plus 24x7" tvg-logo="" group-title="US News & Weather",Samachar Plus 24x7
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
-#EXTINF:-1 tvg-id="SamayKolkata.in" tvg-name="Samay Kolkata" tvg-logo="" group-title="US News & Weather",Samay Kolkata
-https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-#EXTINF:-1 tvg-id="SamayKolkata.in" tvg-name="Samay Kolkata" tvg-logo="" group-title="US News & Weather",Samay Kolkata
-https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in" tvg-name="Sandesh News" tvg-logo="" group-title="US News & Weather",Sandesh News
 https://stream.ottlive.co.in/sandeshnews/index.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in" tvg-name="Sandesh News" tvg-logo="" group-title="US News & Weather",Sandesh News
@@ -3451,10 +3423,6 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 https://live2.snn.ir/hls/snn2_hd720/index.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru" tvg-name="Sochi24" tvg-logo="" group-title="US News & Weather",Sochi24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" tvg-logo="" group-title="US News & Weather",Star Bharat
-http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" tvg-logo="" group-title="US News & Weather",Star Bharat
-http://116.90.120.149:8000/play/a13b/index.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr" tvg-name="Star Kentrikis Elladas" tvg-logo="" group-title="US News & Weather",Star Kentrikis Elladas
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 tvg-id="StartTV.gr" tvg-name="Start TV" tvg-logo="" group-title="US News & Weather",Start TV
@@ -3463,8 +3431,6 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 #EXTINF:-1 tvg-id="SterkTV.be" tvg-name="Sterk TV" tvg-logo="" group-title="US News & Weather",Sterk TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
-#EXTINF:-1 tvg-id="STVHaryanaNews.in" tvg-name="STV Haryana News" tvg-logo="" group-title="US News & Weather",STV Haryana News
-https://fta.ektv.in/live/607/master.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" tvg-name="STZ TV" tvg-logo="" group-title="US News & Weather",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" tvg-logo="" group-title="US News & Weather",Suara Surabaya Visual Radio
@@ -3657,8 +3623,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
 #EXTINF:-1 tvg-id="TSNTeleSondrioNews.it" tvg-name="TSN TeleSondrio News" tvg-logo="" group-title="US News & Weather",TSN TeleSondrio News
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="TTN24.in" tvg-name="TTN24" tvg-logo="" group-title="US News & Weather",TTN24
-https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
 #EXTINF:-1 tvg-id="TTVNews.tw" tvg-name="TTV News" tvg-logo="" group-title="US News & Weather",TTV News
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-name="TurkHaber TV" tvg-logo="" group-title="US News & Weather",TurkHaber TV
@@ -3669,6 +3633,8 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-name="TV Brusque" tvg-logo="" group-title="US News & Weather",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" tvg-logo="" group-title="US News & Weather",TV CAJUI WEB
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJadran.hr" tvg-name="TV Jadran" tvg-logo="" group-title="US News & Weather",TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-id="TVNatal.br" tvg-name="TV Natal" tvg-logo="" group-title="US News & Weather",TV Natal
@@ -3695,8 +3661,6 @@ https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
 https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
 #EXTINF:-1 tvg-id="TV45.in" tvg-name="TV45" tvg-logo="" group-title="US News & Weather",TV45
 https://stream.ottlive.co.in/tv45/index.m3u8
-#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" tvg-logo="" group-title="US News & Weather",TV5 Kannada
-https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" tvg-logo="" group-title="US News & Weather",TV5 Kannada
 https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" tvg-logo="" group-title="US News & Weather",TV5 Kannada
@@ -3835,6 +3799,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" tvg-logo="" group-title="US News & Weather",V6 News
 https://cdn.pishow.tv/ott/live/389/master.m3u8
+#EXTINF:-1 tvg-id="VBCNews.in" tvg-name="VBC News" tvg-logo="" group-title="US News & Weather",VBC News
+https://live.skystream.in/live/vbcthdpza/index.m3u8
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-name="VEJA+ TV" tvg-logo="" group-title="US News & Weather",VEJA+ TV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-name="VEJA+ TV" tvg-logo="" group-title="US News & Weather",VEJA+ TV
@@ -3855,8 +3821,6 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-name="Vinh Long TV 1" tvg-logo="" group-title="US News & Weather",Vinh Long TV 1
 https://dethich.pw/thvl1/index.m3u8
-#EXTINF:-1 tvg-id="VIPNews.in" tvg-name="VIP News" tvg-logo="" group-title="US News & Weather",VIP News
-https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Visir.is" tvg-name="Visir" tvg-logo="" group-title="US News & Weather",Visir
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VistaarNews.in" tvg-name="Vistaar News" tvg-logo="" group-title="US News & Weather",Vistaar News
@@ -3875,8 +3839,6 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VouliTV.cy" tvg-name="Vouli TV" tvg-logo="" group-title="US News & Weather",Vouli TV
 https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-id="VRLive.in" tvg-name="VR Live" tvg-logo="" group-title="US News & Weather",VR Live
-https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
 #EXTINF:-1 tvg-id="VSHNews.pk" tvg-name="VSH News" tvg-logo="" group-title="US News & Weather",VSH News
 http://103.250.28.74:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="VTV.mv" tvg-name="VTV" tvg-logo="" group-title="US News & Weather",VTV
@@ -3950,8 +3912,6 @@ https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:-1 tvg-id="WSOCNow.us" tvg-name="WSOC Now" tvg-logo="" group-title="US News & Weather",WSOC Now
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="US News & Weather",Zee 24 Ghanta
-https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
-#EXTINF:-1 tvg-id="Zee24Ghanta.in" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="US News & Weather",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="Zee24Kalak.in" tvg-name="Zee 24 Kalak" tvg-logo="" group-title="US News & Weather",Zee 24 Kalak
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/14b7c8ec-16da-47f2-8d7e-5bbaec67b3e2/3.m3u8
@@ -3989,8 +3949,6 @@ https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-name="Zee Rajasthan" tvg-logo="" group-title="US News & Weather",Zee Rajasthan
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-#EXTINF:-1 tvg-id="ZeeTamilNews.in" tvg-name="Zee Tamil News" tvg-logo="" group-title="US News & Weather",Zee Tamil News
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-name="Zee Telugu News" tvg-logo="" group-title="US News & Weather",Zee Telugu News
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-name="Zee Uttar Pradesh/Uttarakhand" tvg-logo="" group-title="US News & Weather",Zee Uttar Pradesh/Uttarakhand

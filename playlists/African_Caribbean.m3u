@@ -4,6 +4,8 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="2M.ma" tvg-name="2M" tvg-logo="" group-title="African & Caribbean",2M
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" tvg-logo="" group-title="African & Caribbean",2M Monde
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" tvg-logo="" group-title="African & Caribbean",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" tvg-logo="" group-title="African & Caribbean",2M Monde
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
@@ -71,8 +73,6 @@ https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AmaniTV.sn" tvg-name="Amani TV" tvg-logo="" group-title="African & Caribbean",Amani TV
 https://goccn.cloud/hls/amanitv/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-name="America TeVe" tvg-logo="" group-title="African & Caribbean",America TeVe
-https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-name="Amou Yazid TV" tvg-logo="" group-title="African & Caribbean",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-id="AMusicChannel.ng" tvg-name="AMusic Channel" tvg-logo="" group-title="African & Caribbean",AMusic Channel
@@ -131,6 +131,8 @@ https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-id="BonceTV.cw" tvg-name="Bonce TV" tvg-logo="" group-title="African & Caribbean",Bonce TV
 https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 tvg-id="BoricuaTV.pr" tvg-name="Boricua TV" tvg-logo="" group-title="African & Caribbean",Boricua TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 #EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="Boss Brothers TV" tvg-logo="" group-title="African & Caribbean",Boss Brothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1 tvg-id="BrideTV.ng" tvg-name="Bride TV" tvg-logo="" group-title="African & Caribbean",Bride TV
@@ -457,6 +459,8 @@ https://lnmlive.com/live/lnmtv.m3u8
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="Live99FM.bq" tvg-name="Live99FM" tvg-logo="" group-title="African & Caribbean",Live99FM
 https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="LixdofTV.gh" tvg-name="Lixdof TV" tvg-logo="" group-title="African & Caribbean",Lixdof TV
+https://2nbyjq47d53k-hls-live.5centscdn.com/Lixdofmultimedia/f55247a8bae691deb0ae56982af2d6bf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LMTVFrench.ci" tvg-name="LM TV French" tvg-logo="" group-title="African & Caribbean",LM TV French
 https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
 #EXTINF:-1 tvg-id="LN247.ng" tvg-name="LN247" tvg-logo="" group-title="African & Caribbean",LN247
@@ -499,6 +503,8 @@ http://149.100.11.235:8080/Mazzika/index.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr.eg" tvg-name="MBC Masr" tvg-logo="" group-title="African & Caribbean",MBC Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-name="MBC Masr" tvg-logo="" group-title="African & Caribbean",MBC Masr
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mbc_masr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-name="MBC Masr 2" tvg-logo="" group-title="African & Caribbean",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-name="Medi1TV Afrique" tvg-logo="" group-title="African & Caribbean",Medi1TV Afrique
@@ -845,6 +851,8 @@ https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr" tvg-name="TeleOnce" tvg-logo="" group-title="African & Caribbean",TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisaoAcademica.mz" tvg-name="Televisao Academica" tvg-logo="" group-title="African & Caribbean",Televisao Academica
+https://stream-hls.castr-cdn.com/696393a1681ed8469d37aba8/live_9fb9b070eeea11f088034b4b9dd1fd84/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionCaribbean.kn" tvg-name="Television Caribbean" tvg-logo="" group-title="African & Caribbean",Television Caribbean
 https://live.kingdom-tv.com:3545/stream/play.m3u8
 #EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-name="Television Espoir 47" tvg-logo="" group-title="African & Caribbean",Television Espoir 47
@@ -901,6 +909,8 @@ https://live.tv1.rw/index.m3u8
 https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" tvg-logo="" group-title="African & Caribbean",TV2
 http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" tvg-logo="" group-title="African & Caribbean",TV2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.gh" tvg-name="TV3" tvg-logo="" group-title="African & Caribbean",TV3
 https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.gh" tvg-name="TV3" tvg-logo="" group-title="African & Caribbean",TV3
@@ -979,6 +989,8 @@ https://wildearth-xumo.amagi.tv/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="" group-title="African & Caribbean",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="WIMNTV.pr" tvg-name="WIMN-TV" tvg-logo="" group-title="African & Caribbean",WIMN-TV
+https://video2.getstreamhosting.com:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-id="WIPRTV61.pr" tvg-name="WIPR-TV 6.1" tvg-logo="" group-title="African & Caribbean",WIPR-TV 6.1
 https://streamwipr.pr/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="WIPRTV61.pr" tvg-name="WIPR-TV 6.1" tvg-logo="" group-title="African & Caribbean",WIPR-TV 6.1
