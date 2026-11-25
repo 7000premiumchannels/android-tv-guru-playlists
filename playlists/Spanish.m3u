@@ -1358,6 +1358,8 @@ https://freya.mivideo.pro/centraltv/video.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es" tvg-name="Cetelmon TV" tvg-logo="" group-title="Spanish",Cetelmon TV
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-logo="" group-title="Spanish",Chacra TV
+https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-logo="" group-title="Spanish",Chacra TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChamameTV.ar" tvg-name="Chamame TV" tvg-logo="" group-title="Spanish",Chamame TV
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
@@ -2991,6 +2993,8 @@ https://videohd.live:19360/8076/8076.m3u8
 https://ntvcanal7.com.ar:81/dash/stream.mpd
 #EXTINF:-1 tvg-id="NortenaTv.ve" tvg-name="Nortena Tv" tvg-logo="" group-title="Spanish",Nortena Tv
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
+#EXTINF:-1 tvg-id="Nortevision.es" tvg-name="Nortevision" tvg-logo="" group-title="Spanish",Nortevision
+http://amaru.dyndns.org:8870/1.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es" tvg-name="Nortevision" tvg-logo="" group-title="Spanish",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-id="Noticias16.do" tvg-name="Noticias 16" tvg-logo="" group-title="Spanish",Noticias 16
