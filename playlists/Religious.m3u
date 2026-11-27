@@ -240,6 +240,8 @@ https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_a
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" tvg-logo="" group-title="Religious",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" tvg-logo="" group-title="Religious",Angel TV
+http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" tvg-logo="" group-title="Religious",Angel TV
 https://cdn.pishow.tv/ott/live/453/master.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" tvg-logo="" group-title="Religious",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
@@ -1164,6 +1166,8 @@ https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" tvg-logo="" group-title="Religious",Powervision TV
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" tvg-logo="" group-title="Religious",Powervision TV
+https://dksfwd26nz1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" tvg-logo="" group-title="Religious",Powervision TV
 https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" tvg-logo="" group-title="Religious",PTC Simran
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8
@@ -1308,7 +1312,15 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" tvg-logo="" group-title="Religious",Shalom
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" tvg-logo="" group-title="Religious",Shalom
+https://b-dsv8.planetcast.in/ShalomIndia/master.m3u8
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" tvg-logo="" group-title="Religious",Shalom
+https://b-tr1.planetcast.in/ShalomGlobal/master.m3u8
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" tvg-logo="" group-title="Religious",Shalom
 https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" tvg-logo="" group-title="Religious",Shalom
+https://p-dsv8.planetcast.in/ShalomIndia/master.m3u8
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" tvg-logo="" group-title="Religious",Shalom
+https://p-tr1.planetcast.in/ShalomGlobal/master.m3u8
 #EXTINF:-1 tvg-id="ShalomAmerica.us" tvg-name="Shalom America" tvg-logo="" group-title="Religious",Shalom America
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ShalomTV.sr" tvg-name="Shalom TV" tvg-logo="" group-title="Religious",Shalom TV
@@ -1549,6 +1561,8 @@ https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
 #EXTINF:-1 tvg-id="WXTV.tw" tvg-name="WXTV" tvg-logo="" group-title="Religious",WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-id="YuppTVVeda.in" tvg-name="YuppTV Veda" tvg-logo="" group-title="Religious",YuppTV Veda
+https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZainabiaChannel.in" tvg-name="Zainabia Channel" tvg-logo="" group-title="Religious",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="ZBBhakti.in" tvg-name="ZB Bhakti" tvg-logo="" group-title="Religious",ZB Bhakti
